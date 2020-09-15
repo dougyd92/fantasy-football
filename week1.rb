@@ -9,6 +9,7 @@ require './yahoo_data_fetcher/draft_results.rb'
 require './yahoo_data_fetcher/teams.rb'
 
 best_for_team = {}
+all_players = {}
 
 draft_results = YahooDataFetcher::DraftResults.new
 teams = YahooDataFetcher::Teams.new
@@ -39,6 +40,14 @@ teams = YahooDataFetcher::Teams.new
 
       puts(" and was drafted by #{team_name} for $#{cost} => #{value_ratio.round(2)} points per dollar")
 
+      all_players[player_id] = {
+        player_name: player_name,
+        cost: cost,
+        points: points,
+        value_ratio: value_ratio,
+        team_name: team_name
+      }
+
       if value_ratio > best_value
         best_value = value_ratio
         best_player = player_name
@@ -51,11 +60,19 @@ teams = YahooDataFetcher::Teams.new
   puts "\n#{team_name}'s best player was #{best_player} with a points-to-dollar ratio of #{best_value.round(2)}\n\n"
 
   best_for_team[team_name] = {
-    name: best_player,
-    value: best_value
+    player_name: best_player,
+    value_ratio: best_value
   }
 end
 
-best_for_team.sort_by { |_, data| -data[:value] }.each_with_index do |(team, data), index|
-  puts("In #{(index + 1).ordinalize} place: #{team}, who had #{data[:name]} with a points-to-dollar ratio of #{data[:value].round(2)}")
+puts('************** RESULTS **************')
+best_for_team.sort_by { |_, data| -data[:value_ratio] }.each_with_index do |(team, data), index|
+  puts("In #{(index + 1).ordinalize} place: #{team}, who had #{data[:player_name]} with a points-to-dollar ratio of #{data[:value_ratio].round(2)}")
+end
+
+all_players = all_players.sort_by { |_, data| -data[:value_ratio] }
+
+puts("\n************** All Players **************")
+all_players.each_with_index do |(_, data), index|
+  puts("#{(index + 1)}) #{data[:value_ratio].round(2)} points-per-dollar: #{data[:player_name]} scored #{data[:points]}, was drafted for #{data[:cost]} by #{data[:team_name]}")
 end
