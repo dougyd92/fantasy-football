@@ -5,7 +5,7 @@ module YahooDataFetcher
     def self.fetch_game_data(week, team_index)
       player_data = []
 
-      game_doc = Nokogiri::HTML(open("https://football.fantasysports.yahoo.com/f1/810182/matchup?week=#{week}&mid1=#{team_index}"))
+      game_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/matchup?week=#{week}&mid1=#{team_index}"))
       rows = game_doc.css('div#matchups tbody').children
       rows[0, 10].each do |row|
         player_data.append(

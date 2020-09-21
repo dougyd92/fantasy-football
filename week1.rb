@@ -1,12 +1,10 @@
 # frozen_string_literal: true
 
-require 'nokogiri'
-require 'open-uri'
-require 'pry'
+require 'bundler/setup'
+Bundler.require(:default)
+
 require 'active_support/core_ext/integer/inflections'
-require './yahoo_data_fetcher/game_results.rb'
-require './yahoo_data_fetcher/draft_results.rb'
-require './yahoo_data_fetcher/teams.rb'
+require_relative 'lib/yahoo_data_fetcher.rb'
 
 best_for_team = {}
 all_players = {}

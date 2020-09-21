@@ -25,7 +25,7 @@ module YahooDataFetcher
     end
 
     def fetch_draft_data
-      draft_results = Nokogiri::HTML(open('https://football.fantasysports.yahoo.com/f1/810182/draftresults'))
+      draft_results = Nokogiri::HTML(URI.open('https://football.fantasysports.yahoo.com/f1/810182/draftresults'))
       rows = draft_results.css('table')[0].css('tbody tr')
 
       data = {}
