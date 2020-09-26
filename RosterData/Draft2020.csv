@@ -1,0 +1,193 @@
+﻿Pick,Player,Salary,Team
+1,DeAndre Hopkins (Ari - WR),75,Hoppin 4 Hopkins
+2,Clyde Edwards-Helaire (KC - RB),80,Clyde or Die
+3,Tom Brady (TB - QB),11,Clyde or Die
+4,Julio Jones (Atl - WR),78,Nags
+5,Cam Akers (LAR - RB),33,No Gurley No Cry
+6,Josh Jacobs (LV - RB),68,Chi ShingT's Team
+7,Tyreek Hill (KC - WR),78,Saquantum Physics
+8,Melvin Gordon III (Den - RB),47,McLovin
+9,Odell Beckham Jr. (Cle - WR),53,Chi ShingT's Team
+10,Tyler Higbee (LAR - TE),22,Pop Drop and Lockett
+11,Todd Gurley II (Atl - RB),53,Ron Gruden
+12,Rob Gronkowski (TB - TE),18,G
+13,Jonathan Taylor (Ind - RB),59,No Gurley No Cry
+14,Le'Veon Bell (NYJ - RB),48,Ron Gruden
+15,David Johnson (Hou - RB),59,Kamara Sutra
+16,Darren Waller (LV - TE),51,Clyde or Die
+17,Stefon Diggs (Buf - WR),41,Ron Gruden
+18,Mark Ingram II (Bal - RB),52,Saquantum Physics
+19,Mike Evans (TB - WR),67,Hoppin 4 Hopkins
+20,Carlos Hyde (Sea - RB),4,No Gurley No Cry
+21,Jared Cook (NO - TE),17,Hoppin 4 Hopkins
+22,Leonard Fournette (TB - RB),33,Chi ShingT's Team
+23,T.Y. Hilton (Ind - WR),36,G
+24,Phillip Lindsay (Den - RB),21,G
+25,Amari Cooper (Dal - WR),56,McLovin
+26,Terry McLaurin (Was - WR),44,McLovin
+27,Zach Ertz (Phi - TE),45,Tiz the Law
+28,Evan Engram (NYG - TE),35,McLovin
+29,Keenan Allen (LAC - WR),39,Tiz the Law
+30,Sony Michel (NE - RB),7,Kamara Sutra
+31,Robert Woods (LAR - WR),57,Kamara Sutra
+32,Michael Gallup (Dal - WR),28,McLovin
+33,A.J. Green (Cin - WR),22,G
+34,J.K. Dobbins (Bal - RB),27,Tiz the Law
+35,Joshua Kelley (LAC - RB),10,Tiz the Law
+36,Matthew Stafford (Det - QB),6,Ron Gruden
+37,D'Andre Swift (Det - RB),39,G
+38,Russell Wilson (Sea - QB),33,No Gurley No Cry
+39,Deshaun Watson (Hou - QB),44,Nags
+40,Tyler Boyd (Cin - WR),30,Ron Gruden
+41,Julian Edelman (NE - WR),19,Pop Drop and Lockett
+42,Drew Brees (NO - QB),23,McLovin
+43,Marquise Brown (Bal - WR),34,Pop Drop and Lockett
+44,Jarvis Landry (Cle - WR),32,No Gurley No Cry
+45,Matt Ryan (Atl - QB),26,Hoppin 4 Hopkins
+46,Philip Rivers (Ind - QB),1,Clyde or Die
+47,Greg Zuerlein (Dal - K),4,Pop Drop and Lockett
+48,T.J. Hockenson (Det - TE),5,Hoppin 4 Hopkins
+49,Hayden Hurst (Atl - TE),20,G
+50,Josh Gordon (Sea - WR),3,Ron Gruden
+51,San Francisco (SF - DEF),10,Pop Drop and Lockett
+52,Kerryon Johnson (Det - RB),12,Pop Drop and Lockett
+53,Jordan Howard (Mia - RB),26,Nags
+54,Emmanuel Sanders (NO - WR),18,No Gurley No Cry
+55,Josh Allen (Buf - QB),18,Pop Drop and Lockett
+56,Marvin Jones Jr. (Det - WR),18,Saquantum Physics
+57,Will Fuller V (Hou - WR),22,Hoppin 4 Hopkins
+58,Matt Breida (Mia - RB),17,Pop Drop and Lockett
+59,Joe Burrow (Cin - QB),6,Tiz the Law
+60,Diontae Johnson (Pit - WR),17,Pop Drop and Lockett
+61,Justin Tucker (Bal - K),5,G
+62,Adrian Peterson (Det - RB),2,Saquantum Physics
+63,Wil Lutz (NO - K),3,Ron Gruden
+64,Tarik Cohen (Chi - RB),17,Pop Drop and Lockett
+65,CeeDee Lamb (Dal - WR),18,Chi ShingT's Team
+66,Carson Wentz (Phi - QB),10,Tiz the Law
+67,Aaron Rodgers (GB - QB),10,No Gurley No Cry
+68,Mike Williams (LAC - WR),6,Tiz the Law
+69,Matt Prater (Det - K),1,Hoppin 4 Hopkins
+70,Sterling Shepard (NYG - WR),14,Kamara Sutra
+71,Brandon Aiyuk (SF - WR),4,Nags
+72,Austin Hooper (Cle - TE),13,Pop Drop and Lockett
+73,Antonio Gibson (Was - RB),22,Pop Drop and Lockett
+74,Gardner Minshew II (Jax - QB),3,Ron Gruden
+75,Latavius Murray (NO - RB),9,Tiz the Law
+76,Henry Ruggs III (LV - WR),10,Tiz the Law
+77,Brandin Cooks (Hou - WR),11,G
+78,Daniel Jones (NYG - QB),3,Kamara Sutra
+79,Cole Beasley (Buf - WR),1,Chi ShingT's Team
+80,Baltimore (Bal - DEF),3,G
+81,Darrell Henderson Jr. (LAR - RB),1,Clyde or Die
+82,Zack Moss (Buf - RB),11,Tiz the Law
+83,Buffalo (Buf - DEF),3,Tiz the Law
+84,Jerry Jeudy (Den - WR),10,Tiz the Law
+85,Indianapolis (Ind - DEF),1,Ron Gruden
+86,Harrison Butker (KC - K),3,Saquantum Physics
+87,Christian Kirk (Ari - WR),11,Chi ShingT's Team
+88,Deebo Samuel (SF - WR),10,Saquantum Physics
+89,James White (NE - RB),11,Saquantum Physics
+90,Darius Slayton (NYG - WR),10,McLovin
+91,Anthony Miller (Chi - WR),1,Hoppin 4 Hopkins
+92,Preston Williams (Mia - WR),4,Nags
+93,Marlon Mack (Ind - RB),5,Nags
+94,Justin Jefferson (Min - WR),4,G
+95,Jonnu Smith (Ten - TE),3,Clyde or Die
+96,Mike Gesicki (Mia - TE),4,G
+97,Noah Fant (Den - TE),1,Nags
+98,Kyle Rudolph (Min - TE),1,Saquantum Physics
+99,Damien Harris (NE - RB),1,Kamara Sutra
+100,Josh Lambo (Jax - K),1,Chi ShingT's Team
+101,Pittsburgh (Pit - DEF),1,Hoppin 4 Hopkins
+102,Zane Gonzalez (Ari - K),1,Clyde or Die
+103,Mecole Hardman (KC - WR),1,No Gurley No Cry
+104,Allen Lazard (GB - WR),1,G
+105,Blake Jarwin (Dal - TE),1,Ron Gruden
+106,New England (NE - DEF),3,No Gurley No Cry
+107,Jalen Reagor (Phi - WR),1,Nags
+108,Chris Thompson (Jax - RB),1,Saquantum Physics
+109,Chase Edmonds (Ari - RB),1,Kamara Sutra
+110,Tampa Bay (TB - DEF),1,Chi ShingT's Team
+111,Golden Tate (NYG - WR),1,Hoppin 4 Hopkins
+112,Curtis Samuel (Car - WR),1,Clyde or Die
+113,Ryquell Armstead (Jax - RB),1,No Gurley No Cry
+114,Sammy Watkins (KC - WR),1,Ron Gruden
+115,Tevin Coleman (SF - RB),2,Chi ShingT's Team
+116,New Orleans (NO - DEF),1,Nags
+117,Dion Lewis (NYG - RB),1,Saquantum Physics
+118,Michael Pittman Jr. (Ind - WR),2,Nags
+119,James Washington (Pit - WR),1,Chi ShingT's Team
+120,Kenny Stills (Hou - WR),1,Hoppin 4 Hopkins
+121,Kansas City (KC - DEF),2,Saquantum Physics
+122,Cam Newton (NE - QB),1,No Gurley No Cry
+123,Chris Herndon (NYJ - TE),1,Ron Gruden
+124,Robbie Gould (SF - K),1,McLovin
+125,Matt Gay (Ind - K),1,Nags
+126,DeSean Jackson (Phi - WR),1,Saquantum Physics
+127,Steven Sims Jr. (Was - WR),1,Kamara Sutra
+128,Robby Anderson (Car - WR),1,Chi ShingT's Team
+129,Ben Roethlisberger (Pit - QB),1,Hoppin 4 Hopkins
+130,Duke Johnson (Hou - RB),1,Clyde or Die
+131,N'Keal Harry (NE - WR),1,No Gurley No Cry
+132,Hunter Renfrow (LV - WR),1,McLovin
+133,Tony Pollard (Dal - RB),1,Nags
+134,Denzel Mims (NYJ - WR),1,Kamara Sutra
+135,Benny Snell Jr. (Pit - RB),1,Chi ShingT's Team
+136,Parris Campbell (Ind - WR),1,Clyde or Die
+137,Chicago (Chi - DEF),1,McLovin
+138,Tua Tagovailoa (Mia - QB),1,Kamara Sutra
+139,Larry Fitzgerald (Ari - WR),1,Clyde or Die
+140,Boston Scott (Phi - RB),1,McLovin
+141,Anthony McFarland Jr. (Pit - RB),1,Kamara Sutra
+142,Ke'Shawn Vaughn (TB - RB),1,Clyde or Die
+143,Alexander Mattison (Min - RB),1,McLovin
+144,Minnesota (Min - DEF),1,Kamara Sutra
+145,Justin Jackson (LAC - RB),1,McLovin
+146,Jerick McKinnon (SF - RB),1,McLovin
+147,Tyler Eifert (Jax - TE),1,McLovin
+148,Dalvin Cook (Min - RB) ?,79,Ron Gruden
+149,Austin Ekeler (LAC - RB) ?,15,Ron Gruden
+150,DK Metcalf (Sea - WR) ?,5,Ron Gruden
+151,Courtland Sutton (Den - WR) ?,10,Ron Gruden
+152,David Montgomery (Chi - RB) ?,47,Hoppin 4 Hopkins
+153,James Conner (Pit - RB) ?,17,Hoppin 4 Hopkins
+154,Devin Singletary (Buf - RB) ?,13,Hoppin 4 Hopkins
+155,Jamison Crowder (NYJ - WR) ?,5,Hoppin 4 Hopkins
+156,Mark Andrews (Bal - TE) ?,12,No Gurley No Cry
+157,Aaron Jones (GB - RB) ?,16,No Gurley No Cry
+158,Adam Thielen (Min - WR) ?,42,No Gurley No Cry
+159,Allen Robinson II (Chi - WR) ?,34,No Gurley No Cry
+160,Christian McCaffrey (Car - RB) ?,99,Kamara Sutra
+161,George Kittle (SF - TE) ?,18,Kamara Sutra
+162,Alvin Kamara (NO - RB) ?,25,Kamara Sutra
+163,A.J. Brown (Ten - WR) ?,11,Kamara Sutra
+164,Kenyan Drake (Ari - RB) ?,25,G
+165,Chris Carson (Sea - RB) ?,37,G
+166,Calvin Ridley (Atl - WR) ?,41,G
+167,Dak Prescott (Dal - QB) ?,10,G
+168,Kyler Murray (Ari - QB) ?,17,Pop Drop and Lockett
+169,Ronald Jones II (TB - RB) ?,7,Pop Drop and Lockett
+170,Tyler Lockett (Sea - WR) ?,21,Pop Drop and Lockett
+171,Chris Godwin (TB - WR) ?,45,Pop Drop and Lockett
+172,Raheem Mostert (SF - RB) ?,10,Tiz the Law
+173,Miles Sanders (Phi - RB) ?,34,Tiz the Law
+174,Davante Adams (GB - WR) ?,47,Tiz the Law
+175,DJ Moore (Car - WR) ?,17,Tiz the Law
+176,DJ Chark Jr. (Jax - WR) ?,14,Saquantum Physics
+177,Saquon Barkley (NYG - RB) ?,86,Saquantum Physics
+178,DeVante Parker (Mia - WR) ?,6,Saquantum Physics
+179,Lamar Jackson (Bal - QB) ?,10,Saquantum Physics
+180,Ezekiel Elliott (Dal - RB) ?,71,Clyde or Die
+181,JuJu Smith-Schuster (Pit - WR) ?,21,Clyde or Die
+182,Cooper Kupp (LAR - WR) ?,17,Clyde or Die
+183,Michael Thomas (NO - WR) ?,38,Clyde or Die
+184,Hunter Henry (LAC - TE) ?,21,Chi ShingT's Team
+185,Joe Mixon (Cin - RB) ?,63,Chi ShingT's Team
+186,John Brown (Buf - WR) ?,8,Chi ShingT's Team
+187,Patrick Mahomes (KC - QB) ?,15,Chi ShingT's Team
+188,Kenny Golladay (Det - WR) ?,46,Nags
+189,Travis Kelce (KC - TE) ?,64,Nags
+190,Kareem Hunt (Cle - RB) ?,6,Nags
+191,Nick Chubb (Cle - RB) ?,15,Nags
+192,Derrick Henry (Ten - RB) ?,49,McLovin

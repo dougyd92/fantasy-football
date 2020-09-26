@@ -1,0 +1,193 @@
+,pick,player_name,player_position,player_team,salary,manager,keeper_code
+0,1,DeAndre Hopkins,WR,Ari,75,Joel,
+1,2,Clyde Edwards-Helaire,RB,KC,80,Jake,
+2,3,Tom Brady,QB,TB,11,Jake,
+3,4,Julio Jones,WR,Atl,78,Ryan,
+4,5,Cam Akers,RB,LAR,33,Matt,
+5,6,Josh Jacobs,RB,LV,68,Chi Shing,
+6,7,Tyreek Hill,WR,KC,78,Doug,
+7,8,Melvin Gordon III,RB,Den,47,Rajiv,
+8,9,Odell Beckham Jr.,WR,Cle,53,Chi Shing,
+9,10,Tyler Higbee,TE,LAR,22,Evan,
+10,11,Todd Gurley II,RB,Atl,53,Ron,
+11,12,Rob Gronkowski,TE,TB,18,Jiwei,
+12,13,Jonathan Taylor,RB,Ind,59,Matt,
+13,14,Le'Veon Bell,RB,NYJ,48,Ron,
+14,15,David Johnson,RB,Hou,59,Sean,
+15,16,Darren Waller,TE,LV,51,Jake,
+16,17,Stefon Diggs,WR,Buf,41,Ron,
+17,18,Mark Ingram II,RB,Bal,52,Doug,
+18,19,Mike Evans,WR,TB,67,Joel,
+19,20,Carlos Hyde,RB,Sea,4,Matt,
+20,21,Jared Cook,TE,NO,17,Joel,
+21,22,Leonard Fournette,RB,TB,33,Chi Shing,
+22,23,T.Y. Hilton,WR,Ind,36,Jiwei,
+23,24,Phillip Lindsay,RB,Den,21,Jiwei,
+24,25,Amari Cooper,WR,Dal,56,Rajiv,
+25,26,Terry McLaurin,WR,Was,44,Rajiv,
+26,27,Zach Ertz,TE,Phi,45,Dai,
+27,28,Evan Engram,TE,NYG,35,Rajiv,
+28,29,Keenan Allen,WR,LAC,39,Dai,
+29,30,Sony Michel,RB,NE,7,Sean,
+30,31,Robert Woods,WR,LAR,57,Sean,
+31,32,Michael Gallup,WR,Dal,28,Rajiv,
+32,33,A.J. Green,WR,Cin,22,Jiwei,
+33,34,J.K. Dobbins,RB,Bal,27,Dai,
+34,35,Joshua Kelley,RB,LAC,10,Dai,
+35,36,Matthew Stafford,QB,Det,6,Ron,
+36,37,D'Andre Swift,RB,Det,39,Jiwei,
+37,38,Russell Wilson,QB,Sea,33,Matt,
+38,39,Deshaun Watson,QB,Hou,44,Ryan,
+39,40,Tyler Boyd,WR,Cin,30,Ron,
+40,41,Julian Edelman,WR,NE,19,Evan,
+41,42,Drew Brees,QB,NO,23,Rajiv,
+42,43,Marquise Brown,WR,Bal,34,Evan,
+43,44,Jarvis Landry,WR,Cle,32,Matt,
+44,45,Matt Ryan,QB,Atl,26,Joel,
+45,46,Philip Rivers,QB,Ind,1,Jake,
+46,47,Greg Zuerlein,K,Dal,4,Evan,
+47,48,T.J. Hockenson,TE,Det,5,Joel,
+48,49,Hayden Hurst,TE,Atl,20,Jiwei,
+49,50,Josh Gordon,WR,Sea,3,Ron,
+50,51,San Francisco,DEF,SF,10,Evan,
+51,52,Kerryon Johnson,RB,Det,12,Evan,
+52,53,Jordan Howard,RB,Mia,26,Ryan,
+53,54,Emmanuel Sanders,WR,NO,18,Matt,
+54,55,Josh Allen,QB,Buf,18,Evan,
+55,56,Marvin Jones Jr.,WR,Det,18,Doug,
+56,57,Will Fuller V,WR,Hou,22,Joel,
+57,58,Matt Breida,RB,Mia,17,Evan,
+58,59,Joe Burrow,QB,Cin,6,Dai,
+59,60,Diontae Johnson,WR,Pit,17,Evan,
+60,61,Justin Tucker,K,Bal,5,Jiwei,
+61,62,Adrian Peterson,RB,Det,2,Doug,
+62,63,Wil Lutz,K,NO,3,Ron,
+63,64,Tarik Cohen,RB,Chi,17,Evan,
+64,65,CeeDee Lamb,WR,Dal,18,Chi Shing,
+65,66,Carson Wentz,QB,Phi,10,Dai,
+66,67,Aaron Rodgers,QB,GB,10,Matt,
+67,68,Mike Williams,WR,LAC,6,Dai,
+68,69,Matt Prater,K,Det,1,Joel,
+69,70,Sterling Shepard,WR,NYG,14,Sean,
+70,71,Brandon Aiyuk,WR,SF,4,Ryan,
+71,72,Austin Hooper,TE,Cle,13,Evan,
+72,73,Antonio Gibson,RB,Was,22,Evan,
+73,74,Gardner Minshew II,QB,Jax,3,Ron,
+74,75,Latavius Murray,RB,NO,9,Dai,
+75,76,Henry Ruggs III,WR,LV,10,Dai,
+76,77,Brandin Cooks,WR,Hou,11,Jiwei,
+77,78,Daniel Jones,QB,NYG,3,Sean,
+78,79,Cole Beasley,WR,Buf,1,Chi Shing,
+79,80,Baltimore,DEF,Bal,3,Jiwei,
+80,81,Darrell Henderson Jr.,RB,LAR,1,Jake,
+81,82,Zack Moss,RB,Buf,11,Dai,
+82,83,Buffalo,DEF,Buf,3,Dai,
+83,84,Jerry Jeudy,WR,Den,10,Dai,
+84,85,Indianapolis,DEF,Ind,1,Ron,
+85,86,Harrison Butker,K,KC,3,Doug,
+86,87,Christian Kirk,WR,Ari,11,Chi Shing,
+87,88,Deebo Samuel,WR,SF,10,Doug,
+88,89,James White,RB,NE,11,Doug,
+89,90,Darius Slayton,WR,NYG,10,Rajiv,
+90,91,Anthony Miller,WR,Chi,1,Joel,
+91,92,Preston Williams,WR,Mia,4,Ryan,
+92,93,Marlon Mack,RB,Ind,5,Ryan,
+93,94,Justin Jefferson,WR,Min,4,Jiwei,
+94,95,Jonnu Smith,TE,Ten,3,Jake,
+95,96,Mike Gesicki,TE,Mia,4,Jiwei,
+96,97,Noah Fant,TE,Den,1,Ryan,
+97,98,Kyle Rudolph,TE,Min,1,Doug,
+98,99,Damien Harris,RB,NE,1,Sean,
+99,100,Josh Lambo,K,Jax,1,Chi Shing,
+100,101,Pittsburgh,DEF,Pit,1,Joel,
+101,102,Zane Gonzalez,K,Ari,1,Jake,
+102,103,Mecole Hardman,WR,KC,1,Matt,
+103,104,Allen Lazard,WR,GB,1,Jiwei,
+104,105,Blake Jarwin,TE,Dal,1,Ron,
+105,106,New England,DEF,NE,3,Matt,
+106,107,Jalen Reagor,WR,Phi,1,Ryan,
+107,108,Chris Thompson,RB,Jax,1,Doug,
+108,109,Chase Edmonds,RB,Ari,1,Sean,
+109,110,Tampa Bay,DEF,TB,1,Chi Shing,
+110,111,Golden Tate,WR,NYG,1,Joel,
+111,112,Curtis Samuel,WR,Car,1,Jake,
+112,113,Ryquell Armstead,RB,Jax,1,Matt,
+113,114,Sammy Watkins,WR,KC,1,Ron,
+114,115,Tevin Coleman,RB,SF,2,Chi Shing,
+115,116,New Orleans,DEF,NO,1,Ryan,
+116,117,Dion Lewis,RB,NYG,1,Doug,
+117,118,Michael Pittman Jr.,WR,Ind,2,Ryan,
+118,119,James Washington,WR,Pit,1,Chi Shing,
+119,120,Kenny Stills,WR,Hou,1,Joel,
+120,121,Kansas City,DEF,KC,2,Doug,
+121,122,Cam Newton,QB,NE,1,Matt,
+122,123,Chris Herndon,TE,NYJ,1,Ron,
+123,124,Robbie Gould,K,SF,1,Rajiv,
+124,125,Matt Gay,K,Ind,1,Ryan,
+125,126,DeSean Jackson,WR,Phi,1,Doug,
+126,127,Steven Sims Jr.,WR,Was,1,Sean,
+127,128,Robby Anderson,WR,Car,1,Chi Shing,
+128,129,Ben Roethlisberger,QB,Pit,1,Joel,
+129,130,Duke Johnson,RB,Hou,1,Jake,
+130,131,N'Keal Harry,WR,NE,1,Matt,
+131,132,Hunter Renfrow,WR,LV,1,Rajiv,
+132,133,Tony Pollard,RB,Dal,1,Ryan,
+133,134,Denzel Mims,WR,NYJ,1,Sean,
+134,135,Benny Snell Jr.,RB,Pit,1,Chi Shing,
+135,136,Parris Campbell,WR,Ind,1,Jake,
+136,137,Chicago,DEF,Chi,1,Rajiv,
+137,138,Tua Tagovailoa,QB,Mia,1,Sean,
+138,139,Larry Fitzgerald,WR,Ari,1,Jake,
+139,140,Boston Scott,RB,Phi,1,Rajiv,
+140,141,Anthony McFarland Jr.,RB,Pit,1,Sean,
+141,142,Ke'Shawn Vaughn,RB,TB,1,Jake,
+142,143,Alexander Mattison,RB,Min,1,Rajiv,
+143,144,Minnesota,DEF,Min,1,Sean,
+144,145,Justin Jackson,RB,LAC,1,Rajiv,
+145,146,Jerick McKinnon,RB,SF,1,Rajiv,
+146,147,Tyler Eifert,TE,Jax,1,Rajiv,
+147,148,Dalvin Cook,RB,Min,79,Ron,D
+148,149,Austin Ekeler,RB,LAC,15,Ron,D
+149,150,DK Metcalf,WR,Sea,5,Ron,D
+150,151,Courtland Sutton,WR,Den,10,Ron,D
+151,152,David Montgomery,RB,Chi,47,Joel,D
+152,153,James Conner,RB,Pit,17,Joel,CD
+153,154,Devin Singletary,RB,Buf,13,Joel,D
+154,155,Jamison Crowder,WR,NYJ,5,Joel,D
+155,156,Mark Andrews,TE,Bal,12,Matt,D
+156,157,Aaron Jones,RB,GB,16,Matt,BCD
+157,158,Adam Thielen,WR,Min,42,Matt,BCD
+158,159,Allen Robinson II,WR,Chi,34,Matt,D
+159,160,Christian McCaffrey,RB,Car,99,Sean,D
+160,161,George Kittle,TE,SF,18,Sean,CD
+161,162,Alvin Kamara,RB,NO,25,Sean,BCD
+162,163,A.J. Brown,WR,Ten,11,Sean,D
+163,164,Kenyan Drake,RB,Ari,25,Jiwei,D
+164,165,Chris Carson,RB,Sea,37,Jiwei,CD
+165,166,Calvin Ridley,WR,Atl,41,Jiwei,D
+166,167,Dak Prescott,QB,Dal,10,Jiwei,D
+167,168,Kyler Murray,QB,Ari,17,Evan,D
+168,169,Ronald Jones II,RB,TB,7,Evan,D
+169,170,Tyler Lockett,WR,Sea,21,Evan,BCD
+170,171,Chris Godwin,WR,TB,45,Evan,D
+171,172,Raheem Mostert,RB,SF,10,Dai,D
+172,173,Miles Sanders,RB,Phi,34,Dai,D
+173,174,Davante Adams,WR,GB,47,Dai,ABCD
+174,175,DJ Moore,WR,Car,17,Dai,CD
+175,176,DJ Chark Jr.,WR,Jax,14,Doug,D
+176,177,Saquon Barkley,RB,NYG,86,Doug,CD
+177,178,DeVante Parker,WR,Mia,6,Doug,D
+178,179,Lamar Jackson,QB,Bal,10,Doug,D
+179,180,Ezekiel Elliott,RB,Dal,71,Jake,BCD
+180,181,JuJu Smith-Schuster,WR,Pit,21,Jake,BCD
+181,182,Cooper Kupp,WR,LAR,17,Jake,CD
+182,183,Michael Thomas,WR,NO,38,Jake,ABCD
+183,184,Hunter Henry,TE,LAC,21,Chi Shing,D
+184,185,Joe Mixon,RB,Cin,63,Chi Shing,CD
+185,186,John Brown,WR,Buf,8,Chi Shing,D
+186,187,Patrick Mahomes,QB,KC,15,Chi Shing,CD
+187,188,Kenny Golladay,WR,Det,46,Ryan,D
+188,189,Travis Kelce,TE,KC,64,Ryan,CD
+189,190,Kareem Hunt,RB,Cle,6,Ryan,D
+190,191,Nick Chubb,RB,Cle,15,Ryan,CD
+191,192,Derrick Henry,RB,Ten,49,Rajiv,D
