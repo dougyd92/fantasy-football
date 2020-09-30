@@ -14,13 +14,13 @@ teams = YahooDataFetcher::Teams.new
   team_name = teams.index_to_name(team_index)
   puts("************** #{team_name} **************")
 
-  week_2_data = YahooDataFetcher::WeeklyRosterStats.fetch_stats(2, team_index)
+  week_2_data = YahooDataFetcher::WeeklyRosterStats.fetch_offense_stats(2, team_index)
 
   total_targets = 0
   total_receptions = 0
 
   week_2_data.each do |player|
-    next unless player[:position] == 'WR'
+    next unless player[:roster_position] == 'WR'
 
     player_name = player[:player_name]
     targets = player[:receiving_targets]

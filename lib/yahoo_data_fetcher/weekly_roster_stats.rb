@@ -2,7 +2,7 @@
 
 module YahooDataFetcher
   class WeeklyRosterStats
-    def self.fetch_stats(week, team_index)
+    def self.fetch_offense_stats(week, team_index)
       player_data = []
 
       roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}/team?&week=#{week}"))
@@ -10,8 +10,9 @@ module YahooDataFetcher
       rows.each do |row|
         player_data.append(
           {
-            position: row.children[0].text,
+            roster_position: row.children[0].text,
             player_name: row.children[1].css('div.ysf-player-name').children.first.text,
+            player_position: row.children[1].css('div.ysf-player-name').children[2].text.split('-').last.strip,
             player_id: row.children[1].css('div.ysf-player-name').children.first['href'].split('/').last,
             points: row.children[6].text.to_f,
             projected_pts: row.children[7].text.to_f,
@@ -30,6 +31,53 @@ module YahooDataFetcher
       end
 
       player_data
+    end
+
+    def self.fetch_kicker_stats(week, team_index)
+      player_data = []
+
+      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}/team?&week=#{week}"))
+      rows = roster_doc.css('table#statTable1 tbody').children
+      rows.each do |row|
+        player_data.append(
+          {
+            roster_position: row.children[0].text,
+            player_name: row.children[1].css('div.ysf-player-name').children.first.text,
+            player_position: row.children[1].css('div.ysf-player-name').children[2].text.split('-').last.strip,
+            player_id: row.children[1].css('div.ysf-player-name').children.first['href'].split('/').last,
+            points: row.children[5].text.to_f,
+            projected_pts: row.children[6].text.to_f
+          }
+        )
+      end
+
+      player_data
+    end
+
+    def self.fetch_defense_stats(week, team_index)
+      player_data = []
+
+      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}/team?&week=#{week}"))
+      rows = roster_doc.css('table#statTable2 tbody').children
+      rows.each do |row|
+        player_data.append(
+          {
+            roster_position: row.children[0].text,
+            player_name: row.children[1].css('div.ysf-player-name').children.first.text,
+            player_position: row.children[1].css('div.ysf-player-name').children[2].text.split('-').last.strip,
+            points: row.children[5].text.to_f,
+            projected_pts: row.children[6].text.to_f
+          }
+        )
+      end
+
+      player_data
+    end
+
+    def self.fetch_full_roster_stats(week, team_index)
+      fetch_offense_stats(week, team_index) + 
+      fetch_kicker_stats(week, team_index) +
+      fetch_defense_stats(week, team_index)
     end
   end
 end
