@@ -7,7 +7,7 @@ Challenges
 | 1 | Moneyball | Starter with the highest points-to-cost ratio (excludes K, DEF, and 0-cost players) | Jiwei |
 | 2 | Sticky Hands | Highest catch percentage combined across starting WRs (excludes flex) | Evan |
 | 3 | Smart Start | Least difference between optimal and actual lineup | Ron |
-| 4 | The Turnover Chain | Most interceptions and fumbles recovered by starting DEF |  |
+| 4 | The Turnover Chain | Most interceptions and fumbles recovered by starting DEF | Chi Shing and Sean (tie) |
 | 5 | Public Humiliation | Win by the largest margin |  |
 | 6 | Gronk Nation | Starting TE with the most points (excludes flex) |  |
 | 7 | Are You Smarter Than Yahoo? | Largest difference between actual and projected points scored |  |
