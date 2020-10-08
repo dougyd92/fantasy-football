@@ -60,13 +60,23 @@ module YahooDataFetcher
       roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}/team?&week=#{week}"))
       rows = roster_doc.css('table#statTable2 tbody').children
       rows.each do |row|
+        next if row.children[5].text == 'Bye'
+
         player_data.append(
           {
             roster_position: row.children[0].text,
             player_name: row.children[1].css('div.ysf-player-name').children.first.text,
             player_position: row.children[1].css('div.ysf-player-name').children[2].text.split('-').last.strip,
             points: row.children[5].text.to_f,
-            projected_pts: row.children[6].text.to_f
+            projected_pts: row.children[6].text.to_f,
+            pts_vs: row.children[8].text.to_i,
+            sacks: row.children[9].text.to_i,
+            safeties: row.children[10].text.to_i,
+            interceptions: row.children[11].text.to_i,
+            fumbles: row.children[12].text.to_i,
+            tds: row.children[13].text.to_i,
+            blocked_kicks: row.children[14].text.to_i,
+            return_tds: row.children[15].text.to_i
           }
         )
       end
@@ -75,9 +85,9 @@ module YahooDataFetcher
     end
 
     def self.fetch_full_roster_stats(week, team_index)
-      fetch_offense_stats(week, team_index) + 
-      fetch_kicker_stats(week, team_index) +
-      fetch_defense_stats(week, team_index)
+      fetch_offense_stats(week, team_index) +
+        fetch_kicker_stats(week, team_index) +
+        fetch_defense_stats(week, team_index)
     end
   end
 end
