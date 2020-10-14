@@ -27,5 +27,6 @@ results.sort_by { |result| result[:team_2_pts] - result[:team_1_pts] }.each_with
               'tied'
             end
 
-  puts "#{result[:team_1_name]} #{outcome} #{result[:team_2_name]} by #{differential.abs.round(2)} points"
+  print "#{result[:team_1_name]} #{outcome} #{result[:team_2_name]} by #{differential.abs.round(2)} points"
+  puts " (#{result[:team_1_pts]} - #{result[:team_2_pts]})"
 end
