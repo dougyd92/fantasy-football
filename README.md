@@ -9,7 +9,7 @@ Challenges
 | 3 | Smart Start | Least difference between optimal and actual lineup | Ron |
 | 4 | The Turnover Chain | Most interceptions and fumbles recovered by starting DEF | Chi Shing and Sean (tie) |
 | 5 | Public Humiliation | Win by the largest margin | Chi Shing |
-| 6 | Gronk Nation | Starting TE with the most points (excludes flex) |  |
+| 6 | Gronk Nation | Starting TE with the most points (excludes flex) | Sean |
 | 7 | Are You Smarter Than Yahoo? | Largest difference between actual and projected points scored |  |
 | 8 | Golden Arm | Starting QB with the highest QBR |  |
 | 9 | Swiss Army Knife | Most combined passing yds by non-QBs, rushing yds by non-RBs, and receiving yds by non-WRs, non-TEs among starter (including flex) |  |
