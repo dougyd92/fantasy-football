@@ -11,7 +11,7 @@ Challenges
 | 5 | Public Humiliation | Win by the largest margin | Chi Shing |
 | 6 | Gronk Nation | Starting TE with the most points (excludes flex) | Sean |
 | 7 | Are You Smarter Than Yahoo? | Largest difference between actual and projected points scored | Evan |
-| 8 | Golden Arm | Starting QB with the highest QBR |  |
+| 8 | Golden Arm | Starting QB with the highest QBR | Chi Shing |
 | 9 | Swiss Army Knife | Most combined passing yds by non-QBs, rushing yds by non-RBs, and receiving yds by non-WRs, non-TEs among starter (including flex) |  |
 | 10 | Trader Joe's | Most points from a starter that was acquired from a trade this season |  |
 | 11 | Chain Mover | Most total rushing yards by starting RBs (excludes flex) |  |
