@@ -1,0 +1,157 @@
+************** No Gurley No Cry **************
+Russell Wilson        (QB) | passing: 390 * 0 | rushing:   5 * 1 | receiving:   0 * 5 | challenge points:  5
+Adam Thielen          (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  38 * 0 | challenge points:  0
+DeVante Parker        (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  64 * 0 | challenge points:  0
+Allen Robinson II     (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  81 * 0 | challenge points:  0
+Jonathan Taylor       (RB) | passing:   0 * 5 | rushing:  27 * 0 | receiving:   7 * 1 | challenge points:  7
+Aaron Jones           (RB) | passing:   0 * 5 | rushing:  58 * 0 | receiving:  21 * 1 | challenge points: 21
+Mark Andrews          (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  22 * 0 | challenge points:  0
+James Conner          (RB) | passing:   0 * 5 | rushing:  22 * 0 | receiving:  -2 * 1 | challenge points: -2
+
+Total challenge points for team: 31 
+
+************** Tiz the Law **************
+Matt Ryan             (QB) | passing: 284 * 0 | rushing:  10 * 1 | receiving:   0 * 5 | challenge points: 10
+Davante Adams         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 173 * 0 | challenge points:  0
+DJ Moore              (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  18 * 0 | challenge points:  0
+Marvin Jones Jr.      (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  43 * 0 | challenge points:  0
+JaMycal Hasty         (RB) | passing:   0 * 5 | rushing:   3 * 0 | receiving:  10 * 1 | challenge points: 10
+Zack Moss             (RB) | passing:   0 * 5 | rushing:  18 * 0 | receiving:  30 * 1 | challenge points: 30
+Rob Gronkowski        (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:   2 * 0 | challenge points:  0
+Keenan Allen          (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 103 * 0 | challenge points:  0
+
+Total challenge points for team: 50 
+
+************** Chi ShingT's Team **************
+Patrick Mahomes       (QB) | passing: 372 * 0 | rushing:   0 * 1 | receiving:   0 * 5 | challenge points:  0
+Robby Anderson        (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  63 * 0 | challenge points:  0
+Antonio Brown         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  31 * 0 | challenge points:  0
+John Brown            (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  99 * 0 | challenge points:  0
+Josh Jacobs           (RB) | passing:   0 * 5 | rushing:  65 * 0 | receiving:   3 * 1 | challenge points:  3
+Leonard Fournette     (RB) | passing:   0 * 5 | rushing:   0 * 0 | receiving:  41 * 1 | challenge points: 41
+Hunter Henry          (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  33 * 0 | challenge points:  0
+Sterling Shepard      (WR) | passing:   0 * 5 | rushing:  18 * 3 | receiving:  39 * 0 | challenge points: 54
+
+Total challenge points for team: 98 
+
+************** Boyz n the Woods **************
+Derek Carr            (QB) | passing: 165 * 0 | rushing:  14 * 1 | receiving:   0 * 5 | challenge points: 14
+A.J. Brown            (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 101 * 0 | challenge points:  0
+Tyreek Hill           (WR) | passing:   0 * 5 | rushing:   8 * 3 | receiving: 113 * 0 | challenge points: 24
+Diontae Johnson       (WR) | passing:   0 * 5 | rushing:   4 * 3 | receiving:  77 * 0 | challenge points: 12
+Alvin Kamara          (RB) | passing:   0 * 5 | rushing:  40 * 0 | receiving:   9 * 1 | challenge points:  9
+Christian McCaffrey   (RB) | passing:   0 * 5 | rushing:  69 * 0 | receiving:  82 * 1 | challenge points: 82
+Jordan Reed           (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:   3 * 0 | challenge points:  0
+Chase Edmonds         (RB) | passing:   0 * 5 | rushing:  70 * 0 | receiving:  18 * 1 | challenge points: 18
+
+Total challenge points for team: 159 
+
+************** Digglett **************
+Matthew Stafford      (QB) | passing: 211 * 0 | rushing:   0 * 1 | receiving:   0 * 5 | challenge points:  0
+Stefon Diggs          (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 118 * 0 | challenge points:  0
+DK Metcalf            (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 108 * 0 | challenge points:  0
+DJ Chark Jr.          (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 146 * 0 | challenge points:  0
+Dalvin Cook           (RB) | passing:   0 * 5 | rushing: 206 * 0 | receiving:  46 * 1 | challenge points: 46
+Damien Harris         (RB) | passing:   0 * 5 | rushing:  71 * 0 | receiving:   0 * 1 | challenge points:  0
+Trey Burton           (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:   6 * 0 | challenge points:  0
+Le'Veon Bell          (RB) | passing:   0 * 5 | rushing:   8 * 0 | receiving:  -5 * 1 | challenge points: -5
+
+Total challenge points for team: 41 
+
+************** ðâð¼ð¦ **************
+Drew Brees            (QB) | passing: 222 * 0 | rushing:  -2 * 1 | receiving:   0 * 5 | challenge points: -2
+Amari Cooper          (WR) | passing:   0 * 5 | rushing:   8 * 3 | receiving:  67 * 0 | challenge points: 24
+Darius Slayton        (WR) | passing:   0 * 5 | rushing:   2 * 3 | receiving:   6 * 0 | challenge points:  6
+Terry McLaurin        (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 115 * 0 | challenge points:  0
+Derrick Henry         (RB) | passing:   0 * 5 | rushing:  68 * 0 | receiving:   0 * 1 | challenge points:  0
+Justin Jackson        (RB) | passing:   0 * 5 | rushing:   0 * 0 | receiving:   0 * 1 | challenge points:  0
+Evan Engram           (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  48 * 0 | challenge points:  0
+Melvin Gordon III     (RB) | passing:   0 * 5 | rushing:  18 * 0 | receiving:   9 * 1 | challenge points:  9
+
+Total challenge points for team: 37 
+
+************** Clyde or Die **************
+Tom Brady             (QB) | passing: 209 * 0 | rushing:   0 * 1 | receiving:   0 * 5 | challenge points:  0
+JuJu Smith-Schuster   (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  93 * 0 | challenge points:  0
+Corey Davis           (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:   0 * 0 | challenge points:  0
+Michael Thomas        (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  51 * 0 | challenge points:  0
+Ezekiel Elliott       (RB) | passing:   0 * 5 | rushing:  51 * 0 | receiving:  18 * 1 | challenge points: 18
+Clyde Edwards-Helaire (RB) | passing:   0 * 5 | rushing:  14 * 0 | receiving:  20 * 1 | challenge points: 20
+Darren Waller         (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  22 * 0 | challenge points:  0
+Russell Gage          (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  11 * 0 | challenge points:  0
+
+Total challenge points for team: 38 
+
+************** G **************
+Ryan Tannehill        (QB) | passing: 158 * 0 | rushing:   3 * 1 | receiving:   0 * 5 | challenge points:  3
+Justin Jefferson      (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  64 * 0 | challenge points:  0
+Mike Williams         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  81 * 0 | challenge points:  0
+Marvin Hall           (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  28 * 0 | challenge points:  0
+D'Andre Swift         (RB) | passing:   0 * 5 | rushing:  64 * 0 | receiving:  33 * 1 | challenge points: 33
+Wayne Gallman Jr.     (RB) | passing:   0 * 5 | rushing:  68 * 0 | receiving:   9 * 1 | challenge points:  9
+Hayden Hurst          (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  62 * 0 | challenge points:  0
+DeeJay Dallas         (RB) | passing:   0 * 5 | rushing:  31 * 0 | receiving:   8 * 1 | challenge points:  8
+
+Total challenge points for team: 53 
+
+************** 49IRs **************
+Justin Herbert        (QB) | passing: 326 * 0 | rushing:  24 * 1 | receiving:   0 * 5 | challenge points: 24
+Cole Beasley          (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  39 * 0 | challenge points:  0
+Brandin Cooks         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  83 * 0 | challenge points:  0
+Marquise Brown        (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  38 * 0 | challenge points:  0
+Todd Gurley II        (RB) | passing:   0 * 5 | rushing:  53 * 0 | receiving:   2 * 1 | challenge points:  2
+James Robinson        (RB) | passing:   0 * 5 | rushing:  99 * 0 | receiving:   0 * 1 | challenge points:  0
+Robert Tonyan         (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:   5 * 0 | challenge points:  0
+Tim Patrick           (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  29 * 0 | challenge points:  0
+
+Total challenge points for team: 26 
+
+************** Hoppin 4 Hopkins **************
+Aaron Rodgers         (QB) | passing: 305 * 0 | rushing:   7 * 1 | receiving:   0 * 5 | challenge points:  7
+Mike Evans            (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  64 * 0 | challenge points:  0
+Will Fuller V         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving: 100 * 0 | challenge points:  0
+DeAndre Hopkins       (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  30 * 0 | challenge points:  0
+David Montgomery      (RB) | passing:   0 * 5 | rushing:  30 * 0 | receiving:  12 * 1 | challenge points: 12
+Devin Singletary      (RB) | passing:   0 * 5 | rushing:   1 * 0 | receiving:  33 * 1 | challenge points: 33
+T.J. Hockenson        (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  39 * 0 | challenge points:  0
+Jared Cook            (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  30 * 0 | challenge points:  0
+
+Total challenge points for team: 52 
+
+************** Nags **************
+Deshaun Watson        (QB) | passing: 281 * 0 | rushing:  50 * 1 | receiving:   0 * 5 | challenge points: 50
+Julio Jones           (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  54 * 0 | challenge points:  0
+Chase Claypool        (WR) | passing:   0 * 5 | rushing:   4 * 3 | receiving:  69 * 0 | challenge points: 12
+Brandon Aiyuk         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:   0 * 0 | challenge points:  0
+James White           (RB) | passing:   0 * 5 | rushing:   0 * 0 | receiving:  24 * 1 | challenge points: 24
+Gus Edwards           (RB) | passing:   0 * 5 | rushing:  23 * 0 | receiving:  11 * 1 | challenge points: 11
+Travis Kelce          (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving: 159 * 0 | challenge points:  0
+Dalton Schultz        (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  48 * 0 | challenge points:  0
+
+Total challenge points for team: 97 
+
+************** Pop Drop and Lockett **************
+Kyler Murray          (QB) | passing: 283 * 0 | rushing: 106 * 1 | receiving:   0 * 5 | challenge points: 106
+Tyler Lockett         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  40 * 0 | challenge points:  0
+Sammy Watkins         (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:   0 * 0 | challenge points:  0
+Chris Godwin          (WR) | passing:   0 * 5 | rushing:   0 * 3 | receiving:  41 * 0 | challenge points:  0
+David Johnson         (RB) | passing:   0 * 5 | rushing:  16 * 0 | receiving:   0 * 1 | challenge points:  0
+Antonio Gibson        (RB) | passing:   0 * 5 | rushing:  20 * 0 | receiving:  35 * 1 | challenge points: 35
+Noah Fant             (TE) | passing:   0 * 5 | rushing:   0 * 5 | receiving:  45 * 0 | challenge points:  0
+Ronald Jones II       (RB) | passing:   0 * 5 | rushing:   9 * 0 | receiving:   9 * 1 | challenge points:  9
+
+Total challenge points for team: 150 
+
+************** RESULTS **************
+1st place: Boyz n the Woods     - 159 challenge points (Derek Carr (QB) 14 rush yds, Tyreek Hill (WR) 8 rush yds, Diontae Johnson (WR) 4 rush yds, Alvin Kamara (RB) 9 receiving yds, Christian McCaffrey (RB) 82 receiving yds, Chase Edmonds (RB) 18 receiving yds)
+2nd place: Pop Drop and Lockett - 150 challenge points (Kyler Murray (QB) 106 rush yds, Antonio Gibson (RB) 35 receiving yds, Ronald Jones II (RB) 9 receiving yds)
+3rd place: Chi ShingT's Team    - 98 challenge points (Josh Jacobs (RB) 3 receiving yds, Leonard Fournette (RB) 41 receiving yds, Sterling Shepard (WR) 18 rush yds)
+4th place: Nags                 - 97 challenge points (Deshaun Watson (QB) 50 rush yds, Chase Claypool (WR) 4 rush yds, James White (RB) 24 receiving yds, Gus Edwards (RB) 11 receiving yds)
+5th place: G                    - 53 challenge points (Ryan Tannehill (QB) 3 rush yds, D'Andre Swift (RB) 33 receiving yds, Wayne Gallman Jr. (RB) 9 receiving yds, DeeJay Dallas (RB) 8 receiving yds)
+6th place: Hoppin 4 Hopkins     - 52 challenge points (Aaron Rodgers (QB) 7 rush yds, David Montgomery (RB) 12 receiving yds, Devin Singletary (RB) 33 receiving yds)
+7th place: Tiz the Law          - 50 challenge points (Matt Ryan (QB) 10 rush yds, JaMycal Hasty (RB) 10 receiving yds, Zack Moss (RB) 30 receiving yds)
+8th place: Digglett             - 41 challenge points (Dalvin Cook (RB) 46 receiving yds)
+9th place: Clyde or Die         - 38 challenge points (Ezekiel Elliott (RB) 18 receiving yds, Clyde Edwards-Helaire (RB) 20 receiving yds)
+10th place: ðâð¼ð¦      - 37 challenge points (Amari Cooper (WR) 8 rush yds, Darius Slayton (WR) 2 rush yds, Melvin Gordon III (RB) 9 receiving yds)
+11th place: No Gurley No Cry     - 31 challenge points (Russell Wilson (QB) 5 rush yds, Jonathan Taylor (RB) 7 receiving yds, Aaron Jones (RB) 21 receiving yds)
+12th place: 49IRs                - 26 challenge points (Justin Herbert (QB) 24 rush yds, Todd Gurley II (RB) 2 receiving yds)
