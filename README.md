@@ -13,7 +13,7 @@ Challenges
 | 7 | Are You Smarter Than Yahoo? | Largest difference between actual and projected points scored | Evan |
 | 8 | Golden Arm | Starting QB with the highest QBR | Chi Shing |
 | 9 | Swiss Army Knife | Most combined passing yds by non-QBs, rushing yds by non-RBs, and receiving yds by non-WRs, non-TEs among starter (including flex) | Sean |
-| 10 | Trader Joe's | Most points from a starter that was acquired from a trade this season |  |
+| 10 | Trader Joe's | Most points from a starter that was acquired from a trade this season | Joel |
 | 11 | Chain Mover | Most total rushing yards by starting RBs (excludes flex) |  |
 | 12 | MVP | Most points by a single starter |  |
 | 13 | Das Boot | Starting K with the longest field goal |  |
