@@ -67,6 +67,7 @@ module YahooDataFetcher
             roster_position: row.children[0].text,
             player_name: row.children[1].css('div.ysf-player-name').children.first.text,
             player_position: row.children[1].css('div.ysf-player-name').children[2].text.split('-').last.strip,
+            player_id: row.children[1].css('.playernote').first['data-ys-playerid'],
             points: row.children[5].text.to_f,
             projected_pts: row.children[6].text.to_f,
             pts_vs: row.children[8].text.to_i,
