@@ -1,0 +1,87 @@
+************** No Gurley No Cry **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Aaron Jones            | 41           
+James Conner           | 89           
+
+************** Tiz the Law **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Miles Sanders          | 66           
+Carlos Hyde            | 79           
+
+************** Chi ShingT's Team **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Josh Jacobs            | 55           
+La'Mical Perine        | 33           
+
+************** King of The Hills **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Mike Davis             | 64           
+Chase Edmonds          | 13           
+
+************** Digglett **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Dalvin Cook            | 115          
+Damien Harris          | 43           
+
+************** 🍆✊🏼💦 **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Derrick Henry          | 133          
+Phillip Lindsay        | 82           
+
+************** Clyde or Die **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Clyde Edwards-Helaire  | 69           
+Ezekiel Elliott        | 103          
+
+************** G **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Kenyan Drake           | 29           
+Kerryon Johnson        | 17           
+
+************** 49IRs **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+James Robinson         | 73           
+Todd Gurley II         | 26           
+
+************** Hoppin 4 Hopkins **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Darrell Henderson Jr.  | 5            
+Nyheim Hines           | 2            
+
+************** Nags **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Kareem Hunt            | 11           
+Nick Chubb             | 114          
+
+************** Pop Drop and Lockett **************
+PLAYER_NAME            | RUSHING_YARDS
+-----------------------|--------------
+Antonio Gibson         | 94           
+Ronald Jones II        | 24           
+
+************** RESULTS **************
+RANK | TEAM_NAME            | TOTAL_RUSHING_YARDS
+-----|----------------------|--------------------
+1    | 🍆✊🏼💦                | 215                
+2    | Clyde or Die         | 172                
+3    | Digglett             | 158                
+4    | Tiz the Law          | 145                
+5    | No Gurley No Cry     | 130                
+6    | Nags                 | 125                
+7    | Pop Drop and Lockett | 118                
+8    | 49IRs                | 99                 
+9    | Chi ShingT's Team    | 88                 
+10   | King of The Hills    | 77                 
+11   | G                    | 46                 
+12   | Hoppin 4 Hopkins     | 7                  
