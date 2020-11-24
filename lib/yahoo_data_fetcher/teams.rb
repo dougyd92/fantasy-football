@@ -20,7 +20,7 @@ module YahooDataFetcher
 
     def fetch_teams_data
       (1..NUM_TEAMS).collect do |team_index|
-        team_page = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}"))
+        team_page = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}").read)
         team_page.title.split('-').last.split('|').first.strip
       end
     end
