@@ -15,7 +15,7 @@ Challenges
 | 9 | Swiss Army Knife | Most combined passing yds by non-QBs, rushing yds by non-RBs, and receiving yds by non-WRs, non-TEs among starter (including flex) | Sean |
 | 10 | Trader Joe's | Most points from a starter that was acquired from a trade this season | Joel |
 | 11 | Chain Mover | Most total rushing yards by starting RBs (excludes flex) | Rajiv |
-| 12 | MVP | Most points by a single starter |  |
+| 12 | MVP | Most points by a single starter | Sean |
 | 13 | Das Boot | Starting K with the longest field goal |  |
 | 14 | Biggest Baller | Most total points by whole roster (starters + bench) |  |
 | 15 | Sandbagger | Highest difference between points scored and regular season average |  |
