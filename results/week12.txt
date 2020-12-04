@@ -1,170 +1,170 @@
 ************** No Gurley No Cry **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Russell Wilson         | Method Missing | 16.4  
-Jerry Jeudy            | Method Missing | 0.0   
-Allen Robinson II      | Method Missing | 23.4  
-DeVante Parker         | Method Missing | 15.9  
-Aaron Jones            | Method Missing | 9.5   
-Benny Snell Jr.        | Method Missing | 10.8  
-Kyle Rudolph           | Method Missing | 10.3  
-Jarvis Landry          | Method Missing | 24.3  
-Jason Sanders          | Method Missing | 12.0  
-Kansas City            | Method Missing | 5.0   
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Russell Wilson         | QB  | 16.4  
+Jerry Jeudy            | WR  | 0.0   
+Allen Robinson II      | WR  | 23.4  
+DeVante Parker         | WR  | 15.9  
+Aaron Jones            | RB  | 9.5   
+Benny Snell Jr.        | RB  | 10.8  
+Kyle Rudolph           | TE  | 10.3  
+Jarvis Landry          | WR  | 24.3  
+Jason Sanders          | K   | 12.0  
+Kansas City            | DEF | 5.0   
 
 ************** Tiz the Law **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Ryan Fitzpatrick       | Method Missing | 23.28 
-Davante Adams          | Method Missing | 15.1  
-Keenan Allen           | Method Missing | 14.0  
-DJ Moore               | Method Missing | 8.1   
-Miles Sanders          | Method Missing | 5.2   
-Zack Moss              | Method Missing | 7.8   
-Rob Gronkowski         | Method Missing | 13.6  
-Marvin Jones Jr.       | Method Missing | 7.8   
-Rodrigo Blankenship    | Method Missing | 2.0   
-Los Angeles            | Method Missing | 15.0  
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Ryan Fitzpatrick       | QB  | 23.28 
+Davante Adams          | WR  | 15.1  
+Keenan Allen           | WR  | 14.0  
+DJ Moore               | WR  | 8.1   
+Miles Sanders          | RB  | 5.2   
+Zack Moss              | RB  | 7.8   
+Rob Gronkowski         | TE  | 13.6  
+Marvin Jones Jr.       | WR  | 7.8   
+Rodrigo Blankenship    | K   | 2.0   
+Los Angeles            | DEF | 15.0  
 
 ************** Chi ShingT's Team **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Patrick Mahomes        | Method Missing | 37.28 
-Robby Anderson         | Method Missing | 17.4  
-CeeDee Lamb            | Method Missing | 4.6   
-Sterling Shepard       | Method Missing | 10.3  
-Josh Jacobs            | Method Missing | 3.9   
-Frank Gore             | Method Missing | 10.1  
-Hunter Henry           | Method Missing | 10.2  
-Antonio Brown          | Method Missing | 2.1   
-Tyler Bass             | Method Missing | 11.0  
-Seattle                | Method Missing | 9.0   
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Patrick Mahomes        | QB  | 37.28 
+Robby Anderson         | WR  | 17.4  
+CeeDee Lamb            | WR  | 4.6   
+Sterling Shepard       | WR  | 10.3  
+Josh Jacobs            | RB  | 3.9   
+Frank Gore             | RB  | 10.1  
+Hunter Henry           | TE  | 10.2  
+Antonio Brown          | WR  | 2.1   
+Tyler Bass             | K   | 11.0  
+Seattle                | DEF | 9.0   
 
 ************** King of The Hills **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Taysom Hill            | Method Missing | 18.52 
-Tyreek Hill            | Method Missing | 51.4  
-A.J. Brown             | Method Missing | 23.8  
-Robert Woods           | Method Missing | 12.3  
-Alvin Kamara           | Method Missing | 5.7   
-Mike Davis             | Method Missing | 9.4   
-Dallas Goedert         | Method Missing | 17.0  
-Christian Kirk         | Method Missing | 3.4   
-Jason Myers            | Method Missing | 12.0  
-Cleveland              | Method Missing | 0.0   
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Taysom Hill            | QB  | 18.52 
+Tyreek Hill            | WR  | 51.4  
+A.J. Brown             | WR  | 23.8  
+Robert Woods           | WR  | 12.3  
+Alvin Kamara           | RB  | 5.7   
+Mike Davis             | RB  | 9.4   
+Dallas Goedert         | TE  | 17.0  
+Christian Kirk         | WR  | 3.4   
+Jason Myers            | K   | 12.0  
+Cleveland              | DEF | 0.0   
 
 ************** Koo Klux Klan **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Derek Carr             | Method Missing | 1.6   
-DK Metcalf             | Method Missing | 22.7  
-Stefon Diggs           | Method Missing | 7.4   
-Tyler Boyd             | Method Missing | 3.0   
-Dalvin Cook            | Method Missing | 8.2   
-Austin Ekeler          | Method Missing | 18.4  
-Jordan Akins           | Method Missing | 0.4   
-Brian Hill             | Method Missing | 5.5   
-Younghoe Koo           | Method Missing | 21.0  
-Green Bay              | Method Missing | 15.0  
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Derek Carr             | QB  | 1.6   
+DK Metcalf             | WR  | 22.7  
+Stefon Diggs           | WR  | 7.4   
+Tyler Boyd             | WR  | 3.0   
+Dalvin Cook            | RB  | 8.2   
+Austin Ekeler          | RB  | 18.4  
+Jordan Akins           | TE  | 0.4   
+Brian Hill             | RB  | 5.5   
+Younghoe Koo           | K   | 21.0  
+Green Bay              | DEF | 15.0  
 
 ************** 🍆✊🏼💦 **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Carson Wentz           | Method Missing | 23.8  
-Terry McLaurin         | Method Missing | 12.7  
-Amari Cooper           | Method Missing | 20.2  
-Michael Gallup         | Method Missing | 7.1   
-Derrick Henry          | Method Missing | 37.5  
-Phillip Lindsay        | Method Missing | 2.0   
-Trey Burton            | Method Missing | 11.7  
-Melvin Gordon III      | Method Missing | 3.1   
-Joey Slye              | Method Missing | 10.0  
-New England            | Method Missing | 5.0   
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Carson Wentz           | QB  | 23.8  
+Terry McLaurin         | WR  | 12.7  
+Amari Cooper           | WR  | 20.2  
+Michael Gallup         | WR  | 7.1   
+Derrick Henry          | RB  | 37.5  
+Phillip Lindsay        | RB  | 2.0   
+Trey Burton            | TE  | 11.7  
+Melvin Gordon III      | RB  | 3.1   
+Joey Slye              | K   | 10.0  
+New England            | DEF | 5.0   
 
 ************** Clyde or Die **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Tom Brady              | Method Missing | 29.7  
-JuJu Smith-Schuster    | Method Missing | 13.7  
-Michael Thomas         | Method Missing | 7.1   
-Cooper Kupp            | Method Missing | 5.1   
-Clyde Edwards-Helaire  | Method Missing | 4.4   
-Ezekiel Elliott        | Method Missing | 2.4   
-Darren Waller          | Method Missing | 4.3   
-J.D. McKissic          | Method Missing | 3.7   
-Zane Gonzalez          | Method Missing | 6.0   
-Indianapolis           | Method Missing | -3.0  
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Tom Brady              | QB  | 29.7  
+JuJu Smith-Schuster    | WR  | 13.7  
+Michael Thomas         | WR  | 7.1   
+Cooper Kupp            | WR  | 5.1   
+Clyde Edwards-Helaire  | RB  | 4.4   
+Ezekiel Elliott        | RB  | 2.4   
+Darren Waller          | TE  | 4.3   
+J.D. McKissic          | RB  | 3.7   
+Zane Gonzalez          | K   | 6.0   
+Indianapolis           | DEF | -3.0  
 
 ************** G **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Ryan Tannehill         | Method Missing | 21.14 
-Justin Jefferson       | Method Missing | 22.5  
-Calvin Ridley          | Method Missing | 14.0  
-Mike Williams          | Method Missing | 4.1   
-Kenyan Drake           | Method Missing | 22.8  
-Wayne Gallman Jr.      | Method Missing | 16.6  
-Hayden Hurst           | Method Missing | 6.8   
-Chris Carson           | Method Missing | 12.9  
-Ryan Succop            | Method Missing | 6.0   
-Arizona                | Method Missing | 8.0   
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Ryan Tannehill         | QB  | 21.14 
+Justin Jefferson       | WR  | 22.5  
+Calvin Ridley          | WR  | 14.0  
+Mike Williams          | WR  | 4.1   
+Kenyan Drake           | RB  | 22.8  
+Wayne Gallman Jr.      | RB  | 16.6  
+Hayden Hurst           | TE  | 6.8   
+Chris Carson           | RB  | 12.9  
+Ryan Succop            | K   | 6.0   
+Arizona                | DEF | 8.0   
 
 ************** 49IRs **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Justin Herbert         | Method Missing | 19.44 
-Brandin Cooks          | Method Missing | 11.0  
-Jakobi Meyers          | Method Missing | 7.7   
-Deebo Samuel           | Method Missing | 18.8  
-James Robinson         | Method Missing | 24.4  
-Giovani Bernard        | Method Missing | 5.9   
-Robert Tonyan          | Method Missing | 15.2  
-Kendall Hinton         | Method Missing | -0.78 
-Daniel Carlson         | Method Missing | 6.0   
-Miami                  | Method Missing | 14.0  
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Justin Herbert         | QB  | 19.44 
+Brandin Cooks          | WR  | 11.0  
+Jakobi Meyers          | WR  | 7.7   
+Deebo Samuel           | WR  | 18.8  
+James Robinson         | RB  | 24.4  
+Giovani Bernard        | RB  | 5.9   
+Robert Tonyan          | TE  | 15.2  
+Kendall Hinton         | WR  | -0.78 
+Daniel Carlson         | K   | 6.0   
+Miami                  | DEF | 14.0  
 
 ************** Hoppin 4 Hopkins **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Aaron Rodgers          | Method Missing | 33.64 
-Mike Evans             | Method Missing | 18.5  
-Will Fuller V          | Method Missing | 32.1  
-DeAndre Hopkins        | Method Missing | 8.0   
-Nyheim Hines           | Method Missing | 13.5  
-David Montgomery       | Method Missing | 22.8  
-T.J. Hockenson         | Method Missing | 11.4  
-Rashard Higgins        | Method Missing | 2.0   
-Harrison Butker        | Method Missing | 9.0   
-Pittsburgh             | Method Missing | 14.0  
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Aaron Rodgers          | QB  | 33.64 
+Mike Evans             | WR  | 18.5  
+Will Fuller V          | WR  | 32.1  
+DeAndre Hopkins        | WR  | 8.0   
+Nyheim Hines           | RB  | 13.5  
+David Montgomery       | RB  | 22.8  
+T.J. Hockenson         | TE  | 11.4  
+Rashard Higgins        | WR  | 2.0   
+Harrison Butker        | K   | 9.0   
+Pittsburgh             | DEF | 14.0  
 
 ************** Nags **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Deshaun Watson         | Method Missing | 41.12 
-Chase Claypool         | Method Missing | 8.2   
-Jalen Reagor           | Method Missing | 2.6   
-Emmanuel Sanders       | Method Missing | 0.9   
-Kareem Hunt            | Method Missing | 6.2   
-Nick Chubb             | Method Missing | 25.1  
-Travis Kelce           | Method Missing | 12.2  
-Gus Edwards            | Method Missing | 7.0   
-Wil Lutz               | Method Missing | 8.0   
-New Orleans            | Method Missing | 14.0  
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Deshaun Watson         | QB  | 41.12 
+Chase Claypool         | WR  | 8.2   
+Jalen Reagor           | WR  | 2.6   
+Emmanuel Sanders       | WR  | 0.9   
+Kareem Hunt            | RB  | 6.2   
+Nick Chubb             | RB  | 25.1  
+Travis Kelce           | TE  | 12.2  
+Gus Edwards            | RB  | 7.0   
+Wil Lutz               | K   | 8.0   
+New Orleans            | DEF | 14.0  
 
 ************** Pop Drop and Lockett **************
-PLAYER_NAME            | POSITION       | POINTS
------------------------|----------------|-------
-Kyler Murray           | Method Missing | 8.9   
-Tyler Lockett          | Method Missing | 3.8   
-Chris Godwin           | Method Missing | 13.7  
-Sammy Watkins          | Method Missing | 5.8   
-Antonio Gibson         | Method Missing | 34.1  
-Ronald Jones II        | Method Missing | 16.8  
-Austin Hooper          | Method Missing | 8.3   
-James White            | Method Missing | 14.2  
-Greg Zuerlein          | Method Missing | 10.0  
-New York               | Method Missing | 9.0   
+PLAYER_NAME            | POS | POINTS
+-----------------------|-----|-------
+Kyler Murray           | QB  | 8.9   
+Tyler Lockett          | WR  | 3.8   
+Chris Godwin           | WR  | 13.7  
+Sammy Watkins          | WR  | 5.8   
+Antonio Gibson         | RB  | 34.1  
+Ronald Jones II        | RB  | 16.8  
+Austin Hooper          | TE  | 8.3   
+James White            | RB  | 14.2  
+Greg Zuerlein          | K   | 10.0  
+New York               | DEF | 9.0   
 
 ************** RESULTS **************
 RANK | TEAM_NAME            | MVP              | POS | POINTS

@@ -36,7 +36,7 @@ teams = YahooDataFetcher::Teams.new
     }
   end
 
-  tp(rows, { player_name: { fixed_width: 22 } }, :position, :points)
+  tp(rows, { player_name: { fixed_width: 22 } }, :pos, :points)
   puts("\n")
 
   team_results << {
