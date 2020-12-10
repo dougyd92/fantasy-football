@@ -19,4 +19,4 @@ Challenges
 | 13 | Das Boot | Starting K with the longest field goal | Ron |
 | 14 | Biggest Baller | Most total points by whole roster (starters + bench) |  |
 | 15 | Sandbagger | Highest difference between points scored and regular season average |  |
-| 16 | The Long Haul | Most total points from players owned since week 1 |  |
+| 16 | The Long Haul | Most total points from starters owned continuously since week 1 |  |
