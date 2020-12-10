@@ -1,0 +1,75 @@
+************** No Gurley No Cry **************
+Jason Sanders (7-19 VS CIN)
+  FGs: 4/4
+  Longest: 48 yds
+
+************** Tiz the Law **************
+Rodrigo Blankenship (26-20 @HOU)
+  FGs: 1/1
+  Longest: 42 yds
+
+************** Chi ShingT's Team **************
+Tyler Bass (34-24 @SF)
+  FGs: 2/2
+  Longest: 37 yds
+
+************** BYEcyCLE Race **************
+Jason Myers (17-12 VS NYG)
+  FGs: 1/1
+  Longest: 31 yds
+
+************** Koo Klux Klan **************
+Younghoe Koo (21-16 VS NO)
+  FGs: 3/3
+  Longest: 53 yds
+
+************** 🍆✊🏼💦 **************
+Robbie Gould (34-24 VS BUF)
+  FGs: 1/1
+  Longest: 45 yds
+
+************** Clyde or Die **************
+Zane Gonzalez (38-28 VS LAR)
+  FGs: 0/1
+  Longest: 0 yds
+
+************** G **************
+Justin Tucker (17-34 VS DAL)
+  FGs: 2/3
+  Longest: 35 yds
+
+************** 49IRs **************
+Daniel Carlson (31-28 @NYJ)
+  FGs: 1/1
+  Longest: 48 yds
+
+************** Hoppin 4 Hopkins **************
+Harrison Butker (16-22 VS DEN)
+  FGs: 5/5
+  Longest: 48 yds
+
+************** Nags **************
+Wil Lutz (21-16 @ATL)
+  FGs: 0/1
+  Longest: 0 yds
+
+************** Pop Drop and Lockett **************
+Greg Zuerlein (17-34 @BAL)
+  FGs: 1/4
+  Longest: 31 yds
+
+************** RESULTS **************
+RANK | TEAM_NAME            | KICKER_NAME         | LONG
+-----|----------------------|---------------------|-----
+1    | Koo Klux Klan        | Younghoe Koo        | 53  
+2    | Hoppin 4 Hopkins     | Harrison Butker     | 48  
+3    | 49IRs                | Daniel Carlson      | 48  
+4    | No Gurley No Cry     | Jason Sanders       | 48  
+5    | 🍆✊🏼💦                | Robbie Gould        | 45  
+6    | Tiz the Law          | Rodrigo Blankenship | 42  
+7    | Chi ShingT's Team    | Tyler Bass          | 37  
+8    | G                    | Justin Tucker       | 35  
+9    | Pop Drop and Lockett | Greg Zuerlein       | 31  
+10   | BYEcyCLE Race        | Jason Myers         | 31  
+11   | Nags                 | Wil Lutz            |  0   
+12   | Clyde or Die         | Zane Gonzalez       |  0   
