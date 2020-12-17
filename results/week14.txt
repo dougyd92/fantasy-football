@@ -1,0 +1,75 @@
+************** No Gurley No Cry **************
+Starters: 128.44
+Bench:    33.98
+Total:    162.42
+
+************** Tiz the Law **************
+Starters: 123.9
+Bench:    24.7
+Total:    148.6
+
+************** Chi ShingT's Team **************
+Starters: 111.52
+Bench:    22.9
+Total:    134.42
+
+************** Hurts so Good **************
+Starters: 135.26
+Bench:    29.78
+Total:    165.04
+
+************** Koo Klux Klan **************
+Starters: 129.62
+Bench:    76.28
+Total:    205.9
+
+************** 🍆✊🏼💦 **************
+Starters: 96.46
+Bench:    17.4
+Total:    113.86
+
+************** Clyde or Die **************
+Starters: 111.74
+Bench:    35.48
+Total:    147.22
+
+************** G **************
+Starters: 121.88
+Bench:    29.1
+Total:    150.98
+
+************** 49IRs **************
+Starters: 83.52
+Bench:    56.92
+Total:    140.44
+
+************** Hoppin 4 Hopkins **************
+Starters: 152.7
+Bench:    47.5
+Total:    200.2
+
+************** Nags **************
+Starters: 133.56
+Bench:    60.1
+Total:    193.66
+
+************** Pop Drop and Lockett **************
+Starters: 98.06
+Bench:    34.72
+Total:    132.78
+
+************** RESULTS **************
+RANK | TEAM_NAME            | TOTAL_PTS          | STARTER_PTS | BENCH_PTS
+-----|----------------------|--------------------|-------------|----------
+1    | Koo Klux Klan        | 205.90             | 129.62      | 76.28    
+2    | Hoppin 4 Hopkins     | 200.20             | 152.70      | 47.50    
+3    | Nags                 | 193.66             | 133.56      | 60.10    
+4    | Hurts so Good        | 165.04             | 135.26      | 29.78    
+5    | No Gurley No Cry     | 162.42             | 128.44      | 33.98    
+6    | G                    | 150.98             | 121.88      | 29.10    
+7    | Tiz the Law          | 148.60             | 123.90      | 24.70    
+8    | Clyde or Die         | 147.22             | 111.74      | 35.48    
+9    | 49IRs                | 140.44             |  83.52      | 56.92    
+10   | Chi ShingT's Team    | 134.42             | 111.52      | 22.90     
+11   | Pop Drop and Lockett | 132.78             |  98.06      | 34.72    
+12   | 🍆✊🏼💦                | 113.86             |  96.46      | 17.40

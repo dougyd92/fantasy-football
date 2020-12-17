@@ -26,15 +26,18 @@ module YahooDataFetcher
     def self.fetch_game_results(week, team_index)
       game_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/matchup?week=#{week}&mid1=#{team_index}"))
       result_row = game_doc.css('div#matchups tbody').children[10]
+      bench_result_row = game_doc.css('div#bench-table tbody').children.last
       managers_header = game_doc.css('div.Grid-h-top.Relative')
 
       {
         team_1_name: managers_header.children[0].css('div.Fz-xxl').first.text,
         team_1_projected_pts: result_row.children[2].text.to_f,
         team_1_pts: result_row.children[3].text.to_f,
-        team_2_name: managers_header.children[3].css('div.Fz-xxl').first.text,
-        team_2_projected_pts: result_row.children[8].text.to_f,
-        team_2_pts: result_row.children[7].text.to_f
+        team_1_bench_pts: bench_result_row.children[3].text.to_f,
+        team_2_name: managers_header.children[3].css('div.Fz-xxl').first&.text,
+        team_2_projected_pts: result_row.children[8]&.text.to_f,
+        team_2_pts: result_row.children[7]&.text.to_f,
+        team_2_bench_pts: bench_result_row.children[7]&.text.to_f
       }
     end
   end
