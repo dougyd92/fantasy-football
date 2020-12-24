@@ -18,5 +18,5 @@ Challenges
 | 12 | MVP | Most points by a single starter | Sean |
 | 13 | Das Boot | Starting K with the longest field goal | Ron |
 | 14 | Biggest Baller | Most total points by whole roster (starters + bench) | Ron |
-| 15 | Sandbagger | Highest difference between points scored and regular season average |  |
+| 15 | Sandbagger | Highest difference between points scored and regular season average | Jake |
 | 16 | The Long Haul | Most total points from starters owned continuously since week 1 |  |
