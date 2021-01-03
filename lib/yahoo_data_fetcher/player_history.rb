@@ -28,5 +28,9 @@ module YahooDataFetcher
     def acquired_in_trade?
       most_recent_event.start_with?('Traded')
     end
+
+    def owned_since_draft?
+      most_recent_event.start_with?('Drafted')
+    end
   end
 end

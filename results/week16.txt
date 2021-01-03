@@ -1,0 +1,180 @@
+************** Benny & the J-E-T-S **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Russell Wilson         | QB  | 25.75 | Starter
+Allen Robinson II      | WR  | 13.81 | Starter
+Adam Thielen           | WR  | 12.52 | Starter
+Aaron Jones            | RB  | 19.03 | Starter
+Jonathan Taylor        | RB  | 13.99 | Starter
+Jarvis Landry          | WR  | 0.0   | Bench  
+Mark Andrews           | TE  | 10.64 | Bench  
+
+Players owned since draft: 7
+Points by starters owned since draft: 85.1
+
+************** Tiz the Law **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Davante Adams          | WR  | 19.15 | Starter
+DJ Moore               | WR  | 11.63 | Starter
+Miles Sanders          | RB  | 15.78 | Starter
+Keenan Allen           | WR  | 0.0   | Bench  
+Raheem Mostert         | RB  | 0.0   | Bench  
+Zack Moss              | RB  | 8.07  | Bench  
+
+Players owned since draft: 6
+Points by starters owned since draft: 46.56
+
+************** Chi ShingT's Team **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Patrick Mahomes        | QB  | 32.39 | Starter
+Robby Anderson         | WR  | 11.2  | Starter
+CeeDee Lamb            | WR  | 9.23  | Starter
+Josh Jacobs            | RB  | 14.76 | Starter
+Hunter Henry           | TE  | 0.0   | Starter
+Joe Mixon              | RB  | 0.0   | Bench  
+
+Players owned since draft: 6
+Points by starters owned since draft: 67.58
+
+************** Al-Win Champara **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+A.J. Brown             | WR  | 13.52 | Starter
+Robert Woods           | WR  | 13.46 | Starter
+Alvin Kamara           | RB  | 19.23 | Starter
+George Kittle          | TE  | 10.73 | Starter
+Christian McCaffrey    | RB  | 0.0   | Bench  
+
+Players owned since draft: 5
+Points by starters owned since draft: 56.94
+
+************** Koo Klux Klan **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+DK Metcalf             | WR  | 13.55 | Starter
+Stefon Diggs           | WR  | 15.05 | Starter
+Dalvin Cook            | RB  | 18.37 | Starter
+Austin Ekeler          | RB  | 15.66 | Starter
+Tyler Boyd             | WR  | 0.0   | Bench  
+Courtland Sutton       | WR  | 0.0   | Bench  
+
+Players owned since draft: 6
+Points by starters owned since draft: 62.63
+
+************** 🍆✊🏼💦 **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Terry McLaurin         | WR  | 0.0   | Starter
+Amari Cooper           | WR  | 10.92 | Starter
+Michael Gallup         | WR  | 8.94  | Starter
+Derrick Henry          | RB  | 19.65 | Starter
+Melvin Gordon III      | RB  | 13.43 | Starter
+Evan Engram            | TE  | 7.09  | Bench  
+Jerick McKinnon        | RB  | 6.09  | Bench  
+Darius Slayton         | WR  | 8.1   | Bench  
+Drew Brees             | QB  | 24.68 | Bench  
+Justin Jackson         | RB  | 1.08  | Bench  
+
+Players owned since draft: 10
+Points by starters owned since draft: 52.94
+
+************** Clyde or Die **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Tom Brady              | QB  | 25.59 | Starter
+JuJu Smith-Schuster    | WR  | 11.17 | Starter
+Cooper Kupp            | WR  | 12.35 | Starter
+Darren Waller          | TE  | 12.71 | Starter
+Ezekiel Elliott        | RB  | 10.82 | Starter
+Clyde Edwards-Helaire  | RB  | 0.0   | Bench  
+Michael Thomas         | WR  | 0.0   | Bench  
+Jonnu Smith            | TE  | 7.33  | Bench  
+
+Players owned since draft: 8
+Points by starters owned since draft: 72.64
+
+************** G **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Justin Jefferson       | WR  | 12.88 | Starter
+Calvin Ridley          | WR  | 15.85 | Starter
+D'Andre Swift          | RB  | 13.18 | Starter
+Kenyan Drake           | RB  | 11.7  | Starter
+Hayden Hurst           | TE  | 6.6   | Starter
+Chris Carson           | RB  | 13.82 | Starter
+Mike Gesicki           | TE  | 6.99  | Bench  
+Justin Tucker          | K   | 9.0   | Starter
+
+Players owned since draft: 8
+Points by starters owned since draft: 83.03
+
+************** 49IRs **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Lamar Jackson          | QB  | 27.72 | Starter
+
+Players owned since draft: 1
+Points by starters owned since draft: 27.72
+
+************** Hoppin 4 Hopkins **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+DeAndre Hopkins        | WR  | 16.23 | Starter
+Mike Evans             | WR  | 12.58 | Starter
+David Montgomery       | RB  | 16.54 | Starter
+T.J. Hockenson         | TE  | 10.22 | Starter
+Jamison Crowder        | WR  | 9.91  | Starter
+Will Fuller V          | WR  | 0.0   | Bench  
+Devin Singletary       | RB  | 7.77  | Bench  
+
+Players owned since draft: 7
+Points by starters owned since draft: 65.48
+
+************** Nags **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Deshaun Watson         | QB  | 25.51 | Starter
+Brandon Aiyuk          | WR  | 13.51 | Starter
+Kareem Hunt            | RB  | 14.16 | Starter
+Nick Chubb             | RB  | 17.07 | Starter
+Travis Kelce           | TE  | 17.1  | Starter
+Julio Jones            | WR  | 0.0   | Bench  
+Tony Pollard           | RB  | 7.71  | Bench  
+Kenny Golladay         | WR  | 0.0   | Bench  
+Jalen Reagor           | WR  | 8.53  | Bench  
+
+Players owned since draft: 9
+Points by starters owned since draft: 87.35
+
+************** Pop Drop and Lockett **************
+NAME                   | POS | PTS   | W17    
+-----------------------|-----|-------|--------
+Kyler Murray           | QB  | 28.43 | Starter
+Tyler Lockett          | WR  | 12.51 | Starter
+Chris Godwin           | WR  | 12.46 | Starter
+Antonio Gibson         | RB  | 12.05 | Starter
+Ronald Jones II        | RB  | 0.0   | Bench  
+Austin Hooper          | TE  | 9.07  | Bench  
+Josh Allen             | QB  | 26.2  | Bench  
+Greg Zuerlein          | K   | 13.0  | Starter
+
+Players owned since draft: 8
+Points by starters owned since draft: 78.45
+
+************** RESULTS **************
+RANK | TEAM_NAME            | LONG_HAUL_PTS
+-----|----------------------|--------------
+1    | Nags                 | 87.35        
+2    | Benny & the J-E-T-S  | 85.1         
+3    | G                    | 83.03        
+4    | Pop Drop and Lockett | 78.45        
+5    | Clyde or Die         | 72.64        
+6    | Chi ShingT's Team    | 67.58        
+7    | Hoppin 4 Hopkins     | 65.48        
+8    | Koo Klux Klan        | 62.63        
+9    | Al-Win Champara      | 56.94        
+10   | 🍆✊🏼💦                 | 52.94        
+11   | Tiz the Law          | 46.56        
+12   | 49IRs                | 27.72        

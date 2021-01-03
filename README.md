@@ -19,4 +19,19 @@ Challenges
 | 13 | Das Boot | Starting K with the longest field goal | Ron |
 | 14 | Biggest Baller | Most total points by whole roster (starters + bench) | Ron |
 | 15 | Sandbagger | Highest difference between points scored and regular season average | Jake |
-| 16 | The Long Haul | Most total points from starters owned continuously since draft day |  |
+| 16 | The Long Haul | Most total points from starters owned continuously since draft day | Ryan |
+
+2020 Season Total
+| Manager | Challenge Wins |
+| Sean | 3.5 |
+| Ron | 3 |
+| Chi Shing | 2.5 |
+| Evan | 2 |
+| Rajiv | 1 |
+| Jake | 1 |
+| Jiwei | 1 |
+| Joel | 1 |
+| Ryan | 1 |
+| Matt | 0 |
+| Dai | 0 |
+| Doug | 0 |
