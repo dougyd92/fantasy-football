@@ -62,10 +62,13 @@ module YahooDataFetcher
       rows.each do |row|
         next if row.children[5].text == 'Bye'
 
+        player_name = row.children[1].css('div.ysf-player-name').children.first.text
+        next if player_name == '(Empty)'
+
         player_data.append(
           {
             roster_position: row.children[0].text,
-            player_name: row.children[1].css('div.ysf-player-name').children.first.text,
+            player_name: player_name,
             player_position: row.children[1].css('div.ysf-player-name').children[2].text.split('-').last.strip,
             player_id: row.children[1].css('.playernote').first['data-ys-playerid'],
             points: row.children[5].text.to_f,
