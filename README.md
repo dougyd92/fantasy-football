@@ -23,6 +23,7 @@ Challenges
 
 2020 Season Total
 | Manager | Challenge Wins |
+|-|-|
 | Sean | 3.5 |
 | Ron | 3 |
 | Chi Shing | 2.5 |
