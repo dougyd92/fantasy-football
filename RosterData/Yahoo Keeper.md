@@ -360,121 +360,7 @@ transaction_df.head()
       <td>Tua Tagovailoa</td>
       <td>QB</td>
       <td>Mia</td>
-      <td>BYEcyCLE Race</td>
-      <td>1.0</td>
-      <td>2020-09-04 00:10:00</td>
-      <td>add_drop</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Marquez Valdes-Scantling</td>
-      <td>WR</td>
-      <td>GB</td>
-      <td>Josh Gordon</td>
-      <td>WR</td>
-      <td>Sea</td>
-      <td>Koo Klux Klan</td>
-      <td>0.0</td>
-      <td>2020-09-04 00:10:00</td>
-      <td>add_drop</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Philadelphia</td>
-      <td>DEF</td>
-      <td>Phi</td>
-      <td>Minnesota</td>
-      <td>DEF</td>
-      <td>Min</td>
-      <td>BYEcyCLE Race</td>
-      <td>0.0</td>
-      <td>2020-09-04 00:10:00</td>
-      <td>add_drop</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Dan Bailey</td>
-      <td>K</td>
-      <td>Min</td>
-      <td>Cam Newton</td>
-      <td>QB</td>
-      <td>NE</td>
-      <td>No Gurley No Cry</td>
-      <td>0.0</td>
-      <td>2020-09-04 00:10:00</td>
-      <td>add_drop</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Los Angeles</td>
-      <td>DEF</td>
-      <td>LAR</td>
-      <td>Larry Fitzgerald</td>
-      <td>WR</td>
-      <td>Ari</td>
-      <td>Clyde or Die</td>
-      <td>0.0</td>
-      <td>2020-09-04 00:10:00</td>
-      <td>add_drop</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-
-```python
-transaction_df = pd.DataFrame(transaction_list)
-transaction_df.loc[202.1] = ['Tim Patrick', 'WR', 'Den', 'Indianapolis', 'DEF', 'Ind', '49IRs', 15, datetime(2020, 10, 20, 5, 51, 0), 'add_drop']
-transaction_df.loc[202.2] = ['Keelan Cole Sr.', 'WR', 'Jax', 'Mark Ingram II', 'RB', 'Bal', '49IRs', 14, datetime(2020, 10, 20, 19, 4, 0), 'add_drop']
-transaction_df = transaction_df.sort_values(by=['transaction_time']).reset_index(drop=True)
-transaction_df.head()
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>added_player</th>
-      <th>added_player_position</th>
-      <th>added_player_team</th>
-      <th>dropped_player</th>
-      <th>dropped_player_pos</th>
-      <th>dropped_player_team</th>
-      <th>ff_team</th>
-      <th>transaction_cost</th>
-      <th>transaction_time</th>
-      <th>transaction_type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Bryan Edwards</td>
-      <td>WR</td>
-      <td>LV</td>
-      <td>Tua Tagovailoa</td>
-      <td>QB</td>
-      <td>Mia</td>
-      <td>BYEcyCLE Race</td>
+      <td>Al-Win Champara</td>
       <td>1.0</td>
       <td>2020-09-04 00:10:00</td>
       <td>add_drop</td>
@@ -487,7 +373,7 @@ transaction_df.head()
       <td>Cam Newton</td>
       <td>QB</td>
       <td>NE</td>
-      <td>No Gurley No Cry</td>
+      <td>Benny &amp; the J-E-T-S</td>
       <td>0.0</td>
       <td>2020-09-04 00:10:00</td>
       <td>add_drop</td>
@@ -526,7 +412,7 @@ transaction_df.head()
       <td>Anthony McFarland Jr.</td>
       <td>RB</td>
       <td>Pit</td>
-      <td>BYEcyCLE Race</td>
+      <td>Al-Win Champara</td>
       <td>0.0</td>
       <td>2020-09-04 00:10:00</td>
       <td>add_drop</td>
@@ -551,18 +437,18 @@ manager_df = pd.DataFrame(manager_list)
 manager_df
 ```
 
-    Who is the Manager for Koo Klux Klan ? Ron
-    Who is the Manager for Chi ShingT's Team ? Chi Shing
-    Who is the Manager for Clyde or Die ? Jake
-    Who is the Manager for Tiz the Law ? Dai
-    Who is the Manager for BYEcyCLE Race ? Sean
-    Who is the Manager for Pop Drop and Lockett ? Evan
-    Who is the Manager for 🍆✊🏼💦 ? Rajiv
-    Who is the Manager for Hoppin 4 Hopkins ? Joel
     Who is the Manager for G ? Jiwei
-    Who is the Manager for Nags ? Ryan
-    Who is the Manager for No Gurley No Cry ? Matt
+    Who is the Manager for Koo Klux Klan ? Ron
+    Who is the Manager for Al-Win Champara ? Sean
     Who is the Manager for 49IRs ? Doug
+    Who is the Manager for Chi ShingT's Team ? Chi Shing
+    Who is the Manager for Tiz the Law ? Dai
+    Who is the Manager for Benny & the J-E-T-S ? Matt
+    Who is the Manager for 🍆✊🏼💦 ? Rajiv
+    Who is the Manager for Nags ? Ryan
+    Who is the Manager for Hoppin 4 Hopkins ? Joel
+    Who is the Manager for Clyde or Die ? Jake
+    Who is the Manager for Pop Drop and Lockett ? Evan
     
 
 
@@ -593,63 +479,63 @@ manager_df
   <tbody>
     <tr>
       <th>0</th>
-      <td>Ron</td>
-      <td>Koo Klux Klan</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Chi Shing</td>
-      <td>Chi ShingT's Team</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Jake</td>
-      <td>Clyde or Die</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Dai</td>
-      <td>Tiz the Law</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Sean</td>
-      <td>BYEcyCLE Race</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>Evan</td>
-      <td>Pop Drop and Lockett</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Rajiv</td>
-      <td>🍆✊🏼💦</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>Joel</td>
-      <td>Hoppin 4 Hopkins</td>
-    </tr>
-    <tr>
-      <th>8</th>
       <td>Jiwei</td>
       <td>G</td>
     </tr>
     <tr>
-      <th>9</th>
+      <th>1</th>
+      <td>Ron</td>
+      <td>Koo Klux Klan</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Sean</td>
+      <td>Al-Win Champara</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Doug</td>
+      <td>49IRs</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Chi Shing</td>
+      <td>Chi ShingT's Team</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Dai</td>
+      <td>Tiz the Law</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Matt</td>
+      <td>Benny &amp; the J-E-T-S</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Rajiv</td>
+      <td>🍆✊🏼💦</td>
+    </tr>
+    <tr>
+      <th>8</th>
       <td>Ryan</td>
       <td>Nags</td>
     </tr>
     <tr>
+      <th>9</th>
+      <td>Joel</td>
+      <td>Hoppin 4 Hopkins</td>
+    </tr>
+    <tr>
       <th>10</th>
-      <td>Matt</td>
-      <td>No Gurley No Cry</td>
+      <td>Jake</td>
+      <td>Clyde or Die</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>Doug</td>
-      <td>49IRs</td>
+      <td>Evan</td>
+      <td>Pop Drop and Lockett</td>
     </tr>
   </tbody>
 </table>
@@ -707,12 +593,12 @@ total_transaction.head()
       <td>Tua Tagovailoa</td>
       <td>QB</td>
       <td>Mia</td>
-      <td>BYEcyCLE Race</td>
+      <td>Al-Win Champara</td>
       <td>1.0</td>
       <td>2020-09-04 00:10:00</td>
       <td>add_drop</td>
       <td>Sean</td>
-      <td>BYEcyCLE Race</td>
+      <td>Al-Win Champara</td>
     </tr>
     <tr>
       <th>1</th>
@@ -722,12 +608,12 @@ total_transaction.head()
       <td>Cam Newton</td>
       <td>QB</td>
       <td>NE</td>
-      <td>No Gurley No Cry</td>
+      <td>Benny &amp; the J-E-T-S</td>
       <td>0.0</td>
       <td>2020-09-04 00:10:00</td>
       <td>add_drop</td>
       <td>Matt</td>
-      <td>No Gurley No Cry</td>
+      <td>Benny &amp; the J-E-T-S</td>
     </tr>
     <tr>
       <th>2</th>
@@ -767,12 +653,12 @@ total_transaction.head()
       <td>Anthony McFarland Jr.</td>
       <td>RB</td>
       <td>Pit</td>
-      <td>BYEcyCLE Race</td>
+      <td>Al-Win Champara</td>
       <td>0.0</td>
       <td>2020-09-04 00:10:00</td>
       <td>add_drop</td>
       <td>Sean</td>
-      <td>BYEcyCLE Race</td>
+      <td>Al-Win Champara</td>
     </tr>
   </tbody>
 </table>
@@ -880,16 +766,6 @@ draft_df
     </tr>
     <tr>
       <th>4</th>
-      <td>115</td>
-      <td>Ty Johnson</td>
-      <td>NYJ</td>
-      <td>NYJ</td>
-      <td>16</td>
-      <td>Chi Shing</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>5</th>
       <td>187</td>
       <td>Patrick Mahomes</td>
       <td>QB</td>
@@ -899,7 +775,7 @@ draft_df
       <td>CD</td>
     </tr>
     <tr>
-      <th>6</th>
+      <th>5</th>
       <td>9</td>
       <td>Sterling Shepard</td>
       <td>NYG</td>
@@ -909,7 +785,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>7</th>
+      <th>6</th>
       <td>22</td>
       <td>Tim Patrick</td>
       <td>Den</td>
@@ -919,7 +795,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>8</th>
+      <th>7</th>
       <td>87</td>
       <td>Frank Gore</td>
       <td>NYJ</td>
@@ -929,7 +805,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>9</th>
+      <th>8</th>
       <td>110</td>
       <td>Tampa Bay</td>
       <td>TB</td>
@@ -939,7 +815,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>10</th>
+      <th>9</th>
       <td>128</td>
       <td>Robby Anderson</td>
       <td>WR</td>
@@ -949,7 +825,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>11</th>
+      <th>10</th>
       <td>56</td>
       <td>Antonio Brown</td>
       <td>TB</td>
@@ -959,7 +835,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>11</th>
       <td>79</td>
       <td>T.Y. Hilton</td>
       <td>Ind</td>
@@ -969,7 +845,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>12</th>
       <td>100</td>
       <td>Tyler Bass</td>
       <td>Buf</td>
@@ -979,11 +855,21 @@ draft_df
       <td></td>
     </tr>
     <tr>
+      <th>13</th>
+      <td>115</td>
+      <td>Marlon Mack</td>
+      <td>Ind</td>
+      <td>Ind</td>
+      <td>0</td>
+      <td>Chi Shing</td>
+      <td></td>
+    </tr>
+    <tr>
       <th>14</th>
       <td>119</td>
-      <td>Devontae Booker</td>
-      <td>LV</td>
-      <td>LV</td>
+      <td>Russell Gage</td>
+      <td>Atl</td>
+      <td>Atl</td>
       <td>0</td>
       <td>Chi Shing</td>
       <td></td>
@@ -1060,26 +946,6 @@ draft_df
     </tr>
     <tr>
       <th>22</th>
-      <td>59</td>
-      <td>Eric Ebron</td>
-      <td>Pit</td>
-      <td>Pit</td>
-      <td>8</td>
-      <td>Dai</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>23</th>
-      <td>66</td>
-      <td>Kirk Cousins</td>
-      <td>Min</td>
-      <td>Min</td>
-      <td>5</td>
-      <td>Dai</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>24</th>
       <td>27</td>
       <td>Rob Gronkowski</td>
       <td>TB</td>
@@ -1089,17 +955,27 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>25</th>
-      <td>83</td>
-      <td>Indianapolis</td>
-      <td>Ind</td>
-      <td>Ind</td>
-      <td>2</td>
+      <th>23</th>
+      <td>59</td>
+      <td>Ito Smith</td>
+      <td>Atl</td>
+      <td>Atl</td>
+      <td>1</td>
       <td>Dai</td>
       <td></td>
     </tr>
     <tr>
-      <th>26</th>
+      <th>24</th>
+      <td>84</td>
+      <td>Ty Johnson</td>
+      <td>NYJ</td>
+      <td>NYJ</td>
+      <td>1</td>
+      <td>Dai</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>25</th>
       <td>34</td>
       <td>Le'Veon Bell</td>
       <td>KC</td>
@@ -1109,11 +985,21 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>27</th>
+      <th>26</th>
       <td>35</td>
-      <td>Cole Kmet</td>
-      <td>Chi</td>
-      <td>Chi</td>
+      <td>Mason Crosby</td>
+      <td>GB</td>
+      <td>GB</td>
+      <td>0</td>
+      <td>Dai</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>66</td>
+      <td>Tua Tagovailoa</td>
+      <td>Mia</td>
+      <td>Mia</td>
       <td>0</td>
       <td>Dai</td>
       <td></td>
@@ -1150,10 +1036,10 @@ draft_df
     </tr>
     <tr>
       <th>31</th>
-      <td>84</td>
-      <td>Los Angeles</td>
-      <td>LAR</td>
-      <td>LAR</td>
+      <td>83</td>
+      <td>Leonard Fournette</td>
+      <td>TB</td>
+      <td>TB</td>
       <td>0</td>
       <td>Dai</td>
       <td></td>
@@ -1190,16 +1076,6 @@ draft_df
     </tr>
     <tr>
       <th>35</th>
-      <td>88</td>
-      <td>Deebo Samuel</td>
-      <td>WR</td>
-      <td>SF</td>
-      <td>10</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>36</th>
       <td>179</td>
       <td>Lamar Jackson</td>
       <td>QB</td>
@@ -1209,27 +1085,7 @@ draft_df
       <td>D</td>
     </tr>
     <tr>
-      <th>37</th>
-      <td>177</td>
-      <td>Seattle</td>
-      <td>Sea</td>
-      <td>Sea</td>
-      <td>5</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>38</th>
-      <td>135</td>
-      <td>Jakobi Meyers</td>
-      <td>NE</td>
-      <td>NE</td>
-      <td>4</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>39</th>
+      <th>36</th>
       <td>62</td>
       <td>J.K. Dobbins</td>
       <td>Bal</td>
@@ -1239,7 +1095,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>40</th>
+      <th>37</th>
       <td>108</td>
       <td>Robert Tonyan</td>
       <td>GB</td>
@@ -1249,7 +1105,27 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>41</th>
+      <th>38</th>
+      <td>135</td>
+      <td>Jeff Wilson Jr.</td>
+      <td>SF</td>
+      <td>SF</td>
+      <td>3</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>18</td>
+      <td>KJ Hamler</td>
+      <td>Den</td>
+      <td>Den</td>
+      <td>2</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>40</th>
       <td>54</td>
       <td>Allen Lazard</td>
       <td>GB</td>
@@ -1259,17 +1135,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>42</th>
-      <td>18</td>
-      <td>Giovani Bernard</td>
-      <td>Cin</td>
-      <td>Cin</td>
-      <td>0</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>43</th>
+      <th>41</th>
       <td>43</td>
       <td>Darnell Mooney</td>
       <td>Chi</td>
@@ -1279,17 +1145,27 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>44</th>
+      <th>42</th>
       <td>86</td>
-      <td>Ryan Succop</td>
-      <td>TB</td>
-      <td>TB</td>
+      <td>Rodrigo Blankenship</td>
+      <td>Ind</td>
+      <td>Ind</td>
       <td>0</td>
       <td>Doug</td>
       <td></td>
     </tr>
     <tr>
-      <th>45</th>
+      <th>43</th>
+      <td>88</td>
+      <td>Keelan Cole Sr.</td>
+      <td>Jax</td>
+      <td>Jax</td>
+      <td>0</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>44</th>
       <td>99</td>
       <td>James Robinson</td>
       <td>Jax</td>
@@ -1299,21 +1175,31 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>46</th>
+      <th>45</th>
       <td>121</td>
-      <td>Demarcus Robinson</td>
-      <td>KC</td>
-      <td>KC</td>
+      <td>Laviska Shenault Jr.</td>
+      <td>Jax</td>
+      <td>Jax</td>
+      <td>0</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>126</td>
+      <td>Justin Herbert</td>
+      <td>LAC</td>
+      <td>LAC</td>
       <td>0</td>
       <td>Doug</td>
       <td></td>
     </tr>
     <tr>
       <th>47</th>
-      <td>126</td>
-      <td>Justin Herbert</td>
-      <td>LAC</td>
-      <td>LAC</td>
+      <td>177</td>
+      <td>Miami</td>
+      <td>Mia</td>
+      <td>Mia</td>
       <td>0</td>
       <td>Doug</td>
       <td></td>
@@ -1540,16 +1426,6 @@ draft_df
     </tr>
     <tr>
       <th>70</th>
-      <td>130</td>
-      <td>Jordan Wilkins</td>
-      <td>Ind</td>
-      <td>Ind</td>
-      <td>13</td>
-      <td>Jake</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>71</th>
       <td>3</td>
       <td>Tom Brady</td>
       <td>QB</td>
@@ -1559,7 +1435,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>72</th>
+      <th>71</th>
       <td>112</td>
       <td>Corey Davis</td>
       <td>Ten</td>
@@ -1569,7 +1445,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>72</th>
       <td>142</td>
       <td>J.D. McKissic</td>
       <td>Was</td>
@@ -1579,7 +1455,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>73</th>
       <td>95</td>
       <td>Jonnu Smith</td>
       <td>TE</td>
@@ -1589,17 +1465,17 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>75</th>
-      <td>102</td>
-      <td>Zane Gonzalez</td>
-      <td>K</td>
-      <td>Ari</td>
-      <td>1</td>
+      <th>74</th>
+      <td>139</td>
+      <td>Indianapolis</td>
+      <td>Ind</td>
+      <td>Ind</td>
+      <td>2</td>
       <td>Jake</td>
       <td></td>
     </tr>
     <tr>
-      <th>76</th>
+      <th>75</th>
       <td>30</td>
       <td>Jamaal Williams</td>
       <td>GB</td>
@@ -1609,31 +1485,41 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>77</th>
+      <th>76</th>
       <td>46</td>
-      <td>Jared Goff</td>
-      <td>LAR</td>
-      <td>LAR</td>
+      <td>Henry Ruggs III</td>
+      <td>LV</td>
+      <td>LV</td>
+      <td>0</td>
+      <td>Jake</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td>81</td>
+      <td>Salvon Ahmed</td>
+      <td>Mia</td>
+      <td>Mia</td>
       <td>0</td>
       <td>Jake</td>
       <td></td>
     </tr>
     <tr>
       <th>78</th>
-      <td>81</td>
-      <td>Malcolm Brown</td>
-      <td>LAR</td>
-      <td>LAR</td>
+      <td>102</td>
+      <td>Joey Slye</td>
+      <td>Car</td>
+      <td>Car</td>
       <td>0</td>
       <td>Jake</td>
       <td></td>
     </tr>
     <tr>
       <th>79</th>
-      <td>139</td>
-      <td>Leonard Fournette</td>
-      <td>TB</td>
-      <td>TB</td>
+      <td>130</td>
+      <td>Tyron Johnson</td>
+      <td>LAC</td>
+      <td>LAC</td>
       <td>0</td>
       <td>Jake</td>
       <td></td>
@@ -1720,16 +1606,6 @@ draft_df
     </tr>
     <tr>
       <th>88</th>
-      <td>140</td>
-      <td>Ito Smith</td>
-      <td>Atl</td>
-      <td>Atl</td>
-      <td>8</td>
-      <td>Jiwei</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>89</th>
       <td>61</td>
       <td>Justin Tucker</td>
       <td>K</td>
@@ -1739,7 +1615,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>90</th>
+      <th>89</th>
       <td>94</td>
       <td>Justin Jefferson</td>
       <td>WR</td>
@@ -1749,12 +1625,22 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>91</th>
+      <th>90</th>
       <td>96</td>
       <td>Mike Gesicki</td>
       <td>TE</td>
       <td>Mia</td>
       <td>4</td>
+      <td>Jiwei</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>23</td>
+      <td>Gabriel Davis</td>
+      <td>Buf</td>
+      <td>Buf</td>
+      <td>3</td>
       <td>Jiwei</td>
       <td></td>
     </tr>
@@ -1770,11 +1656,11 @@ draft_df
     </tr>
     <tr>
       <th>93</th>
-      <td>23</td>
-      <td>Arizona</td>
-      <td>Ari</td>
-      <td>Ari</td>
-      <td>0</td>
+      <td>140</td>
+      <td>Lynn Bowden Jr.</td>
+      <td>Mia</td>
+      <td>Mia</td>
+      <td>2</td>
       <td>Jiwei</td>
       <td></td>
     </tr>
@@ -2071,9 +1957,9 @@ draft_df
     <tr>
       <th>123</th>
       <td>78</td>
-      <td>Duke Johnson</td>
-      <td>Hou</td>
-      <td>Hou</td>
+      <td>Benny Snell Jr.</td>
+      <td>Pit</td>
+      <td>Pit</td>
       <td>0</td>
       <td>Matt</td>
       <td></td>
@@ -2081,9 +1967,9 @@ draft_df
     <tr>
       <th>124</th>
       <td>103</td>
-      <td>Christian Kirk</td>
-      <td>Ari</td>
-      <td>Ari</td>
+      <td>Marvin Hall</td>
+      <td>Cle</td>
+      <td>Cle</td>
       <td>0</td>
       <td>Matt</td>
       <td></td>
@@ -2241,9 +2127,9 @@ draft_df
     <tr>
       <th>140</th>
       <td>132</td>
-      <td>Carson Wentz</td>
-      <td>Phi</td>
-      <td>Phi</td>
+      <td>Philip Rivers</td>
+      <td>Ind</td>
+      <td>Ind</td>
       <td>0</td>
       <td>Rajiv</td>
       <td></td>
@@ -2401,9 +2287,9 @@ draft_df
     <tr>
       <th>156</th>
       <td>36</td>
-      <td>Taysom Hill</td>
-      <td>NO</td>
-      <td>NO</td>
+      <td>Tennessee</td>
+      <td>Ten</td>
+      <td>Ten</td>
       <td>0</td>
       <td>Ron</td>
       <td></td>
@@ -2421,9 +2307,9 @@ draft_df
     <tr>
       <th>158</th>
       <td>85</td>
-      <td>Ben Roethlisberger</td>
-      <td>Pit</td>
-      <td>Pit</td>
+      <td>Breshad Perriman</td>
+      <td>NYJ</td>
+      <td>NYJ</td>
       <td>0</td>
       <td>Ron</td>
       <td></td>
@@ -2431,9 +2317,9 @@ draft_df
     <tr>
       <th>159</th>
       <td>114</td>
-      <td>Teddy Bridgewater</td>
-      <td>Car</td>
-      <td>Car</td>
+      <td>Dan Arnold</td>
+      <td>Ari</td>
+      <td>Ari</td>
       <td>0</td>
       <td>Ron</td>
       <td></td>
@@ -2510,16 +2396,6 @@ draft_df
     </tr>
     <tr>
       <th>167</th>
-      <td>118</td>
-      <td>Dalton Schultz</td>
-      <td>Dal</td>
-      <td>Dal</td>
-      <td>5</td>
-      <td>Ryan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>168</th>
       <td>71</td>
       <td>Brandon Aiyuk</td>
       <td>WR</td>
@@ -2529,7 +2405,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>169</th>
+      <th>168</th>
       <td>93</td>
       <td>Emmanuel Sanders</td>
       <td>NO</td>
@@ -2539,11 +2415,21 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>170</th>
+      <th>169</th>
       <td>116</td>
       <td>New Orleans</td>
       <td>NO</td>
       <td>NO</td>
+      <td>3</td>
+      <td>Ryan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>170</th>
+      <td>118</td>
+      <td>San Francisco</td>
+      <td>SF</td>
+      <td>SF</td>
       <td>3</td>
       <td>Ryan</td>
       <td></td>
@@ -2690,16 +2576,6 @@ draft_df
     </tr>
     <tr>
       <th>185</th>
-      <td>109</td>
-      <td>Latavius Murray</td>
-      <td>NO</td>
-      <td>NO</td>
-      <td>2</td>
-      <td>Sean</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>186</th>
       <td>117</td>
       <td>Chase Edmonds</td>
       <td>Ari</td>
@@ -2709,7 +2585,7 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>187</th>
+      <th>186</th>
       <td>127</td>
       <td>Cleveland</td>
       <td>Cle</td>
@@ -2719,12 +2595,22 @@ draft_df
       <td></td>
     </tr>
     <tr>
-      <th>188</th>
+      <th>187</th>
       <td>134</td>
       <td>Jalen Hurts</td>
       <td>Phi</td>
       <td>Phi</td>
       <td>1</td>
+      <td>Sean</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>188</th>
+      <td>109</td>
+      <td>AJ Dillon</td>
+      <td>GB</td>
+      <td>GB</td>
+      <td>0</td>
       <td>Sean</td>
       <td></td>
     </tr>
@@ -2751,9 +2637,9 @@ draft_df
     <tr>
       <th>191</th>
       <td>144</td>
-      <td>Matthew Stafford</td>
-      <td>Det</td>
-      <td>Det</td>
+      <td>Deebo Samuel</td>
+      <td>SF</td>
+      <td>SF</td>
       <td>0</td>
       <td>Sean</td>
       <td></td>
@@ -2842,16 +2728,6 @@ draft_df[draft_df['manager'] == 'Chi Shing']
     </tr>
     <tr>
       <th>4</th>
-      <td>115</td>
-      <td>Ty Johnson</td>
-      <td>NYJ</td>
-      <td>NYJ</td>
-      <td>16</td>
-      <td>Chi Shing</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>5</th>
       <td>187</td>
       <td>Patrick Mahomes</td>
       <td>QB</td>
@@ -2861,7 +2737,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td>CD</td>
     </tr>
     <tr>
-      <th>6</th>
+      <th>5</th>
       <td>9</td>
       <td>Sterling Shepard</td>
       <td>NYG</td>
@@ -2871,7 +2747,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
-      <th>7</th>
+      <th>6</th>
       <td>22</td>
       <td>Tim Patrick</td>
       <td>Den</td>
@@ -2881,7 +2757,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
-      <th>8</th>
+      <th>7</th>
       <td>87</td>
       <td>Frank Gore</td>
       <td>NYJ</td>
@@ -2891,7 +2767,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
-      <th>9</th>
+      <th>8</th>
       <td>110</td>
       <td>Tampa Bay</td>
       <td>TB</td>
@@ -2901,7 +2777,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
-      <th>10</th>
+      <th>9</th>
       <td>128</td>
       <td>Robby Anderson</td>
       <td>WR</td>
@@ -2911,7 +2787,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
-      <th>11</th>
+      <th>10</th>
       <td>56</td>
       <td>Antonio Brown</td>
       <td>TB</td>
@@ -2921,7 +2797,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>11</th>
       <td>79</td>
       <td>T.Y. Hilton</td>
       <td>Ind</td>
@@ -2931,7 +2807,7 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>12</th>
       <td>100</td>
       <td>Tyler Bass</td>
       <td>Buf</td>
@@ -2941,11 +2817,21 @@ draft_df[draft_df['manager'] == 'Chi Shing']
       <td></td>
     </tr>
     <tr>
+      <th>13</th>
+      <td>115</td>
+      <td>Marlon Mack</td>
+      <td>Ind</td>
+      <td>Ind</td>
+      <td>0</td>
+      <td>Chi Shing</td>
+      <td></td>
+    </tr>
+    <tr>
       <th>14</th>
       <td>119</td>
-      <td>Devontae Booker</td>
-      <td>LV</td>
-      <td>LV</td>
+      <td>Russell Gage</td>
+      <td>Atl</td>
+      <td>Atl</td>
       <td>0</td>
       <td>Chi Shing</td>
       <td></td>
@@ -3064,26 +2950,6 @@ draft_df[draft_df['manager'] == 'Dai']
     </tr>
     <tr>
       <th>22</th>
-      <td>59</td>
-      <td>Eric Ebron</td>
-      <td>Pit</td>
-      <td>Pit</td>
-      <td>8</td>
-      <td>Dai</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>23</th>
-      <td>66</td>
-      <td>Kirk Cousins</td>
-      <td>Min</td>
-      <td>Min</td>
-      <td>5</td>
-      <td>Dai</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>24</th>
       <td>27</td>
       <td>Rob Gronkowski</td>
       <td>TB</td>
@@ -3093,17 +2959,27 @@ draft_df[draft_df['manager'] == 'Dai']
       <td></td>
     </tr>
     <tr>
-      <th>25</th>
-      <td>83</td>
-      <td>Indianapolis</td>
-      <td>Ind</td>
-      <td>Ind</td>
-      <td>2</td>
+      <th>23</th>
+      <td>59</td>
+      <td>Ito Smith</td>
+      <td>Atl</td>
+      <td>Atl</td>
+      <td>1</td>
       <td>Dai</td>
       <td></td>
     </tr>
     <tr>
-      <th>26</th>
+      <th>24</th>
+      <td>84</td>
+      <td>Ty Johnson</td>
+      <td>NYJ</td>
+      <td>NYJ</td>
+      <td>1</td>
+      <td>Dai</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>25</th>
       <td>34</td>
       <td>Le'Veon Bell</td>
       <td>KC</td>
@@ -3113,11 +2989,21 @@ draft_df[draft_df['manager'] == 'Dai']
       <td></td>
     </tr>
     <tr>
-      <th>27</th>
+      <th>26</th>
       <td>35</td>
-      <td>Cole Kmet</td>
-      <td>Chi</td>
-      <td>Chi</td>
+      <td>Mason Crosby</td>
+      <td>GB</td>
+      <td>GB</td>
+      <td>0</td>
+      <td>Dai</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>66</td>
+      <td>Tua Tagovailoa</td>
+      <td>Mia</td>
+      <td>Mia</td>
       <td>0</td>
       <td>Dai</td>
       <td></td>
@@ -3154,10 +3040,10 @@ draft_df[draft_df['manager'] == 'Dai']
     </tr>
     <tr>
       <th>31</th>
-      <td>84</td>
-      <td>Los Angeles</td>
-      <td>LAR</td>
-      <td>LAR</td>
+      <td>83</td>
+      <td>Leonard Fournette</td>
+      <td>TB</td>
+      <td>TB</td>
       <td>0</td>
       <td>Dai</td>
       <td></td>
@@ -3236,16 +3122,6 @@ draft_df[draft_df['manager'] == 'Doug']
     </tr>
     <tr>
       <th>35</th>
-      <td>88</td>
-      <td>Deebo Samuel</td>
-      <td>WR</td>
-      <td>SF</td>
-      <td>10</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>36</th>
       <td>179</td>
       <td>Lamar Jackson</td>
       <td>QB</td>
@@ -3255,27 +3131,7 @@ draft_df[draft_df['manager'] == 'Doug']
       <td>D</td>
     </tr>
     <tr>
-      <th>37</th>
-      <td>177</td>
-      <td>Seattle</td>
-      <td>Sea</td>
-      <td>Sea</td>
-      <td>5</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>38</th>
-      <td>135</td>
-      <td>Jakobi Meyers</td>
-      <td>NE</td>
-      <td>NE</td>
-      <td>4</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>39</th>
+      <th>36</th>
       <td>62</td>
       <td>J.K. Dobbins</td>
       <td>Bal</td>
@@ -3285,7 +3141,7 @@ draft_df[draft_df['manager'] == 'Doug']
       <td></td>
     </tr>
     <tr>
-      <th>40</th>
+      <th>37</th>
       <td>108</td>
       <td>Robert Tonyan</td>
       <td>GB</td>
@@ -3295,7 +3151,27 @@ draft_df[draft_df['manager'] == 'Doug']
       <td></td>
     </tr>
     <tr>
-      <th>41</th>
+      <th>38</th>
+      <td>135</td>
+      <td>Jeff Wilson Jr.</td>
+      <td>SF</td>
+      <td>SF</td>
+      <td>3</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>18</td>
+      <td>KJ Hamler</td>
+      <td>Den</td>
+      <td>Den</td>
+      <td>2</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>40</th>
       <td>54</td>
       <td>Allen Lazard</td>
       <td>GB</td>
@@ -3305,17 +3181,7 @@ draft_df[draft_df['manager'] == 'Doug']
       <td></td>
     </tr>
     <tr>
-      <th>42</th>
-      <td>18</td>
-      <td>Giovani Bernard</td>
-      <td>Cin</td>
-      <td>Cin</td>
-      <td>0</td>
-      <td>Doug</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>43</th>
+      <th>41</th>
       <td>43</td>
       <td>Darnell Mooney</td>
       <td>Chi</td>
@@ -3325,17 +3191,27 @@ draft_df[draft_df['manager'] == 'Doug']
       <td></td>
     </tr>
     <tr>
-      <th>44</th>
+      <th>42</th>
       <td>86</td>
-      <td>Ryan Succop</td>
-      <td>TB</td>
-      <td>TB</td>
+      <td>Rodrigo Blankenship</td>
+      <td>Ind</td>
+      <td>Ind</td>
       <td>0</td>
       <td>Doug</td>
       <td></td>
     </tr>
     <tr>
-      <th>45</th>
+      <th>43</th>
+      <td>88</td>
+      <td>Keelan Cole Sr.</td>
+      <td>Jax</td>
+      <td>Jax</td>
+      <td>0</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>44</th>
       <td>99</td>
       <td>James Robinson</td>
       <td>Jax</td>
@@ -3345,21 +3221,31 @@ draft_df[draft_df['manager'] == 'Doug']
       <td></td>
     </tr>
     <tr>
-      <th>46</th>
+      <th>45</th>
       <td>121</td>
-      <td>Demarcus Robinson</td>
-      <td>KC</td>
-      <td>KC</td>
+      <td>Laviska Shenault Jr.</td>
+      <td>Jax</td>
+      <td>Jax</td>
+      <td>0</td>
+      <td>Doug</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>126</td>
+      <td>Justin Herbert</td>
+      <td>LAC</td>
+      <td>LAC</td>
       <td>0</td>
       <td>Doug</td>
       <td></td>
     </tr>
     <tr>
       <th>47</th>
-      <td>126</td>
-      <td>Justin Herbert</td>
-      <td>LAC</td>
-      <td>LAC</td>
+      <td>177</td>
+      <td>Miami</td>
+      <td>Mia</td>
+      <td>Mia</td>
       <td>0</td>
       <td>Doug</td>
       <td></td>
@@ -3670,16 +3556,6 @@ draft_df[draft_df['manager'] == 'Jake']
     </tr>
     <tr>
       <th>70</th>
-      <td>130</td>
-      <td>Jordan Wilkins</td>
-      <td>Ind</td>
-      <td>Ind</td>
-      <td>13</td>
-      <td>Jake</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>71</th>
       <td>3</td>
       <td>Tom Brady</td>
       <td>QB</td>
@@ -3689,7 +3565,7 @@ draft_df[draft_df['manager'] == 'Jake']
       <td></td>
     </tr>
     <tr>
-      <th>72</th>
+      <th>71</th>
       <td>112</td>
       <td>Corey Davis</td>
       <td>Ten</td>
@@ -3699,7 +3575,7 @@ draft_df[draft_df['manager'] == 'Jake']
       <td></td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>72</th>
       <td>142</td>
       <td>J.D. McKissic</td>
       <td>Was</td>
@@ -3709,7 +3585,7 @@ draft_df[draft_df['manager'] == 'Jake']
       <td></td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>73</th>
       <td>95</td>
       <td>Jonnu Smith</td>
       <td>TE</td>
@@ -3719,17 +3595,17 @@ draft_df[draft_df['manager'] == 'Jake']
       <td></td>
     </tr>
     <tr>
-      <th>75</th>
-      <td>102</td>
-      <td>Zane Gonzalez</td>
-      <td>K</td>
-      <td>Ari</td>
-      <td>1</td>
+      <th>74</th>
+      <td>139</td>
+      <td>Indianapolis</td>
+      <td>Ind</td>
+      <td>Ind</td>
+      <td>2</td>
       <td>Jake</td>
       <td></td>
     </tr>
     <tr>
-      <th>76</th>
+      <th>75</th>
       <td>30</td>
       <td>Jamaal Williams</td>
       <td>GB</td>
@@ -3739,31 +3615,41 @@ draft_df[draft_df['manager'] == 'Jake']
       <td></td>
     </tr>
     <tr>
-      <th>77</th>
+      <th>76</th>
       <td>46</td>
-      <td>Jared Goff</td>
-      <td>LAR</td>
-      <td>LAR</td>
+      <td>Henry Ruggs III</td>
+      <td>LV</td>
+      <td>LV</td>
+      <td>0</td>
+      <td>Jake</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td>81</td>
+      <td>Salvon Ahmed</td>
+      <td>Mia</td>
+      <td>Mia</td>
       <td>0</td>
       <td>Jake</td>
       <td></td>
     </tr>
     <tr>
       <th>78</th>
-      <td>81</td>
-      <td>Malcolm Brown</td>
-      <td>LAR</td>
-      <td>LAR</td>
+      <td>102</td>
+      <td>Joey Slye</td>
+      <td>Car</td>
+      <td>Car</td>
       <td>0</td>
       <td>Jake</td>
       <td></td>
     </tr>
     <tr>
       <th>79</th>
-      <td>139</td>
-      <td>Leonard Fournette</td>
-      <td>TB</td>
-      <td>TB</td>
+      <td>130</td>
+      <td>Tyron Johnson</td>
+      <td>LAC</td>
+      <td>LAC</td>
       <td>0</td>
       <td>Jake</td>
       <td></td>
@@ -3892,16 +3778,6 @@ draft_df[draft_df['manager'] == 'Jiwei']
     </tr>
     <tr>
       <th>88</th>
-      <td>140</td>
-      <td>Ito Smith</td>
-      <td>Atl</td>
-      <td>Atl</td>
-      <td>8</td>
-      <td>Jiwei</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>89</th>
       <td>61</td>
       <td>Justin Tucker</td>
       <td>K</td>
@@ -3911,7 +3787,7 @@ draft_df[draft_df['manager'] == 'Jiwei']
       <td></td>
     </tr>
     <tr>
-      <th>90</th>
+      <th>89</th>
       <td>94</td>
       <td>Justin Jefferson</td>
       <td>WR</td>
@@ -3921,12 +3797,22 @@ draft_df[draft_df['manager'] == 'Jiwei']
       <td></td>
     </tr>
     <tr>
-      <th>91</th>
+      <th>90</th>
       <td>96</td>
       <td>Mike Gesicki</td>
       <td>TE</td>
       <td>Mia</td>
       <td>4</td>
+      <td>Jiwei</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>23</td>
+      <td>Gabriel Davis</td>
+      <td>Buf</td>
+      <td>Buf</td>
+      <td>3</td>
       <td>Jiwei</td>
       <td></td>
     </tr>
@@ -3942,11 +3828,11 @@ draft_df[draft_df['manager'] == 'Jiwei']
     </tr>
     <tr>
       <th>93</th>
-      <td>23</td>
-      <td>Arizona</td>
-      <td>Ari</td>
-      <td>Ari</td>
-      <td>0</td>
+      <td>140</td>
+      <td>Lynn Bowden Jr.</td>
+      <td>Mia</td>
+      <td>Mia</td>
+      <td>2</td>
       <td>Jiwei</td>
       <td></td>
     </tr>
@@ -4327,9 +4213,9 @@ draft_df[draft_df['manager'] == 'Matt']
     <tr>
       <th>123</th>
       <td>78</td>
-      <td>Duke Johnson</td>
-      <td>Hou</td>
-      <td>Hou</td>
+      <td>Benny Snell Jr.</td>
+      <td>Pit</td>
+      <td>Pit</td>
       <td>0</td>
       <td>Matt</td>
       <td></td>
@@ -4337,9 +4223,9 @@ draft_df[draft_df['manager'] == 'Matt']
     <tr>
       <th>124</th>
       <td>103</td>
-      <td>Christian Kirk</td>
-      <td>Ari</td>
-      <td>Ari</td>
+      <td>Marvin Hall</td>
+      <td>Cle</td>
+      <td>Cle</td>
       <td>0</td>
       <td>Matt</td>
       <td></td>
@@ -4539,9 +4425,9 @@ draft_df[draft_df['manager'] == 'Rajiv']
     <tr>
       <th>140</th>
       <td>132</td>
-      <td>Carson Wentz</td>
-      <td>Phi</td>
-      <td>Phi</td>
+      <td>Philip Rivers</td>
+      <td>Ind</td>
+      <td>Ind</td>
       <td>0</td>
       <td>Rajiv</td>
       <td></td>
@@ -4741,9 +4627,9 @@ draft_df[draft_df['manager'] == 'Ron']
     <tr>
       <th>156</th>
       <td>36</td>
-      <td>Taysom Hill</td>
-      <td>NO</td>
-      <td>NO</td>
+      <td>Tennessee</td>
+      <td>Ten</td>
+      <td>Ten</td>
       <td>0</td>
       <td>Ron</td>
       <td></td>
@@ -4761,9 +4647,9 @@ draft_df[draft_df['manager'] == 'Ron']
     <tr>
       <th>158</th>
       <td>85</td>
-      <td>Ben Roethlisberger</td>
-      <td>Pit</td>
-      <td>Pit</td>
+      <td>Breshad Perriman</td>
+      <td>NYJ</td>
+      <td>NYJ</td>
       <td>0</td>
       <td>Ron</td>
       <td></td>
@@ -4771,9 +4657,9 @@ draft_df[draft_df['manager'] == 'Ron']
     <tr>
       <th>159</th>
       <td>114</td>
-      <td>Teddy Bridgewater</td>
-      <td>Car</td>
-      <td>Car</td>
+      <td>Dan Arnold</td>
+      <td>Ari</td>
+      <td>Ari</td>
       <td>0</td>
       <td>Ron</td>
       <td></td>
@@ -4892,16 +4778,6 @@ draft_df[draft_df['manager'] == 'Ryan']
     </tr>
     <tr>
       <th>167</th>
-      <td>118</td>
-      <td>Dalton Schultz</td>
-      <td>Dal</td>
-      <td>Dal</td>
-      <td>5</td>
-      <td>Ryan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>168</th>
       <td>71</td>
       <td>Brandon Aiyuk</td>
       <td>WR</td>
@@ -4911,7 +4787,7 @@ draft_df[draft_df['manager'] == 'Ryan']
       <td></td>
     </tr>
     <tr>
-      <th>169</th>
+      <th>168</th>
       <td>93</td>
       <td>Emmanuel Sanders</td>
       <td>NO</td>
@@ -4921,11 +4797,21 @@ draft_df[draft_df['manager'] == 'Ryan']
       <td></td>
     </tr>
     <tr>
-      <th>170</th>
+      <th>169</th>
       <td>116</td>
       <td>New Orleans</td>
       <td>NO</td>
       <td>NO</td>
+      <td>3</td>
+      <td>Ryan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>170</th>
+      <td>118</td>
+      <td>San Francisco</td>
+      <td>SF</td>
+      <td>SF</td>
       <td>3</td>
       <td>Ryan</td>
       <td></td>
@@ -5114,16 +5000,6 @@ draft_df[draft_df['manager'] == 'Sean']
     </tr>
     <tr>
       <th>185</th>
-      <td>109</td>
-      <td>Latavius Murray</td>
-      <td>NO</td>
-      <td>NO</td>
-      <td>2</td>
-      <td>Sean</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>186</th>
       <td>117</td>
       <td>Chase Edmonds</td>
       <td>Ari</td>
@@ -5133,7 +5009,7 @@ draft_df[draft_df['manager'] == 'Sean']
       <td></td>
     </tr>
     <tr>
-      <th>187</th>
+      <th>186</th>
       <td>127</td>
       <td>Cleveland</td>
       <td>Cle</td>
@@ -5143,12 +5019,22 @@ draft_df[draft_df['manager'] == 'Sean']
       <td></td>
     </tr>
     <tr>
-      <th>188</th>
+      <th>187</th>
       <td>134</td>
       <td>Jalen Hurts</td>
       <td>Phi</td>
       <td>Phi</td>
       <td>1</td>
+      <td>Sean</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>188</th>
+      <td>109</td>
+      <td>AJ Dillon</td>
+      <td>GB</td>
+      <td>GB</td>
+      <td>0</td>
       <td>Sean</td>
       <td></td>
     </tr>
@@ -5175,9 +5061,9 @@ draft_df[draft_df['manager'] == 'Sean']
     <tr>
       <th>191</th>
       <td>144</td>
-      <td>Matthew Stafford</td>
-      <td>Det</td>
-      <td>Det</td>
+      <td>Deebo Samuel</td>
+      <td>SF</td>
+      <td>SF</td>
       <td>0</td>
       <td>Sean</td>
       <td></td>
