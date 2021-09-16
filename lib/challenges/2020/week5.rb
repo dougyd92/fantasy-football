@@ -1,32 +1,35 @@
 # frozen_string_literal: true
 
-require 'bundler/setup'
-Bundler.require(:default)
+module Challenges
+  # TODO make this generic for any week
+  class Week5
+    def run(week, league_id)
+      puts "run 2020week5 for week #{week} league #{league_id}"
+            
+      week = 5
 
-require 'active_support/core_ext/integer/inflections'
-require_relative 'lib/yahoo_data_fetcher.rb'
+      results = (1..YahooDataFetcher::Teams::NUM_TEAMS).map do |team_index|
+        YahooDataFetcher::GameResults.fetch_game_results(week, team_index)
+      end
 
-week = 5
+      puts('************** RESULTS **************')
 
-results = (1..YahooDataFetcher::Teams::NUM_TEAMS).map do |team_index|
-  YahooDataFetcher::GameResults.fetch_game_results(week, team_index)
-end
+      results.sort_by { |result| result[:team_2_pts] - result[:team_1_pts] }.each_with_index do |result, index|
+        print("In #{(index + 1).ordinalize} place: ")
 
-puts('************** RESULTS **************')
+        differential = result[:team_1_pts] - result[:team_2_pts]
 
-results.sort_by { |result| result[:team_2_pts] - result[:team_1_pts] }.each_with_index do |result, index|
-  print("In #{(index + 1).ordinalize} place: ")
+        outcome = if differential.positive?
+                    'beat'
+                  elsif differential.negative?
+                    'lost to'
+                  else
+                    'tied'
+                  end
 
-  differential = result[:team_1_pts] - result[:team_2_pts]
-
-  outcome = if differential.positive?
-              'beat'
-            elsif differential.negative?
-              'lost to'
-            else
-              'tied'
-            end
-
-  print "#{result[:team_1_name]} #{outcome} #{result[:team_2_name]} by #{differential.abs.round(2)} points"
-  puts " (#{result[:team_1_pts]} - #{result[:team_2_pts]})"
+        print "#{result[:team_1_name]} #{outcome} #{result[:team_2_name]} by #{differential.abs.round(2)} points"
+        puts " (#{result[:team_1_pts]} - #{result[:team_2_pts]})"
+      end
+    end
+  end
 end

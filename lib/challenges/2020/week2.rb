@@ -1,49 +1,51 @@
 # frozen_string_literal: true
 
-require 'bundler/setup'
-Bundler.require(:default)
+module Challenges
+  # TODO make this generic for any week
+  class Week2
+    def run(week, league_id)
+      puts "run 2020week2 for week #{week} league #{league_id}"
+      by_team = {}
 
-require 'active_support/core_ext/integer/inflections'
-require_relative 'lib/yahoo_data_fetcher.rb'
+      teams = YahooDataFetcher::Teams.new
 
-by_team = {}
+      (1..YahooDataFetcher::Teams::NUM_TEAMS).each do |team_index|
+        team_name = teams.index_to_name(team_index)
+        puts("************** #{team_name} **************")
 
-teams = YahooDataFetcher::Teams.new
+        week_2_data = YahooDataFetcher::WeeklyRosterStats.fetch_offense_stats(2, team_index)
 
-(1..YahooDataFetcher::Teams::NUM_TEAMS).each do |team_index|
-  team_name = teams.index_to_name(team_index)
-  puts("************** #{team_name} **************")
+        total_targets = 0
+        total_receptions = 0
 
-  week_2_data = YahooDataFetcher::WeeklyRosterStats.fetch_offense_stats(2, team_index)
+        week_2_data.each do |player|
+          next unless player[:roster_position] == 'WR'
 
-  total_targets = 0
-  total_receptions = 0
+          player_name = player[:player_name]
+          targets = player[:receiving_targets]
+          receptions = player[:receiving_receptions]
 
-  week_2_data.each do |player|
-    next unless player[:roster_position] == 'WR'
+          puts "#{player_name} caught #{receptions} of #{targets} targets"
 
-    player_name = player[:player_name]
-    targets = player[:receiving_targets]
-    receptions = player[:receiving_receptions]
+          total_targets += targets
+          total_receptions += receptions
+        end
 
-    puts "#{player_name} caught #{receptions} of #{targets} targets"
+        catch_pct = (100 * total_receptions / total_targets.to_f).round(2)
 
-    total_targets += targets
-    total_receptions += receptions
+        puts "\n#{team_name}'s WRs had an overall catch percentage of #{catch_pct}% (#{total_receptions} / #{total_targets})\n\n"
+        by_team[team_name] = {
+          receptions: total_receptions,
+          targets: total_targets,
+          catch_pct: catch_pct
+        }
+      end
+
+      puts('************** RESULTS **************')
+      by_team.sort_by { |_, data| -data[:catch_pct] }.each_with_index do |(team, data), index|
+        print("In #{(index + 1).ordinalize} place: #{team}, who had an overall catch percentage of #{data[:catch_pct]}%")
+        puts(" (#{data[:receptions]} / #{data[:targets]})")
+      end
+    end
   end
-
-  catch_pct = (100 * total_receptions / total_targets.to_f).round(2)
-
-  puts "\n#{team_name}'s WRs had an overall catch percentage of #{catch_pct}% (#{total_receptions} / #{total_targets})\n\n"
-  by_team[team_name] = {
-    receptions: total_receptions,
-    targets: total_targets,
-    catch_pct: catch_pct
-  }
-end
-
-puts('************** RESULTS **************')
-by_team.sort_by { |_, data| -data[:catch_pct] }.each_with_index do |(team, data), index|
-  print("In #{(index + 1).ordinalize} place: #{team}, who had an overall catch percentage of #{data[:catch_pct]}%")
-  puts(" (#{data[:receptions]} / #{data[:targets]})")
 end

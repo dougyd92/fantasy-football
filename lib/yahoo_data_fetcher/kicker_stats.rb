@@ -1,10 +1,9 @@
 # frozen_string_literal: true
 
-require 'net/http'
-
 module YahooDataFetcher
   class KickerStats
     attr_reader :data
+
     def initialize(player_id)
       @data = fetch_stats(player_id)
     end
