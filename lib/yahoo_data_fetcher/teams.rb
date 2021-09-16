@@ -4,8 +4,9 @@ module YahooDataFetcher
   class Teams
     NUM_TEAMS = 12
 
-    def initialize
+    def initialize(league_id)
       @data = fetch_teams_data
+      @league_id = league_id
     end
 
     def index_to_name(index)
@@ -20,7 +21,7 @@ module YahooDataFetcher
 
     def fetch_teams_data
       (1..NUM_TEAMS).collect do |team_index|
-        team_page = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}").read)
+        team_page = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/#{@league_id}/#{team_index}").read)
         team_page.title.split('-')[1..].join('-').split('|').first.strip
       end
     end

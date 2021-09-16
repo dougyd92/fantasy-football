@@ -3,8 +3,10 @@
 module YahooDataFetcher
   class DraftResults
     attr_reader :data
-    def initialize
+
+    def initialize(league_id)
       @data = fetch_draft_data
+      @league_id = league_id
     end
 
     def price_for_player(player_id)
@@ -25,7 +27,7 @@ module YahooDataFetcher
     end
 
     def fetch_draft_data
-      draft_results = Nokogiri::HTML(URI.open('https://football.fantasysports.yahoo.com/f1/810182/draftresults').read)
+      draft_results = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/#{@league_id}/draftresults").read)
       rows = draft_results.css('table')[0].css('tbody tr')
 
       data = {}

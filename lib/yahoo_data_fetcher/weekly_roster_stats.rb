@@ -2,10 +2,10 @@
 
 module YahooDataFetcher
   class WeeklyRosterStats
-    def self.fetch_offense_stats(week, team_index)
+    def self.fetch_offense_stats(week, team_index, league_id)
       player_data = []
 
-      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}/team?&week=#{week}"))
+      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/#{league_id}/#{team_index}/team?&week=#{week}"))
       rows = roster_doc.css('table#statTable0 tbody').children
       rows.each do |row|
         player_data.append(
@@ -33,10 +33,10 @@ module YahooDataFetcher
       player_data
     end
 
-    def self.fetch_kicker_stats(week, team_index)
+    def self.fetch_kicker_stats(week, team_index, league_id)
       player_data = []
 
-      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}/team?&week=#{week}"))
+      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/#{league_id}/#{team_index}/team?&week=#{week}"))
       rows = roster_doc.css('table#statTable1 tbody').children
       rows.each do |row|
         player_data.append(
@@ -54,10 +54,10 @@ module YahooDataFetcher
       player_data
     end
 
-    def self.fetch_defense_stats(week, team_index)
+    def self.fetch_defense_stats(week, team_index, league_id)
       player_data = []
 
-      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/810182/#{team_index}/team?&week=#{week}"))
+      roster_doc = Nokogiri::HTML(URI.open("https://football.fantasysports.yahoo.com/f1/#{league_id}/#{team_index}/team?&week=#{week}"))
       rows = roster_doc.css('table#statTable2 tbody').children
       rows.each do |row|
         next if row.children[5].text == 'Bye'
