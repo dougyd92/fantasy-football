@@ -2,35 +2,101 @@
 
 module YahooDataFetcher
   class PlayerHistory
-    attr_reader :data
+    def initialize(client, week)
+      @client = client
+      @players = {}
 
-    def initialize(player_id, league_id)
-      @data = fetch_player_history(player_id)
-      @league_id = league_id
+      apply_draft_results
+      apply_transactions_through_week(week)
     end
 
-    def fetch_player_history(player_id)
-      response = Net::HTTP.get_response(URI.parse("https://football.fantasysports.yahoo.com/f1/#{@league_id}/playernote?init=0&view=history&pid=#{player_id}"))
-      doc = Nokogiri::HTML(JSON.parse(response.body)['content'])
-      rows = doc.css('tr')[1..]
-      rows.map do |row|
-        {
-          date: row.children[1].text,
-          event: row.children[3].text
+    def apply_draft_results
+      draft_results = @client.fetch_draft_results
+      draft_results.each do |dr|
+        @players[dr['player_key']] = {
+          team: dr['team_key'],
+          salary: dr['cost'].to_i,
+          acquistion: 'drafted',
+          keeper: false
         }
+      end
+
+      # TODO: figure out more elegant pagination
+      keepers = @client.fetch_keepers(0) + @client.fetch_keepers(25)
+      keepers.each do |k|
+        @players[k['player_key']][:keeper] = true
       end
     end
 
-    def most_recent_event
-      @data.first[:event]
+    def apply_transactions_through_week(week)
+      cutoff_date_string = @client.fetch_weeks.select { |w| w['week'] == week.to_s }.first['end']
+      cutoff_datetime = Time.strptime(cutoff_date_string, '%Y-%m-%d')
+
+      transactions = @client.fetch_transactions
+      transactions.sort_by { |tx| tx['timestamp'].to_i }
+                  .select { |tx| Time.at(tx['timestamp'].to_i) < cutoff_datetime }
+                  .each do |tx|
+        raise "Encountered an unsuccessful transaction: #{tx}" if tx['status'] != 'successful'
+
+        case tx['type']
+        when 'add/drop'
+          tx['players']['player'].each do |txp|
+            case txp['transaction_data']['type']
+            when 'add'
+              @players[txp['player_key']] = {
+                team: txp['transaction_data']['destination_team_key'],
+                salary: tx['faab_bid'].to_i,
+                acquistion: txp['transaction_data']['source_type'],
+                keeper: false
+              }
+            when 'drop'
+              @players.delete(txp['player_key'])
+            else
+              raise "Encountered an unexpected transaction type: #{tx}"
+            end
+          end
+        when 'trade'
+          tx['players']['player'].each do |txp|
+            @players[txp['player_key']][:team] = txp['transaction_data']['destination_team_key']
+            @players[txp['player_key']][:acquistion] = 'trade'
+            @players[txp['player_key']][:trade_source_team_name] = txp['transaction_data']['source_team_name']
+            @players[txp['player_key']][:keeper] = false
+          end
+        when 'commish'
+          # Not sure what these are, but they all appeared before the draft
+          raise "Commish transaction occured during season: #{tx}" if tx['timestamp'].to_i > 1_630_189_449
+        else
+          raise "Encountered an unexpected transaction type: #{tx}"
+        end
+      end
     end
 
-    def acquired_in_trade?
-      most_recent_event.start_with?('Traded')
+    def salary(player_key)
+      @players[player_key][:salary]
     end
 
-    def owned_since_draft?
-      most_recent_event.start_with?('Drafted')
+    def salary_human_readable(player_key)
+      player_salary = salary(player_key)
+      case acquistion(player_key)
+      when 'drafted'
+        "Drafted for $#{player_salary}"
+      when 'waivers'
+        "Claimed from waivers; $#{player_salary} bid"
+      when 'freeagents'
+        'Claimed from waivers; free agent'
+      when 'trade'
+        "Traded from #{@players[player_key][:trade_source_team_name]}; $#{player_salary} salary carries over"
+      else
+        raise "Encountered an unexpected acquisition type: #{@players[player_key]}"
+      end
+    end
+
+    def acquistion(player_key)
+      @players[player_key][:acquistion]
+    end
+
+    def keeper?(player_key)
+      @players[player_key][:keeper]
     end
   end
 end

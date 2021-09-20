@@ -3,6 +3,8 @@ require 'bundler/setup'
 
 Bundler.require(:default)
 
+require 'dotenv/load'
+
 require_all 'lib'
 
 # require 'active_support/core_ext/integer/inflections'
