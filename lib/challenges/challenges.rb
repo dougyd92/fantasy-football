@@ -12,7 +12,7 @@ module Challenges
   def self.get_challenge_by_name(challenge_name)
     case challenge_name.downcase
     when 'moneyball2'
-      MoneyBall2.new
+      Moneyball2.new
     end
   end
 end
