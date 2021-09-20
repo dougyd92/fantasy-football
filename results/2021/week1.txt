@@ -3,216 +3,216 @@ Moneyball2: Highest total team points divided by total team salary.
 
 Odellta Variant
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Ryan Tannehill         | QB    | 17.18 |  1.91 | Drafted for $9                  
-Jerry Jeudy            | WR    | 10.20 |  2.04 | Drafted for $5                  
-Tyreek Hill            | WR    | 31.60 |  0.35 | Drafted for $90                 
-Marquez Callaway       | WR    |  1.90 |  0.19 | Drafted for $10                 
-Aaron Jones            | RB    |  3.20 |  0.12 | Drafted for $27                 
-Jonathan Taylor        | RB    | 14.60 |  0.23 | Drafted for $64                 
-Noah Fant              | TE    |  9.20 |  0.54 | Drafted for $17                 
-Kareem Hunt            | W/R/T | 15.60 |  0.49 | Drafted for $32                 
-Harrison Butker        | K     | 10.00 |  5.00 | Drafted for $2                  
-Washington             | DEF   |  7.00 |  1.75 | Drafted for $4                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Ryan Tannehill         | QB    | 17.18 |  1.91 | Drafted for $9      
+Jerry Jeudy            | WR    | 10.20 |  2.04 | Kept for $5         
+Tyreek Hill            | WR    | 31.60 |  0.35 | Drafted for $90     
+Marquez Callaway       | WR    |  1.90 |  0.19 | Drafted for $10     
+Aaron Jones            | RB    |  3.20 |  0.12 | Kept for $27        
+Jonathan Taylor        | RB    | 14.60 |  0.23 | Kept for $64        
+Noah Fant              | TE    |  9.20 |  0.54 | Drafted for $17     
+Kareem Hunt            | W/R/T | 15.60 |  0.49 | Drafted for $32     
+Harrison Butker        | K     | 10.00 |  5.00 | Drafted for $2      
+Washington             | DEF   |  7.00 |  1.75 | Drafted for $4      
 Total score: 120.48
 Total salary for starters: 260
 Moneyball ratio: 0.463 points scored per dollar spent
 
 Tiz the Law(rence)
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Trevor Lawrence        | QB    | 28.08 |  4.01 | Drafted for $7                  
-Davante Adams          | WR    |  8.10 |  0.14 | Drafted for $60                 
-DJ Moore               | WR    | 12.40 |  0.48 | Drafted for $26                 
-Mecole Hardman         | WR    |  3.40 |  0.57 | Drafted for $6                  
-Miles Sanders          | RB    | 15.30 |  0.37 | Drafted for $41                 
-Najee Harris           | RB    |  5.40 |  0.07 | Drafted for $78                 
-Kyle Pitts             | TE    |  5.10 |  0.13 | Drafted for $40                 
-Elijah Moore           | W/R/T |  0.20 |  0.10 | Drafted for $2                  
-Tyler Bass             | K     | 11.00 | 11.00 | Drafted for $1                  
-Baltimore              | DEF   |  4.00 |  2.00 | Drafted for $2                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Trevor Lawrence        | QB    | 28.08 |  4.01 | Drafted for $7      
+Davante Adams          | WR    |  8.10 |  0.14 | Kept for $60        
+DJ Moore               | WR    | 12.40 |  0.48 | Kept for $26        
+Mecole Hardman         | WR    |  3.40 |  0.57 | Drafted for $6      
+Miles Sanders          | RB    | 15.30 |  0.37 | Kept for $41        
+Najee Harris           | RB    |  5.40 |  0.07 | Drafted for $78     
+Kyle Pitts             | TE    |  5.10 |  0.13 | Drafted for $40     
+Elijah Moore           | W/R/T |  0.20 |  0.10 | Drafted for $2      
+Tyler Bass             | K     | 11.00 | 11.00 | Drafted for $1      
+Baltimore              | DEF   |  4.00 |  2.00 | Drafted for $2      
 Total score: 92.98
 Total salary for starters: 263
 Moneyball ratio: 0.354 points scored per dollar spent
 
 Chi ShingT's Team
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Patrick Mahomes        | QB    | 39.28 |  1.64 | Drafted for $24                 
-Chris Godwin           | WR    | 19.00 |  0.33 | Drafted for $57                 
-CeeDee Lamb            | WR    | 19.90 |  0.87 | Drafted for $23                 
-Robby Anderson         | WR    | 12.20 |  2.03 | Drafted for $6                  
-Joe Mixon              | RB    | 23.00 |  0.32 | Drafted for $72                 
-Ronald Jones II        | RB    | -0.60 | -0.03 | Drafted for $18                 
-Tyler Higbee           | TE    |  9.30 |  0.37 | Drafted for $25                 
-DeVonta Smith          | W/R/T | 16.10 |  1.34 | Drafted for $12                 
-Matt Gay               | K     | 12.00 | 12.00 | Drafted for $1                  
-Los Angeles            | DEF   |  8.00 |  2.00 | Drafted for $4                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Patrick Mahomes        | QB    | 39.28 |  1.64 | Kept for $24        
+Chris Godwin           | WR    | 19.00 |  0.33 | Drafted for $57     
+CeeDee Lamb            | WR    | 19.90 |  0.87 | Kept for $23        
+Robby Anderson         | WR    | 12.20 |  2.03 | Kept for $6         
+Joe Mixon              | RB    | 23.00 |  0.32 | Kept for $72        
+Ronald Jones II        | RB    | -0.60 | -0.03 | Drafted for $18     
+Tyler Higbee           | TE    |  9.30 |  0.37 | Drafted for $25     
+DeVonta Smith          | W/R/T | 16.10 |  1.34 | Drafted for $12     
+Matt Gay               | K     | 12.00 | 12.00 | Drafted for $1      
+Los Angeles            | DEF   |  8.00 |  2.00 | Drafted for $4      
 Total score: 158.18
 Total salary for starters: 242
 Moneyball ratio: 0.654 points scored per dollar spent
 
 Kamara Sutra
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Dak Prescott           | QB    | 34.42 |  6.88 | Drafted for $5                  
-A.J. Brown             | WR    | 12.90 |  0.72 | Drafted for $18                 
-JuJu Smith-Schuster    | WR    |  7.20 |  0.19 | Drafted for $37                 
-Mike Williams          | WR    | 18.20 |  1.40 | Drafted for $13                 
-Alvin Kamara           | RB    | 16.60 |  0.46 | Drafted for $36                 
-Christian McCaffrey    | RB    | 23.20 |  0.19 | Drafted for $125                
-George Kittle          | TE    |  9.80 |  0.36 | Drafted for $27                 
-Javonte Williams       | W/R/T |  4.60 |  0.18 | Drafted for $25                 
-Jason Myers            | K     |  4.00 |   Inf | Claimed from waivers; free agent
-Miami                  | DEF   |  6.00 |   Inf | Claimed from waivers; free agent
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Dak Prescott           | QB    | 34.42 |  6.88 | Kept for $5         
+A.J. Brown             | WR    | 12.90 |  0.72 | Kept for $18        
+JuJu Smith-Schuster    | WR    |  7.20 |  0.19 | Drafted for $37     
+Mike Williams          | WR    | 18.20 |  1.40 | Drafted for $13     
+Alvin Kamara           | RB    | 16.60 |  0.46 | Kept for $36        
+Christian McCaffrey    | RB    | 23.20 |  0.19 | Drafted for $125    
+George Kittle          | TE    |  9.80 |  0.36 | Kept for $27        
+Javonte Williams       | W/R/T |  4.60 |  0.18 | Drafted for $25     
+Jason Myers            | K     |  4.00 |   Inf | Waivers; free agent 
+Miami                  | DEF   |  6.00 |   Inf | Waivers; free agent 
 Total score: 136.92
 Total salary for starters: 286
 Moneyball ratio: 0.479 points scored per dollar spent
 
 Scrotal Recall
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Russell Wilson         | QB    | 35.06 |  1.25 | Drafted for $28                 
-DK Metcalf             | WR    | 14.00 |  1.17 | Drafted for $12                 
-Stefon Diggs           | WR    | 11.40 |  0.25 | Drafted for $46                 
-Corey Davis            | WR    | 24.20 |  1.34 | Drafted for $18                 
-Austin Ekeler          | RB    | 11.70 |  0.53 | Drafted for $22                 
-Clyde Edwards-Helaire  | RB    |  8.70 |  0.13 | Drafted for $68                 
-Dallas Goedert         | TE    | 12.20 |  0.94 | Drafted for $13                 
-Myles Gaskin           | W/R/T | 10.10 |  0.92 | Drafted for $11                 
-Ryan Succop            | K     |  7.00 |  7.00 | Drafted for $1                  
-Buffalo                | DEF   |  2.00 |  2.00 | Drafted for $1                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Russell Wilson         | QB    | 35.06 |  1.25 | Drafted for $28     
+DK Metcalf             | WR    | 14.00 |  1.17 | Kept for $12        
+Stefon Diggs           | WR    | 11.40 |  0.25 | Kept for $46        
+Corey Davis            | WR    | 24.20 |  1.34 | Drafted for $18     
+Austin Ekeler          | RB    | 11.70 |  0.53 | Kept for $22        
+Clyde Edwards-Helaire  | RB    |  8.70 |  0.13 | Drafted for $68     
+Dallas Goedert         | TE    | 12.20 |  0.94 | Drafted for $13     
+Myles Gaskin           | W/R/T | 10.10 |  0.92 | Kept for $11        
+Ryan Succop            | K     |  7.00 |  7.00 | Drafted for $1      
+Buffalo                | DEF   |  2.00 |  2.00 | Drafted for $1      
 Total score: 136.36
 Total salary for starters: 220
 Moneyball ratio: 0.620 points scored per dollar spent
 
 Long Live The King 👑
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Ryan Fitzpatrick       | QB    |  0.72 |  0.72 | Drafted for $1                  
-Terry McLaurin         | WR    |  8.20 |  0.17 | Drafted for $49                 
-Adam Thielen           | WR    | 25.70 |  0.52 | Drafted for $49                 
-Marquise Brown         | WR    | 16.40 |  8.20 | Drafted for $2                  
-Derrick Henry          | RB    |  9.20 |  0.16 | Drafted for $56                 
-Saquon Barkley         | RB    |  3.20 |  0.04 | Drafted for $79                 
-Logan Thomas           | TE    | 10.50 |  0.58 | Drafted for $18                 
-James Conner           | W/R/T |  5.30 |  0.33 | Drafted for $16                 
-Rodrigo Blankenship    | K     |  4.00 |   Inf | Claimed from waivers; free agent
-San Francisco          | DEF   | 10.00 |  5.00 | Drafted for $2                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Ryan Fitzpatrick       | QB    |  0.72 |  0.72 | Drafted for $1      
+Terry McLaurin         | WR    |  8.20 |  0.17 | Kept for $49        
+Adam Thielen           | WR    | 25.70 |  0.52 | Drafted for $49     
+Marquise Brown         | WR    | 16.40 |  8.20 | Drafted for $2      
+Derrick Henry          | RB    |  9.20 |  0.16 | Kept for $56        
+Saquon Barkley         | RB    |  3.20 |  0.04 | Drafted for $79     
+Logan Thomas           | TE    | 10.50 |  0.58 | Drafted for $18     
+James Conner           | W/R/T |  5.30 |  0.33 | Drafted for $16     
+Rodrigo Blankenship    | K     |  4.00 |   Inf | Waivers; free agent 
+San Francisco          | DEF   | 10.00 |  5.00 | Drafted for $2      
 Total score: 93.22
 Total salary for starters: 272
 Moneyball ratio: 0.343 points scored per dollar spent
 
 Raider Bae
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Lamar Jackson          | QB    | 20.00 |  0.43 | Drafted for $47                 
-Tyrell Williams        | WR    |  2.40 |   Inf | Claimed from waivers; free agent
-Cooper Kupp            | WR    | 20.30 |  0.78 | Drafted for $26                 
-Mike Evans             | WR    |  3.90 |  0.08 | Drafted for $48                 
-Mike Davis             | RB    |  8.70 |  0.26 | Drafted for $33                 
-Josh Jacobs            | RB    | 16.50 |  0.43 | Drafted for $38                 
-Darren Waller          | TE    | 21.50 |  0.38 | Drafted for $56                 
-Cole Beasley           | W/R/T | 10.00 |  5.00 | Drafted for $2                  
-Justin Tucker          | K     | 11.00 |  5.50 | Drafted for $2                  
-New England            | DEF   |  5.00 |   Inf | Claimed from waivers; free agent
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Lamar Jackson          | QB    | 20.00 |  0.43 | Drafted for $47     
+Tyrell Williams        | WR    |  2.40 |   Inf | Waivers; free agent 
+Cooper Kupp            | WR    | 20.30 |  0.78 | Kept for $26        
+Mike Evans             | WR    |  3.90 |  0.08 | Drafted for $48     
+Mike Davis             | RB    |  8.70 |  0.26 | Drafted for $33     
+Josh Jacobs            | RB    | 16.50 |  0.43 | Drafted for $38     
+Darren Waller          | TE    | 21.50 |  0.38 | Kept for $56        
+Cole Beasley           | W/R/T | 10.00 |  5.00 | Drafted for $2      
+Justin Tucker          | K     | 11.00 |  5.50 | Drafted for $2      
+New England            | DEF   |  5.00 |   Inf | Waivers; free agent 
 Total score: 119.3
 Total salary for starters: 252
 Moneyball ratio: 0.473 points scored per dollar spent
 
 G
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Jalen Hurts            | QB    | 34.76 |  4.97 | Drafted for $7                  
-Justin Jefferson       | WR    | 10.04 |  1.12 | Drafted for $9                  
-Calvin Ridley          | WR    |  7.60 |  0.16 | Drafted for $48                 
-Keenan Allen           | WR    | 14.50 |  0.28 | Drafted for $51                 
-Chris Carson           | RB    | 11.20 |  0.24 | Drafted for $46                 
-Raheem Mostert         | RB    |  2.00 |  0.13 | Drafted for $15                 
-Mark Andrews           | TE    |  3.50 |  0.11 | Drafted for $31                 
-Antonio Brown          | W/R/T | 21.20 |  1.41 | Drafted for $15                 
-Greg Zuerlein          | K     | 12.00 | 12.00 | Drafted for $1                  
-Green Bay              | DEF   | -4.00 |  -Inf | Claimed from waivers; free agent
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Jalen Hurts            | QB    | 34.76 |  4.97 | Drafted for $7      
+Justin Jefferson       | WR    | 10.04 |  1.12 | Kept for $9         
+Calvin Ridley          | WR    |  7.60 |  0.16 | Kept for $48        
+Keenan Allen           | WR    | 14.50 |  0.28 | Drafted for $51     
+Chris Carson           | RB    | 11.20 |  0.24 | Kept for $46        
+Raheem Mostert         | RB    |  2.00 |  0.13 | Drafted for $15     
+Mark Andrews           | TE    |  3.50 |  0.11 | Drafted for $31     
+Antonio Brown          | W/R/T | 21.20 |  1.41 | Drafted for $15     
+Greg Zuerlein          | K     | 12.00 | 12.00 | Drafted for $1      
+Green Bay              | DEF   | -4.00 |  -Inf | Waivers; free agent 
 Total score: 112.8
 Total salary for starters: 223
 Moneyball ratio: 0.506 points scored per dollar spent
 
 Zeke and Ye Shall Find
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Justin Herbert         | QB    | 16.38 |  3.28 | Drafted for $5                  
-Amari Cooper           | WR    | 32.40 |  0.79 | Drafted for $41                 
-DeAndre Hopkins        | WR    | 23.30 |  0.26 | Drafted for $90                 
-Julio Jones            | WR    |  4.40 |  0.10 | Drafted for $42                 
-James Robinson         | RB    |  6.90 |  1.38 | Drafted for $5                  
-Ezekiel Elliott        | RB    |  4.90 |  0.06 | Drafted for $87                 
-Robert Tonyan          | TE    |  1.80 |  0.22 | Drafted for $8                  
-Jakobi Meyers          | W/R/T |  7.40 |  7.40 | Drafted for $1                  
-Jason Sanders          | K     |  6.00 |  6.00 | Drafted for $1                  
-Carolina               | DEF   |  9.00 |  9.00 | Drafted for $1                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Justin Herbert         | QB    | 16.38 |  3.28 | Kept for $5         
+Amari Cooper           | WR    | 32.40 |  0.79 | Drafted for $41     
+DeAndre Hopkins        | WR    | 23.30 |  0.26 | Drafted for $90     
+Julio Jones            | WR    |  4.40 |  0.10 | Drafted for $42     
+James Robinson         | RB    |  6.90 |  1.38 | Kept for $5         
+Ezekiel Elliott        | RB    |  4.90 |  0.06 | Drafted for $87     
+Robert Tonyan          | TE    |  1.80 |  0.22 | Kept for $8         
+Jakobi Meyers          | W/R/T |  7.40 |  7.40 | Drafted for $1      
+Jason Sanders          | K     |  6.00 |  6.00 | Drafted for $1      
+Carolina               | DEF   |  9.00 |  9.00 | Drafted for $1      
 Total score: 112.48
 Total salary for starters: 281
 Moneyball ratio: 0.400 points scored per dollar spent
 
 Joelster
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Aaron Rodgers          | QB    |  3.32 |  0.22 | Drafted for $15                 
-Allen Robinson II      | WR    |  6.50 |  0.11 | Drafted for $58                 
-Diontae Johnson        | WR    | 12.10 |  0.33 | Drafted for $37                 
-Tee Higgins            | WR    | 13.80 |  0.49 | Drafted for $28                 
-David Montgomery       | RB    | 18.30 |  0.34 | Drafted for $54                 
-Darrell Henderson Jr.  | RB    | 15.20 |  0.95 | Drafted for $16                 
-T.J. Hockenson         | TE    | 21.70 |  2.17 | Drafted for $10                 
-D'Andre Swift          | W/R/T | 20.40 |  0.47 | Drafted for $43                 
-Younghoe Koo           | K     |  6.00 |  1.20 | Drafted for $5                  
-Denver                 | DEF   |  8.00 |  2.67 | Drafted for $3                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Aaron Rodgers          | QB    |  3.32 |  0.22 | Kept for $15        
+Allen Robinson II      | WR    |  6.50 |  0.11 | Drafted for $58     
+Diontae Johnson        | WR    | 12.10 |  0.33 | Drafted for $37     
+Tee Higgins            | WR    | 13.80 |  0.49 | Drafted for $28     
+David Montgomery       | RB    | 18.30 |  0.34 | Kept for $54        
+Darrell Henderson Jr.  | RB    | 15.20 |  0.95 | Kept for $16        
+T.J. Hockenson         | TE    | 21.70 |  2.17 | Kept for $10        
+D'Andre Swift          | W/R/T | 20.40 |  0.47 | Drafted for $43     
+Younghoe Koo           | K     |  6.00 |  1.20 | Drafted for $5      
+Denver                 | DEF   |  8.00 |  2.67 | Drafted for $3      
 Total score: 125.32
 Total salary for starters: 269
 Moneyball ratio: 0.466 points scored per dollar spent
 
 Nags
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Tom Brady              | QB    | 37.16 |  2.86 | Drafted for $13                 
-Robert Woods           | WR    | 10.90 |  0.27 | Drafted for $40                 
-Brandon Aiyuk          | WR    |  0.00 |  0.00 | Drafted for $9                  
-Laviska Shenault Jr.   | WR    |  9.40 |  0.94 | Drafted for $10                 
-Dalvin Cook            | RB    | 17.40 |  0.16 | Drafted for $111                
-Nick Chubb             | RB    | 21.10 |  0.88 | Drafted for $24                 
-Travis Kelce           | TE    | 22.60 |  0.31 | Drafted for $73                 
-Chase Claypool         | W/R/T |  8.50 |  1.70 | Drafted for $5                  
-Daniel Carlson         | K     | 11.00 |   Inf | Claimed from waivers; free agent
-Tampa Bay              | DEF   |  2.00 |  0.50 | Drafted for $4                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Tom Brady              | QB    | 37.16 |  2.86 | Drafted for $13     
+Robert Woods           | WR    | 10.90 |  0.27 | Drafted for $40     
+Brandon Aiyuk          | WR    |  0.00 |  0.00 | Kept for $9         
+Laviska Shenault Jr.   | WR    |  9.40 |  0.94 | Drafted for $10     
+Dalvin Cook            | RB    | 17.40 |  0.16 | Drafted for $111    
+Nick Chubb             | RB    | 21.10 |  0.88 | Kept for $24        
+Travis Kelce           | TE    | 22.60 |  0.31 | Kept for $73        
+Chase Claypool         | W/R/T |  8.50 |  1.70 | Kept for $5         
+Daniel Carlson         | K     | 11.00 |   Inf | Waivers; free agent 
+Tampa Bay              | DEF   |  2.00 |  0.50 | Drafted for $4      
 Total score: 140.06
 Total salary for starters: 289
 Moneyball ratio: 0.485 points scored per dollar spent
 
 Pop Drop and Lockett
 Starting players:
-NAME                   | POS   | PTS   | RATIO | ACQUISITION                     
------------------------|-------|-------|-------|---------------------------------
-Kyler Murray           | QB    | 42.56 |  1.77 | Drafted for $24                 
-Tyler Lockett          | WR    | 24.00 |  0.75 | Drafted for $32                 
-Tyler Boyd             | WR    |  4.70 |  0.26 | Drafted for $18                 
-Michael Gallup         | WR    |  5.60 |  0.51 | Drafted for $11                 
-Antonio Gibson         | RB    | 10.30 |  0.38 | Drafted for $27                 
-Damien Harris          | RB    | 10.70 |  0.47 | Drafted for $23                 
-Tyler Conklin          | TE    |  6.10 |   Inf | Claimed from waivers; free agent
-Ty'Son Williams        | W/R/T | 16.90 |  2.41 | Claimed from waivers; $7 bid    
-Robbie Gould           | K     | 14.00 | 14.00 | Drafted for $1                  
-Kansas City            | DEF   |  5.00 |  2.50 | Drafted for $2                  
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Kyler Murray           | QB    | 42.56 |  1.77 | Kept for $24        
+Tyler Lockett          | WR    | 24.00 |  0.75 | Kept for $32        
+Tyler Boyd             | WR    |  4.70 |  0.26 | Drafted for $18     
+Michael Gallup         | WR    |  5.60 |  0.51 | Drafted for $11     
+Antonio Gibson         | RB    | 10.30 |  0.38 | Kept for $27        
+Damien Harris          | RB    | 10.70 |  0.47 | Drafted for $23     
+Tyler Conklin          | TE    |  6.10 |   Inf | Waivers; free agent 
+Ty'Son Williams        | W/R/T | 16.90 |  2.41 | Waivers; $7 bid     
+Robbie Gould           | K     | 14.00 | 14.00 | Drafted for $1      
+Kansas City            | DEF   |  5.00 |  2.50 | Drafted for $2      
 Total score: 139.86
 Total salary for starters: 145
 Moneyball ratio: 0.965 points scored per dollar spent
@@ -234,125 +234,125 @@ RANK | TEAM_NAME              | CHALLENGE_RATING
 12   | Long Live The King 👑   | 0.3427205882352941 
 
 ************** All players **************
-RANK | NAME                   | POS   | PTS   | RATIO | ACQUISITION                      | TEAM                            
------|------------------------|-------|-------|-------|----------------------------------|---------------------------------
-1    | Jason Myers            | K     |  4.00 |   Inf | Claimed from waivers; free agent | Kamara Sutra                    
-2    | Tyler Conklin          | TE    |  6.10 |   Inf | Claimed from waivers; free agent | Pop Drop and Lockett            
-3    | Daniel Carlson         | K     | 11.00 |   Inf | Claimed from waivers; free agent | Nags                            
-4    | New England            | DEF   |  5.00 |   Inf | Claimed from waivers; free agent | Raider Bae                      
-5    | Tyrell Williams        | WR    |  2.40 |   Inf | Claimed from waivers; free agent | Raider Bae                      
-6    | Rodrigo Blankenship    | K     |  4.00 |   Inf | Claimed from waivers; free agent | Long Live The King 👑            
-7    | Miami                  | DEF   |  6.00 |   Inf | Claimed from waivers; free agent | Kamara Sutra                    
-8    | Robbie Gould           | K     | 14.00 | 14.00 | Drafted for $1                   | Pop Drop and Lockett            
-9    | Greg Zuerlein          | K     | 12.00 | 12.00 | Drafted for $1                   | G                               
-10   | Matt Gay               | K     | 12.00 | 12.00 | Drafted for $1                   | Chi ShingT's Team               
-11   | Tyler Bass             | K     | 11.00 | 11.00 | Drafted for $1                   | Tiz the Law(rence)              
-12   | Carolina               | DEF   |  9.00 |  9.00 | Drafted for $1                   | Zeke and Ye Shall Find          
-13   | Marquise Brown         | WR    | 16.40 |  8.20 | Drafted for $2                   | Long Live The King 👑            
-14   | Jakobi Meyers          | W/R/T |  7.40 |  7.40 | Drafted for $1                   | Zeke and Ye Shall Find          
-15   | Ryan Succop            | K     |  7.00 |  7.00 | Drafted for $1                   | Scrotal Recall                  
-16   | Dak Prescott           | QB    | 34.42 |  6.88 | Drafted for $5                   | Kamara Sutra                    
-17   | Jason Sanders          | K     |  6.00 |  6.00 | Drafted for $1                   | Zeke and Ye Shall Find          
-18   | Justin Tucker          | K     | 11.00 |  5.50 | Drafted for $2                   | Raider Bae                      
-19   | San Francisco          | DEF   | 10.00 |  5.00 | Drafted for $2                   | Long Live The King 👑            
-20   | Harrison Butker        | K     | 10.00 |  5.00 | Drafted for $2                   | Odellta Variant                 
-21   | Cole Beasley           | W/R/T | 10.00 |  5.00 | Drafted for $2                   | Raider Bae                      
-22   | Jalen Hurts            | QB    | 34.76 |  4.97 | Drafted for $7                   | G                               
-23   | Trevor Lawrence        | QB    | 28.08 |  4.01 | Drafted for $7                   | Tiz the Law(rence)              
-24   | Justin Herbert         | QB    | 16.38 |  3.28 | Drafted for $5                   | Zeke and Ye Shall Find          
-25   | Tom Brady              | QB    | 37.16 |  2.86 | Drafted for $13                  | Nags                            
-26   | Denver                 | DEF   |  8.00 |  2.67 | Drafted for $3                   | Joelster                        
-27   | Kansas City            | DEF   |  5.00 |  2.50 | Drafted for $2                   | Pop Drop and Lockett            
-28   | Ty'Son Williams        | W/R/T | 16.90 |  2.41 | Claimed from waivers; $7 bid     | Pop Drop and Lockett            
-29   | T.J. Hockenson         | TE    | 21.70 |  2.17 | Drafted for $10                  | Joelster                        
-30   | Jerry Jeudy            | WR    | 10.20 |  2.04 | Drafted for $5                   | Odellta Variant                 
-31   | Robby Anderson         | WR    | 12.20 |  2.03 | Drafted for $6                   | Chi ShingT's Team               
-32   | Los Angeles            | DEF   |  8.00 |  2.00 | Drafted for $4                   | Chi ShingT's Team               
-33   | Baltimore              | DEF   |  4.00 |  2.00 | Drafted for $2                   | Tiz the Law(rence)              
-34   | Buffalo                | DEF   |  2.00 |  2.00 | Drafted for $1                   | Scrotal Recall                  
-35   | Ryan Tannehill         | QB    | 17.18 |  1.91 | Drafted for $9                   | Odellta Variant                 
-36   | Kyler Murray           | QB    | 42.56 |  1.77 | Drafted for $24                  | Pop Drop and Lockett            
-37   | Washington             | DEF   |  7.00 |  1.75 | Drafted for $4                   | Odellta Variant                 
-38   | Chase Claypool         | W/R/T |  8.50 |  1.70 | Drafted for $5                   | Nags                            
-39   | Patrick Mahomes        | QB    | 39.28 |  1.64 | Drafted for $24                  | Chi ShingT's Team               
-40   | Antonio Brown          | W/R/T | 21.20 |  1.41 | Drafted for $15                  | G                               
-41   | Mike Williams          | WR    | 18.20 |  1.40 | Drafted for $13                  | Kamara Sutra                    
-42   | James Robinson         | RB    |  6.90 |  1.38 | Drafted for $5                   | Zeke and Ye Shall Find          
-43   | Corey Davis            | WR    | 24.20 |  1.34 | Drafted for $18                  | Scrotal Recall                  
-44   | DeVonta Smith          | W/R/T | 16.10 |  1.34 | Drafted for $12                  | Chi ShingT's Team               
-45   | Russell Wilson         | QB    | 35.06 |  1.25 | Drafted for $28                  | Scrotal Recall                  
-46   | Younghoe Koo           | K     |  6.00 |  1.20 | Drafted for $5                   | Joelster                        
-47   | DK Metcalf             | WR    | 14.00 |  1.17 | Drafted for $12                  | Scrotal Recall                  
-48   | Justin Jefferson       | WR    | 10.04 |  1.12 | Drafted for $9                   | G                               
-49   | Darrell Henderson Jr.  | RB    | 15.20 |  0.95 | Drafted for $16                  | Joelster                        
-50   | Laviska Shenault Jr.   | WR    |  9.40 |  0.94 | Drafted for $10                  | Nags                            
-51   | Dallas Goedert         | TE    | 12.20 |  0.94 | Drafted for $13                  | Scrotal Recall                  
-52   | Myles Gaskin           | W/R/T | 10.10 |  0.92 | Drafted for $11                  | Scrotal Recall                  
-53   | Nick Chubb             | RB    | 21.10 |  0.88 | Drafted for $24                  | Nags                            
-54   | CeeDee Lamb            | WR    | 19.90 |  0.87 | Drafted for $23                  | Chi ShingT's Team               
-55   | Amari Cooper           | WR    | 32.40 |  0.79 | Drafted for $41                  | Zeke and Ye Shall Find          
-56   | Cooper Kupp            | WR    | 20.30 |  0.78 | Drafted for $26                  | Raider Bae                      
-57   | Tyler Lockett          | WR    | 24.00 |  0.75 | Drafted for $32                  | Pop Drop and Lockett            
-58   | Ryan Fitzpatrick       | QB    |  0.72 |  0.72 | Drafted for $1                   | Long Live The King 👑            
-59   | A.J. Brown             | WR    | 12.90 |  0.72 | Drafted for $18                  | Kamara Sutra                    
-60   | Logan Thomas           | TE    | 10.50 |  0.58 | Drafted for $18                  | Long Live The King 👑            
-61   | Mecole Hardman         | WR    |  3.40 |  0.57 | Drafted for $6                   | Tiz the Law(rence)              
-62   | Noah Fant              | TE    |  9.20 |  0.54 | Drafted for $17                  | Odellta Variant                 
-63   | Austin Ekeler          | RB    | 11.70 |  0.53 | Drafted for $22                  | Scrotal Recall                  
-64   | Adam Thielen           | WR    | 25.70 |  0.52 | Drafted for $49                  | Long Live The King 👑            
-65   | Michael Gallup         | WR    |  5.60 |  0.51 | Drafted for $11                  | Pop Drop and Lockett            
-66   | Tampa Bay              | DEF   |  2.00 |  0.50 | Drafted for $4                   | Nags                            
-67   | Tee Higgins            | WR    | 13.80 |  0.49 | Drafted for $28                  | Joelster                        
-68   | Kareem Hunt            | W/R/T | 15.60 |  0.49 | Drafted for $32                  | Odellta Variant                 
-69   | DJ Moore               | WR    | 12.40 |  0.48 | Drafted for $26                  | Tiz the Law(rence)              
-70   | D'Andre Swift          | W/R/T | 20.40 |  0.47 | Drafted for $43                  | Joelster                        
-71   | Damien Harris          | RB    | 10.70 |  0.47 | Drafted for $23                  | Pop Drop and Lockett            
-72   | Alvin Kamara           | RB    | 16.60 |  0.46 | Drafted for $36                  | Kamara Sutra                    
-73   | Josh Jacobs            | RB    | 16.50 |  0.43 | Drafted for $38                  | Raider Bae                      
-74   | Lamar Jackson          | QB    | 20.00 |  0.43 | Drafted for $47                  | Raider Bae                      
-75   | Darren Waller          | TE    | 21.50 |  0.38 | Drafted for $56                  | Raider Bae                      
-76   | Antonio Gibson         | RB    | 10.30 |  0.38 | Drafted for $27                  | Pop Drop and Lockett            
-77   | Miles Sanders          | RB    | 15.30 |  0.37 | Drafted for $41                  | Tiz the Law(rence)              
-78   | Tyler Higbee           | TE    |  9.30 |  0.37 | Drafted for $25                  | Chi ShingT's Team               
-79   | George Kittle          | TE    |  9.80 |  0.36 | Drafted for $27                  | Kamara Sutra                    
-80   | Tyreek Hill            | WR    | 31.60 |  0.35 | Drafted for $90                  | Odellta Variant                 
-81   | David Montgomery       | RB    | 18.30 |  0.34 | Drafted for $54                  | Joelster                        
-82   | Chris Godwin           | WR    | 19.00 |  0.33 | Drafted for $57                  | Chi ShingT's Team               
-83   | James Conner           | W/R/T |  5.30 |  0.33 | Drafted for $16                  | Long Live The King 👑            
-84   | Diontae Johnson        | WR    | 12.10 |  0.33 | Drafted for $37                  | Joelster                        
-85   | Joe Mixon              | RB    | 23.00 |  0.32 | Drafted for $72                  | Chi ShingT's Team               
-86   | Travis Kelce           | TE    | 22.60 |  0.31 | Drafted for $73                  | Nags                            
-87   | Keenan Allen           | WR    | 14.50 |  0.28 | Drafted for $51                  | G                               
-88   | Robert Woods           | WR    | 10.90 |  0.27 | Drafted for $40                  | Nags                            
-89   | Mike Davis             | RB    |  8.70 |  0.26 | Drafted for $33                  | Raider Bae                      
-90   | Tyler Boyd             | WR    |  4.70 |  0.26 | Drafted for $18                  | Pop Drop and Lockett            
-91   | DeAndre Hopkins        | WR    | 23.30 |  0.26 | Drafted for $90                  | Zeke and Ye Shall Find          
-92   | Stefon Diggs           | WR    | 11.40 |  0.25 | Drafted for $46                  | Scrotal Recall                  
-93   | Chris Carson           | RB    | 11.20 |  0.24 | Drafted for $46                  | G                               
-94   | Jonathan Taylor        | RB    | 14.60 |  0.23 | Drafted for $64                  | Odellta Variant                 
-95   | Robert Tonyan          | TE    |  1.80 |  0.22 | Drafted for $8                   | Zeke and Ye Shall Find          
-96   | Aaron Rodgers          | QB    |  3.32 |  0.22 | Drafted for $15                  | Joelster                        
-97   | JuJu Smith-Schuster    | WR    |  7.20 |  0.19 | Drafted for $37                  | Kamara Sutra                    
-98   | Marquez Callaway       | WR    |  1.90 |  0.19 | Drafted for $10                  | Odellta Variant                 
-99   | Christian McCaffrey    | RB    | 23.20 |  0.19 | Drafted for $125                 | Kamara Sutra                    
-100  | Javonte Williams       | W/R/T |  4.60 |  0.18 | Drafted for $25                  | Kamara Sutra                    
-101  | Terry McLaurin         | WR    |  8.20 |  0.17 | Drafted for $49                  | Long Live The King 👑            
-102  | Derrick Henry          | RB    |  9.20 |  0.16 | Drafted for $56                  | Long Live The King 👑            
-103  | Calvin Ridley          | WR    |  7.60 |  0.16 | Drafted for $48                  | G                               
-104  | Dalvin Cook            | RB    | 17.40 |  0.16 | Drafted for $111                 | Nags                            
-105  | Davante Adams          | WR    |  8.10 |  0.14 | Drafted for $60                  | Tiz the Law(rence)              
-106  | Raheem Mostert         | RB    |  2.00 |  0.13 | Drafted for $15                  | G                               
-107  | Clyde Edwards-Helaire  | RB    |  8.70 |  0.13 | Drafted for $68                  | Scrotal Recall                  
-108  | Kyle Pitts             | TE    |  5.10 |  0.13 | Drafted for $40                  | Tiz the Law(rence)              
-109  | Aaron Jones            | RB    |  3.20 |  0.12 | Drafted for $27                  | Odellta Variant                 
-110  | Mark Andrews           | TE    |  3.50 |  0.11 | Drafted for $31                  | G                               
-111  | Allen Robinson II      | WR    |  6.50 |  0.11 | Drafted for $58                  | Joelster                        
-112  | Julio Jones            | WR    |  4.40 |  0.10 | Drafted for $42                  | Zeke and Ye Shall Find          
-113  | Elijah Moore           | W/R/T |  0.20 |  0.10 | Drafted for $2                   | Tiz the Law(rence)              
-114  | Mike Evans             | WR    |  3.90 |  0.08 | Drafted for $48                  | Raider Bae                      
-115  | Najee Harris           | RB    |  5.40 |  0.07 | Drafted for $78                  | Tiz the Law(rence)              
-116  | Ezekiel Elliott        | RB    |  4.90 |  0.06 | Drafted for $87                  | Zeke and Ye Shall Find          
-117  | Saquon Barkley         | RB    |  3.20 |  0.04 | Drafted for $79                  | Long Live The King 👑            
-118  | Brandon Aiyuk          | WR    |  0.00 |  0.00 | Drafted for $9                   | Nags                            
-119  | Ronald Jones II        | RB    | -0.60 | -0.03 | Drafted for $18                  | Chi ShingT's Team               
-120  | Green Bay              | DEF   | -4.00 |  -Inf | Claimed from waivers; free agent | G                               
+RANK | NAME                   | POS   | PTS   | RATIO | ACQUISITION          | TEAM                            
+-----|------------------------|-------|-------|-------|----------------------|---------------------------------
+1    | Jason Myers            | K     |  4.00 |   Inf | Waivers; free agent  | Kamara Sutra                    
+2    | Tyler Conklin          | TE    |  6.10 |   Inf | Waivers; free agent  | Pop Drop and Lockett            
+3    | Daniel Carlson         | K     | 11.00 |   Inf | Waivers; free agent  | Nags                            
+4    | New England            | DEF   |  5.00 |   Inf | Waivers; free agent  | Raider Bae                      
+5    | Tyrell Williams        | WR    |  2.40 |   Inf | Waivers; free agent  | Raider Bae                      
+6    | Rodrigo Blankenship    | K     |  4.00 |   Inf | Waivers; free agent  | Long Live The King 👑            
+7    | Miami                  | DEF   |  6.00 |   Inf | Waivers; free agent  | Kamara Sutra                    
+8    | Robbie Gould           | K     | 14.00 | 14.00 | Drafted for $1       | Pop Drop and Lockett            
+9    | Greg Zuerlein          | K     | 12.00 | 12.00 | Drafted for $1       | G                               
+10   | Matt Gay               | K     | 12.00 | 12.00 | Drafted for $1       | Chi ShingT's Team               
+11   | Tyler Bass             | K     | 11.00 | 11.00 | Drafted for $1       | Tiz the Law(rence)              
+12   | Carolina               | DEF   |  9.00 |  9.00 | Drafted for $1       | Zeke and Ye Shall Find          
+13   | Marquise Brown         | WR    | 16.40 |  8.20 | Drafted for $2       | Long Live The King 👑            
+14   | Jakobi Meyers          | W/R/T |  7.40 |  7.40 | Drafted for $1       | Zeke and Ye Shall Find          
+15   | Ryan Succop            | K     |  7.00 |  7.00 | Drafted for $1       | Scrotal Recall                  
+16   | Dak Prescott           | QB    | 34.42 |  6.88 | Kept for $5          | Kamara Sutra                    
+17   | Jason Sanders          | K     |  6.00 |  6.00 | Drafted for $1       | Zeke and Ye Shall Find          
+18   | Justin Tucker          | K     | 11.00 |  5.50 | Drafted for $2       | Raider Bae                      
+19   | San Francisco          | DEF   | 10.00 |  5.00 | Drafted for $2       | Long Live The King 👑            
+20   | Harrison Butker        | K     | 10.00 |  5.00 | Drafted for $2       | Odellta Variant                 
+21   | Cole Beasley           | W/R/T | 10.00 |  5.00 | Drafted for $2       | Raider Bae                      
+22   | Jalen Hurts            | QB    | 34.76 |  4.97 | Drafted for $7       | G                               
+23   | Trevor Lawrence        | QB    | 28.08 |  4.01 | Drafted for $7       | Tiz the Law(rence)              
+24   | Justin Herbert         | QB    | 16.38 |  3.28 | Kept for $5          | Zeke and Ye Shall Find          
+25   | Tom Brady              | QB    | 37.16 |  2.86 | Drafted for $13      | Nags                            
+26   | Denver                 | DEF   |  8.00 |  2.67 | Drafted for $3       | Joelster                        
+27   | Kansas City            | DEF   |  5.00 |  2.50 | Drafted for $2       | Pop Drop and Lockett            
+28   | Ty'Son Williams        | W/R/T | 16.90 |  2.41 | Waivers; $7 bid      | Pop Drop and Lockett            
+29   | T.J. Hockenson         | TE    | 21.70 |  2.17 | Kept for $10         | Joelster                        
+30   | Jerry Jeudy            | WR    | 10.20 |  2.04 | Kept for $5          | Odellta Variant                 
+31   | Robby Anderson         | WR    | 12.20 |  2.03 | Kept for $6          | Chi ShingT's Team               
+32   | Los Angeles            | DEF   |  8.00 |  2.00 | Drafted for $4       | Chi ShingT's Team               
+33   | Baltimore              | DEF   |  4.00 |  2.00 | Drafted for $2       | Tiz the Law(rence)              
+34   | Buffalo                | DEF   |  2.00 |  2.00 | Drafted for $1       | Scrotal Recall                  
+35   | Ryan Tannehill         | QB    | 17.18 |  1.91 | Drafted for $9       | Odellta Variant                 
+36   | Kyler Murray           | QB    | 42.56 |  1.77 | Kept for $24         | Pop Drop and Lockett            
+37   | Washington             | DEF   |  7.00 |  1.75 | Drafted for $4       | Odellta Variant                 
+38   | Chase Claypool         | W/R/T |  8.50 |  1.70 | Kept for $5          | Nags                            
+39   | Patrick Mahomes        | QB    | 39.28 |  1.64 | Kept for $24         | Chi ShingT's Team               
+40   | Antonio Brown          | W/R/T | 21.20 |  1.41 | Drafted for $15      | G                               
+41   | Mike Williams          | WR    | 18.20 |  1.40 | Drafted for $13      | Kamara Sutra                    
+42   | James Robinson         | RB    |  6.90 |  1.38 | Kept for $5          | Zeke and Ye Shall Find          
+43   | Corey Davis            | WR    | 24.20 |  1.34 | Drafted for $18      | Scrotal Recall                  
+44   | DeVonta Smith          | W/R/T | 16.10 |  1.34 | Drafted for $12      | Chi ShingT's Team               
+45   | Russell Wilson         | QB    | 35.06 |  1.25 | Drafted for $28      | Scrotal Recall                  
+46   | Younghoe Koo           | K     |  6.00 |  1.20 | Drafted for $5       | Joelster                        
+47   | DK Metcalf             | WR    | 14.00 |  1.17 | Kept for $12         | Scrotal Recall                  
+48   | Justin Jefferson       | WR    | 10.04 |  1.12 | Kept for $9          | G                               
+49   | Darrell Henderson Jr.  | RB    | 15.20 |  0.95 | Kept for $16         | Joelster                        
+50   | Laviska Shenault Jr.   | WR    |  9.40 |  0.94 | Drafted for $10      | Nags                            
+51   | Dallas Goedert         | TE    | 12.20 |  0.94 | Drafted for $13      | Scrotal Recall                  
+52   | Myles Gaskin           | W/R/T | 10.10 |  0.92 | Kept for $11         | Scrotal Recall                  
+53   | Nick Chubb             | RB    | 21.10 |  0.88 | Kept for $24         | Nags                            
+54   | CeeDee Lamb            | WR    | 19.90 |  0.87 | Kept for $23         | Chi ShingT's Team               
+55   | Amari Cooper           | WR    | 32.40 |  0.79 | Drafted for $41      | Zeke and Ye Shall Find          
+56   | Cooper Kupp            | WR    | 20.30 |  0.78 | Kept for $26         | Raider Bae                      
+57   | Tyler Lockett          | WR    | 24.00 |  0.75 | Kept for $32         | Pop Drop and Lockett            
+58   | Ryan Fitzpatrick       | QB    |  0.72 |  0.72 | Drafted for $1       | Long Live The King 👑            
+59   | A.J. Brown             | WR    | 12.90 |  0.72 | Kept for $18         | Kamara Sutra                    
+60   | Logan Thomas           | TE    | 10.50 |  0.58 | Drafted for $18      | Long Live The King 👑            
+61   | Mecole Hardman         | WR    |  3.40 |  0.57 | Drafted for $6       | Tiz the Law(rence)              
+62   | Noah Fant              | TE    |  9.20 |  0.54 | Drafted for $17      | Odellta Variant                 
+63   | Austin Ekeler          | RB    | 11.70 |  0.53 | Kept for $22         | Scrotal Recall                  
+64   | Adam Thielen           | WR    | 25.70 |  0.52 | Drafted for $49      | Long Live The King 👑            
+65   | Michael Gallup         | WR    |  5.60 |  0.51 | Drafted for $11      | Pop Drop and Lockett            
+66   | Tampa Bay              | DEF   |  2.00 |  0.50 | Drafted for $4       | Nags                            
+67   | Tee Higgins            | WR    | 13.80 |  0.49 | Drafted for $28      | Joelster                        
+68   | Kareem Hunt            | W/R/T | 15.60 |  0.49 | Drafted for $32      | Odellta Variant                 
+69   | DJ Moore               | WR    | 12.40 |  0.48 | Kept for $26         | Tiz the Law(rence)              
+70   | D'Andre Swift          | W/R/T | 20.40 |  0.47 | Drafted for $43      | Joelster                        
+71   | Damien Harris          | RB    | 10.70 |  0.47 | Drafted for $23      | Pop Drop and Lockett            
+72   | Alvin Kamara           | RB    | 16.60 |  0.46 | Kept for $36         | Kamara Sutra                    
+73   | Josh Jacobs            | RB    | 16.50 |  0.43 | Drafted for $38      | Raider Bae                      
+74   | Lamar Jackson          | QB    | 20.00 |  0.43 | Drafted for $47      | Raider Bae                      
+75   | Darren Waller          | TE    | 21.50 |  0.38 | Kept for $56         | Raider Bae                      
+76   | Antonio Gibson         | RB    | 10.30 |  0.38 | Kept for $27         | Pop Drop and Lockett            
+77   | Miles Sanders          | RB    | 15.30 |  0.37 | Kept for $41         | Tiz the Law(rence)              
+78   | Tyler Higbee           | TE    |  9.30 |  0.37 | Drafted for $25      | Chi ShingT's Team               
+79   | George Kittle          | TE    |  9.80 |  0.36 | Kept for $27         | Kamara Sutra                    
+80   | Tyreek Hill            | WR    | 31.60 |  0.35 | Drafted for $90      | Odellta Variant                 
+81   | David Montgomery       | RB    | 18.30 |  0.34 | Kept for $54         | Joelster                        
+82   | Chris Godwin           | WR    | 19.00 |  0.33 | Drafted for $57      | Chi ShingT's Team               
+83   | James Conner           | W/R/T |  5.30 |  0.33 | Drafted for $16      | Long Live The King 👑            
+84   | Diontae Johnson        | WR    | 12.10 |  0.33 | Drafted for $37      | Joelster                        
+85   | Joe Mixon              | RB    | 23.00 |  0.32 | Kept for $72         | Chi ShingT's Team               
+86   | Travis Kelce           | TE    | 22.60 |  0.31 | Kept for $73         | Nags                            
+87   | Keenan Allen           | WR    | 14.50 |  0.28 | Drafted for $51      | G                               
+88   | Robert Woods           | WR    | 10.90 |  0.27 | Drafted for $40      | Nags                            
+89   | Mike Davis             | RB    |  8.70 |  0.26 | Drafted for $33      | Raider Bae                      
+90   | Tyler Boyd             | WR    |  4.70 |  0.26 | Drafted for $18      | Pop Drop and Lockett            
+91   | DeAndre Hopkins        | WR    | 23.30 |  0.26 | Drafted for $90      | Zeke and Ye Shall Find          
+92   | Stefon Diggs           | WR    | 11.40 |  0.25 | Kept for $46         | Scrotal Recall                  
+93   | Chris Carson           | RB    | 11.20 |  0.24 | Kept for $46         | G                               
+94   | Jonathan Taylor        | RB    | 14.60 |  0.23 | Kept for $64         | Odellta Variant                 
+95   | Robert Tonyan          | TE    |  1.80 |  0.22 | Kept for $8          | Zeke and Ye Shall Find          
+96   | Aaron Rodgers          | QB    |  3.32 |  0.22 | Kept for $15         | Joelster                        
+97   | JuJu Smith-Schuster    | WR    |  7.20 |  0.19 | Drafted for $37      | Kamara Sutra                    
+98   | Marquez Callaway       | WR    |  1.90 |  0.19 | Drafted for $10      | Odellta Variant                 
+99   | Christian McCaffrey    | RB    | 23.20 |  0.19 | Drafted for $125     | Kamara Sutra                    
+100  | Javonte Williams       | W/R/T |  4.60 |  0.18 | Drafted for $25      | Kamara Sutra                    
+101  | Terry McLaurin         | WR    |  8.20 |  0.17 | Kept for $49         | Long Live The King 👑            
+102  | Derrick Henry          | RB    |  9.20 |  0.16 | Kept for $56         | Long Live The King 👑            
+103  | Calvin Ridley          | WR    |  7.60 |  0.16 | Kept for $48         | G                               
+104  | Dalvin Cook            | RB    | 17.40 |  0.16 | Drafted for $111     | Nags                            
+105  | Davante Adams          | WR    |  8.10 |  0.14 | Kept for $60         | Tiz the Law(rence)              
+106  | Raheem Mostert         | RB    |  2.00 |  0.13 | Drafted for $15      | G                               
+107  | Clyde Edwards-Helaire  | RB    |  8.70 |  0.13 | Drafted for $68      | Scrotal Recall                  
+108  | Kyle Pitts             | TE    |  5.10 |  0.13 | Drafted for $40      | Tiz the Law(rence)              
+109  | Aaron Jones            | RB    |  3.20 |  0.12 | Kept for $27         | Odellta Variant                 
+110  | Mark Andrews           | TE    |  3.50 |  0.11 | Drafted for $31      | G                               
+111  | Allen Robinson II      | WR    |  6.50 |  0.11 | Drafted for $58      | Joelster                        
+112  | Julio Jones            | WR    |  4.40 |  0.10 | Drafted for $42      | Zeke and Ye Shall Find          
+113  | Elijah Moore           | W/R/T |  0.20 |  0.10 | Drafted for $2       | Tiz the Law(rence)              
+114  | Mike Evans             | WR    |  3.90 |  0.08 | Drafted for $48      | Raider Bae                      
+115  | Najee Harris           | RB    |  5.40 |  0.07 | Drafted for $78      | Tiz the Law(rence)              
+116  | Ezekiel Elliott        | RB    |  4.90 |  0.06 | Drafted for $87      | Zeke and Ye Shall Find          
+117  | Saquon Barkley         | RB    |  3.20 |  0.04 | Drafted for $79      | Long Live The King 👑            
+118  | Brandon Aiyuk          | WR    |  0.00 |  0.00 | Kept for $9          | Nags                            
+119  | Ronald Jones II        | RB    | -0.60 | -0.03 | Drafted for $18      | Chi ShingT's Team               
+120  | Green Bay              | DEF   | -4.00 |  -Inf | Waivers; free agent  | G                               

@@ -79,11 +79,15 @@ module YahooDataFetcher
       player_salary = salary(player_key)
       case acquistion(player_key)
       when 'drafted'
-        "Drafted for $#{player_salary}"
+        if keeper?(player_key)
+          "Kept for $#{player_salary}"
+        else
+          "Drafted for $#{player_salary}"
+        end
       when 'waivers'
-        "Claimed from waivers; $#{player_salary} bid"
+        "Waivers; $#{player_salary} bid"
       when 'freeagents'
-        'Claimed from waivers; free agent'
+        'Waivers; free agent'
       when 'trade'
         "Traded from #{@players[player_key][:trade_source_team_name]}; $#{player_salary} salary carries over"
       else

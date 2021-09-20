@@ -58,7 +58,7 @@ module Challenges
            :pos,
            ColumnFormatter.decimal(:pts, 2),
            ColumnFormatter.decimal(:ratio, 2),
-           { acquisition: { fixed_width: 32 } })
+           { acquisition: { fixed_width: 20 } })
 
         puts "Total score: #{total_score}"
         puts "Total salary for starters: #{total_salary}"
@@ -86,7 +86,7 @@ module Challenges
          :pos,
          ColumnFormatter.decimal(:pts, 2),
          ColumnFormatter.decimal(:ratio, 2),
-         { acquisition: { fixed_width: 32 } },
+         { acquisition: { fixed_width: 20 } },
          { team: { fixed_width: 32 } })
     end
   end
