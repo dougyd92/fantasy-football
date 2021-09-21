@@ -1,0 +1,227 @@
+Will run Challenges::SleeperHit for week 2 in league 597209
+Sleeper Hit: Most points from a single player who was acquired for $5 or less (excluding keepers, K, and DEF).
+
+Odellta Variant
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION                   
+-----------------------|-------|----------|-------|-------------------------------
+Matthew Stafford       | QB    | false    | 22.22 | Drafted for $10               
+Tyreek Hill            | WR    | false    |  4.40 | Drafted for $90               
+Nelson Agholor         | WR    | true     |  3.60 | Waivers; $0 bid               
+Kenny Golladay         | WR    | false    |  5.30 | Drafted for $21               
+Aaron Jones            | RB    | false    | 38.50 | Kept for $27                  
+Jonathan Taylor        | RB    | false    |  5.80 | Kept for $64                  
+Noah Fant              | TE    | false    | 11.30 | Drafted for $17               
+Robby Anderson         | W/R/T | false    |  5.30 | Traded; $6 salary carries over
+Harrison Butker        | K     | false    |  5.00 | Drafted for $2                
+Washington             | DEF   | false    |  3.00 | Drafted for $4                
+Best sleeper: Nelson Agholor with 3.6 points
+
+Tiz the Law(rence)
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Trevor Lawrence        | QB    | false    | 10.82 | Drafted for $7     
+Davante Adams          | WR    | false    | 16.10 | Kept for $60       
+DJ Moore               | WR    | false    | 17.90 | Kept for $26       
+Mecole Hardman         | WR    | false    |  8.00 | Drafted for $6     
+Miles Sanders          | RB    | false    |  6.40 | Kept for $41       
+Najee Harris           | RB    | false    | 16.60 | Drafted for $78    
+Kyle Pitts             | TE    | false    |  9.80 | Drafted for $40    
+Van Jefferson Jr.      | W/R/T | true     |  1.90 | Waivers; $0 bid    
+Tyler Bass             | K     | false    |  5.00 | Drafted for $1     
+Seattle                | DEF   | false    |  4.00 | Waivers; free agent
+Best sleeper: Van Jefferson Jr. with 1.9 points
+
+Chi ShingT's Team
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION    
+-----------------------|-------|----------|-------|----------------
+Patrick Mahomes        | QB    | false    | 31.02 | Kept for $24   
+Chris Godwin           | WR    | false    | 14.20 | Drafted for $57
+CeeDee Lamb            | WR    | false    | 13.40 | Kept for $23   
+DJ Chark Jr.           | WR    | false    |  2.40 | Drafted for $11
+Joe Mixon              | RB    | false    |  7.60 | Kept for $72   
+Melvin Gordon III      | RB    | false    |  7.90 | Drafted for $21
+Tyler Higbee           | TE    | false    |  1.30 | Drafted for $25
+DeVonta Smith          | W/R/T | false    |  2.60 | Drafted for $12
+Matt Gay               | K     | false    |  9.00 | Drafted for $1 
+Los Angeles            | DEF   | false    |  8.00 | Drafted for $4 
+No eligible players.
+
+Kamara Sutra
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Dak Prescott           | QB    | false    |  8.48 | Kept for $5        
+A.J. Brown             | WR    | false    |  5.80 | Kept for $18       
+JuJu Smith-Schuster    | WR    | false    | 13.40 | Drafted for $37    
+Mike Williams          | WR    | false    | 18.60 | Drafted for $13    
+Alvin Kamara           | RB    | false    |  5.00 | Kept for $36       
+Christian McCaffrey    | RB    | false    | 22.20 | Drafted for $125   
+George Kittle          | TE    | false    |  3.70 | Kept for $27       
+Javonte Williams       | W/R/T | false    |  7.90 | Drafted for $25    
+Jason Myers            | K     | false    |  6.00 | Waivers; free agent
+New Orleans            | DEF   | false    |  6.00 | Waivers; $4 bid    
+No eligible players.
+
+Scrotal Recall
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION    
+-----------------------|-------|----------|-------|----------------
+Russell Wilson         | QB    | false    | 27.32 | Drafted for $28
+DK Metcalf             | WR    | false    |  8.30 | Kept for $12   
+Stefon Diggs           | WR    | false    | 14.00 | Kept for $46   
+Corey Davis            | WR    | false    |  1.80 | Drafted for $18
+Austin Ekeler          | RB    | false    | 18.00 | Kept for $22   
+Clyde Edwards-Helaire  | RB    | false    |  2.60 | Drafted for $68
+Dallas Goedert         | TE    | false    |  3.40 | Drafted for $13
+Chase Edmonds          | W/R/T | false    | 10.00 | Drafted for $19
+Ryan Succop            | K     | false    |  6.00 | Drafted for $1 
+Arizona                | DEF   | false    |  1.00 | Waivers; $3 bid
+No eligible players.
+
+Long Live The King 👑
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Joe Burrow             | QB    | true     | 17.28 | Waivers; free agent
+Terry McLaurin         | WR    | false    | 22.20 | Kept for $49       
+Adam Thielen           | WR    | false    | 12.90 | Drafted for $49    
+Marquise Brown         | WR    | true     | 20.30 | Drafted for $2     
+Derrick Henry          | RB    | false    | 44.70 | Kept for $56       
+Saquon Barkley         | RB    | false    |  7.90 | Drafted for $79    
+Logan Thomas           | TE    | false    |  7.00 | Drafted for $18    
+James Conner           | W/R/T | false    |  2.60 | Drafted for $16    
+Nick Folk              | K     | false    | 15.00 | Waivers; free agent
+San Francisco          | DEF   | false    |  8.00 | Drafted for $2     
+Best sleeper: Marquise Brown with 20.3 points
+
+Raider Bae
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Jared Goff             | QB    | true     | 23.44 | Waivers; free agent
+Cole Beasley           | WR    | true     |  5.60 | Drafted for $2     
+Mike Evans             | WR    | false    | 22.00 | Drafted for $48    
+Cooper Kupp            | WR    | false    | 32.30 | Kept for $26       
+Mike Davis             | RB    | false    |  9.80 | Drafted for $33    
+James White            | RB    | true     | 15.50 | Drafted for $5     
+Darren Waller          | TE    | false    |  9.00 | Kept for $56       
+Henry Ruggs III        | W/R/T | false    | 20.00 | Kept for $5        
+Justin Tucker          | K     | false    |  7.00 | Drafted for $2     
+New England            | DEF   | false    | 19.00 | Waivers; free agent
+Best sleeper: James White with 15.5 points
+
+G
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Jalen Hurts            | QB    | false    | 21.80 | Drafted for $7     
+Justin Jefferson       | WR    | false    | 15.50 | Kept for $9        
+Calvin Ridley          | WR    | false    | 15.80 | Kept for $48       
+Keenan Allen           | WR    | false    | 12.80 | Drafted for $51    
+Chris Carson           | RB    | false    | 15.10 | Kept for $46       
+Phillip Lindsay        | RB    | true     |  8.90 | Waivers; free agent
+Mark Andrews           | TE    | false    |  8.20 | Drafted for $31    
+Antonio Brown          | W/R/T | false    |  2.20 | Drafted for $15    
+Greg Zuerlein          | K     | false    | 10.00 | Drafted for $1     
+Cleveland              | DEF   | false    |  5.00 | Drafted for $1     
+Best sleeper: Phillip Lindsay with 8.9 points
+
+Zeke and Ye Shall Find
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Justin Herbert         | QB    | false    | 18.72 | Kept for $5        
+Amari Cooper           | WR    | false    |  3.90 | Drafted for $41    
+DeAndre Hopkins        | WR    | false    | 13.40 | Drafted for $90    
+Bryan Edwards          | WR    | true     |  5.50 | Waivers; free agent
+Ezekiel Elliott        | RB    | false    | 16.70 | Drafted for $87    
+Nyheim Hines           | RB    | true     |  2.70 | Drafted for $1     
+Robert Tonyan          | TE    | false    | 12.70 | Kept for $8        
+Julio Jones            | W/R/T | false    | 15.80 | Drafted for $42    
+Matt Prater            | K     | false    | 12.00 | Waivers; $0 bid    
+Buffalo                | DEF   | false    | 22.00 | Waivers; $0 bid    
+Best sleeper: Nyheim Hines with 2.7 points
+
+Joelster
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION    
+-----------------------|-------|----------|-------|----------------
+Aaron Rodgers          | QB    | false    | 34.80 | Kept for $15   
+Allen Robinson II      | WR    | false    |  9.40 | Drafted for $58
+Diontae Johnson        | WR    | false    | 15.00 | Drafted for $37
+Tee Higgins            | WR    | false    | 13.00 | Drafted for $28
+David Montgomery       | RB    | false    |  9.40 | Kept for $54   
+Darrell Henderson Jr.  | RB    | false    | 15.70 | Kept for $16   
+T.J. Hockenson         | TE    | false    | 16.60 | Kept for $10   
+D'Andre Swift          | W/R/T | false    |  9.80 | Drafted for $43
+Younghoe Koo           | K     | false    |  5.00 | Drafted for $5 
+Denver                 | DEF   | false    |  9.00 | Drafted for $3 
+No eligible players.
+
+Nags
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Tom Brady              | QB    | false    | 39.64 | Drafted for $13    
+Robert Woods           | WR    | false    |  9.50 | Drafted for $40    
+Laviska Shenault Jr.   | WR    | false    |  0.70 | Drafted for $10    
+Chase Claypool         | WR    | false    |  8.20 | Kept for $5        
+Dalvin Cook            | RB    | false    | 15.80 | Drafted for $111   
+Nick Chubb             | RB    | false    | 16.30 | Kept for $24       
+Travis Kelce           | TE    | false    | 20.40 | Kept for $73       
+Rob Gronkowski         | W/R/T | true     | 17.90 | Drafted for $1     
+Daniel Carlson         | K     | false    | 17.00 | Waivers; free agent
+Tampa Bay              | DEF   | false    | 19.00 | Drafted for $4     
+Best sleeper: Rob Gronkowski with 17.9 points
+
+Pop Drop and Lockett
+Starting players:
+NAME                   | POS   | ELIGIBLE | PTS   | ACQUISITION        
+-----------------------|-------|----------|-------|--------------------
+Kyler Murray           | QB    | false    | 41.10 | Kept for $24       
+Tyler Lockett          | WR    | false    | 27.80 | Kept for $32       
+Tyler Boyd             | WR    | false    | 10.80 | Drafted for $18    
+Darnell Mooney         | WR    | true     |  9.60 | Drafted for $4     
+Antonio Gibson         | RB    | false    |  8.30 | Kept for $27       
+Damien Harris          | RB    | false    | 12.90 | Drafted for $23    
+Jared Cook             | TE    | true     |  4.30 | Waivers; free agent
+Ty'Son Williams        | W/R/T | false    | 10.30 | Waivers; $7 bid    
+Robbie Gould           | K     | false    |  6.00 | Drafted for $1     
+Kansas City            | DEF   | false    |  7.00 | Drafted for $2     
+Best sleeper: Jared Cook with 4.3 points
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING | PLAYER_NAME        
+-----|------------------------|------------------|--------------------
+1    | Long Live The King 👑   | 20.3             | Marquise Brown     
+2    | Nags                   | 17.9             | Rob Gronkowski     
+3    | Raider Bae             | 15.5             | James White        
+4    | G                      | 8.9              | Phillip Lindsay    
+5    | Pop Drop and Lockett   | 4.3              | Jared Cook         
+6    | Odellta Variant        | 3.6              | Nelson Agholor     
+7    | Zeke and Ye Shall Find | 2.7              | Nyheim Hines       
+8    | Tiz the Law(rence)     | 1.9              | Van Jefferson Jr.  
+9    | Scrotal Recall         | 0                | No eligible players
+10   | Kamara Sutra           | 0                | No eligible players
+11   | Chi ShingT's Team      | 0                | No eligible players
+12   | Joelster               | 0                | No eligible players
+
+************** All players **************
+RANK | NAME                   | POS   | PTS   | ACQUISITION          | TEAM                            
+-----|------------------------|-------|-------|----------------------|---------------------------------
+1    | Jared Goff             | QB    | 23.44 | Waivers; free agent  | Raider Bae                      
+2    | Marquise Brown         | WR    | 20.30 | Drafted for $2       | Long Live The King 👑            
+3    | Rob Gronkowski         | W/R/T | 17.90 | Drafted for $1       | Nags                            
+4    | Joe Burrow             | QB    | 17.28 | Waivers; free agent  | Long Live The King 👑            
+5    | James White            | RB    | 15.50 | Drafted for $5       | Raider Bae                      
+6    | Darnell Mooney         | WR    |  9.60 | Drafted for $4       | Pop Drop and Lockett            
+7    | Phillip Lindsay        | RB    |  8.90 | Waivers; free agent  | G                               
+8    | Cole Beasley           | WR    |  5.60 | Drafted for $2       | Raider Bae                      
+9    | Bryan Edwards          | WR    |  5.50 | Waivers; free agent  | Zeke and Ye Shall Find          
+10   | Jared Cook             | TE    |  4.30 | Waivers; free agent  | Pop Drop and Lockett            
+11   | Nelson Agholor         | WR    |  3.60 | Waivers; $0 bid      | Odellta Variant                 
+12   | Nyheim Hines           | RB    |  2.70 | Drafted for $1       | Zeke and Ye Shall Find          
+13   | Van Jefferson Jr.      | W/R/T |  1.90 | Waivers; $0 bid      | Tiz the Law(rence)              
