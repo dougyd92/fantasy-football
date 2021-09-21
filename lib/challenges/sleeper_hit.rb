@@ -42,7 +42,7 @@ module Challenges
           all_players << player_data.merge({ team: team_name }) if eligible
         end
 
-        best_player = team_players.select { |p| p[:eligible] }.min { |p| -p[:pts] }
+        best_player = team_players.select { |p| p[:eligible] }.max_by { |p| p[:pts] }
 
         team_results << if best_player.nil?
                           {

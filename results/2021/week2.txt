@@ -111,7 +111,7 @@ Darren Waller          | TE    | false    |  9.00 | Kept for $56
 Henry Ruggs III        | W/R/T | false    | 20.00 | Kept for $5        
 Justin Tucker          | K     | false    |  7.00 | Drafted for $2     
 New England            | DEF   | false    | 19.00 | Waivers; free agent
-Best sleeper: James White with 15.5 points
+Best sleeper: Jared Goff with 23.44 points
 
 G
 Starting players:
@@ -143,7 +143,7 @@ Robert Tonyan          | TE    | false    | 12.70 | Kept for $8
 Julio Jones            | W/R/T | false    | 15.80 | Drafted for $42    
 Matt Prater            | K     | false    | 12.00 | Waivers; $0 bid    
 Buffalo                | DEF   | false    | 22.00 | Waivers; $0 bid    
-Best sleeper: Nyheim Hines with 2.7 points
+Best sleeper: Bryan Edwards with 5.5 points
 
 Joelster
 Starting players:
@@ -191,23 +191,23 @@ Jared Cook             | TE    | true     |  4.30 | Waivers; free agent
 Ty'Son Williams        | W/R/T | false    | 10.30 | Waivers; $7 bid    
 Robbie Gould           | K     | false    |  6.00 | Drafted for $1     
 Kansas City            | DEF   | false    |  7.00 | Drafted for $2     
-Best sleeper: Jared Cook with 4.3 points
+Best sleeper: Darnell Mooney with 9.6 points
 
 ************** RESULTS **************
 RANK | TEAM_NAME              | CHALLENGE_RATING | PLAYER_NAME        
 -----|------------------------|------------------|--------------------
-1    | Long Live The King 👑   | 20.3             | Marquise Brown     
-2    | Nags                   | 17.9             | Rob Gronkowski     
-3    | Raider Bae             | 15.5             | James White        
-4    | G                      | 8.9              | Phillip Lindsay    
-5    | Pop Drop and Lockett   | 4.3              | Jared Cook         
-6    | Odellta Variant        | 3.6              | Nelson Agholor     
-7    | Zeke and Ye Shall Find | 2.7              | Nyheim Hines       
+1    | Raider Bae             | 23.44            | Jared Goff         
+2    | Long Live The King 👑   | 20.3             | Marquise Brown     
+3    | Nags                   | 17.9             | Rob Gronkowski     
+4    | Pop Drop and Lockett   | 9.6              | Darnell Mooney     
+5    | G                      | 8.9              | Phillip Lindsay    
+6    | Zeke and Ye Shall Find | 5.5              | Bryan Edwards      
+7    | Odellta Variant        | 3.6              | Nelson Agholor     
 8    | Tiz the Law(rence)     | 1.9              | Van Jefferson Jr.  
-9    | Scrotal Recall         | 0                | No eligible players
+9    | Chi ShingT's Team      | 0                | No eligible players
 10   | Kamara Sutra           | 0                | No eligible players
-11   | Chi ShingT's Team      | 0                | No eligible players
-12   | Joelster               | 0                | No eligible players
+11   | Joelster               | 0                | No eligible players
+12   | Scrotal Recall         | 0                | No eligible players
 
 ************** All players **************
 RANK | NAME                   | POS   | PTS   | ACQUISITION          | TEAM                            
