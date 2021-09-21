@@ -89,7 +89,7 @@ module YahooDataFetcher
       when 'freeagents'
         'Waivers; free agent'
       when 'trade'
-        "Traded from #{@players[player_key][:trade_source_team_name]}; $#{player_salary} salary carries over"
+        "Traded; $#{player_salary} salary carries over"
       else
         raise "Encountered an unexpected acquisition type: #{@players[player_key]}"
       end

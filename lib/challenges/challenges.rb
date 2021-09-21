@@ -13,6 +13,8 @@ module Challenges
     case challenge_name.downcase
     when 'moneyball2'
       Moneyball2.new
+    when 'sleeper_hit'
+      SleeperHit.new
     end
   end
 end
