@@ -19,7 +19,7 @@ module YahooDataFetcher
     end
 
     def fetch_roster(team_key, week)
-      data = make_request("/team/#{team_key}/roster;week=#{week}/players/points")
+      data = make_request("/team/#{team_key}/roster;week=#{week}/players/stats")
       data['team']['roster']['players']['player']
     end
 
