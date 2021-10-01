@@ -1,0 +1,166 @@
+Will run Challenges::RunningMaxEfficiency for week 3 in league 597209
+Running at Maximum Efficiency: Highest yards-per-carry combined across RBs
+
+Odellta Variant
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Aaron Jones            | 19.0    | 82.0          |  4.32
+Jonathan Taylor        | 10.0    | 64.0          |  6.40
+Total carries: 29.0
+Total rushing yards: 146.0
+Combined RB efficiency: 5.034 YPC
+
+Tiz the Law
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Miles Sanders          | 2.0     | 27.0          | 13.50
+Najee Harris           | 14.0    | 40.0          |  2.86
+Total carries: 16.0
+Total rushing yards: 67.0
+Combined RB efficiency: 4.188 YPC
+
+Chi ShingT's Team
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Joe Mixon              | 18.0    | 90.0          |  5.00
+Melvin Gordon III      | 18.0    | 60.0          |  3.33
+Total carries: 36.0
+Total rushing yards: 150.0
+Combined RB efficiency: 4.167 YPC
+
+Hamstrung Hunter’s Team
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Alvin Kamara           | 24.0    | 89.0          |  3.71
+Christian McCaffrey    | 7.0     | 31.0          |  4.43
+Total carries: 31.0
+Total rushing yards: 120.0
+Combined RB efficiency: 3.871 YPC
+
+folklore
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Austin Ekeler          | 11.0    | 55.0          |  5.00
+Chase Edmonds          | 11.0    | 26.0          |  2.36
+Total carries: 22.0
+Total rushing yards: 81.0
+Combined RB efficiency: 3.682 YPC
+
+Long Live The King 👑
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Derrick Henry          | 28.0    | 113.0         |  4.04
+Saquon Barkley         | 16.0    | 51.0          |  3.19
+Total carries: 44.0
+Total rushing yards: 164.0
+Combined RB efficiency: 3.727 YPC
+
+Raider Bae
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Mike Davis             | 12.0    | 50.0          |  4.17
+James White            | 1.0     | 6.0           |  6.00
+Total carries: 13.0
+Total rushing yards: 56.0
+Combined RB efficiency: 4.308 YPC
+
+G
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Chris Carson           | 12.0    | 80.0          |  6.67
+Phillip Lindsay        | 7.0     | 5.0           |  0.71
+Total carries: 19.0
+Total rushing yards: 85.0
+Combined RB efficiency: 4.474 YPC
+
+Zeke and Ye Shall Find
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Ezekiel Elliott        | 17.0    | 95.0          |  5.59
+James Robinson         | 15.0    | 88.0          |  5.87
+Total carries: 32.0
+Total rushing yards: 183.0
+Combined RB efficiency: 5.719 YPC
+
+Killing them Swiftly
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+David Montgomery       | 10.0    | 34.0          |  3.40
+D'Andre Swift          | 14.0    | 47.0          |  3.36
+Total carries: 24.0
+Total rushing yards: 81.0
+Combined RB efficiency: 3.375 YPC
+
+Nags
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Nick Chubb             | 22.0    | 84.0          |  3.82
+Tony Pollard           | 11.0    | 60.0          |  5.45
+Total carries: 33.0
+Total rushing yards: 144.0
+Combined RB efficiency: 4.364 YPC
+
+Pop Drop and Lockett
+Starting RBs:
+NAME                   | CARRIES | RUSHING_YARDS | YPC  
+-----------------------|---------|---------------|------
+Antonio Gibson         | 12.0    | 31.0          |  2.58
+Damien Harris          | 6.0     | 14.0          |  2.33
+Total carries: 18.0
+Total rushing yards: 45.0
+Combined RB efficiency: 2.500 YPC
+
+************** RESULTS **************
+RANK | TEAM_NAME               | CHALLENGE_RATING
+-----|-------------------------|-----------------
+1    | Zeke and Ye Shall Find  |  5.719          
+2    | Odellta Variant         |  5.034          
+3    | G                       |  4.474          
+4    | Nags                    |  4.364          
+5    | Raider Bae              |  4.308          
+6    | Tiz the Law             |  4.188          
+7    | Chi ShingT's Team       |  4.167          
+8    | Hamstrung Hunter’s Team |  3.871          
+9    | Long Live The King 👑    |  3.727          
+10   | folklore                |  3.682          
+11   | Killing them Swiftly    |  3.375          
+12   | Pop Drop and Lockett    |  2.500          
+
+************** All players **************
+RANK | NAME                   | CARRIES | RUSHING_YARDS | YPC    | TEAM                            
+-----|------------------------|---------|---------------|--------|---------------------------------
+1    | Miles Sanders          | 2.0     | 27.0          | 13.500 | Tiz the Law                     
+2    | Chris Carson           | 12.0    | 80.0          |  6.667 | G                               
+3    | Jonathan Taylor        | 10.0    | 64.0          |  6.400 | Odellta Variant                 
+4    | James White            | 1.0     | 6.0           |  6.000 | Raider Bae                      
+5    | James Robinson         | 15.0    | 88.0          |  5.867 | Zeke and Ye Shall Find          
+6    | Ezekiel Elliott        | 17.0    | 95.0          |  5.588 | Zeke and Ye Shall Find          
+7    | Tony Pollard           | 11.0    | 60.0          |  5.455 | Nags                            
+8    | Austin Ekeler          | 11.0    | 55.0          |  5.000 | folklore                        
+9    | Joe Mixon              | 18.0    | 90.0          |  5.000 | Chi ShingT's Team               
+10   | Christian McCaffrey    | 7.0     | 31.0          |  4.429 | Hamstrung Hunter’s Team         
+11   | Aaron Jones            | 19.0    | 82.0          |  4.316 | Odellta Variant                 
+12   | Mike Davis             | 12.0    | 50.0          |  4.167 | Raider Bae                      
+13   | Derrick Henry          | 28.0    | 113.0         |  4.036 | Long Live The King 👑            
+14   | Nick Chubb             | 22.0    | 84.0          |  3.818 | Nags                            
+15   | Alvin Kamara           | 24.0    | 89.0          |  3.708 | Hamstrung Hunter’s Team         
+16   | David Montgomery       | 10.0    | 34.0          |  3.400 | Killing them Swiftly            
+17   | D'Andre Swift          | 14.0    | 47.0          |  3.357 | Killing them Swiftly            
+18   | Melvin Gordon III      | 18.0    | 60.0          |  3.333 | Chi ShingT's Team               
+19   | Saquon Barkley         | 16.0    | 51.0          |  3.188 | Long Live The King 👑            
+20   | Najee Harris           | 14.0    | 40.0          |  2.857 | Tiz the Law                     
+21   | Antonio Gibson         | 12.0    | 31.0          |  2.583 | Pop Drop and Lockett            
+22   | Chase Edmonds          | 11.0    | 26.0          |  2.364 | folklore                        
+23   | Damien Harris          | 6.0     | 14.0          |  2.333 | Pop Drop and Lockett            
+24   | Phillip Lindsay        | 7.0     | 5.0           |  0.714 | G                               
