@@ -15,6 +15,8 @@ module Challenges
       Moneyball2.new
     when 'sleeper_hit'
       SleeperHit.new
+    when 'running_max'
+      RunningMaxEfficiency.new
     end
   end
 end
