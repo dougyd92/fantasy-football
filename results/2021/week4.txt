@@ -1,0 +1,255 @@
+Will run Challenges::ShowMeYourTDs for week 4 in league 597209
+Show Me Your TDs: Most total touchdowns scored on a team.
+
+Odellta Variant
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Matthew Stafford       | 2.0  | 0.0  | 0.0 | 0.0      | 0.0        | 2.0  
+Tyreek Hill            | 0.0  | 0.0  | 3.0 | 0.0      | 0.0        | 3.0  
+Kenny Golladay         | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Odell Beckham Jr.      | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Aaron Jones            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Jonathan Taylor        | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Noah Fant              | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+DeVante Parker         | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Harrison Butker        | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Indianapolis           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 8.0
+
+Tiz the Law
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Kirk Cousins           | 1.0  | 0.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Davante Adams          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+DJ Moore               | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0  
+Mecole Hardman         | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Miles Sanders          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Najee Harris           | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Kyle Pitts             | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Zack Moss              | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Tyler Bass             | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Cincinnati             | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 5.0
+
+Chi ShingT's Team
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Patrick Mahomes        | 5.0  | 0.0  | 0.0 | 0.0      | 0.0        | 5.0  
+Chris Godwin           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+CeeDee Lamb            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+DeVonta Smith          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Joe Mixon              | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Kareem Hunt            | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Tyler Higbee           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Emmanuel Sanders       | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Matt Gay               | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Los Angeles            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 7.0
+
+Diggs Out 4 HaRonbe
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Dak Prescott           | 4.0  | 0.0  | 0.0 | 0.0      | 0.0        | 4.0  
+Mike Williams          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Jaylen Waddle          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Tim Patrick            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Alvin Kamara           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Javonte Williams       | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+George Kittle          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+JuJu Smith-Schuster    | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Chase McLaughlin       | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Tennessee              | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 4.0
+
+folklore
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Russell Wilson         | 2.0  | 1.0  | 0.0 | 0.0      | 0.0        | 3.0  
+DK Metcalf             | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Stefon Diggs           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Courtland Sutton       | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Austin Ekeler          | 0.0  | 1.0  | 1.0 | 0.0      | 0.0        | 2.0  
+Clyde Edwards-Helaire  | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Dawson Knox            | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0  
+Ja'Marr Chase          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Nick Folk              | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Washington             | 0.0  | 0.0  | 0.0 | 1.0      | 0.0        | 1.0  
+Total TDs: 10.0
+
+Chi ShingT’s Wedgie
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Ryan Tannehill         | 1.0  | 0.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Terry McLaurin         | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0  
+Adam Thielen           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Marquise Brown         | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Derrick Henry          | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Saquon Barkley         | 0.0  | 1.0  | 1.0 | 0.0      | 0.0        | 2.0  
+Logan Thomas           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Will Fuller V          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Brandon McManus        | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Green Bay              | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 7.0
+
+Raider Bae
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Lamar Jackson          | 1.0  | 0.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Cooper Kupp            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Mike Evans             | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Cole Beasley           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Mike Davis             | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Josh Jacobs            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Darren Waller          | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Henry Ruggs III        | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Justin Tucker          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+New Orleans            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 3.0
+
+G
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Jalen Hurts            | 2.0  | 0.0  | 0.0 | 0.0      | 0.0        | 2.0  
+Justin Jefferson       | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Calvin Ridley          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Keenan Allen           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Chris Carson           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Phillip Lindsay        | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Mark Andrews           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Marvin Jones Jr.       | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Greg Zuerlein          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Cleveland              | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 3.0
+
+Zeke and Ye Shall Find
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Justin Herbert         | 3.0  | 0.0  | 0.0 | 0.0      | 0.0        | 3.0  
+DeAndre Hopkins        | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Amari Cooper           | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Jakobi Meyers          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Ezekiel Elliott        | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+James Robinson         | 0.0  | 2.0  | 0.0 | 0.0      | 0.0        | 2.0  
+Robert Tonyan          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Chuba Hubbard          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Greg Joseph            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Buffalo                | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 7.0
+
+Big Fat Hock
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Aaron Rodgers          | 2.0  | 1.0  | 0.0 | 0.0      | 0.0        | 3.0  
+Allen Robinson II      | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Brandin Cooks          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Deebo Samuel           | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0  
+David Montgomery       | 0.0  | 2.0  | 0.0 | 0.0      | 0.0        | 2.0  
+D'Andre Swift          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+T.J. Hockenson         | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Diontae Johnson        | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Younghoe Koo           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Denver                 | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 8.0
+
+Nags
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Tom Brady              | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Robert Woods           | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Michael Pittman Jr.    | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Brandon Aiyuk          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Nick Chubb             | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Dalvin Cook            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Travis Kelce           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Jamaal Williams        | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Daniel Carlson         | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Tampa Bay              | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 1.0
+
+Pop Drop and Lockett
+Starting players:
+NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL
+-----------------------|------|------|-----|----------|------------|------
+Kyler Murray           | 2.0  | 0.0  | 0.0 | 0.0      | 0.0        | 2.0  
+Tyler Lockett          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Tyler Boyd             | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Darnell Mooney         | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Antonio Gibson         | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0  
+Damien Harris          | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Jared Cook             | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0  
+Trey Sermon            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Robbie Gould           | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Kansas City            | 0.0  | 0.0  | 0.0 | 0.0      | 0.0        | 0.0  
+Total TDs: 4.0
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING
+-----|------------------------|-----------------
+1    | folklore               | 10.0            
+2    | Big Fat Hock           | 8.0             
+3    | Odellta Variant        | 8.0             
+4    | Zeke and Ye Shall Find | 7.0             
+5    | Chi ShingT's Team      | 7.0             
+6    | Chi ShingT’s Wedgie    | 7.0             
+7    | Tiz the Law            | 5.0             
+8    | Pop Drop and Lockett   | 4.0             
+9    | Diggs Out 4 HaRonbe    | 4.0             
+10   | G                      | 3.0             
+11   | Raider Bae             | 3.0             
+12   | Nags                   | 1.0             
+
+************** All players **************
+RANK | NAME                   | PASS | RUSH | REC | KICK_RET | FUMBLE_RET | TOTAL | TEAM                            
+-----|------------------------|------|------|-----|----------|------------|-------|---------------------------------
+1    | Patrick Mahomes        | 5.0  | 0.0  | 0.0 | 0.0      | 0.0        | 5.0   | Chi ShingT's Team               
+2    | Dak Prescott           | 4.0  | 0.0  | 0.0 | 0.0      | 0.0        | 4.0   | Diggs Out 4 HaRonbe             
+3    | Tyreek Hill            | 0.0  | 0.0  | 3.0 | 0.0      | 0.0        | 3.0   | Odellta Variant                 
+4    | Russell Wilson         | 2.0  | 1.0  | 0.0 | 0.0      | 0.0        | 3.0   | folklore                        
+5    | Justin Herbert         | 3.0  | 0.0  | 0.0 | 0.0      | 0.0        | 3.0   | Zeke and Ye Shall Find          
+6    | Aaron Rodgers          | 2.0  | 1.0  | 0.0 | 0.0      | 0.0        | 3.0   | Big Fat Hock                    
+7    | Deebo Samuel           | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0   | Big Fat Hock                    
+8    | David Montgomery       | 0.0  | 2.0  | 0.0 | 0.0      | 0.0        | 2.0   | Big Fat Hock                    
+9    | Kyler Murray           | 2.0  | 0.0  | 0.0 | 0.0      | 0.0        | 2.0   | Pop Drop and Lockett            
+10   | Saquon Barkley         | 0.0  | 1.0  | 1.0 | 0.0      | 0.0        | 2.0   | Chi ShingT’s Wedgie             
+11   | Austin Ekeler          | 0.0  | 1.0  | 1.0 | 0.0      | 0.0        | 2.0   | folklore                        
+12   | Matthew Stafford       | 2.0  | 0.0  | 0.0 | 0.0      | 0.0        | 2.0   | Odellta Variant                 
+13   | Dawson Knox            | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0   | folklore                        
+14   | Jalen Hurts            | 2.0  | 0.0  | 0.0 | 0.0      | 0.0        | 2.0   | G                               
+15   | DJ Moore               | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0   | Tiz the Law                     
+16   | Terry McLaurin         | 0.0  | 0.0  | 2.0 | 0.0      | 0.0        | 2.0   | Chi ShingT’s Wedgie             
+17   | James Robinson         | 0.0  | 2.0  | 0.0 | 0.0      | 0.0        | 2.0   | Zeke and Ye Shall Find          
+18   | Darren Waller          | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Raider Bae                      
+19   | Justin Jefferson       | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | G                               
+20   | Amari Cooper           | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Zeke and Ye Shall Find          
+21   | Ezekiel Elliott        | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Zeke and Ye Shall Find          
+22   | Diontae Johnson        | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Big Fat Hock                    
+23   | Robert Woods           | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Nags                            
+24   | Antonio Gibson         | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Pop Drop and Lockett            
+25   | Jared Cook             | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Pop Drop and Lockett            
+26   | Jonathan Taylor        | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Odellta Variant                 
+27   | Noah Fant              | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Odellta Variant                 
+28   | DeVante Parker         | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Odellta Variant                 
+29   | Kirk Cousins           | 1.0  | 0.0  | 0.0 | 0.0      | 0.0        | 1.0   | Tiz the Law                     
+30   | Najee Harris           | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Tiz the Law                     
+31   | Zack Moss              | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Tiz the Law                     
+32   | Joe Mixon              | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Chi ShingT's Team               
+33   | Kareem Hunt            | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Chi ShingT's Team               
+34   | DK Metcalf             | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | folklore                        
+35   | Clyde Edwards-Helaire  | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | folklore                        
+36   | Washington             | 0.0  | 0.0  | 0.0 | 1.0      | 0.0        | 1.0   | folklore                        
+37   | Ryan Tannehill         | 1.0  | 0.0  | 0.0 | 0.0      | 0.0        | 1.0   | Chi ShingT’s Wedgie             
+38   | Marquise Brown         | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Chi ShingT’s Wedgie             
+39   | Derrick Henry          | 0.0  | 1.0  | 0.0 | 0.0      | 0.0        | 1.0   | Chi ShingT’s Wedgie             
+40   | Lamar Jackson          | 1.0  | 0.0  | 0.0 | 0.0      | 0.0        | 1.0   | Raider Bae                      
+41   | Mike Davis             | 0.0  | 0.0  | 1.0 | 0.0      | 0.0        | 1.0   | Raider Bae                      

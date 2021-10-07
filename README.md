@@ -8,7 +8,7 @@ Challenges
 | 1 | Moneyball 2: More Money, More Balls | Highest total team points divided by total team salary. | Evan |
 | 2 | Sleeper Hit | Most points from a single player who was acquired for $5 or less (excluding keepers, K, and DEF). | Jake |
 | 3 | Running at Maximum Efficiency | Highest yards-per-carry combined across RBs | Doug |
-| 4 | Show Me Your TDs | Most total touchdowns scored on a team. | |
+| 4 | Show Me Your TDs | Most total touchdowns scored on a team. | Ron |
 | 5 | 30 for 30: Famous Jameis | QB with the most TDs + INTs combined | |
 | 6 | Smart Start | Least difference between optimal and actual lineup | |
 | 7 | Sticky Hands | Highest catch percentage combined across WRs | |
@@ -29,8 +29,8 @@ Challenges
 | Evan | 1 |
 | Jake | 1 |
 | Doug | 1 |
+| Ron | 1 |
 | Sean | 0 |
-| Ron | 0 |
 | Chi Shing | 0 |
 | Rajiv | 0 |
 | Jiwei | 0 |
