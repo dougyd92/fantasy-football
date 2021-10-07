@@ -9,7 +9,6 @@ module Challenges
 
       yahoo_client = YahooDataFetcher::Client.new(league_id)
       teams = yahoo_client.fetch_teams
-      player_history = YahooDataFetcher::PlayerHistory.new(yahoo_client, week)
 
       team_results = []
       all_players = []
@@ -25,11 +24,9 @@ module Challenges
           position = player['selected_position']['position']
           next unless position == 'RB'
 
-          player_key = player['player_key']
-
-          # TODO: make fetching specific stats less cumbersome
-          carries = player['player_stats']['stats']['stat'].select { |stat| stat['stat_id'] == YahooDataFetcher::StatIds::RUSHING_ATTEMPTS}.first['value'].to_f
-          rushing_yards = player['player_stats']['stats']['stat'].select { |stat| stat['stat_id'] == YahooDataFetcher::StatIds::RUSHING_YARDS}.first['value'].to_f
+          stats = YahooDataFetcher::Stats.new(player)
+          carries = stats.get(:RushAtt)
+          rushing_yards = stats.get(:RushYds)
           yards_per_carry = rushing_yards/carries
 
           total_carries += carries
