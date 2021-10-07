@@ -17,6 +17,8 @@ module Challenges
       SleeperHit.new
     when 'running_max'
       RunningMaxEfficiency.new
+    when 'show_me_your_tds'
+      ShowMeYourTDs.new
     end
   end
 end
