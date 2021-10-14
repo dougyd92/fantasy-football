@@ -19,6 +19,8 @@ module Challenges
       RunningMaxEfficiency.new
     when 'show_me_your_tds'
       ShowMeYourTDs.new
+    when 'famous_jameis'
+      FamousJameis.new
     end
   end
 end
