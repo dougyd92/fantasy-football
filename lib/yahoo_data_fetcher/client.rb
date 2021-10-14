@@ -18,6 +18,11 @@ module YahooDataFetcher
       data['league']['players']['player']
     end
 
+    def fetch_player_season_long_stats(player_key)
+      data = make_request("/player/#{player_key}/stats;type=season")
+      data['player']
+    end
+
     def fetch_roster(team_key, week)
       data = make_request("/team/#{team_key}/roster;week=#{week}/players/stats")
       data['team']['roster']['players']['player']
