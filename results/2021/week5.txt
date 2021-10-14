@@ -1,0 +1,129 @@
+Will run Challenges::FamousJameis for week 5 in league 597209
+30 for 30 (Famous Jameis): Most TD passes + INTs by a QB.
+
+Odellta Variant
+Starting QB: Matthew Stafford
+Passing TDs: 1.0
+INTs: 1.0
+Total: 2.0
+Extrapolating from this week, they are on track to throw for 17.0 TDs and 17.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 40.8 TDs and 10.2 INTs this season
+
+Tiz the Law
+Starting QB: Trey Lance
+Passing TDs: 0.0
+INTs: 1.0
+Total: 1.0
+Extrapolating from this week, they are on track to throw for 0.0 TDs and 17.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 10.2 TDs and 3.4 INTs this season
+
+Chi ShingT's Team
+Starting QB: Patrick Mahomes
+Passing TDs: 2.0
+INTs: 2.0
+Total: 4.0
+Extrapolating from this week, they are on track to throw for 34.0 TDs and 34.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 54.4 TDs and 20.4 INTs this season
+
+Diggs Out 4 HaRonbe
+Starting QB: Dak Prescott
+Passing TDs: 3.0
+INTs: 1.0
+Total: 4.0
+Extrapolating from this week, they are on track to throw for 51.0 TDs and 17.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 44.2 TDs and 10.2 INTs this season
+
+folklore
+Starting QB: Russell Wilson
+Passing TDs: 1.0
+INTs: 1.0
+Total: 2.0
+Extrapolating from this week, they are on track to throw for 17.0 TDs and 17.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 34.0 TDs and 3.4 INTs this season
+
+Mediocre Team
+Starting QB: Daniel Jones
+Passing TDs: 0.0
+INTs: 0.0
+Total: 0.0
+Extrapolating from this week, they are on track to throw for 0.0 TDs and 0.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 13.6 TDs and 3.4 INTs this season
+
+Raider Bae
+Starting QB: Lamar Jackson
+Passing TDs: 4.0
+INTs: 0.0
+Total: 4.0
+Extrapolating from this week, they are on track to throw for 68.0 TDs and 0.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 27.2 TDs and 10.2 INTs this season
+
+G
+Starting QB: Jalen Hurts
+Passing TDs: 0.0
+INTs: 1.0
+Total: 1.0
+Extrapolating from this week, they are on track to throw for 0.0 TDs and 17.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 23.8 TDs and 10.2 INTs this season
+
+Zeke and Ye Shall Find
+Starting QB: Justin Herbert
+Passing TDs: 4.0
+INTs: 0.0
+Total: 4.0
+Extrapolating from this week, they are on track to throw for 68.0 TDs and 0.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 44.2 TDs and 10.2 INTs this season
+
+Hock and Balls
+Starting QB: Aaron Rodgers
+Passing TDs: 2.0
+INTs: 1.0
+Total: 3.0
+Extrapolating from this week, they are on track to throw for 34.0 TDs and 17.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 34.0 TDs and 10.2 INTs this season
+
+Nags
+Starting QB: Tom Brady
+Passing TDs: 5.0
+INTs: 0.0
+Total: 5.0
+Extrapolating from this week, they are on track to throw for 85.0 TDs and 0.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 51.0 TDs and 6.8 INTs this season
+
+Pop Drop and Lockett
+Starting QB: Kyler Murray
+Passing TDs: 1.0
+INTs: 0.0
+Total: 1.0
+Extrapolating from this week, they are on track to throw for 17.0 TDs and 0.0 INTs this season
+Extrapolating from all games so far, they are on track to throw for 34.0 TDs and 13.6 INTs this season
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING
+-----|------------------------|-----------------
+1    | Nags                   | 5.0             
+2    | Raider Bae             | 4.0             
+3    | Zeke and Ye Shall Find | 4.0             
+4    | Chi ShingT's Team      | 4.0             
+5    | Diggs Out 4 HaRonbe    | 4.0             
+6    | Hock and Balls         | 3.0             
+7    | Odellta Variant        | 2.0             
+8    | folklore               | 2.0             
+9    | G                      | 1.0             
+10   | Tiz the Law            | 1.0             
+11   | Pop Drop and Lockett   | 1.0             
+12   | Mediocre Team          | 0.0             
+
+************** All players **************
+RANK | NAME                   | TDS | INTS | TOTAL | TEAM                            
+-----|------------------------|-----|------|-------|---------------------------------
+1    | Tom Brady              | 5.0 | 0.0  | 5.0   | Nags                            
+2    | Justin Herbert         | 4.0 | 0.0  | 4.0   | Zeke and Ye Shall Find          
+3    | Patrick Mahomes        | 2.0 | 2.0  | 4.0   | Chi ShingT's Team               
+4    | Dak Prescott           | 3.0 | 1.0  | 4.0   | Diggs Out 4 HaRonbe             
+5    | Lamar Jackson          | 4.0 | 0.0  | 4.0   | Raider Bae                      
+6    | Aaron Rodgers          | 2.0 | 1.0  | 3.0   | Hock and Balls                  
+7    | Matthew Stafford       | 1.0 | 1.0  | 2.0   | Odellta Variant                 
+8    | Russell Wilson         | 1.0 | 1.0  | 2.0   | folklore                        
+9    | Jalen Hurts            | 0.0 | 1.0  | 1.0   | G                               
+10   | Trey Lance             | 0.0 | 1.0  | 1.0   | Tiz the Law                     
+11   | Kyler Murray           | 1.0 | 0.0  | 1.0   | Pop Drop and Lockett            
