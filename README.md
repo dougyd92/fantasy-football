@@ -9,7 +9,7 @@ Challenges
 | 2 | Sleeper Hit | Most points from a single player who was acquired for $5 or less (excluding keepers, K, and DEF). | Jake |
 | 3 | Running at Maximum Efficiency | Highest yards-per-carry combined across RBs | Doug |
 | 4 | Show Me Your TDs | Most total touchdowns scored on a team. | Ron |
-| 5 | 30 for 30: Famous Jameis | QB with the most TDs + INTs combined | |
+| 5 | 30 for 30: Famous Jameis | QB with the most TDs + INTs combined | Ryan |
 | 6 | Smart Start | Least difference between optimal and actual lineup | |
 | 7 | Sticky Hands | Highest catch percentage combined across WRs | |
 | 8 | Stats 101 | Highest total, after removing the highest and lowest scorers. | |
@@ -30,11 +30,11 @@ Challenges
 | Jake | 1 |
 | Doug | 1 |
 | Ron | 1 |
+| Ryan | 1 |
 | Sean | 0 |
 | Chi Shing | 0 |
 | Rajiv | 0 |
 | Jiwei | 0 |
 | Joel | 0 |
-| Ryan | 0 |
 | Matt | 0 |
 | Dai | 0 |
