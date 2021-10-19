@@ -1,0 +1,130 @@
+Will run Challenges::SmartStart for week 6 in league 597209
+Smart Start: Least difference between optimal and actual lineup.
+
+Odellta Variant
+Points scored (actual): 166.14
+Points scored (ideal lineup): 166.14
+Difference: 0.0
+Perfect lineup!
+
+Tiz the Law
+Points scored (actual): 130.72
+Points scored (ideal lineup): 139.52
+Difference: 8.8
+You should have started Rhamondre Stevenson (13.7 pts)
+instead of Zack Moss (4.9 pts)
+
+Chi ShingT's Team
+Points scored (actual): 152.88
+Points scored (ideal lineup): 170.28
+Difference: 17.4
+You should have started Christian Kirk (16.0 pts), Emmanuel Sanders (11.6 pts), T.Y. Hilton (10.0 pts)
+instead of Chris Godwin (6.8 pts), DeVonta Smith (4.1 pts), Kareem Hunt (9.3 pts)
+
+Diggs Out 4 HaRonbe
+Points scored (actual): 105.8
+Points scored (ideal lineup): 130.7
+Difference: 24.9
+You should have started Jaylen Waddle (24.0 pts), Sterling Shepard (12.6 pts)
+instead of Mike Williams (3.7 pts), Amari Cooper (8.0 pts)
+
+folklore
+Points scored (actual): 104.14
+Points scored (ideal lineup): 104.14
+Difference: 0.0
+Perfect lineup!
+
+Mediocre Team
+Points scored (actual): 118.54
+Points scored (ideal lineup): 118.54
+Difference: 0.0
+Perfect lineup!
+
+Raider Bae
+Points scored (actual): 130.18
+Points scored (ideal lineup): 153.04
+Difference: 22.86
+You should have started Derek Carr (25.54 pts), K.J. Osborn (16.8 pts)
+instead of Lamar Jackson (15.78 pts), Mike Evans (3.7 pts)
+
+G
+Points scored (actual): 133.3
+Points scored (ideal lineup): 141.6
+Difference: 8.3
+You should have started Chris Evans (14.2 pts)
+instead of AJ Dillon (5.9 pts)
+
+Zeke and Ye Shall Find
+Points scored (actual): 121.8
+Points scored (ideal lineup): 133.6
+Difference: 11.8
+You should have started A.J. Green (16.4 pts), Tim Patrick (11.7 pts)
+instead of Jakobi Meyers (8.9 pts), Julio Jones (7.4 pts)
+
+Hock and Balls
+Points scored (actual): 146.5
+Points scored (ideal lineup): 147.9
+Difference: 1.4
+You should have started Allen Robinson II (7.3 pts)
+instead of Tee Higgins (5.9 pts)
+
+Nags
+Points scored (actual): 107.98
+Points scored (ideal lineup): 107.98
+Difference: 0.0
+Perfect lineup!
+
+Pop Drop and Lockett
+Points scored (actual): 118.36
+Points scored (ideal lineup): 132.26
+Difference: 13.9
+You should have started Damien Harris (17.3 pts)
+instead of Antonio Gibson (3.4 pts)
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING
+-----|------------------------|-----------------
+1    | Mediocre Team          | 0.0             
+2    | Odellta Variant        | 0.0             
+3    | Nags                   | 0.0             
+4    | folklore               | 0.0             
+5    | Hock and Balls         | 1.4             
+6    | G                      | 8.3             
+7    | Tiz the Law            | 8.8             
+8    | Zeke and Ye Shall Find | 11.8            
+9    | Pop Drop and Lockett   | 13.9            
+10   | Chi ShingT's Team      | 17.4            
+11   | Raider Bae             | 22.86           
+12   | Diggs Out 4 HaRonbe    | 24.9            
+
+
+************** BONUS **************
+How rare is it to set a perfect lineup?
+
+Perfect lineups this season
+Week 1: 0
+Week 2: 1 (Evan)
+Week 3: 0
+Week 4: 0
+Week 5: 0
+Week 6: 4 (Rajiv, Matt, Nagy, Ron)
+Total: 5 (0.83 per week)
+
+Perfect lineups last season
+Week 1: 1 (Matt)
+Week 2: 0
+Week 3: 0
+Week 4: 1 (Dai)
+Week 5: 2 (Jake, Nagy)
+Week 6: 4 (Matt, Dai, Sean, Nagy)
+Week 7: 2 (Matt, Jiwei)
+Week 8: 3 (Matt, Doug, Evan)
+Week 9: 2 (Jiwei, Ron)
+Week 10: 2 (Nagy, Rajiv)
+Week 11: 2 (Evan, Rajiv)
+Week 12: 0
+Week 13: 1 (Jiwei)
+Week 14: 0
+Week 15: 0
+Week 16: 0
+Total: 20 (1.25 per week)
