@@ -11,16 +11,18 @@ module Challenges
 
   def self.get_challenge_by_name(challenge_name)
     case challenge_name.downcase
+    when 'famous_jameis'
+      FamousJameis.new
     when 'moneyball2'
       Moneyball2.new
-    when 'sleeper_hit'
-      SleeperHit.new
     when 'running_max'
       RunningMaxEfficiency.new
     when 'show_me_your_tds'
       ShowMeYourTDs.new
-    when 'famous_jameis'
-      FamousJameis.new
+    when 'sleeper_hit'
+      SleeperHit.new
+    when 'smart_start'
+      SmartStart.new
     end
   end
 end
