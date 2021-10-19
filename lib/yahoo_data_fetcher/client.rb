@@ -28,6 +28,11 @@ module YahooDataFetcher
       data['team']['roster']['players']['player']
     end
 
+    def fetch_settings
+      data = make_request("league/nfl.l.#{@league_id}/settings")
+      data['league']['settings']
+    end
+
     def fetch_team_score(team_key, week)
       data = make_request("/team/#{team_key}/stats;type=week;week=#{week}")
       data['team']['team_points']['total'].to_f
