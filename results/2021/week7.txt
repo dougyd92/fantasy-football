@@ -151,38 +151,38 @@ RANK | TEAM_NAME              | CHALLENGE_RATING
 ************** All players **************
 RANK | NAME                   | TARGETS | RECEPTIONS | CATCH_PCT | TEAM                            
 -----|------------------------|---------|------------|-----------|---------------------------------
-1    | Donovan Peoples-Jones  | 0.0     | 0.0        |    NaN    | Tiz the Law                     
+1    | Kendrick Bourne        | 4.0     | 4.0        |  1.000    | G                               
 2    | Henry Ruggs III        | 4.0     | 4.0        |  1.000    | Raider Bye                      
-3    | Kendrick Bourne        | 4.0     | 4.0        |  1.000    | G                               
-4    | Michael Pittman Jr.    | 4.0     | 4.0        |  1.000    | Nags                            
-5    | Courtland Sutton       | 5.0     | 5.0        |  1.000    | folklore                        
-6    | Robert Woods           | 6.0     | 6.0        |  1.000    | Nags                            
-7    | Brandon Aiyuk          | 1.0     | 1.0        |  1.000    | Nags                            
-8    | A.J. Brown             | 9.0     | 8.0        |  0.889    | Koo Klutch Kam                  
-9    | Hunter Renfrow         | 8.0     | 7.0        |  0.875    | Mediocre Team                   
-10   | Jaylen Waddle          | 8.0     | 7.0        |  0.875    | Koo Klutch Kam                  
-11   | Davante Adams          | 7.0     | 6.0        |  0.857    | Tiz the Law                     
-12   | Allen Lazard           | 6.0     | 5.0        |  0.833    | G                               
+3    | Michael Pittman Jr.    | 4.0     | 4.0        |  1.000    | Nags                            
+4    | Courtland Sutton       | 5.0     | 5.0        |  1.000    | folklore                        
+5    | Robert Woods           | 6.0     | 6.0        |  1.000    | Nags                            
+6    | Brandon Aiyuk          | 1.0     | 1.0        |  1.000    | Nags                            
+7    | A.J. Brown             | 9.0     | 8.0        |  0.889    | Koo Klutch Kam                  
+8    | Hunter Renfrow         | 8.0     | 7.0        |  0.875    | Mediocre Team                   
+9    | Jaylen Waddle          | 8.0     | 7.0        |  0.875    | Koo Klutch Kam                  
+10   | Davante Adams          | 7.0     | 6.0        |  0.857    | Tiz the Law                     
+11   | Allen Lazard           | 6.0     | 5.0        |  0.833    | G                               
+12   | Christian Kirk         | 5.0     | 4.0        |  0.800    | Chi ShingT's Team               
 13   | Ja'Marr Chase          | 10.0    | 8.0        |  0.800    | folklore                        
-14   | Christian Kirk         | 5.0     | 4.0        |  0.800    | Chi ShingT's Team               
-15   | DeAndre Hopkins        | 9.0     | 7.0        |  0.778    | Zeke and Ye Shall Find          
-16   | Cooper Kupp            | 13.0    | 10.0       |  0.769    | Raider Bye                      
-17   | Chris Godwin           | 11.0    | 8.0        |  0.727    | Chi ShingT's Team               
+14   | DeAndre Hopkins        | 9.0     | 7.0        |  0.778    | Zeke and Ye Shall Find          
+15   | Cooper Kupp            | 13.0    | 10.0       |  0.769    | Raider Bye                      
+16   | Chris Godwin           | 11.0    | 8.0        |  0.727    | Chi ShingT's Team               
+17   | Brandin Cooks          | 7.0     | 5.0        |  0.714    | Me So Fourney                   
 18   | Jakobi Meyers          | 7.0     | 5.0        |  0.714    | Zeke and Ye Shall Find          
-19   | Brandin Cooks          | 7.0     | 5.0        |  0.714    | Me So Fourney                   
-20   | Tyreek Hill            | 9.0     | 6.0        |  0.667    | Odellta Variant                 
-21   | Rondale Moore          | 3.0     | 2.0        |  0.667    | Koo Klutch Kam                  
-22   | Tyler Lockett          | 3.0     | 2.0        |  0.667    | Pop Drop and Lockett            
-23   | Deebo Samuel           | 11.0    | 7.0        |  0.636    | Me So Fourney                   
-24   | Mike Evans             | 10.0    | 6.0        |  0.600    | Raider Bye                      
-25   | DJ Moore               | 10.0    | 6.0        |  0.600    | Tiz the Law                     
-26   | Terry McLaurin         | 12.0    | 7.0        |  0.583    | Mediocre Team                   
-27   | Tyler Boyd             | 7.0     | 4.0        |  0.571    | Pop Drop and Lockett            
-28   | DeVonta Smith          | 9.0     | 5.0        |  0.556    | Chi ShingT's Team               
-29   | Tee Higgins            | 15.0    | 7.0        |  0.467    | Me So Fourney                   
+19   | Tyreek Hill            | 9.0     | 6.0        |  0.667    | Odellta Variant                 
+20   | Rondale Moore          | 3.0     | 2.0        |  0.667    | Koo Klutch Kam                  
+21   | Tyler Lockett          | 3.0     | 2.0        |  0.667    | Pop Drop and Lockett            
+22   | Deebo Samuel           | 11.0    | 7.0        |  0.636    | Me So Fourney                   
+23   | Mike Evans             | 10.0    | 6.0        |  0.600    | Raider Bye                      
+24   | DJ Moore               | 10.0    | 6.0        |  0.600    | Tiz the Law                     
+25   | Terry McLaurin         | 12.0    | 7.0        |  0.583    | Mediocre Team                   
+26   | Tyler Boyd             | 7.0     | 4.0        |  0.571    | Pop Drop and Lockett            
+27   | DeVonta Smith          | 9.0     | 5.0        |  0.556    | Chi ShingT's Team               
+28   | Tee Higgins            | 15.0    | 7.0        |  0.467    | Me So Fourney                   
+29   | Calvin Ridley          | 10.0    | 4.0        |  0.400    | G                               
 30   | Nelson Agholor         | 5.0     | 2.0        |  0.400    | Odellta Variant                 
-31   | Calvin Ridley          | 10.0    | 4.0        |  0.400    | G                               
-32   | Tim Patrick            | 5.0     | 2.0        |  0.400    | Zeke and Ye Shall Find          
-33   | Darnell Mooney         | 5.0     | 2.0        |  0.400    | Pop Drop and Lockett            
-34   | Marquise Brown         | 14.0    | 5.0        |  0.357    | Mediocre Team                   
-35   | Robby Anderson         | 9.0     | 3.0        |  0.333    | Odellta Variant                 
+31   | Tim Patrick            | 5.0     | 2.0        |  0.400    | Zeke and Ye Shall Find          
+32   | Darnell Mooney         | 5.0     | 2.0        |  0.400    | Pop Drop and Lockett            
+33   | Marquise Brown         | 14.0    | 5.0        |  0.357    | Mediocre Team                   
+34   | Robby Anderson         | 9.0     | 3.0        |  0.333    | Odellta Variant                 
+35   | Donovan Peoples-Jones  | 0.0     | 0.0        |    NaN    | Tiz the Law                     

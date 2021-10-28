@@ -76,7 +76,7 @@ module Challenges
 
       puts('************** All players **************')
       all_players = all_players
-        .sort_by { |data| data[:catch_pct].nan? ? -Float::INFINITY : -data[:catch_pct] }
+        .sort_by { |data| data[:catch_pct].nan? ? Float::INFINITY : -data[:catch_pct] }
         .each.with_index do |data, i|
           data[:rank] = i + 1
           data
