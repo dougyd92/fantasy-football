@@ -1,0 +1,188 @@
+Will run Challenges::StickyHands for week 7 in league 597209
+Sticky Hands: Highest catch percentage combined across WRs
+
+Odellta Variant
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Tyreek Hill            | 9.0     | 6.0        |  0.67    
+Robby Anderson         | 9.0     | 3.0        |  0.33    
+Nelson Agholor         | 5.0     | 2.0        |  0.40    
+Total targets: 23.0
+Total receptions: 11.0
+Combined WR catch percentage: 47.83%
+
+Tiz the Law
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Davante Adams          | 7.0     | 6.0        |  0.86    
+DJ Moore               | 10.0    | 6.0        |  0.60    
+Donovan Peoples-Jones  | 0.0     | 0.0        |   NaN    
+Total targets: 17.0
+Total receptions: 12.0
+Combined WR catch percentage: 70.59%
+
+Chi ShingT's Team
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Chris Godwin           | 11.0    | 8.0        |  0.73    
+DeVonta Smith          | 9.0     | 5.0        |  0.56    
+Christian Kirk         | 5.0     | 4.0        |  0.80    
+Total targets: 25.0
+Total receptions: 17.0
+Combined WR catch percentage: 68.00%
+
+Koo Klutch Kam
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+A.J. Brown             | 9.0     | 8.0        |  0.89    
+Jaylen Waddle          | 8.0     | 7.0        |  0.88    
+Rondale Moore          | 3.0     | 2.0        |  0.67    
+Total targets: 20.0
+Total receptions: 17.0
+Combined WR catch percentage: 85.00%
+
+folklore
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Ja'Marr Chase          | 10.0    | 8.0        |  0.80    
+Courtland Sutton       | 5.0     | 5.0        |  1.00    
+Total targets: 15.0
+Total receptions: 13.0
+Combined WR catch percentage: 86.67%
+
+Mediocre Team
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Terry McLaurin         | 12.0    | 7.0        |  0.58    
+Marquise Brown         | 14.0    | 5.0        |  0.36    
+Hunter Renfrow         | 8.0     | 7.0        |  0.88    
+Total targets: 34.0
+Total receptions: 19.0
+Combined WR catch percentage: 55.88%
+
+Raider Bye
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Cooper Kupp            | 13.0    | 10.0       |  0.77    
+Mike Evans             | 10.0    | 6.0        |  0.60    
+Henry Ruggs III        | 4.0     | 4.0        |  1.00    
+Total targets: 27.0
+Total receptions: 20.0
+Combined WR catch percentage: 74.07%
+
+G
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Calvin Ridley          | 10.0    | 4.0        |  0.40    
+Kendrick Bourne        | 4.0     | 4.0        |  1.00    
+Allen Lazard           | 6.0     | 5.0        |  0.83    
+Total targets: 20.0
+Total receptions: 13.0
+Combined WR catch percentage: 65.00%
+
+Zeke and Ye Shall Find
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+DeAndre Hopkins        | 9.0     | 7.0        |  0.78    
+Jakobi Meyers          | 7.0     | 5.0        |  0.71    
+Tim Patrick            | 5.0     | 2.0        |  0.40    
+Total targets: 21.0
+Total receptions: 14.0
+Combined WR catch percentage: 66.67%
+
+Me So Fourney
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Tee Higgins            | 15.0    | 7.0        |  0.47    
+Brandin Cooks          | 7.0     | 5.0        |  0.71    
+Deebo Samuel           | 11.0    | 7.0        |  0.64    
+Total targets: 33.0
+Total receptions: 19.0
+Combined WR catch percentage: 57.58%
+
+Nags
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Robert Woods           | 6.0     | 6.0        |  1.00    
+Michael Pittman Jr.    | 4.0     | 4.0        |  1.00    
+Brandon Aiyuk          | 1.0     | 1.0        |  1.00    
+Total targets: 11.0
+Total receptions: 11.0
+Combined WR catch percentage: 100.00%
+
+Pop Drop and Lockett
+Starting WRs:
+NAME                   | TARGETS | RECEPTIONS | CATCH_PCT
+-----------------------|---------|------------|----------
+Tyler Lockett          | 3.0     | 2.0        |  0.67    
+Tyler Boyd             | 7.0     | 4.0        |  0.57    
+Darnell Mooney         | 5.0     | 2.0        |  0.40    
+Total targets: 15.0
+Total receptions: 8.0
+Combined WR catch percentage: 53.33%
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING
+-----|------------------------|-----------------
+1    | Nags                   |  1.000          
+2    | folklore               |  0.867          
+3    | Koo Klutch Kam         |  0.850          
+4    | Raider Bye             |  0.741          
+5    | Tiz the Law            |  0.706          
+6    | Chi ShingT's Team      |  0.680          
+7    | Zeke and Ye Shall Find |  0.667          
+8    | G                      |  0.650          
+9    | Me So Fourney          |  0.576          
+10   | Mediocre Team          |  0.559          
+11   | Pop Drop and Lockett   |  0.533          
+12   | Odellta Variant        |  0.478          
+
+************** All players **************
+RANK | NAME                   | TARGETS | RECEPTIONS | CATCH_PCT | TEAM                            
+-----|------------------------|---------|------------|-----------|---------------------------------
+1    | Donovan Peoples-Jones  | 0.0     | 0.0        |    NaN    | Tiz the Law                     
+2    | Henry Ruggs III        | 4.0     | 4.0        |  1.000    | Raider Bye                      
+3    | Kendrick Bourne        | 4.0     | 4.0        |  1.000    | G                               
+4    | Michael Pittman Jr.    | 4.0     | 4.0        |  1.000    | Nags                            
+5    | Courtland Sutton       | 5.0     | 5.0        |  1.000    | folklore                        
+6    | Robert Woods           | 6.0     | 6.0        |  1.000    | Nags                            
+7    | Brandon Aiyuk          | 1.0     | 1.0        |  1.000    | Nags                            
+8    | A.J. Brown             | 9.0     | 8.0        |  0.889    | Koo Klutch Kam                  
+9    | Hunter Renfrow         | 8.0     | 7.0        |  0.875    | Mediocre Team                   
+10   | Jaylen Waddle          | 8.0     | 7.0        |  0.875    | Koo Klutch Kam                  
+11   | Davante Adams          | 7.0     | 6.0        |  0.857    | Tiz the Law                     
+12   | Allen Lazard           | 6.0     | 5.0        |  0.833    | G                               
+13   | Ja'Marr Chase          | 10.0    | 8.0        |  0.800    | folklore                        
+14   | Christian Kirk         | 5.0     | 4.0        |  0.800    | Chi ShingT's Team               
+15   | DeAndre Hopkins        | 9.0     | 7.0        |  0.778    | Zeke and Ye Shall Find          
+16   | Cooper Kupp            | 13.0    | 10.0       |  0.769    | Raider Bye                      
+17   | Chris Godwin           | 11.0    | 8.0        |  0.727    | Chi ShingT's Team               
+18   | Jakobi Meyers          | 7.0     | 5.0        |  0.714    | Zeke and Ye Shall Find          
+19   | Brandin Cooks          | 7.0     | 5.0        |  0.714    | Me So Fourney                   
+20   | Tyreek Hill            | 9.0     | 6.0        |  0.667    | Odellta Variant                 
+21   | Rondale Moore          | 3.0     | 2.0        |  0.667    | Koo Klutch Kam                  
+22   | Tyler Lockett          | 3.0     | 2.0        |  0.667    | Pop Drop and Lockett            
+23   | Deebo Samuel           | 11.0    | 7.0        |  0.636    | Me So Fourney                   
+24   | Mike Evans             | 10.0    | 6.0        |  0.600    | Raider Bye                      
+25   | DJ Moore               | 10.0    | 6.0        |  0.600    | Tiz the Law                     
+26   | Terry McLaurin         | 12.0    | 7.0        |  0.583    | Mediocre Team                   
+27   | Tyler Boyd             | 7.0     | 4.0        |  0.571    | Pop Drop and Lockett            
+28   | DeVonta Smith          | 9.0     | 5.0        |  0.556    | Chi ShingT's Team               
+29   | Tee Higgins            | 15.0    | 7.0        |  0.467    | Me So Fourney                   
+30   | Nelson Agholor         | 5.0     | 2.0        |  0.400    | Odellta Variant                 
+31   | Calvin Ridley          | 10.0    | 4.0        |  0.400    | G                               
+32   | Tim Patrick            | 5.0     | 2.0        |  0.400    | Zeke and Ye Shall Find          
+33   | Darnell Mooney         | 5.0     | 2.0        |  0.400    | Pop Drop and Lockett            
+34   | Marquise Brown         | 14.0    | 5.0        |  0.357    | Mediocre Team                   
+35   | Robby Anderson         | 9.0     | 3.0        |  0.333    | Odellta Variant                 
