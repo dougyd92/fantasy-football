@@ -10,8 +10,8 @@ Challenges
 | 3 | Running at Maximum Efficiency | Highest yards-per-carry combined across RBs | Doug |
 | 4 | Show Me Your TDs | Most total touchdowns scored on a team. | Ron |
 | 5 | 30 for 30: Famous Jameis | QB with the most TDs + INTs combined | Ryan |
-| 6 | Smart Start | Least difference between optimal and actual lineup | |
-| 7 | Sticky Hands | Highest catch percentage combined across WRs | |
+| 6 | Smart Start | Least difference between optimal and actual lineup | Rajiv, Matt, Ryan, Ron |
+| 7 | Sticky Hands | Highest catch percentage combined across WRs | Ryan |
 | 8 | Stats 101 | Highest total, after removing the highest and lowest scorers. | |
 | 9 | Das Boot | K with the longest field goal | |
 | 10 | Photo Finish | The team that defeats its opponent by the smallest margin of victory. | |
@@ -26,15 +26,15 @@ Challenges
 2021 Season Total
 | Manager | Challenge Wins |
 |-|-|
+| Ryan | 2.25 |
+| Ron | 1.25 |
 | Evan | 1 |
 | Jake | 1 |
 | Doug | 1 |
-| Ron | 1 |
-| Ryan | 1 |
+| Rajiv | 0.25 |
+| Matt | 0.25 |
 | Sean | 0 |
 | Chi Shing | 0 |
-| Rajiv | 0 |
 | Jiwei | 0 |
 | Joel | 0 |
-| Matt | 0 |
 | Dai | 0 |
