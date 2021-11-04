@@ -167,18 +167,18 @@ NAME                   | POS   | PTS
 -----------------------|-------|------
 Justin Herbert         | QB    | 19.82
 DeAndre Hopkins        | WR    | 7.6  
-Jakobi Meyers          | WR    | 7.7  
+Jakobi Meyers          | WR    | 7.6  
 Randall Cobb           | WR    | 15.0 
 James Robinson         | RB    | 4.4  
 Ezekiel Elliott        | RB    | 9.3  
 Robert Tonyan          | TE    | 6.4  
 Devontae Booker        | W/R/T | 15.0 
 Evan McPherson         | K     | 7.0  
-Buffalo                | DEF   | 10.0 
+Buffalo                | DEF   | 12.0 
 Highest score: 19.82 by Justin Herbert
 Lowest score: 4.4 by James Robinson
-Original team score: 102.22 (10.22 points per player)
-Adjusted team score: 78.0 (7.8 points per player)
+Original team score: 104.12 (10.41 points per player)
+Adjusted team score: 79.9 (7.99 points per player)
 Difference: -24.22 (-2.42 points per player)
 
 Me So Fourney
@@ -251,8 +251,8 @@ RANK | TEAM_NAME              | ADJUSTED_SCORE | ORIG_SCORE | HIGH  | LOW  | ADJ
 5    | Chi ShingT's Team      | 83.1           | 107.1      | 24.0  | 0.0  | 8.31    | 10.71    | -2.4    
 6    | Raider Bay             | 82.46          | 105.46     | 21.0  | 2.0  | 8.25    | 10.55    | -2.3    
 7    | Pop Drop and Lockett   | 81.2           | 104.4      | 20.2  | 3.0  | 8.12    | 10.44    | -2.32   
-8    | Nags                   | 78.9           | 114.1      | 35.2  | 0.0  | 7.89    | 11.41    | -3.52   
-9    | Zeke and Ye Shall Find | 78.0           | 102.22     | 19.82 | 4.4  | 7.8     | 10.22    | -2.42   
+8    | Zeke and Ye Shall Find | 79.9           | 104.12     | 19.82 | 4.4  | 7.99    | 10.41    | -2.42   
+9    | Nags                   | 78.9           | 114.1      | 35.2  | 0.0  | 7.89    | 11.41    | -3.52   
 10   | Return of the Dak      | 73.98          | 101.48     | 26.5  | 1.0  | 7.4     | 10.15    | -2.75   
 11   | G                      | 49.32          | 66.02      | 16.7  | 0.0  | 4.93    | 6.6      | -1.67   
 12   | Mediocre Team          | 45.6           | 73.8       | 29.2  | -1.0 | 4.56    | 7.38     | -2.82   
