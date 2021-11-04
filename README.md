@@ -12,7 +12,7 @@ Challenges
 | 5 | 30 for 30: Famous Jameis | QB with the most TDs + INTs combined | Ryan |
 | 6 | Smart Start | Least difference between optimal and actual lineup | Rajiv, Matt, Ryan, Ron |
 | 7 | Sticky Hands | Highest catch percentage combined across WRs | Ryan |
-| 8 | Stats 101 | Highest total, after removing the highest and lowest scorers. | |
+| 8 | Stats 101 | Highest total, after removing the highest and lowest scorers. | Ron |
 | 9 | Das Boot | K with the longest field goal | |
 | 10 | Photo Finish | The team that defeats its opponent by the smallest margin of victory. | |
 | 11 | Shutout | DEF with the least points allowed | |
@@ -27,7 +27,7 @@ Challenges
 | Manager | Challenge Wins |
 |-|-|
 | Ryan | 2.25 |
-| Ron | 1.25 |
+| Ron | 2.25 |
 | Evan | 1 |
 | Jake | 1 |
 | Doug | 1 |

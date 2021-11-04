@@ -1,0 +1,259 @@
+Will run Challenges::Stats101 for week 8 in league 597209
+Stats 101: Highest total, after removing the highest and lowest scorers.
+
+Odellta Variant
+Starting players:
+NAME                   | POS   | PTS 
+-----------------------|-------|-----
+Matthew Stafford       | QB    | 30.2
+Tyreek Hill            | WR    | 21.4
+Odell Beckham Jr.      | WR    | 1.1 
+Jerry Jeudy            | WR    | 5.9 
+Aaron Jones            | RB    | 20.5
+Jonathan Taylor        | RB    | 19.7
+Noah Fant              | TE    | 1.8 
+DeVante Parker         | W/R/T | 12.5
+Harrison Butker        | K     | 8.0 
+Carolina               | DEF   | 11.0
+Highest score: 30.2 by Matthew Stafford
+Lowest score: 1.1 by Odell Beckham Jr.
+Original team score: 132.1 (13.21 points per player)
+Adjusted team score: 100.8 (10.08 points per player)
+Difference: -31.3 (-3.13 points per player)
+
+Tiz the Law
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Josh Allen             | QB    | 33.46
+DJ Moore               | WR    | 7.9  
+Kadarius Toney         | WR    | 5.36 
+Russell Gage           | WR    | 0.0  
+Najee Harris           | RB    | 19.5 
+Zack Moss              | RB    | 8.8  
+Kyle Pitts             | TE    | 2.3  
+Michael Carter         | W/R/T | 27.7 
+Randy Bullock          | K     | 12.0 
+Dallas                 | DEF   | 2.0  
+Highest score: 33.46 by Josh Allen
+Lowest score: 0.0 by Russell Gage
+Original team score: 119.02 (11.9 points per player)
+Adjusted team score: 85.56 (8.56 points per player)
+Difference: -33.46 (-3.34 points per player)
+
+Chi ShingT's Team
+Starting players:
+NAME                   | POS   | PTS 
+-----------------------|-------|-----
+Patrick Mahomes        | QB    | 17.0
+Chris Godwin           | WR    | 24.0
+DeVonta Smith          | WR    | 2.0 
+CeeDee Lamb            | WR    | 14.2
+Joe Mixon              | RB    | 23.1
+Khalil Herbert         | RB    | 7.8 
+Tyler Higbee           | TE    | 4.0 
+Emmanuel Sanders       | W/R/T | 0.0 
+Matt Gay               | K     | 8.0 
+Los Angeles            | DEF   | 7.0 
+Highest score: 24.0 by Chris Godwin
+Lowest score: 0.0 by Emmanuel Sanders
+Original team score: 107.1 (10.71 points per player)
+Adjusted team score: 83.1 (8.31 points per player)
+Difference: -24.0 (-2.4 points per player)
+
+Return of the Dak
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Daniel Jones           | QB    | 21.08
+A.J. Brown             | WR    | 26.5 
+Stefon Diggs           | WR    | 12.5 
+Mike Williams          | WR    | 2.9  
+Javonte Williams       | RB    | 5.8  
+Alvin Kamara           | RB    | 15.1 
+Dalton Schultz         | TE    | 2.1  
+Sterling Shepard       | W/R/T | 4.5  
+Younghoe Koo           | K     | 10.0 
+Arizona                | DEF   | 1.0  
+Highest score: 26.5 by A.J. Brown
+Lowest score: 1.0 by Arizona
+Original team score: 101.48 (10.15 points per player)
+Adjusted team score: 73.98 (7.4 points per player)
+Difference: -27.5 (-2.75 points per player)
+
+folklore
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Joe Burrow             | QB    | 27.26
+Ja'Marr Chase          | WR    | 11.6 
+Courtland Sutton       | WR    | 5.0  
+DK Metcalf             | WR    | 19.3 
+Austin Ekeler          | RB    | 21.4 
+Cordarrelle Patterson  | RB    | 15.7 
+Dallas Goedert         | TE    | 10.2 
+Eli Mitchell           | W/R/T | 19.7 
+Nick Folk              | K     | 15.0 
+San Francisco          | DEF   | 6.0  
+Highest score: 27.26 by Joe Burrow
+Lowest score: 5.0 by Courtland Sutton
+Original team score: 151.16 (15.12 points per player)
+Adjusted team score: 118.9 (11.89 points per player)
+Difference: -32.26 (-3.23 points per player)
+
+Mediocre Team
+Starting players:
+NAME                   | POS   | PTS 
+-----------------------|-------|-----
+Ryan Tannehill         | QB    | 29.2
+Terry McLaurin         | WR    | 5.0 
+Adam Thielen           | WR    | 16.8
+Marquez Callaway       | WR    | 4.5 
+Derrick Henry          | RB    | 6.8 
+Saquon Barkley         | RB    | 0.0 
+Hunter Henry           | TE    | 3.8 
+Kenneth Gainwell       | W/R/T | 2.7 
+Brandon McManus        | K     | 6.0 
+Chicago                | DEF   | -1.0
+Highest score: 29.2 by Ryan Tannehill
+Lowest score: -1.0 by Chicago
+Original team score: 73.8 (7.38 points per player)
+Adjusted team score: 45.6 (4.56 points per player)
+Difference: -28.2 (-2.82 points per player)
+
+Raider Bay
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Kirk Cousins           | QB    | 15.16
+Cooper Kupp            | WR    | 21.0 
+Mike Evans             | WR    | 11.8 
+Cole Beasley           | WR    | 16.0 
+James Conner           | RB    | 14.2 
+Mike Davis             | RB    | 9.1  
+Ricky Seals-Jones      | TE    | 2.2  
+K.J. Osborn            | W/R/T | 2.0  
+Greg Zuerlein          | K     | 8.0  
+Indianapolis           | DEF   | 6.0  
+Highest score: 21.0 by Cooper Kupp
+Lowest score: 2.0 by K.J. Osborn
+Original team score: 105.46 (10.55 points per player)
+Adjusted team score: 82.46 (8.25 points per player)
+Difference: -23.0 (-2.3 points per player)
+
+G
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Jalen Hurts            | QB    | 11.22
+Calvin Ridley          | WR    | 0.0  
+Keenan Allen           | WR    | 16.7 
+Justin Jefferson       | WR    | 3.1  
+Alex Collins           | RB    | 4.4  
+D'Ernest Johnson       | RB    | 9.4  
+Tyler Conklin          | TE    | 8.2  
+Marvin Jones Jr.       | W/R/T | 6.0  
+Chase McLaughlin       | K     | 4.0  
+Cleveland              | DEF   | 3.0  
+Highest score: 16.7 by Keenan Allen
+Lowest score: 0.0 by Calvin Ridley
+Original team score: 66.02 (6.6 points per player)
+Adjusted team score: 49.32 (4.93 points per player)
+Difference: -16.7 (-1.67 points per player)
+
+Zeke and Ye Shall Find
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Justin Herbert         | QB    | 19.82
+DeAndre Hopkins        | WR    | 7.6  
+Jakobi Meyers          | WR    | 7.7  
+Randall Cobb           | WR    | 15.0 
+James Robinson         | RB    | 4.4  
+Ezekiel Elliott        | RB    | 9.3  
+Robert Tonyan          | TE    | 6.4  
+Devontae Booker        | W/R/T | 15.0 
+Evan McPherson         | K     | 7.0  
+Buffalo                | DEF   | 10.0 
+Highest score: 19.82 by Justin Herbert
+Lowest score: 4.4 by James Robinson
+Original team score: 102.22 (10.22 points per player)
+Adjusted team score: 78.0 (7.8 points per player)
+Difference: -24.22 (-2.42 points per player)
+
+Me So Fourney
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Aaron Rodgers          | QB    | 19.66
+Tee Higgins            | WR    | 11.7 
+Deebo Samuel           | WR    | 20.1 
+Diontae Johnson        | WR    | 12.8 
+Darrell Henderson Jr.  | RB    | 21.8 
+D'Andre Swift          | RB    | 5.6  
+T.J. Hockenson         | TE    | 13.9 
+Leonard Fournette      | W/R/T | 5.8  
+Tyler Bass             | K     | 10.0 
+Pittsburgh             | DEF   | 10.0 
+Highest score: 21.8 by Darrell Henderson Jr.
+Lowest score: 5.6 by D'Andre Swift
+Original team score: 131.36 (13.14 points per player)
+Adjusted team score: 103.96 (10.4 points per player)
+Difference: -27.4 (-2.74 points per player)
+
+Nags
+Starting players:
+NAME                   | POS   | PTS 
+-----------------------|-------|-----
+Tom Brady              | QB    | 35.2
+Robert Woods           | WR    | 19.2
+Michael Pittman Jr.    | WR    | 25.6
+Laviska Shenault Jr.   | WR    | 3.1 
+Dalvin Cook            | RB    | 7.8 
+Nick Chubb             | RB    | 7.4 
+Travis Kelce           | TE    | 2.7 
+Chase Claypool         | W/R/T | 8.1 
+Graham Gano            | K     | 5.0 
+Tampa Bay              | DEF   | 0.0 
+Highest score: 35.2 by Tom Brady
+Lowest score: 0.0 by Tampa Bay
+Original team score: 114.1 (11.41 points per player)
+Adjusted team score: 78.9 (7.89 points per player)
+Difference: -35.2 (-3.52 points per player)
+
+Pop Drop and Lockett
+Starting players:
+NAME                   | POS   | PTS  
+-----------------------|-------|------
+Kyler Murray           | QB    | 11.06
+Tyler Lockett          | WR    | 20.2 
+Tyler Boyd             | WR    | 17.24
+Jarvis Landry          | WR    | 7.5  
+Antonio Gibson         | RB    | 6.9  
+Damien Harris          | RB    | 14.0 
+Jared Cook             | TE    | 3.5  
+Darrel Williams        | W/R/T | 14.0 
+Matt Prater            | K     | 3.0  
+Cincinnati             | DEF   | 7.0  
+Highest score: 20.2 by Tyler Lockett
+Lowest score: 3.0 by Matt Prater
+Original team score: 104.4 (10.44 points per player)
+Adjusted team score: 81.2 (8.12 points per player)
+Difference: -23.2 (-2.32 points per player)
+
+************** RESULTS **************
+RANK | TEAM_NAME              | ADJUSTED_SCORE | ORIG_SCORE | HIGH  | LOW  | ADJ_PPP | ORIG_PPP | DIFF_PPP
+-----|------------------------|----------------|------------|-------|------|---------|----------|---------
+1    | folklore               | 118.9          | 151.16     | 27.26 | 5.0  | 11.89   | 15.12    | -3.23   
+2    | Me So Fourney          | 103.96         | 131.36     | 21.8  | 5.6  | 10.4    | 13.14    | -2.74   
+3    | Odellta Variant        | 100.8          | 132.1      | 30.2  | 1.1  | 10.08   | 13.21    | -3.13   
+4    | Tiz the Law            | 85.56          | 119.02     | 33.46 | 0.0  | 8.56    | 11.9     | -3.34   
+5    | Chi ShingT's Team      | 83.1           | 107.1      | 24.0  | 0.0  | 8.31    | 10.71    | -2.4    
+6    | Raider Bay             | 82.46          | 105.46     | 21.0  | 2.0  | 8.25    | 10.55    | -2.3    
+7    | Pop Drop and Lockett   | 81.2           | 104.4      | 20.2  | 3.0  | 8.12    | 10.44    | -2.32   
+8    | Nags                   | 78.9           | 114.1      | 35.2  | 0.0  | 7.89    | 11.41    | -3.52   
+9    | Zeke and Ye Shall Find | 78.0           | 102.22     | 19.82 | 4.4  | 7.8     | 10.22    | -2.42   
+10   | Return of the Dak      | 73.98          | 101.48     | 26.5  | 1.0  | 7.4     | 10.15    | -2.75   
+11   | G                      | 49.32          | 66.02      | 16.7  | 0.0  | 4.93    | 6.6      | -1.67   
+12   | Mediocre Team          | 45.6           | 73.8       | 29.2  | -1.0 | 4.56    | 7.38     | -2.82   
+
