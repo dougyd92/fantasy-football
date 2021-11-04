@@ -23,6 +23,8 @@ module Challenges
       SleeperHit.new
     when 'smart_start'
       SmartStart.new
+    when 'stats101'
+      Stats101.new
     when 'sticky_hands'
       StickyHands.new
     end
