@@ -1,0 +1,67 @@
+Will run Challenges::DasBoot for week 9 in league 597209
+Das Boot: Kicker with the longest field goal
+
+Odellta Variant
+Kicker: Harrison Butker
+Longest FG made: 55 yds
+
+Tiz the Law
+Kicker: Greg Joseph
+Longest FG made: 36 yds
+
+Chi ShingT's Team
+Kicker: Matt Gay
+Longest FG made: 54 yds
+
+Boswell that Ends Well
+Kicker: Greg Zuerlein
+Longest FG made: 0 yds
+
+folklore
+Kicker: Nick Folk
+Longest FG made: 37 yds
+
+Mediocre Team
+Kicker: Brandon McManus
+Longest FG made: 53 yds
+
+Raider Bae
+Kicker: Justin Tucker
+Longest FG made: 37 yds
+
+G
+Kicker: Chase McLaughlin
+Longest FG made: 28 yds
+
+Zeke and Ye Shall Find
+Kicker: Michael Badgley
+Longest FG made: 39 yds
+
+MasturBateman
+Kicker: Tyler Bass
+Longest FG made: 41 yds
+
+Nags
+Kicker: Daniel Carlson
+Longest FG made: 32 yds
+
+Pop Drop and Lockett
+Kicker: Matt Prater
+Longest FG made: 26 yds
+
+************** RESULTS **************
+RANK | TEAM_NAME              | KICKER           | LONG
+-----|------------------------|------------------|-----
+1    | Odellta Variant        | Harrison Butker  | 55  
+2    | Chi ShingT's Team      | Matt Gay         | 54  
+3    | Mediocre Team          | Brandon McManus  | 53  
+4    | MasturBateman          | Tyler Bass       | 41  
+5    | Zeke and Ye Shall Find | Michael Badgley  | 39  
+6    | Raider Bae             | Justin Tucker    | 37  
+7    | folklore               | Nick Folk        | 37  
+8    | Tiz the Law            | Greg Joseph      | 36  
+9    | Nags                   | Daniel Carlson   | 32  
+10   | G                      | Chase McLaughlin | 28  
+11   | Pop Drop and Lockett   | Matt Prater      | 26  
+12   | Boswell that Ends Well | Greg Zuerlein    | 0   
+

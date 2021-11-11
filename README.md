@@ -13,7 +13,7 @@ Challenges
 | 6 | Smart Start | Least difference between optimal and actual lineup | Rajiv, Matt, Ryan, Ron |
 | 7 | Sticky Hands | Highest catch percentage combined across WRs | Ryan |
 | 8 | Stats 101 | Highest total, after removing the highest and lowest scorers. | Ron |
-| 9 | Das Boot | K with the longest field goal | |
+| 9 | Das Boot | K with the longest field goal | Matt |
 | 10 | Photo Finish | The team that defeats its opponent by the smallest margin of victory. | |
 | 11 | Shutout | DEF with the least points allowed | |
 | 12 | Vulture Victim | Most points from a single player who had 0 TDs (excludes K and DEF) | |
@@ -30,9 +30,9 @@ Challenges
 | Ron | 2.25 |
 | Evan | 1 |
 | Jake | 1 |
+| Matt | 1.25 |
 | Doug | 1 |
 | Rajiv | 0.25 |
-| Matt | 0.25 |
 | Sean | 0 |
 | Chi Shing | 0 |
 | Jiwei | 0 |
