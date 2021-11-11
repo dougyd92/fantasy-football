@@ -1,0 +1,337 @@
+,ff_team,player_added,player_added_pos,player_added_team,player_dropped,player_dropped_pos,player_dropped_team,transaction_cost,transaction_time,transaction_type,manager
+0,Pop Drop and Lockett,Ty'Son Williams,RB,Bal,Los Angeles,DEF,LAC,7,2020-08-30 00:09:00,drop-add,Evan
+1,Me So Fourney,Jermar Jefferson,RB,Det,Kirk Cousins,QB,Min,5,2020-08-30 00:09:00,drop-add,Joel
+2,Odellta Variant,Nelson Agholor,WR,NE,Todd Gurley II,RB,Atl,0,2020-08-30 00:09:00,drop-add,Matt
+3,Boswell that Ends Well,Sterling Shepard,WR,NYG,Russell Gage,WR,Atl,0,2020-08-30 00:10:00,drop-add,Sean
+4,Boswell that Ends Well,Tony Jones Jr.,RB,NO,Latavius Murray,RB,Bal,0,2020-08-30 00:13:00,drop-add,Sean
+5,folklore,Ty Johnson,RB,NYJ,Leonard Fournette,RB,TB,0,2020-08-30 06:05:00,drop-add,Ron
+6,Raider Bae,Tyrell Williams,WR,Det,Allen Lazard,WR,GB,0,2020-08-30 07:50:00,drop-add,Jake
+7,Mediocre Team,Aldrick Rosas,K,NO,Wil Lutz,K,NO,0,2020-08-30 13:04:00,drop-add,Rajiv
+8,Mediocre Team,Tua Tagovailoa,QB,Mia,Cole Kmet,TE,Chi,0,2020-08-30 13:08:00,drop-add,Rajiv
+9,Mediocre Team,Rodrigo Blankenship,K,Ind,Aldrick Rosas,K,NO,0,2020-08-30 15:55:00,drop-add,Rajiv
+10,Me So Fourney,Jalen Reagor,WR,Phi,John Brown,WR,Jax,0,2020-08-30 18:36:00,drop-add,Joel
+11,Mediocre Team,Devontae Booker,RB,NYG,New Orleans,DEF,NO,0,2020-08-30 18:43:00,drop-add,Rajiv
+12,Mediocre Team,Chris Evans,RB,Cin,Sam Darnold,QB,Car,0,2020-08-30 18:49:00,drop-add,Rajiv
+13,Boswell that Ends Well,Miami,DEF,Mia,New England,DEF,NE,0,2020-08-31 09:23:00,drop-add,Sean
+14,Boswell that Ends Well,Kenneth Gainwell,RB,Phi,Justice Hill,RB,Bal,0,2020-08-31 11:28:00,drop-add,Sean
+15,Nags,Daniel Carlson,K,LV,Nick Folk,K,NE,0,2020-08-31 21:23:00,drop-add,Ryan
+16,Zeke and Ye Shall Find,Todd Gurley II,RB,Atl,Juwan Johnson,"WR,TE",NO,0,2020-09-01 00:10:00,drop-add,Doug
+17,Boswell that Ends Well,Jason Myers,K,Sea,Brandon McManus,K,Den,0,2020-09-01 00:16:00,drop-add,Sean
+18,Zeke and Ye Shall Find,Bryan Edwards,WR,LV,J.K. Dobbins,RB,Bal,0,2020-09-01 09:10:00,drop-add,Doug
+19,Boswell that Ends Well,Rondale Moore,WR,Ari,Tony Jones Jr.,RB,NO,0,2020-09-02 00:40:00,drop-add,Sean
+20,Raider Bae,Mac Jones,QB,NE,Deshaun Watson,QB,Hou,0,2020-09-02 14:00:00,drop-add,Jake
+21,Zeke and Ye Shall Find,Wayne Gallman Jr.,RB,Atl,Todd Gurley II,RB,Atl,0,2020-09-03 10:57:00,drop-add,Doug
+22,Nags,Russell Gage,WR,Atl,T.Y. Hilton,WR,Ind,0,2020-09-04 08:03:00,drop-add,Ryan
+23,Nags,Jameis Winston,QB,NO,Carson Wentz,QB,Ind,0,2020-09-04 08:07:00,drop-add,Ryan
+24,Raider Bae,New England,DEF,NE,Phillip Lindsay,RB,Hou,0,2020-09-05 12:19:00,drop-add,Jake
+25,Pop Drop and Lockett,Tyler Conklin,TE,Min,Irv Smith Jr.,TE,Min,0,2020-09-06 22:42:00,drop-add,Evan
+26,Zeke and Ye Shall Find,Juwan Johnson,"WR,TE",NO,Joe Burrow,QB,Cin,0,2020-09-07 11:09:00,drop-add,Doug
+27,Tiz the Law,Latavius Murray,RB,Bal,Justin Fields,QB,Chi,0,2020-09-07 14:17:00,drop-add,Dai
+28,Zeke and Ye Shall Find,Tony Jones Jr.,RB,NO,Wayne Gallman Jr.,RB,Atl,0,2020-09-07 14:59:00,drop-add,Doug
+29,G,J.J. Taylor,RB,NE,Indianapolis,DEF,Ind,0,2020-09-08 20:29:00,drop-add,Jiwei
+30,Me So Fourney,Justin Jackson,RB,LAC,Jermar Jefferson,RB,Det,0,2020-09-08 20:48:00,drop-add,Joel
+31,Me So Fourney,Leonard Fournette,RB,TB,Gabriel Davis,WR,Buf,0,2020-09-08 22:22:00,drop-add,Joel
+32,Zeke and Ye Shall Find,Giovani Bernard,RB,TB,Juwan Johnson,"WR,TE",NO,0,2020-09-09 11:03:00,drop-add,Doug
+33,Tiz the Law,Le'Veon Bell,RB,Bal,Latavius Murray,RB,Bal,0,2020-09-09 12:58:00,drop-add,Dai
+34,Nags,Latavius Murray,RB,Bal,Gus Edwards,RB,Bal,16,2020-09-11 03:24:00,drop-add,Ryan
+35,Zeke and Ye Shall Find,Juwan Johnson,"WR,TE",NO,Giovani Bernard,RB,TB,0,2020-09-11 13:48:00,drop-add,Doug
+36,Me So Fourney,Marquez Valdes-Scantling,WR,GB,Emmanuel Sanders,WR,Buf,0,2020-09-11 16:01:00,drop-add,Joel
+37,G,Green Bay,DEF,GB,Curtis Samuel,WR,Was,0,2020-09-12 08:48:00,drop-add,Jiwei
+38,Tiz the Law,Matt Breida,RB,Buf,Zack Moss,RB,Buf,0,2020-09-12 09:06:00,drop-add,Dai
+39,Tiz the Law,Darrel Williams,RB,KC,Matt Breida,RB,Buf,0,2020-09-12 13:21:00,drop-add,Dai
+40,Me So Fourney,Sammy Watkins,WR,Bal,Justin Jackson,RB,LAC,0,2020-09-13 14:47:00,drop-add,Joel
+41,Raider Bae,K.J. Osborn,WR,Min,Mac Jones,QB,NE,3,2020-09-15 00:30:00,drop-add,Jake
+42,Zeke and Ye Shall Find,Matt Prater,K,Ari,Jason Sanders,K,Mia,0,2020-09-15 00:30:00,drop-add,Doug
+43,Tiz the Law,Van Jefferson Jr.,WR,LAR,Darrel Williams,RB,KC,0,2020-09-15 00:30:00,drop-add,Dai
+44,folklore,Arizona,DEF,Ari,Buffalo,DEF,Buf,3,2020-09-15 00:30:00,drop-add,Ron
+45,Odellta Variant,Justin Fields,QB,Chi,Amon-Ra St. Brown,WR,Det,3,2020-09-15 00:30:00,drop-add,Matt
+46,folklore,Eli Mitchell,RB,SF,Ty Johnson,RB,NYJ,43,2020-09-15 00:30:00,drop-add,Ron
+47,Zeke and Ye Shall Find,Zach Pascal,WR,Ind,Terrace Marshall Jr.,WR,Car,5,2020-09-15 00:30:00,drop-add,Doug
+48,Chi ShingT's Team,Mark Ingram II,RB,NO,Tevin Coleman,RB,NYJ,23,2020-09-15 00:30:00,drop-add,Chi Shing
+49,Chi ShingT's Team,Christian Kirk,WR,Ari,Jamison Crowder,WR,NYJ,8,2020-09-15 00:30:00,drop-add,Chi Shing
+50,Boswell that Ends Well,New Orleans,DEF,NO,Miami,DEF,Mia,4,2020-09-15 00:30:00,drop-add,Sean
+51,Boswell that Ends Well,Tim Patrick,WR,Den,Parris Campbell,WR,Ind,7,2020-09-15 00:30:00,drop-add,Sean
+52,G,Larry Rountree III,RB,LAC,J.J. Taylor,RB,NE,7,2020-09-15 00:30:00,drop-add,Jiwei
+53,Mediocre Team,JaMycal Hasty,RB,SF,Ryan Fitzpatrick,QB,Was,0,2020-09-15 05:51:00,drop-add,Rajiv
+54,Mediocre Team,Jared Goff,QB,Det,Chris Evans,RB,Cin,0,2020-09-15 06:06:00,drop-add,Rajiv
+55,Mediocre Team,Joe Burrow,QB,Cin,Jared Goff,QB,Det,0,2020-09-15 06:10:00,drop-add,Rajiv
+56,Zeke and Ye Shall Find,Chicago,DEF,Chi,Carolina,DEF,Car,0,2020-09-15 06:22:00,drop-add,Doug
+57,Odellta Variant,Emmanuel Sanders,WR,Buf,Cam Akers,RB,LAR,0,2020-09-15 10:02:00,drop-add,Matt
+58,Boswell that Ends Well,Terrace Marshall Jr.,WR,Car,Chuba Hubbard,RB,Car,2,2020-09-17 00:12:00,drop-add,Sean
+59,Zeke and Ye Shall Find,Buffalo,DEF,Buf,Chicago,DEF,Chi,0,2020-09-17 00:12:00,drop-add,Doug
+60,Pop Drop and Lockett,Jared Cook,TE,LAC,Evan Engram,TE,NYG,0,2020-09-17 04:50:00,drop-add,Evan
+61,Raider Bae,Quintez Cephus,WR,Det,Tyrell Williams,WR,Det,0,2020-09-17 15:29:00,drop-add,Jake
+62,Chi ShingT's Team,Peyton Barber,RB,LV,Travis Etienne,RB,Jax,0,2020-09-17 17:55:00,drop-add,Chi Shing
+63,folklore,Cordarrelle Patterson,"WR,RB",Atl,Michael Pittman Jr.,WR,Ind,0,2020-09-18 06:03:00,drop-add,Ron
+64,folklore,Cole Kmet,TE,Chi,Gerald Everett,TE,Sea,0,2020-09-18 06:58:00,drop-add,Ron
+65,G,Phillip Lindsay,RB,Hou,Raheem Mostert,RB,SF,0,2020-09-18 09:55:00,drop-add,Jiwei
+66,Odellta Variant,Ronald Jones II,RB,TB,N/A,N/A,N/A,0,2020-09-19 00:11:00,trade,Matt
+67,Odellta Variant,Robby Anderson,WR,Car,N/A,N/A,N/A,0,2020-09-19 00:11:00,trade,Matt
+68,Chi ShingT's Team,Emmanuel Sanders,WR,Buf,N/A,N/A,N/A,0,2020-09-19 00:11:00,trade,Chi Shing
+69,Chi ShingT's Team,Kareem Hunt,RB,Cle,N/A,N/A,N/A,0,2020-09-19 00:11:00,trade,Chi Shing
+70,Mediocre Team,Nick Folk,K,NE,Rodrigo Blankenship,K,Ind,0,2020-09-19 07:30:00,drop-add,Rajiv
+71,Tiz the Law,Zack Moss,RB,Buf,Rhamondre Stevenson,RB,NE,0,2020-09-19 08:23:00,drop-add,Dai
+72,Raider Bae,Jared Goff,QB,Det,K.J. Osborn,WR,Min,0,2020-09-19 10:21:00,drop-add,Jake
+73,Zeke and Ye Shall Find,Devonta Freeman,RB,Bal,Carlos Hyde,RB,Jax,0,2020-09-19 13:02:00,drop-add,Doug
+74,Tiz the Law,Seattle,DEF,Sea,Hunter Henry,TE,NE,0,2020-09-19 13:10:00,drop-add,Dai
+75,Zeke and Ye Shall Find,Amon-Ra St. Brown,WR,Det,Devonta Freeman,RB,Bal,0,2020-09-19 20:44:00,drop-add,Doug
+76,Chi ShingT's Team,Chris Evans,RB,Cin,Peyton Barber,RB,LV,0,2020-09-22 00:28:00,drop-add,Chi Shing
+77,Zeke and Ye Shall Find,Cedrick Wilson,WR,Dal,Amon-Ra St. Brown,WR,Det,0,2020-09-22 00:28:00,drop-add,Doug
+78,Mediocre Team,Brandon McManus,K,Den,Nick Folk,K,NE,1,2020-09-22 00:28:00,drop-add,Rajiv
+79,Mediocre Team,Daniel Jones,QB,NYG,Joe Burrow,QB,Cin,2,2020-09-22 00:28:00,drop-add,Rajiv
+80,Zeke and Ye Shall Find,Greg Joseph,K,Min,Matt Prater,K,Ari,0,2020-09-22 00:28:00,drop-add,Doug
+81,Boswell that Ends Well,Jamison Crowder,WR,NYJ,Terrace Marshall Jr.,WR,Car,4,2020-09-22 00:28:00,drop-add,Sean
+82,Boswell that Ends Well,Carolina,DEF,Car,New Orleans,DEF,NO,3,2020-09-22 00:28:00,drop-add,Sean
+83,Nags,Michael Pittman Jr.,WR,Ind,Russell Gage,WR,Atl,26,2020-09-22 00:28:00,drop-add,Ryan
+84,Raider Bae,K.J. Osborn,WR,Min,Jared Goff,QB,Det,17,2020-09-22 00:28:00,drop-add,Jake
+85,Tiz the Law,Kirk Cousins,QB,Min,Seattle,DEF,Sea,0,2020-09-22 00:28:00,drop-add,Dai
+86,Me So Fourney,J.D. McKissic,RB,Was,Marquez Valdes-Scantling,WR,GB,12,2020-09-22 00:28:00,drop-add,Joel
+87,G,Alexander Mattison,RB,Min,Green Bay,DEF,GB,11,2020-09-22 00:28:00,drop-add,Jiwei
+88,Odellta Variant,Las Vegas,DEF,LV,Washington,DEF,Was,0,2020-09-22 10:50:00,drop-add,Matt
+89,Zeke and Ye Shall Find,Chuba Hubbard,RB,Car,Zach Pascal,WR,Ind,0,2020-09-23 07:20:00,drop-add,Doug
+90,Boswell that Ends Well,Jacques Patrick,RB,SF,Jamison Crowder,WR,NYJ,0,2020-09-23 10:03:00,drop-add,Sean
+91,Odellta Variant,Demetric Felton,"WR,RB",Cle,Marquez Callaway,WR,NO,0,2020-09-23 10:48:00,drop-add,Matt
+92,folklore,Nick Folk,K,NE,Ryan Succop,K,TB,0,2020-09-24 00:12:00,drop-add,Ron
+93,Boswell that Ends Well,Matt Prater,K,Ari,Jason Myers,K,Sea,0,2020-09-24 08:19:00,drop-add,Sean
+94,Odellta Variant,Josh Gordon,WR,KC,Nelson Agholor,WR,NE,0,2020-09-26 01:16:00,drop-add,Matt
+95,Mediocre Team,Derek Carr,QB,LV,Tua Tagovailoa,QB,Mia,0,2020-09-26 08:49:00,drop-add,Rajiv
+96,G,Ty Johnson,RB,NYJ,Matt Ryan,QB,Atl,0,2020-09-26 08:52:00,drop-add,Jiwei
+97,Chi ShingT's Team,Zach Pascal,WR,Ind,Jarvis Landry,WR,Cle,0,2020-09-26 09:29:00,drop-add,Chi Shing
+98,Boswell that Ends Well,Darrel Williams,RB,KC,Jacques Patrick,RB,SF,0,2020-09-26 09:43:00,drop-add,Sean
+99,Tiz the Law,Kerryon Johnson,RB,SF,Trevor Lawrence,QB,Jax,0,2020-09-26 13:08:00,drop-add,Dai
+100,Tiz the Law,Trey Lance,QB,SF,Elijah Moore,WR,NYJ,0,2020-09-26 16:18:00,drop-add,Dai
+101,Mediocre Team,Quez Watkins,WR,Phi,JaMycal Hasty,RB,SF,0,2020-09-27 13:38:00,drop-add,Rajiv
+102,Mediocre Team,Will Fuller V,WR,Mia,N/A,N/A,N/A,0,2020-09-28 00:11:00,trade,Rajiv
+103,Raider Bae,James Conner,RB,Ari,N/A,N/A,N/A,0,2020-09-28 00:11:00,trade,Jake
+104,Odellta Variant,DeVante Parker,WR,Mia,N/A,N/A,N/A,0,2020-09-28 00:11:00,trade,Matt
+105,Mediocre Team,Ryan Tannehill,QB,Ten,N/A,N/A,N/A,0,2020-09-28 00:11:00,trade,Rajiv
+106,Tiz the Law,Cincinnati,DEF,Cin,Baltimore,DEF,Bal,1,2020-09-29 00:30:00,drop-add,Dai
+107,Boswell that Ends Well,Chase McLaughlin,K,Cle,Matt Prater,K,Ari,0,2020-09-29 00:30:00,drop-add,Sean
+108,Tiz the Law,Marlon Mack,RB,Ind,Kerryon Johnson,RB,SF,0,2020-09-29 00:30:00,drop-add,Dai
+109,folklore,Washington,DEF,Was,Arizona,DEF,Ari,1,2020-09-29 00:30:00,drop-add,Ron
+110,Raider Bae,New Orleans,DEF,NO,Pittsburgh,DEF,Pit,3,2020-09-29 00:30:00,drop-add,Jake
+111,Zeke and Ye Shall Find,Dalton Schultz,TE,Dal,Cedrick Wilson,WR,Dal,9,2020-09-29 00:30:00,drop-add,Doug
+112,Boswell that Ends Well,Tennessee,DEF,Ten,Carolina,DEF,Car,3,2020-09-29 00:30:00,drop-add,Sean
+113,folklore,Dawson Knox,TE,Buf,Cole Kmet,TE,Chi,4,2020-09-29 00:30:00,drop-add,Ron
+114,Zeke and Ye Shall Find,A.J. Green,WR,Ari,Juwan Johnson,"WR,TE",NO,5,2020-09-29 00:30:00,drop-add,Doug
+115,Mediocre Team,Hunter Renfrow,WR,LV,Quez Watkins,WR,Phi,6,2020-09-29 00:30:00,drop-add,Rajiv
+116,Raider Bae,Peyton Barber,RB,LV,James White,RB,NE,13,2020-09-29 00:30:00,drop-add,Jake
+117,Mediocre Team,Marquez Callaway,WR,NO,Devontae Booker,RB,NYG,3,2020-09-29 00:30:00,drop-add,Rajiv
+118,Boswell that Ends Well,Rashod Bateman,WR,Bal,Darrel Williams,RB,KC,0,2020-09-29 01:27:00,drop-add,Sean
+119,Mediocre Team,Green Bay,DEF,GB,San Francisco,DEF,SF,0,2020-09-29 07:41:00,drop-add,Rajiv
+120,Odellta Variant,Indianapolis,DEF,Ind,Las Vegas,DEF,LV,0,2020-09-29 15:59:00,drop-add,Matt
+121,Me So Fourney,Jeremy McNichols,RB,Ten,Sammy Watkins,WR,Bal,0,2020-09-29 16:32:00,drop-add,Joel
+122,Me So Fourney,J.J. Taylor,RB,NE,Jeremy McNichols,RB,Ten,0,2020-09-29 19:15:00,drop-add,Joel
+123,Tiz the Law,Rhamondre Stevenson,RB,NE,Trey Lance,QB,SF,0,2020-09-30 20:10:00,drop-add,Dai
+124,Chi ShingT's Team,Nick Westbrook-Ikhine,WR,Ten,DJ Chark Jr.,WR,Jax,0,2020-09-30 22:06:00,drop-add,Chi Shing
+125,folklore,Cole Kmet,TE,Chi,Nick Folk,K,NE,0,2020-10-01 10:23:00,drop-add,Ron
+126,folklore,Hunter Henry,TE,NE,Cole Kmet,TE,Chi,0,2020-10-01 10:26:00,drop-add,Ron
+127,folklore,Ryan Succop,K,TB,Hunter Henry,TE,NE,0,2020-10-01 10:27:00,drop-add,Ron
+128,Me So Fourney,Curtis Samuel,WR,Was,Jalen Reagor,WR,Phi,0,2020-10-01 20:01:00,drop-add,Joel
+129,Boswell that Ends Well,Cameron Brate,TE,TB,Rashod Bateman,WR,Bal,0,2020-10-02 23:21:00,drop-add,Sean
+130,Zeke and Ye Shall Find,Benny Snell Jr.,RB,Pit,Tony Jones Jr.,RB,NO,0,2020-10-03 11:48:00,drop-add,Doug
+131,folklore,Nick Folk,K,NE,Ryan Succop,K,TB,0,2020-10-03 16:41:00,drop-add,Ron
+132,Me So Fourney,Bench,N/A,N/A,J.J. Taylor,RB,NE,0,2020-10-03 21:03:00,drop,Joel
+133,Me So Fourney,Justin Jackson,RB,LAC,Bench,N/A,N/A,0,2020-10-04 09:39:00,add,Joel
+134,Boswell that Ends Well,Atlanta,DEF,Atl,Tennessee,DEF,Ten,0,2020-10-06 00:05:00,drop-add,Sean
+135,Raider Bae,Sam Darnold,QB,Car,New Orleans,DEF,NO,0,2020-10-06 00:30:00,drop-add,Jake
+136,Tiz the Law,Dallas,DEF,Dal,Cincinnati,DEF,Cin,0,2020-10-06 00:30:00,drop-add,Dai
+137,Tiz the Law,Kadarius Toney,WR,NYG,Mecole Hardman,WR,KC,0,2020-10-06 00:30:00,drop-add,Dai
+138,Tiz the Law,Trey Lance,QB,SF,Rhamondre Stevenson,RB,NE,0,2020-10-06 00:30:00,drop-add,Dai
+139,Pop Drop and Lockett,Matt Prater,K,Ari,Robbie Gould,K,SF,2,2020-10-06 00:30:00,drop-add,Evan
+140,Pop Drop and Lockett,Sammy Watkins,WR,Bal,Kenyan Drake,RB,LV,5,2020-10-06 00:30:00,drop-add,Evan
+141,Chi ShingT's Team,Samaje Perine,RB,Cin,Chris Evans,RB,Cin,7,2020-10-06 00:30:00,drop-add,Chi Shing
+142,Odellta Variant,Jamison Crowder,WR,NYJ,Demetric Felton,"WR,RB",Cle,12,2020-10-06 00:30:00,drop-add,Matt
+143,Me So Fourney,Damien Williams,RB,Chi,Justin Jackson,RB,LAC,36,2020-10-06 00:30:00,drop-add,Joel
+144,Odellta Variant,Minnesota,DEF,Min,Indianapolis,DEF,Ind,3,2020-10-06 00:30:00,drop-add,Matt
+145,folklore,Rashod Bateman,WR,Bal,Nick Folk,K,NE,7,2020-10-06 00:30:00,drop-add,Ron
+146,Zeke and Ye Shall Find,Alex Collins,RB,Sea,Bryan Edwards,WR,LV,0,2020-10-06 01:00:00,drop-add,Doug
+147,Mediocre Team,Hunter Henry,TE,NE,Derek Carr,QB,LV,0,2020-10-06 02:37:00,drop-add,Rajiv
+148,Mediocre Team,Pittsburgh,DEF,Pit,Green Bay,DEF,GB,0,2020-10-06 02:40:00,drop-add,Rajiv
+149,Chi ShingT's Team,Khalil Herbert,RB,Chi,Nick Westbrook-Ikhine,WR,Ten,0,2020-10-06 07:48:00,drop-add,Chi Shing
+150,Zeke and Ye Shall Find,George Kittle,TE,SF,N/A,N/A,N/A,0,2020-10-07 00:11:00,trade,Doug
+151,Zeke and Ye Shall Find,Tim Patrick,WR,Den,N/A,N/A,N/A,0,2020-10-07 00:11:00,trade,Doug
+152,Boswell that Ends Well,Dalton Schultz,TE,Dal,N/A,N/A,N/A,0,2020-10-07 00:11:00,trade,Sean
+153,Boswell that Ends Well,Amari Cooper,WR,Dal,N/A,N/A,N/A,0,2020-10-07 00:11:00,trade,Sean
+154,Boswell that Ends Well,Clyde Edwards-Helaire,RB,KC,N/A,N/A,N/A,0,2020-10-07 00:11:00,trade,Sean
+155,Boswell that Ends Well,Stefon Diggs,WR,Buf,N/A,N/A,N/A,0,2020-10-07 00:11:00,trade,Sean
+156,folklore,Christian McCaffrey,RB,Car,N/A,N/A,N/A,0,2020-10-07 00:11:00,trade,Ron
+157,Boswell that Ends Well,Bench,N/A,N/A,Cameron Brate,TE,TB,0,2020-10-07 00:11:00,drop,Sean
+158,Boswell that Ends Well,Baltimore,DEF,Bal,Atlanta,DEF,Atl,0,2020-10-07 00:52:00,drop-add,Sean
+159,folklore,Ryan Succop,K,TB,Bench,N/A,N/A,0,2020-10-07 08:58:00,add,Ron
+160,G,Olamide Zaccheaus,WR,Atl,Phillip Lindsay,RB,Hou,0,2020-10-07 10:54:00,drop-add,Jiwei
+161,Raider Bae,Derek Carr,QB,LV,Sam Darnold,QB,Car,4,2020-10-08 00:13:00,drop-add,Jake
+162,Odellta Variant,Kenyan Drake,RB,LV,Justin Fields,QB,Chi,0,2020-10-08 00:13:00,drop-add,Matt
+163,Zeke and Ye Shall Find,New Orleans,DEF,NO,Benny Snell Jr.,RB,Pit,0,2020-10-08 00:13:00,drop-add,Doug
+164,folklore,Nick Folk,K,NE,Ryan Succop,K,TB,0,2020-10-08 00:13:00,drop-add,Ron
+165,Tiz the Law,Zach Ertz,TE,Ari,Le'Veon Bell,RB,Bal,0,2020-10-09 13:07:00,drop-add,Dai
+166,Tiz the Law,Darrel Williams,RB,KC,Marlon Mack,RB,Ind,0,2020-10-09 21:12:00,drop-add,Dai
+167,Zeke and Ye Shall Find,Sam Darnold,QB,Car,Nyheim Hines,RB,Ind,0,2020-10-10 00:12:00,drop-add,Doug
+168,folklore,Joe Burrow,QB,Cin,Rashod Bateman,WR,Bal,0,2020-10-10 06:50:00,drop-add,Ron
+169,Me So Fourney,Mo Alie-Cox,TE,Ind,Curtis Samuel,WR,Was,0,2020-10-10 20:45:00,drop-add,Joel
+170,Boswell that Ends Well,Marlon Mack,RB,Ind,JuJu Smith-Schuster,WR,Pit,0,2020-10-11 09:13:00,drop-add,Sean
+171,Zeke and Ye Shall Find,Bench,N/A,N/A,New Orleans,DEF,NO,0,2020-10-12 06:25:00,drop,Doug
+172,folklore,Miami,DEF,Mia,Washington,DEF,Was,0,2020-10-13 00:32:00,drop-add,Ron
+173,Zeke and Ye Shall Find,Austin Seibert,K,Det,Greg Joseph,K,Min,0,2020-10-13 00:32:00,drop-add,Doug
+174,Tiz the Law,Taylor Heinicke,QB,Was,Kirk Cousins,QB,Min,0,2020-10-13 00:32:00,drop-add,Dai
+175,Boswell that Ends Well,Cincinnati,DEF,Cin,Baltimore,DEF,Bal,2,2020-10-13 00:32:00,drop-add,Sean
+176,Odellta Variant,Bryan Edwards,WR,LV,Ronald Jones II,RB,TB,2,2020-10-13 00:32:00,drop-add,Matt
+177,Me So Fourney,Ryan Succop,K,TB,Younghoe Koo,K,Atl,1,2020-10-13 00:32:00,drop-add,Joel
+178,Tiz the Law,Amon-Ra St. Brown,WR,Det,Van Jefferson Jr.,WR,LAR,3,2020-10-13 00:32:00,drop-add,Dai
+179,Me So Fourney,Dan Arnold,TE,Jax,Mo Alie-Cox,TE,Ind,4,2020-10-13 00:32:00,drop-add,Joel
+180,Boswell that Ends Well,Rashod Bateman,WR,Bal,Marlon Mack,RB,Ind,4,2020-10-13 00:32:00,drop-add,Sean
+181,Odellta Variant,Indianapolis,DEF,Ind,Minnesota,DEF,Min,4,2020-10-13 00:32:00,drop-add,Matt
+182,Pop Drop and Lockett,Jarvis Landry,WR,Cle,Tyler Conklin,TE,Min,15,2020-10-13 00:32:00,drop-add,Evan
+183,Zeke and Ye Shall Find,Devontae Booker,RB,NYG,Bench,N/A,N/A,43,2020-10-13 00:32:00,add,Doug
+184,Odellta Variant,Nelson Agholor,WR,NE,Josh Gordon,WR,KC,3,2020-10-13 00:32:00,drop-add,Matt
+185,Raider Bae,Mecole Hardman,WR,KC,Quintez Cephus,WR,Det,0,2020-10-13 01:11:00,drop-add,Jake
+186,Odellta Variant,Jerick McKinnon,RB,KC,Bryan Edwards,WR,LV,0,2020-10-13 01:14:00,drop-add,Matt
+187,Mediocre Team,Nyheim Hines,RB,Ind,Daniel Jones,QB,NYG,0,2020-10-13 02:38:00,drop-add,Rajiv
+188,Tiz the Law,Rhamondre Stevenson,RB,NE,Trey Lance,QB,SF,0,2020-10-13 05:20:00,drop-add,Dai
+189,folklore,Carolina,DEF,Car,Miami,DEF,Mia,0,2020-10-13 05:20:00,drop-add,Ron
+190,G,Chris Evans,RB,Cin,Olamide Zaccheaus,WR,Atl,0,2020-10-13 10:34:00,drop-add,Jiwei
+191,Chi ShingT's Team,T.Y. Hilton,WR,Ind,Mark Ingram II,RB,NO,0,2020-10-13 21:37:00,drop-add,Chi Shing
+192,Tiz the Law,Josh Allen,QB,Buf,N/A,N/A,N/A,0,2020-10-14 00:11:00,trade,Dai
+193,Pop Drop and Lockett,Miles Sanders,RB,Phi,N/A,N/A,N/A,0,2020-10-14 00:11:00,trade,Evan
+194,Pop Drop and Lockett,Darrel Williams,RB,KC,N/A,N/A,N/A,0,2020-10-14 00:11:00,trade,Evan
+195,Tiz the Law,David Johnson,RB,Hou,N/A,N/A,N/A,0,2020-10-14 00:11:00,trade,Dai
+196,Pop Drop and Lockett,Green Bay,DEF,GB,Kansas City,DEF,KC,0,2020-10-14 06:18:00,drop-add,Evan
+197,Odellta Variant,Marlon Mack,RB,Ind,Jerick McKinnon,RB,KC,21,2020-10-15 00:12:00,drop-add,Matt
+198,Odellta Variant,Demetric Felton,"WR,RB",Cle,Kenyan Drake,RB,LV,0,2020-10-15 09:38:00,drop-add,Matt
+199,Nags,J.K. Dobbins,RB,Bal,Latavius Murray,RB,Bal,0,2020-10-16 10:02:00,drop-add,Ryan
+200,Zeke and Ye Shall Find,Greg Joseph,K,Min,Austin Seibert,K,Det,0,2020-10-16 13:51:00,drop-add,Doug
+201,Me So Fourney,Ricky Seals-Jones,TE,Was,J.D. McKissic,RB,Was,0,2020-10-16 23:38:00,drop-add,Joel
+202,Zeke and Ye Shall Find,Mike Gesicki,TE,Mia,N/A,N/A,N/A,0,2020-10-17 00:12:00,trade,Doug
+203,G,Alex Collins,RB,Sea,N/A,N/A,N/A,0,2020-10-17 00:12:00,trade,Jiwei
+204,Tiz the Law,Jerick McKinnon,RB,KC,Taylor Heinicke,QB,Was,0,2020-10-17 07:36:00,drop-add,Dai
+205,G,Mark Ingram II,RB,NO,Larry Rountree III,RB,LAC,0,2020-10-17 09:22:00,drop-add,Jiwei
+206,G,D'Ernest Johnson,RB,Cle,Mark Ingram II,RB,NO,0,2020-10-17 09:24:00,drop-add,Jiwei
+207,Zeke and Ye Shall Find,Matt Ryan,QB,Atl,Sam Darnold,QB,Car,0,2020-10-17 12:43:00,drop-add,Doug
+208,Zeke and Ye Shall Find,Mason Crosby,K,GB,Greg Joseph,K,Min,1,2020-10-20 00:31:00,drop-add,Doug
+209,Raider Bae,Kirk Cousins,QB,Min,Derek Carr,QB,LV,0,2020-10-20 00:31:00,drop-add,Jake
+210,Tiz the Law,Kenyan Drake,RB,LV,David Johnson,RB,Hou,0,2020-10-20 00:31:00,drop-add,Dai
+211,Tiz the Law,Carson Wentz,QB,Ind,Jerick McKinnon,RB,KC,0,2020-10-20 00:31:00,drop-add,Dai
+212,Me So Fourney,New Orleans,DEF,NO,Denver,DEF,Den,1,2020-10-20 00:31:00,drop-add,Joel
+213,Tiz the Law,Baltimore,DEF,Bal,Dallas,DEF,Dal,1,2020-10-20 00:31:00,drop-add,Dai
+214,Boswell that Ends Well,Tua Tagovailoa,QB,Mia,Kenneth Gainwell,RB,Phi,6,2020-10-20 00:31:00,drop-add,Sean
+215,Boswell that Ends Well,Younghoe Koo,K,Atl,Chase McLaughlin,K,Cle,3,2020-10-20 00:31:00,drop-add,Sean
+216,Raider Bae,Rashaad Penny,RB,Sea,Peyton Barber,RB,LV,15,2020-10-20 00:31:00,drop-add,Jake
+217,Boswell that Ends Well,Arizona,DEF,Ari,Cincinnati,DEF,Cin,7,2020-10-20 00:31:00,drop-add,Sean
+218,Pop Drop and Lockett,Evan Engram,TE,NYG,Ty'Son Williams,RB,Bal,2,2020-10-20 00:31:00,drop-add,Evan
+219,Boswell that Ends Well,J.D. McKissic,RB,Was,Rondale Moore,WR,Ari,33,2020-10-20 00:31:00,drop-add,Sean
+220,Odellta Variant,Latavius Murray,RB,Bal,Jamison Crowder,WR,NYJ,7,2020-10-20 00:31:00,drop-add,Matt
+221,Mediocre Team,Las Vegas,DEF,LV,Pittsburgh,DEF,Pit,0,2020-10-20 03:18:00,drop-add,Rajiv
+222,Tiz the Law,Randy Bullock,K,Ten,Tyler Bass,K,Buf,0,2020-10-20 05:24:00,drop-add,Dai
+223,Tiz the Law,Donovan Peoples-Jones,WR,Cle,Kenyan Drake,RB,LV,0,2020-10-20 05:27:00,drop-add,Dai
+224,Zeke and Ye Shall Find,San Francisco,DEF,SF,Robert Tonyan,TE,GB,0,2020-10-20 06:32:00,drop-add,Doug
+225,Nags,Mark Ingram II,RB,NO,Jameis Winston,QB,NO,0,2020-10-20 09:07:00,drop-add,Ryan
+226,folklore,Deshaun Watson,QB,Hou,Nick Folk,K,NE,0,2020-10-20 13:54:00,drop-add,Ron
+227,Me So Fourney,Pat Freiermuth,TE,Pit,Dan Arnold,TE,Jax,0,2020-10-20 16:07:00,drop-add,Joel
+228,Me So Fourney,Devonta Freeman,RB,Bal,Pat Freiermuth,TE,Pit,0,2020-10-20 19:35:00,drop-add,Joel
+229,Me So Fourney,Rashod Bateman,WR,Bal,N/A,N/A,N/A,0,2020-10-21 00:11:00,trade,Joel
+230,Boswell that Ends Well,Ricky Seals-Jones,TE,Was,N/A,N/A,N/A,0,2020-10-21 00:11:00,trade,Sean
+231,G,Kendrick Bourne,WR,NE,Ty Johnson,RB,NYJ,0,2020-10-21 06:45:00,drop-add,Jiwei
+232,G,Graham Gano,K,NYG,Greg Zuerlein,K,Dal,0,2020-10-21 06:48:00,drop-add,Jiwei
+233,Chi ShingT's Team,DeeJay Dallas,RB,Sea,Samaje Perine,RB,Cin,0,2020-10-21 20:32:00,drop-add,Chi Shing
+234,Me So Fourney,Tyler Bass,K,Buf,Devonta Freeman,RB,Bal,0,2020-10-22 00:13:00,drop-add,Joel
+235,folklore,Nick Folk,K,NE,Deshaun Watson,QB,Hou,1,2020-10-22 00:13:00,drop-add,Ron
+236,Tiz the Law,Derek Carr,QB,LV,Carson Wentz,QB,Ind,3,2020-10-22 00:13:00,drop-add,Dai
+237,G,Allen Lazard,WR,GB,Graham Gano,K,NYG,0,2020-10-22 16:04:00,drop-add,Jiwei
+238,Raider Bae,Greg Zuerlein,K,Dal,Mecole Hardman,WR,KC,2,2020-10-23 00:19:00,drop-add,Jake
+239,Chi ShingT's Team,JaMycal Hasty,RB,SF,DeeJay Dallas,RB,Sea,0,2020-10-23 23:31:00,drop-add,Chi Shing
+240,Boswell that Ends Well,Rondale Moore,WR,Ari,Sterling Shepard,WR,NYG,0,2020-10-24 08:36:00,drop-add,Sean
+241,Raider Bae,Cole Kmet,TE,Chi,Jonnu Smith,TE,NE,0,2020-10-24 09:06:00,drop-add,Jake
+242,Chi ShingT's Team,Devonta Freeman,RB,Bal,JaMycal Hasty,RB,SF,0,2020-10-24 09:16:00,drop-add,Chi Shing
+243,Tiz the Law,Kenyan Drake,RB,LV,Rhamondre Stevenson,RB,NE,0,2020-10-24 09:46:00,drop-add,Dai
+244,G,Jake Elliott,K,Phi,Chris Evans,RB,Cin,0,2020-10-24 12:57:00,drop-add,Jiwei
+245,Tiz the Law,Dallas,DEF,Dal,Kenyan Drake,RB,LV,0,2020-10-24 12:58:00,drop-add,Dai
+246,Zeke and Ye Shall Find,Bench,N/A,N/A,San Francisco,DEF,SF,0,2020-10-26 07:37:00,drop,Doug
+247,Zeke and Ye Shall Find,Bench,N/A,N/A,Matt Ryan,QB,Atl,0,2020-10-26 07:37:00,drop,Doug
+248,Me So Fourney,Pat Freiermuth,TE,Pit,Ryan Succop,K,TB,0,2020-10-27 00:30:00,drop-add,Joel
+249,Zeke and Ye Shall Find,Evan McPherson,K,Cin,Mason Crosby,K,GB,0,2020-10-27 00:30:00,drop-add,Doug
+250,Nags,Graham Gano,K,NYG,Mark Ingram II,RB,NO,0,2020-10-27 00:30:00,drop-add,Ryan
+251,Tiz the Law,Samaje Perine,RB,Cin,Derek Carr,QB,LV,0,2020-10-27 00:30:00,drop-add,Dai
+252,Zeke and Ye Shall Find,Randall Cobb,WR,GB,Bench,N/A,N/A,2,2020-10-27 00:30:00,add,Doug
+253,Zeke and Ye Shall Find,Robert Tonyan,TE,GB,Bench,N/A,N/A,2,2020-10-27 00:30:00,add,Doug
+254,Odellta Variant,Seattle,DEF,Sea,Indianapolis,DEF,Ind,2,2020-10-27 00:30:00,drop-add,Matt
+255,Tiz the Law,Russell Gage,WR,Atl,Baltimore,DEF,Bal,3,2020-10-27 00:30:00,drop-add,Dai
+256,Raider Bae,C.J. Uzomah,TE,Cin,Cole Kmet,TE,Chi,3,2020-10-27 00:30:00,drop-add,Jake
+257,Tiz the Law,Darius Slayton,WR,NYG,Donovan Peoples-Jones,WR,Cle,3,2020-10-27 00:30:00,drop-add,Dai
+258,Me So Fourney,Kenyan Drake,RB,LV,Damien Williams,RB,Chi,4,2020-10-27 00:30:00,drop-add,Joel
+259,Boswell that Ends Well,Sterling Shepard,WR,NYG,Ricky Seals-Jones,TE,Was,4,2020-10-27 00:30:00,drop-add,Sean
+260,Pop Drop and Lockett,Cincinnati,DEF,Cin,Trey Sermon,RB,SF,5,2020-10-27 00:30:00,drop-add,Evan
+261,Mediocre Team,Kenneth Gainwell,RB,Phi,Will Fuller V,WR,Mia,23,2020-10-27 00:30:00,drop-add,Rajiv
+262,Me So Fourney,Pittsburgh,DEF,Pit,New Orleans,DEF,NO,3,2020-10-27 00:30:00,drop-add,Joel
+263,Boswell that Ends Well,Marquez Valdes-Scantling,WR,GB,Rondale Moore,WR,Ari,0,2020-10-27 00:34:00,drop-add,Sean
+264,folklore,Denver,DEF,Den,Carolina,DEF,Car,0,2020-10-27 06:21:00,drop-add,Ron
+265,G,Tyler Conklin,TE,Min,Allen Lazard,WR,GB,0,2020-10-27 09:22:00,drop-add,Jiwei
+266,G,Chase McLaughlin,K,Cle,Jake Elliott,K,Phi,0,2020-10-27 09:24:00,drop-add,Jiwei
+267,Me So Fourney,David Johnson,RB,Hou,Pat Freiermuth,TE,Pit,0,2020-10-27 19:02:00,drop-add,Joel
+268,Boswell that Ends Well,Phillip Lindsay,RB,Hou,Marquez Valdes-Scantling,WR,GB,0,2020-10-27 19:07:00,drop-add,Sean
+269,folklore,San Francisco,DEF,SF,Denver,DEF,Den,2,2020-10-28 04:21:00,drop-add,Ron
+270,Odellta Variant,Justin Jackson,RB,LAC,Marlon Mack,RB,Ind,0,2020-10-28 19:12:00,drop-add,Matt
+271,Mediocre Team,Chicago,DEF,Chi,Las Vegas,DEF,LV,0,2020-10-28 19:16:00,drop-add,Rajiv
+272,Odellta Variant,Joshua Kelley,RB,LAC,Nelson Agholor,WR,NE,0,2020-10-28 19:17:00,drop-add,Matt
+273,Boswell that Ends Well,Mark Ingram II,RB,NO,Phillip Lindsay,RB,Hou,0,2020-10-29 00:13:00,drop-add,Sean
+274,Raider Bae,Indianapolis,DEF,Ind,New England,DEF,NE,1,2020-10-29 00:13:00,drop-add,Jake
+275,Odellta Variant,Carolina,DEF,Car,Seattle,DEF,Sea,0,2020-10-29 00:13:00,drop-add,Matt
+276,Raider Bae,Ricky Seals-Jones,TE,Was,C.J. Uzomah,TE,Cin,0,2020-10-29 09:33:00,drop-add,Jake
+277,Boswell that Ends Well,Carson Wentz,QB,Ind,Tua Tagovailoa,QB,Mia,0,2020-10-29 09:53:00,drop-add,Sean
+278,Odellta Variant,Jordan Howard,RB,Phi,Joshua Kelley,RB,LAC,0,2020-10-30 14:12:00,drop-add,Matt
+279,Odellta Variant,Boston Scott,RB,Phi,Justin Jackson,RB,LAC,0,2020-10-30 14:12:00,drop-add,Matt
+280,Boswell that Ends Well,Daniel Jones,QB,NYG,Carson Wentz,QB,Ind,0,2020-10-30 15:33:00,drop-add,Sean
+281,Chi ShingT's Team,C.J. Uzomah,TE,Cin,Zach Pascal,WR,Ind,0,2020-10-31 00:13:00,drop-add,Chi Shing
+282,Tiz the Law,Jamal Agnew,WR,Jax,Amon-Ra St. Brown,WR,Det,0,2020-10-31 12:56:00,drop-add,Dai
+283,Me So Fourney,Derek Carr,QB,LV,David Johnson,RB,Hou,0,2020-11-01 13:10:00,drop-add,Joel
+284,Tiz the Law,Ty'Son Williams,RB,Bal,Samaje Perine,RB,Cin,0,2020-11-01 16:45:00,drop-add,Dai
+285,Tiz the Law,Greg Joseph,K,Min,Randy Bullock,K,Ten,0,2020-11-03 00:32:00,drop-add,Dai
+286,Odellta Variant,Miami,DEF,Mia,Carolina,DEF,Car,0,2020-11-03 00:32:00,drop-add,Matt
+287,Raider Bae,Jamison Crowder,WR,NYJ,Kirk Cousins,QB,Min,0,2020-11-03 00:32:00,drop-add,Jake
+288,Chi ShingT's Team,Van Jefferson Jr.,WR,LAR,T.Y. Hilton,WR,Ind,0,2020-11-03 00:32:00,drop-add,Chi Shing
+289,Zeke and Ye Shall Find,Carlos Hyde,RB,Jax,Randall Cobb,WR,GB,1,2020-11-03 00:32:00,drop-add,Doug
+290,Raider Bae,Foster Moreau,TE,LV,Ricky Seals-Jones,TE,Was,0,2020-11-03 00:32:00,drop-add,Jake
+291,Raider Bae,Bryan Edwards,WR,LV,Rashaad Penny,RB,Sea,3,2020-11-03 00:32:00,drop-add,Jake
+292,Chi ShingT's Team,Adrian Peterson,RB,Ten,Devonta Freeman,RB,Bal,37,2020-11-03 00:32:00,drop-add,Chi Shing
+293,Pop Drop and Lockett,Jeremy McNichols,RB,Ten,Green Bay,DEF,GB,22,2020-11-03 00:32:00,drop-add,Evan
+294,Boswell that Ends Well,New Orleans,DEF,NO,Arizona,DEF,Ari,1,2020-11-03 00:32:00,drop-add,Sean
+295,Me So Fourney,Pat Freiermuth,TE,Pit,Allen Robinson II,WR,Chi,5,2020-11-03 00:32:00,drop-add,Joel
+296,Boswell that Ends Well,Jeff Wilson Jr.,RB,SF,Daniel Jones,QB,NYG,3,2020-11-03 00:32:00,drop-add,Sean
+297,Nags,Carson Wentz,QB,Ind,Graham Gano,K,NYG,11,2020-11-03 00:32:00,drop-add,Ryan
+298,Zeke and Ye Shall Find,Rex Burkhead,RB,Hou,Robert Tonyan,TE,GB,0,2020-11-03 06:47:00,drop-add,Doug
+299,Zeke and Ye Shall Find,Michael Badgley,K,Ind,Evan McPherson,K,Cin,0,2020-11-03 06:51:00,drop-add,Doug
+300,Tiz the Law,Derrick Gore,RB,KC,Darius Slayton,WR,NYG,0,2020-11-03 08:06:00,drop-add,Dai
+301,Boswell that Ends Well,Elijah Moore,WR,NYJ,Sterling Shepard,WR,NYG,0,2020-11-03 08:11:00,drop-add,Sean
+302,Odellta Variant,Dan Arnold,TE,Jax,Demetric Felton,"WR,RB",Cle,0,2020-11-03 09:40:00,drop-add,Matt
+303,Nags,New England,DEF,NE,Brandon Aiyuk,WR,SF,0,2020-11-03 14:35:00,drop-add,Ryan
+304,Raider Bae,Peyton Barber,RB,LV,Henry Ruggs III,WR,LV,0,2020-11-03 15:58:00,drop-add,Jake
+305,folklore,Los Angeles,DEF,LAC,San Francisco,DEF,SF,0,2020-11-03 19:30:00,drop-add,Ron
+306,G,Brandon Bolden,RB,NE,Tyler Conklin,TE,Min,0,2020-11-04 17:29:00,drop-add,Jiwei
+307,Odellta Variant,Allen Robinson II,WR,Chi,Robby Anderson,WR,Car,21,2020-11-05 00:13:00,drop-add,Matt
+308,Raider Bae,Donovan Peoples-Jones,WR,Cle,Greg Zuerlein,K,Dal,0,2020-11-05 13:31:00,drop-add,Jake
+309,folklore,San Francisco,DEF,SF,Los Angeles,DEF,LAC,0,2020-11-06 08:42:00,drop-add,Ron
+310,Boswell that Ends Well,Greg Zuerlein,K,Dal,Younghoe Koo,K,Atl,0,2020-11-07 00:13:00,drop-add,Sean
+311,Zeke and Ye Shall Find,Rondale Moore,WR,Ari,Rex Burkhead,RB,Hou,0,2020-11-07 06:39:00,drop-add,Doug
+312,Odellta Variant,Brandon Aiyuk,WR,SF,DeVante Parker,WR,Mia,0,2020-11-07 09:07:00,drop-add,Matt
+313,Pop Drop and Lockett,Jimmy Garoppolo,QB,SF,Sammy Watkins,WR,Bal,0,2020-11-07 13:23:00,drop-add,Evan
+314,Mediocre Team,James Washington,WR,Pit,Logan Thomas,TE,Was,0,2020-11-07 17:06:00,drop-add,Rajiv
+315,Mediocre Team,Cole Kmet,TE,Chi,Michael Thomas,WR,NO,0,2020-11-07 17:07:00,drop-add,Rajiv
+316,Boswell that Ends Well,Tennessee,DEF,Ten,New Orleans,DEF,NO,6,2020-11-10 00:27:00,drop-add,Sean
+317,Raider Bae,Devonta Freeman,RB,Bal,Peyton Barber,RB,LV,6,2020-11-10 00:27:00,drop-add,Jake
+318,Tiz the Law,Arizona,DEF,Ari,Ty'Son Williams,RB,Bal,4,2020-11-10 00:27:00,drop-add,Dai
+319,Pop Drop and Lockett,Baltimore,DEF,Bal,Cincinnati,DEF,Cin,3,2020-11-10 00:27:00,drop-add,Evan
+320,Boswell that Ends Well,Logan Thomas,TE,Was,Greg Zuerlein,K,Dal,3,2020-11-10 00:27:00,drop-add,Sean
+321,Raider Bae,Malik Turner,WR,Dal,K.J. Osborn,WR,Min,1,2020-11-10 00:27:00,drop-add,Jake
+322,Odellta Variant,T.Y. Hilton,WR,Ind,Latavius Murray,RB,Bal,0,2020-11-10 00:27:00,drop-add,Matt
+323,Raider Bae,Michael Thomas,WR,NO,Foster Moreau,TE,LV,0,2020-11-10 00:27:00,drop-add,Jake
+324,Raider Bae,DeSean Jackson,WR,LV,Bryan Edwards,WR,LV,0,2020-11-10 00:27:00,drop-add,Jake
+325,Boswell that Ends Well,Chris Boswell,K,Pit,Jeff Wilson Jr.,RB,SF,0,2020-11-10 03:38:00,drop-add,Sean
+326,Mediocre Team,Denver,DEF,Den,Chicago,DEF,Chi,0,2020-11-10 04:15:00,drop-add,Rajiv
+327,Mediocre Team,Younghoe Koo,K,Atl,Brandon McManus,K,Den,0,2020-11-10 04:18:00,drop-add,Rajiv
+328,Mediocre Team,Deonte Harris,WR,NO,James Washington,WR,Pit,0,2020-11-10 04:19:00,drop-add,Rajiv
+329,Mediocre Team,Eno Benjamin,RB,Ari,Cole Kmet,TE,Chi,0,2020-11-10 04:20:00,drop-add,Rajiv
+330,Tiz the Law,Rashaad Penny,RB,Sea,Dallas,DEF,Dal,0,2020-11-10 04:31:00,drop-add,Dai
+331,folklore,Philadelphia,DEF,Phi,San Francisco,DEF,SF,0,2020-11-10 05:00:00,drop-add,Ron
+332,Zeke and Ye Shall Find,Rhamondre Stevenson,RB,NE,Carlos Hyde,RB,Jax,0,2020-11-10 06:43:00,drop-add,Doug
+333,Odellta Variant,Travis Etienne,RB,Jax,Boston Scott,RB,Phi,0,2020-11-10 08:51:00,drop-add,Matt
+334,Odellta Variant,Le'Veon Bell,RB,Bal,Dan Arnold,TE,Jax,0,2020-11-10 08:52:00,drop-add,Matt
+335,folklore,Los Angeles,DEF,LAC,Philadelphia,DEF,Phi,0,2020-11-10 11:02:00,drop-add,Ron
