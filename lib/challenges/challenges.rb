@@ -11,6 +11,8 @@ module Challenges
 
   def self.get_challenge_by_name(challenge_name)
     case challenge_name.downcase
+    when 'das_boot'
+      DasBoot.new
     when 'famous_jameis'
       FamousJameis.new
     when 'moneyball2'
