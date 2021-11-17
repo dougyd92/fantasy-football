@@ -14,7 +14,7 @@ Challenges
 | 7 | Sticky Hands | Highest catch percentage combined across WRs | Ryan |
 | 8 | Stats 101 | Highest total, after removing the highest and lowest scorers. | Ron |
 | 9 | Das Boot | K with the longest field goal | Matt |
-| 10 | Photo Finish | The team that defeats its opponent by the smallest margin of victory. | |
+| 10 | Photo Finish | The team that defeats its opponent by the smallest margin of victory. | Jake |
 | 11 | Shutout | DEF with the least points allowed | |
 | 12 | Vulture Victim | Most points from a single player who had 0 TDs (excludes K and DEF) | |
 | 13 | Gronk's Favorite Number | TE with closest to 69 all-purpose yards | |
@@ -28,9 +28,9 @@ Challenges
 |-|-|
 | Ryan | 2.25 |
 | Ron | 2.25 |
-| Evan | 1 |
-| Jake | 1 |
+| Jake | 2 |
 | Matt | 1.25 |
+| Evan | 1 |
 | Doug | 1 |
 | Rajiv | 0.25 |
 | Sean | 0 |

@@ -1,0 +1,11 @@
+Photo Finish: The team that defeats its opponent by the smallest margin of victory.
+
+************** RESULTS **************
+Rank | Winner    | Loser | Margin
+-----|-----------|-------|----------
+1    | Jake      | Nagy  |   5.52
+2    | Chi Shing | Jiwei |   8.72
+3    | Sean      | Rajiv |  20.82
+4    | Doug      | Dai   |  26.42
+5    | Joel      | Ron   |  27.94
+6    | Matt      | Evan  |  36.94
