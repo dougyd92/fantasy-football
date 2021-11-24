@@ -1,0 +1,67 @@
+Will run Challenges::Shutout for week 11 in league 597209
+Shutout: DEF with the least points allowed
+
+Got Taylor Need Swift
+DEF: New England
+Points Allowed: 0.0
+
+Tiz the Law
+DEF: Miami
+Points Allowed: 17.0
+
+Chi ShingT's Team
+DEF: Philadelphia
+Points Allowed: 29.0
+
+Boswell that Ends Well
+DEF: Tennessee
+Points Allowed: 22.0
+
+folklore
+DEF: Carolina
+Points Allowed: 27.0
+
+Sacko
+DEF: Los Angeles
+Points Allowed: 37.0
+
+Out of the Woods
+DEF: Arizona
+Points Allowed: 13.0
+
+G
+DEF: Cleveland
+Points Allowed: 10.0
+
+Zeke and Ye Shall Find
+DEF: Buffalo
+Points Allowed: 41.0
+
+MasturBateman
+DEF: San Francisco
+Points Allowed: 10.0
+
+Nags
+DEF: Tampa Bay
+Points Allowed: 10.0
+
+Pop Drop and Lockett
+DEF: Baltimore
+Points Allowed: 13.0
+
+************** RESULTS **************
+RANK | TEAM_NAME              | DEF           | PTS 
+-----|------------------------|---------------|-----
+1    | Got Taylor Need Swift  | New England   | 0.0 
+2    | G                      | Cleveland     | 10.0
+3    | Nags                   | Tampa Bay     | 10.0
+4    | MasturBateman          | San Francisco | 10.0
+5    | Pop Drop and Lockett   | Baltimore     | 13.0
+6    | Out of the Woods       | Arizona       | 13.0
+7    | Tiz the Law            | Miami         | 17.0
+8    | Boswell that Ends Well | Tennessee     | 22.0
+9    | folklore               | Carolina      | 27.0
+10   | Chi ShingT's Team      | Philadelphia  | 29.0
+11   | Sacko                  | Los Angeles   | 37.0
+12   | Zeke and Ye Shall Find | Buffalo       | 41.0
+
