@@ -21,6 +21,8 @@ module Challenges
       RunningMaxEfficiency.new
     when 'show_me_your_tds'
       ShowMeYourTDs.new
+    when 'shutout'
+      Shutout.new
     when 'sleeper_hit'
       SleeperHit.new
     when 'smart_start'
