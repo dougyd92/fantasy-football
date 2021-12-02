@@ -1,0 +1,250 @@
+Will run Challenges::VultureVictim for week 12 in league 597209
+Vulture Victim: Most points from a single player who had 0 TDs (excludes K and DEF).
+
+Got Taylor Need Swift
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS   | ELIGIBLE
+-----------------------|------|------|-----|-------|-------|---------
+Matthew Stafford       | 3.0  | 0.0  | 0.0 | 0.0   | 28.98 | false   
+Brandon Aiyuk          | 0.0  | 0.0  | 0.0 | 0.0   | 11.0  | true    
+Odell Beckham Jr.      | 0.0  | 0.0  | 1.0 | 0.0   | 16.6  | false   
+Jerry Jeudy            | 0.0  | 0.0  | 0.0 | 0.0   | 3.5   | true    
+Jonathan Taylor        | 0.0  | 1.0  | 0.0 | 0.0   | 17.7  | false   
+David Johnson          | 0.0  | 0.0  | 0.0 | 0.0   | 6.5   | true    
+Dalton Schultz         | 0.0  | 0.0  | 1.0 | 0.0   | 14.1  | false   
+Aaron Jones            | 0.0  | 0.0  | 0.0 | 0.0   | 2.3   | true    
+Best vulture victim: Brandon Aiyuk with 11.0 points
+
+Tiz the Law
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS  | ELIGIBLE
+-----------------------|------|------|-----|-------|------|---------
+Josh Allen             | 4.0  | 0.0  | 0.0 | 0.0   | 36.7 | false   
+Davante Adams          | 0.0  | 0.0  | 0.0 | 0.0   | 14.4 | true    
+DJ Moore               | 0.0  | 0.0  | 0.0 | 0.0   | 12.3 | true    
+Tre'Quan Smith         | 0.0  | 0.0  | 0.0 | 0.0   | 5.1  | true    
+Najee Harris           | 0.0  | 0.0  | 0.0 | 0.0   | 5.2  | true    
+Tony Jones Jr.         | 0.0  | 0.0  | 0.0 | 0.0   | 2.7  | true    
+Noah Fant              | 0.0  | 0.0  | 0.0 | 0.0   | 2.7  | true    
+Ty Johnson             | 0.0  | 0.0  | 0.0 | 0.0   | 4.2  | true    
+Best vulture victim: Davante Adams with 14.4 points
+
+Chi ShingT's Team
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS  | ELIGIBLE
+-----------------------|------|------|-----|-------|------|---------
+Cam Newton             | 0.0  | 1.0  | 0.0 | 0.0   | 8.18 | false   
+DeVonta Smith          | 0.0  | 0.0  | 0.0 | 0.0   | 3.2  | true    
+Chris Godwin           | 0.0  | 0.0  | 0.0 | 0.0   | 2.7  | true    
+Emmanuel Sanders       | 0.0  | 0.0  | 0.0 | 0.0   | 4.3  | true    
+Joe Mixon              | 0.0  | 2.0  | 0.0 | 0.0   | 30.3 | false   
+Melvin Gordon III      | 0.0  | 0.0  | 0.0 | 0.0   | 9.3  | true    
+Tyler Higbee           | 0.0  | 0.0  | 0.0 | 0.0   | 0.8  | true    
+D'Onta Foreman         | 0.0  | 0.0  | 0.0 | 0.0   | 9.7  | true    
+Best vulture victim: D'Onta Foreman with 9.7 points
+
+Boswell that Ends Well
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS  | ELIGIBLE
+-----------------------|------|------|-----|-------|------|---------
+Dak Prescott           | 2.0  | 0.0  | 0.0 | 0.0   | 29.3 | false   
+Stefon Diggs           | 0.0  | 0.0  | 1.0 | 0.0   | 16.9 | false   
+Jaylen Waddle          | 0.0  | 0.0  | 1.0 | 0.0   | 24.2 | false   
+Mike Williams          | 0.0  | 0.0  | 0.0 | 0.0   | 5.9  | true    
+Javonte Williams       | 0.0  | 1.0  | 0.0 | 0.0   | 18.6 | false   
+Rex Burkhead           | 0.0  | 0.0  | 0.0 | 0.0   | 6.9  | true    
+Logan Thomas           | 0.0  | 0.0  | 0.0 | 0.0   | 4.6  | true    
+Elijah Moore           | 0.0  | 0.0  | 0.0 | 0.0   | 7.3  | true    
+Best vulture victim: Elijah Moore with 7.3 points
+
+folklore
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS  | ELIGIBLE
+-----------------------|------|------|-----|-------|------|---------
+Joe Burrow             | 1.0  | 1.0  | 0.0 | 0.0   | 19.4 | false   
+DK Metcalf             | 0.0  | 0.0  | 0.0 | 0.0   | 1.8  | true    
+Ja'Marr Chase          | 0.0  | 0.0  | 0.0 | 0.0   | 5.4  | true    
+Cordarrelle Patterson  | 0.0  | 2.0  | 0.0 | 0.0   | 26.5 | false   
+Austin Ekeler          | 0.0  | 0.0  | 1.0 | 0.0   | 18.9 | false   
+Christian McCaffrey    | 0.0  | 0.0  | 0.0 | 0.0   | 3.5  | true    
+Dawson Knox            | 0.0  | 0.0  | 2.0 | 0.0   | 16.7 | false   
+Eli Mitchell           | 0.0  | 1.0  | 0.0 | 0.0   | 25.3 | false   
+Best vulture victim: Ja'Marr Chase with 5.4 points
+
+Sacko
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS   | ELIGIBLE
+-----------------------|------|------|-----|-------|-------|---------
+Ryan Tannehill         | 1.0  | 0.0  | 0.0 | 0.0   | 11.12 | false   
+Terry McLaurin         | 0.0  | 0.0  | 0.0 | 0.0   | 7.1   | true    
+Adam Thielen           | 0.0  | 0.0  | 2.0 | 0.0   | 20.7  | false   
+Hunter Renfrow         | 0.0  | 0.0  | 0.0 | 0.0   | 17.6  | true    
+Devin Singletary       | 0.0  | 0.0  | 0.0 | 0.0   | 5.3   | true    
+Saquon Barkley         | 0.0  | 0.0  | 0.0 | 0.0   | 7.3   | true    
+Hunter Henry           | 0.0  | 0.0  | 0.0 | 0.0   | 2.6   | true    
+Marquise Brown         | 0.0  | 0.0  | 0.0 | 0.0   | 9.1   | true    
+Best vulture victim: Hunter Renfrow with 17.6 points
+
+Raider Bae
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS  | ELIGIBLE
+-----------------------|------|------|-----|-------|------|---------
+Lamar Jackson          | 1.0  | 0.0  | 0.0 | 0.0   | 15.4 | false   
+Mike Evans             | 0.0  | 0.0  | 0.0 | 0.0   | 3.1  | true    
+Cole Beasley           | 0.0  | 0.0  | 0.0 | 0.0   | 7.1  | true    
+Cooper Kupp            | 0.0  | 0.0  | 0.0 | 0.0   | 15.1 | true    
+Josh Jacobs            | 0.0  | 1.0  | 0.0 | 0.0   | 18.2 | false   
+Devonta Freeman        | 0.0  | 0.0  | 0.0 | 0.0   | 6.5  | true    
+Darren Waller          | 0.0  | 0.0  | 0.0 | 0.0   | 4.3  | true    
+T.Y. Hilton            | 0.0  | 0.0  | 1.0 | 0.0   | 10.8 | false   
+Best vulture victim: Cooper Kupp with 15.1 points
+
+G
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS   | ELIGIBLE
+-----------------------|------|------|-----|-------|-------|---------
+Jalen Hurts            | 0.0  | 0.0  | 0.0 | 0.0   | 9.86  | true    
+Keenan Allen           | 0.0  | 0.0  | 0.0 | 0.0   | 12.0  | true    
+Justin Jefferson       | 0.0  | 0.0  | 0.0 | 0.0   | 11.26 | true    
+Kendrick Bourne        | 0.0  | 0.0  | 2.0 | 0.0   | 20.6  | false   
+AJ Dillon              | 0.0  | 0.0  | 1.0 | 0.0   | 17.5  | false   
+Alex Collins           | 0.0  | 0.0  | 0.0 | 0.0   | 1.2   | true    
+Mark Andrews           | 0.0  | 0.0  | 1.0 | 0.0   | 14.5  | false   
+Marvin Jones Jr.       | 0.0  | 0.0  | 0.0 | 0.0   | 6.3   | true    
+Best vulture victim: Keenan Allen with 12.0 points
+
+Zeke and Ye Shall Find
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS   | ELIGIBLE
+-----------------------|------|------|-----|-------|-------|---------
+Justin Herbert         | 2.0  | 0.0  | 0.0 | 0.0   | 25.72 | false   
+Jakobi Meyers          | 0.0  | 0.0  | 0.0 | 0.0   | 12.3  | true    
+Cedrick Wilson         | 0.0  | 0.0  | 0.0 | 0.0   | 13.9  | true    
+Robby Anderson         | 0.0  | 0.0  | 0.0 | 0.0   | 2.0   | true    
+James Robinson         | 0.0  | 0.0  | 0.0 | 0.0   | 11.0  | true    
+Ezekiel Elliott        | 0.0  | 1.0  | 0.0 | 0.0   | 13.9  | false   
+George Kittle          | 0.0  | 0.0  | 0.0 | 0.0   | 1.8   | true    
+Rhamondre Stevenson    | 0.0  | 0.0  | 0.0 | 0.0   | 4.6   | true    
+Best vulture victim: Cedrick Wilson with 13.9 points
+
+Mr. Tee
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS   | ELIGIBLE
+-----------------------|------|------|-----|-------|-------|---------
+Aaron Rodgers          | 2.0  | 1.0  | 0.0 | 0.0   | 30.28 | false   
+Diontae Johnson        | 0.0  | 0.0  | 0.0 | 0.0   | 14.0  | true    
+Deebo Samuel           | 0.0  | 2.0  | 0.0 | 0.0   | 20.3  | false   
+Brandin Cooks          | 0.0  | 0.0  | 1.0 | 0.0   | 12.0  | false   
+D'Andre Swift          | 0.0  | 0.0  | 0.0 | 0.0   | 2.4   | true    
+David Montgomery       | 0.0  | 0.0  | 0.0 | 0.0   | 8.9   | true    
+Pat Freiermuth         | 0.0  | 0.0  | 1.0 | 0.0   | 12.0  | false   
+Darrell Henderson Jr.  | 0.0  | 0.0  | 1.0 | 0.0   | 15.3  | false   
+Best vulture victim: Diontae Johnson with 14.0 points
+
+Nags
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS   | ELIGIBLE
+-----------------------|------|------|-----|-------|-------|---------
+Tom Brady              | 1.0  | 0.0  | 0.0 | 0.0   | 14.24 | false   
+Michael Pittman Jr.    | 0.0  | 0.0  | 0.0 | 0.0   | 7.3   | true    
+Laviska Shenault Jr.   | 0.0  | 0.0  | 0.0 | 0.0   | 5.8   | true    
+Chase Claypool         | 0.0  | 0.0  | 0.0 | 0.0   | 9.7   | true    
+Dalvin Cook            | 0.0  | 0.0  | 0.0 | 0.0   | 11.3  | true    
+Nick Chubb             | 0.0  | 0.0  | 0.0 | 0.0   | 4.9   | true    
+Rob Gronkowski         | 0.0  | 0.0  | 0.0 | 0.0   | 15.8  | true    
+Tony Pollard           | 0.0  | 0.0  | 0.0 | 1.0   | 14.8  | false   
+Best vulture victim: Rob Gronkowski with 15.8 points
+
+Pop Drop and Lockett
+Starting players:
+NAME                   | PASS | RUSH | REC | OTHER | PTS   | ELIGIBLE
+-----------------------|------|------|-----|-------|-------|---------
+Ben Roethlisberger     | 1.0  | 0.0  | 0.0 | 0.0   | 12.52 | false   
+Tyler Lockett          | 0.0  | 0.0  | 0.0 | 0.0   | 11.1  | true    
+Darnell Mooney         | 0.0  | 0.0  | 0.0 | 0.0   | 15.0  | true    
+Michael Gallup         | 0.0  | 0.0  | 0.0 | 0.0   | 13.1  | true    
+Antonio Gibson         | 0.0  | 0.0  | 0.0 | 0.0   | 20.1  | true    
+Damien Harris          | 0.0  | 1.0  | 0.0 | 0.0   | 11.7  | false   
+Jared Cook             | 0.0  | 0.0  | 1.0 | 0.0   | 9.5   | false   
+Miles Sanders          | 0.0  | 0.0  | 0.0 | 0.0   | 6.9   | true    
+Best vulture victim: Antonio Gibson with 20.1 points
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING | PLAYER_NAME    
+-----|------------------------|------------------|----------------
+1    | Pop Drop and Lockett   | 20.1             | Antonio Gibson 
+2    | Sacko                  | 17.6             | Hunter Renfrow 
+3    | Nags                   | 15.8             | Rob Gronkowski 
+4    | Raider Bae             | 15.1             | Cooper Kupp    
+5    | Tiz the Law            | 14.4             | Davante Adams  
+6    | Mr. Tee                | 14.0             | Diontae Johnson
+7    | Zeke and Ye Shall Find | 13.9             | Cedrick Wilson 
+8    | G                      | 12.0             | Keenan Allen   
+9    | Got Taylor Need Swift  | 11.0             | Brandon Aiyuk  
+10   | Chi ShingT's Team      | 9.7              | D'Onta Foreman 
+11   | Boswell that Ends Well | 7.3              | Elijah Moore   
+12   | folklore               | 5.4              | Ja'Marr Chase  
+
+************** All players **************
+RANK | NAME                   | PASS | RUSH | REC | OTHER | PTS   | TEAM                            
+-----|------------------------|------|------|-----|-------|-------|---------------------------------
+1    | Antonio Gibson         | 0.0  | 0.0  | 0.0 | 0.0   | 20.1  | Pop Drop and Lockett            
+2    | Hunter Renfrow         | 0.0  | 0.0  | 0.0 | 0.0   | 17.6  | Sacko                           
+3    | Rob Gronkowski         | 0.0  | 0.0  | 0.0 | 0.0   | 15.8  | Nags                            
+4    | Cooper Kupp            | 0.0  | 0.0  | 0.0 | 0.0   | 15.1  | Raider Bae                      
+5    | Darnell Mooney         | 0.0  | 0.0  | 0.0 | 0.0   | 15.0  | Pop Drop and Lockett            
+6    | Davante Adams          | 0.0  | 0.0  | 0.0 | 0.0   | 14.4  | Tiz the Law                     
+7    | Diontae Johnson        | 0.0  | 0.0  | 0.0 | 0.0   | 14.0  | Mr. Tee                         
+8    | Cedrick Wilson         | 0.0  | 0.0  | 0.0 | 0.0   | 13.9  | Zeke and Ye Shall Find          
+9    | Michael Gallup         | 0.0  | 0.0  | 0.0 | 0.0   | 13.1  | Pop Drop and Lockett            
+10   | Jakobi Meyers          | 0.0  | 0.0  | 0.0 | 0.0   | 12.3  | Zeke and Ye Shall Find          
+11   | DJ Moore               | 0.0  | 0.0  | 0.0 | 0.0   | 12.3  | Tiz the Law                     
+12   | Keenan Allen           | 0.0  | 0.0  | 0.0 | 0.0   | 12.0  | G                               
+13   | Dalvin Cook            | 0.0  | 0.0  | 0.0 | 0.0   | 11.3  | Nags                            
+14   | Justin Jefferson       | 0.0  | 0.0  | 0.0 | 0.0   | 11.26 | G                               
+15   | Tyler Lockett          | 0.0  | 0.0  | 0.0 | 0.0   | 11.1  | Pop Drop and Lockett            
+16   | James Robinson         | 0.0  | 0.0  | 0.0 | 0.0   | 11.0  | Zeke and Ye Shall Find          
+17   | Brandon Aiyuk          | 0.0  | 0.0  | 0.0 | 0.0   | 11.0  | Got Taylor Need Swift           
+18   | Jalen Hurts            | 0.0  | 0.0  | 0.0 | 0.0   | 9.86  | G                               
+19   | D'Onta Foreman         | 0.0  | 0.0  | 0.0 | 0.0   | 9.7   | Chi ShingT's Team               
+20   | Chase Claypool         | 0.0  | 0.0  | 0.0 | 0.0   | 9.7   | Nags                            
+21   | Melvin Gordon III      | 0.0  | 0.0  | 0.0 | 0.0   | 9.3   | Chi ShingT's Team               
+22   | Marquise Brown         | 0.0  | 0.0  | 0.0 | 0.0   | 9.1   | Sacko                           
+23   | David Montgomery       | 0.0  | 0.0  | 0.0 | 0.0   | 8.9   | Mr. Tee                         
+24   | Saquon Barkley         | 0.0  | 0.0  | 0.0 | 0.0   | 7.3   | Sacko                           
+25   | Michael Pittman Jr.    | 0.0  | 0.0  | 0.0 | 0.0   | 7.3   | Nags                            
+26   | Elijah Moore           | 0.0  | 0.0  | 0.0 | 0.0   | 7.3   | Boswell that Ends Well          
+27   | Terry McLaurin         | 0.0  | 0.0  | 0.0 | 0.0   | 7.1   | Sacko                           
+28   | Cole Beasley           | 0.0  | 0.0  | 0.0 | 0.0   | 7.1   | Raider Bae                      
+29   | Miles Sanders          | 0.0  | 0.0  | 0.0 | 0.0   | 6.9   | Pop Drop and Lockett            
+30   | Rex Burkhead           | 0.0  | 0.0  | 0.0 | 0.0   | 6.9   | Boswell that Ends Well          
+31   | Devonta Freeman        | 0.0  | 0.0  | 0.0 | 0.0   | 6.5   | Raider Bae                      
+32   | David Johnson          | 0.0  | 0.0  | 0.0 | 0.0   | 6.5   | Got Taylor Need Swift           
+33   | Marvin Jones Jr.       | 0.0  | 0.0  | 0.0 | 0.0   | 6.3   | G                               
+34   | Mike Williams          | 0.0  | 0.0  | 0.0 | 0.0   | 5.9   | Boswell that Ends Well          
+35   | Laviska Shenault Jr.   | 0.0  | 0.0  | 0.0 | 0.0   | 5.8   | Nags                            
+36   | Ja'Marr Chase          | 0.0  | 0.0  | 0.0 | 0.0   | 5.4   | folklore                        
+37   | Devin Singletary       | 0.0  | 0.0  | 0.0 | 0.0   | 5.3   | Sacko                           
+38   | Najee Harris           | 0.0  | 0.0  | 0.0 | 0.0   | 5.2   | Tiz the Law                     
+39   | Tre'Quan Smith         | 0.0  | 0.0  | 0.0 | 0.0   | 5.1   | Tiz the Law                     
+40   | Nick Chubb             | 0.0  | 0.0  | 0.0 | 0.0   | 4.9   | Nags                            
+41   | Rhamondre Stevenson    | 0.0  | 0.0  | 0.0 | 0.0   | 4.6   | Zeke and Ye Shall Find          
+42   | Logan Thomas           | 0.0  | 0.0  | 0.0 | 0.0   | 4.6   | Boswell that Ends Well          
+43   | Darren Waller          | 0.0  | 0.0  | 0.0 | 0.0   | 4.3   | Raider Bae                      
+44   | Emmanuel Sanders       | 0.0  | 0.0  | 0.0 | 0.0   | 4.3   | Chi ShingT's Team               
+45   | Ty Johnson             | 0.0  | 0.0  | 0.0 | 0.0   | 4.2   | Tiz the Law                     
+46   | Jerry Jeudy            | 0.0  | 0.0  | 0.0 | 0.0   | 3.5   | Got Taylor Need Swift           
+47   | Christian McCaffrey    | 0.0  | 0.0  | 0.0 | 0.0   | 3.5   | folklore                        
+48   | DeVonta Smith          | 0.0  | 0.0  | 0.0 | 0.0   | 3.2   | Chi ShingT's Team               
+49   | Mike Evans             | 0.0  | 0.0  | 0.0 | 0.0   | 3.1   | Raider Bae                      
+50   | Tony Jones Jr.         | 0.0  | 0.0  | 0.0 | 0.0   | 2.7   | Tiz the Law                     
+51   | Chris Godwin           | 0.0  | 0.0  | 0.0 | 0.0   | 2.7   | Chi ShingT's Team               
+52   | Noah Fant              | 0.0  | 0.0  | 0.0 | 0.0   | 2.7   | Tiz the Law                     
+53   | Hunter Henry           | 0.0  | 0.0  | 0.0 | 0.0   | 2.6   | Sacko                           
+54   | D'Andre Swift          | 0.0  | 0.0  | 0.0 | 0.0   | 2.4   | Mr. Tee                         
+55   | Aaron Jones            | 0.0  | 0.0  | 0.0 | 0.0   | 2.3   | Got Taylor Need Swift           
+56   | Robby Anderson         | 0.0  | 0.0  | 0.0 | 0.0   | 2.0   | Zeke and Ye Shall Find          
+57   | DK Metcalf             | 0.0  | 0.0  | 0.0 | 0.0   | 1.8   | folklore                        
+58   | George Kittle          | 0.0  | 0.0  | 0.0 | 0.0   | 1.8   | Zeke and Ye Shall Find          
+59   | Alex Collins           | 0.0  | 0.0  | 0.0 | 0.0   | 1.2   | G                               
+60   | Tyler Higbee           | 0.0  | 0.0  | 0.0 | 0.0   | 0.8   | Chi ShingT's Team               

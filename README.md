@@ -16,7 +16,7 @@ Challenges
 | 9 | Das Boot | K with the longest field goal | Matt |
 | 10 | Photo Finish | The team that defeats its opponent by the smallest margin of victory. | Jake |
 | 11 | Shutout | DEF with the least points allowed | Matt |
-| 12 | Vulture Victim | Most points from a single player who had 0 TDs (excludes K and DEF) | |
+| 12 | Vulture Victim | Most points from a single player who had 0 TDs (excludes K and DEF) | Evan |
 | 13 | Gronk's Favorite Number | TE with closest to 69 all-purpose yards | |
 | 14 | Dynamic Duo | Most points scored by two players on the same NFL team | |
 | 15 | Are You Smarter Than Yahoo? | Largest (positive) difference between actual and projected points scored | |
@@ -29,8 +29,8 @@ Challenges
 | Ryan | 2.25 |
 | Ron | 2.25 |
 | Matt | 2.25 |
+| Evan | 2 |
 | Jake | 2 |
-| Evan | 1 |
 | Doug | 1 |
 | Rajiv | 0.25 |
 | Sean | 0 |
