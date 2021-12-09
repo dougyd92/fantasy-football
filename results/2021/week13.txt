@@ -1,0 +1,91 @@
+Will run Challenges::GronksFavoriteNumber for week 13 in league 597209
+Gronk's Favorite Number: TE with closest to 69 all-purpose yards
+
+Got Taylor Need Swift
+TE: Dalton Schultz
+Total yards: 43.0
+Sixty-nine: 69
+Absolute difference: 26.0
+
+Tiz the Law
+TE: Kyle Pitts
+Total yards: 48.0
+Sixty-nine: 69
+Absolute difference: 21.0
+
+Chi ShingT's Team
+TE: Jack Doyle
+Total yards: 13.0
+Sixty-nine: 69
+Absolute difference: 56.0
+
+Waddle It Be?
+TE: Logan Thomas
+Total yards: 48.0
+Sixty-nine: 69
+Absolute difference: 21.0
+
+folklore
+TE: Dallas Goedert
+Total yards: 105.0
+Sixty-nine: 69
+Absolute difference: 36.0
+
+Sacko
+TE: Hunter Henry
+Total yards: 0.0
+Sixty-nine: 69
+Absolute difference: 69.0
+
+Raider Bae
+TE: Foster Moreau
+Total yards: 34.0
+Sixty-nine: 69
+Absolute difference: 35.0
+
+G
+TE: Mark Andrews
+Total yards: 50.0
+Sixty-nine: 69
+Absolute difference: 19.0
+
+Zeke and Ye Shall Find
+TE: George Kittle
+Total yards: 186.0
+Sixty-nine: 69
+Absolute difference: 117.0
+
+Sony Side Up
+TE: Pat Freiermuth
+Total yards: 26.0
+Sixty-nine: 69
+Absolute difference: 43.0
+
+Nags
+TE: Travis Kelce
+Total yards: 27.0
+Sixty-nine: 69
+Absolute difference: 42.0
+
+Pop Drop and Lockett
+TE: Jared Cook
+Total yards: 29.0
+Sixty-nine: 69
+Absolute difference: 40.0
+
+************** RESULTS **************
+RANK | TEAM_NAME              | TE             | YDS   | 69 | DIFF 
+-----|------------------------|----------------|-------|----|------
+1    | G                      | Mark Andrews   | 50.0  | 69 | 19.0 
+2    | Tiz the Law            | Kyle Pitts     | 48.0  | 69 | 21.0 
+3    | Waddle It Be?          | Logan Thomas   | 48.0  | 69 | 21.0 
+4    | Got Taylor Need Swift  | Dalton Schultz | 43.0  | 69 | 26.0 
+5    | Raider Bae             | Foster Moreau  | 34.0  | 69 | 35.0 
+6    | folklore               | Dallas Goedert | 105.0 | 69 | 36.0 
+7    | Pop Drop and Lockett   | Jared Cook     | 29.0  | 69 | 40.0 
+8    | Nags                   | Travis Kelce   | 27.0  | 69 | 42.0 
+9    | Sony Side Up           | Pat Freiermuth | 26.0  | 69 | 43.0 
+10   | Chi ShingT's Team      | Jack Doyle     | 13.0  | 69 | 56.0 
+11   | Sacko                  | Hunter Henry   | 0.0   | 69 | 69.0 
+12   | Zeke and Ye Shall Find | George Kittle  | 186.0 | 69 | 117.0
+

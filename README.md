@@ -17,7 +17,7 @@ Challenges
 | 10 | Photo Finish | The team that defeats its opponent by the smallest margin of victory. | Jake |
 | 11 | Shutout | DEF with the least points allowed | Matt |
 | 12 | Vulture Victim | Most points from a single player who had 0 TDs (excludes K and DEF) | Evan |
-| 13 | Gronk's Favorite Number | TE with closest to 69 all-purpose yards | |
+| 13 | Gronk's Favorite Number | TE with closest to 69 all-purpose yards | Jiwei |
 | 14 | Dynamic Duo | Most points scored by two players on the same NFL team | |
 | 15 | Are You Smarter Than Yahoo? | Largest (positive) difference between actual and projected points scored | |
 | 16 | Sandbagger | Highest (positive) difference between points scored and regular season average | |
@@ -32,9 +32,9 @@ Challenges
 | Evan | 2 |
 | Jake | 2 |
 | Doug | 1 |
+| Jiwei | 1 |
 | Rajiv | 0.25 |
 | Sean | 0 |
 | Chi Shing | 0 |
-| Jiwei | 0 |
 | Joel | 0 |
 | Dai | 0 |
