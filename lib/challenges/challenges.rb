@@ -15,6 +15,8 @@ module Challenges
       DasBoot.new
     when 'famous_jameis'
       FamousJameis.new
+    when 'gronk'
+      GronksFavoriteNumber.new
     when 'moneyball2'
       Moneyball2.new
     when 'running_max'
