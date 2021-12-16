@@ -1,0 +1,280 @@
+Will run Challenges::DynamicDuo for week 14 in league 597209
+Dynamic Duo: Most points scored by two players on the same NFL team.
+
+Got Taylor Need Swift
+LAR: 
+  Matthew Stafford      29.48
+  Odell Beckham Jr.     16.7
+SF: 
+  Brandon Aiyuk         15.6
+  Jeff Wilson Jr.       5.6
+KC: 
+  Harrison Butker       14.0
+  Tyreek Hill           9.6
+GB: 
+  Aaron Jones           20.0
+Dal: 
+  Dalton Schultz        0.9
+Den: 
+  Denver                10.0
+  Jerry Jeudy           7.2
+Best dynamic duo:
+Matthew Stafford + Odell Beckham Jr. (LAR) for 46.18 points
+
+Tiz the Law
+Buf: 
+  Josh Allen            40.22
+Atl: 
+  Kyle Pitts            8.6
+  Russell Gage          8.4
+GB: 
+  Davante Adams         29.1
+  Green Bay             13.0
+  Mason Crosby          9.0
+Car: 
+  DJ Moore              11.4
+Pit: 
+  Najee Harris          23.9
+Sea: 
+  Rashaad Penny         26.3
+NYG: 
+  Sterling Shepard      3.7
+Best dynamic duo:
+Davante Adams + Green Bay (GB) for 42.1 points
+
+Chi ShingT's Team
+Den: 
+  Melvin Gordon III     23.1
+  Teddy Bridgewater     19.16
+TB: 
+  Chris Godwin          15.5
+Dal: 
+  CeeDee Lamb           11.1
+Buf: 
+  Emmanuel Sanders      3.0
+Cin: 
+  Joe Mixon             7.8
+Cle: 
+  Kareem Hunt           2.8
+LAR: 
+  Matt Gay              14.0
+  Tyler Higbee          0.0
+Car: 
+  Carolina              2.0
+Best dynamic duo:
+Melvin Gordon III + Teddy Bridgewater (Den) for 42.26 points
+
+Waddle It Be?
+Dal: 
+  Dak Prescott          13.94
+  Amari Cooper          13.6
+Buf: 
+  Stefon Diggs          10.9
+LAC: 
+  Mike Williams         9.1
+KC: 
+  Clyde Edwards-Helaire 17.7
+NO: 
+  Alvin Kamara          22.5
+Ari: 
+  Zach Ertz             6.7
+Den: 
+  Javonte Williams      20.8
+Cin: 
+  Evan McPherson        12.0
+Sea: 
+  Seattle               6.0
+Best dynamic duo:
+Dak Prescott + Amari Cooper (Dal) for 27.54 points
+
+folklore
+Sea: 
+  Russell Wilson        25.2
+  DK Metcalf            6.3
+Cin: 
+  Ja'Marr Chase         22.8
+Atl: 
+  Cordarrelle Patterson 12.9
+LAC: 
+  Austin Ekeler         15.4
+  Dustin Hopkins        13.0
+Car: 
+  Chuba Hubbard         9.3
+Buf: 
+  Dawson Knox           15.5
+Den: 
+  Courtland Sutton      1.4
+KC: 
+  Kansas City           24.0
+Best dynamic duo:
+Russell Wilson + DK Metcalf (Sea) for 31.5 points
+
+Sacko
+NO: 
+  Taysom Hill           26.3
+  Tre'Quan Smith        4.8
+Was: 
+  Terry McLaurin        0.0
+LV: 
+  Hunter Renfrow        22.2
+Bal: 
+  Marquise Brown        6.6
+Buf: 
+  Devin Singletary      11.9
+NYG: 
+  Saquon Barkley        17.0
+Den: 
+  Noah Fant             7.1
+Atl: 
+  Younghoe Koo          12.0
+LAC: 
+  Los Angeles           6.0
+Best dynamic duo:
+Taysom Hill + Tre'Quan Smith (NO) for 31.1 points
+
+Raider Bae
+Bal: 
+  Justin Tucker         15.0
+  Devonta Freeman       9.7
+  Lamar Jackson         1.18
+LAR: 
+  Cooper Kupp           24.8
+LV: 
+  Josh Jacobs           7.5
+  DeSean Jackson        2.4
+Ari: 
+  James Conner          29.0
+  A.J. Green            13.7
+  Arizona               2.0
+Sea: 
+  Gerald Everett        9.8
+Best dynamic duo:
+James Conner + A.J. Green (Ari) for 42.7 points
+
+G
+LV: 
+  Derek Carr            13.52
+LAC: 
+  Keenan Allen          0.0
+Min: 
+  Justin Jefferson      17.0
+  Alexander Mattison    2.7
+Jax: 
+  Marvin Jones Jr.      10.0
+GB: 
+  AJ Dillon             7.1
+Bal: 
+  Mark Andrews          23.0
+Sea: 
+  Alex Collins          2.2
+Pit: 
+  Chris Boswell         2.0
+Cle: 
+  Cleveland             14.0
+Best dynamic duo:
+Justin Jefferson + Alexander Mattison (Min) for 19.7 points
+
+Zeke and Ye Shall Find
+LAC: 
+  Justin Herbert        30.9
+Ari: 
+  DeAndre Hopkins       7.9
+Ten: 
+  Julio Jones           5.3
+  Nick Westbrook-Ikhine 4.6
+  Dontrell Hilliard     1.3
+Dal: 
+  Greg Zuerlein         13.0
+  Ezekiel Elliott       8.5
+SF: 
+  George Kittle         27.6
+  JaMycal Hasty         2.5
+Buf: 
+  Buffalo               1.0
+Best dynamic duo:
+George Kittle + JaMycal Hasty (SF) for 30.1 points
+
+Sony Side Up
+GB: 
+  Aaron Rodgers         37.64
+Pit: 
+  Diontae Johnson       12.8
+  Pat Freiermuth        10.2
+Cin: 
+  Tee Higgins           13.9
+SF: 
+  Deebo Samuel          12.4
+  San Francisco         9.0
+Chi: 
+  David Montgomery      11.1
+TB: 
+  Leonard Fournette     21.2
+LAR: 
+  Sony Michel           7.9
+Buf: 
+  Tyler Bass            9.0
+Best dynamic duo:
+Diontae Johnson + Pat Freiermuth (Pit) for 23.0 points
+
+Nags
+TB: 
+  Tom Brady             34.12
+  Rob Gronkowski        8.7
+Pit: 
+  Chase Claypool        13.5
+LAR: 
+  Van Jefferson Jr.     13.8
+Jax: 
+  Laviska Shenault Jr.  5.4
+Cle: 
+  Nick Chubb            8.0
+Min: 
+  Dalvin Cook           34.7
+KC: 
+  Travis Kelce          4.2
+LV: 
+  Daniel Carlson        3.0
+Ten: 
+  Tennessee             21.0
+Best dynamic duo:
+Tom Brady + Rob Gronkowski (TB) for 42.82 points
+
+Pop Drop and Lockett
+Ari: 
+  Kyler Murray          19.42
+Sea: 
+  Tyler Lockett         24.7
+Chi: 
+  Darnell Mooney        2.4
+Dal: 
+  Michael Gallup        8.5
+Was: 
+  Antonio Gibson        3.1
+KC: 
+  Darrel Williams       11.4
+LAC: 
+  Jared Cook            7.8
+Cle: 
+  Jarvis Landry         12.6
+TB: 
+  Ryan Succop           9.0
+Bal: 
+  Baltimore             3.0
+No duos on the whole roster!
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING | TEAM | POSITIONS
+-----|------------------------|------------------|------|----------
+1    | Got Taylor Need Swift  | 46.18            | LAR  | QB, WR   
+2    | Nags                   | 42.82            | TB   | QB, TE   
+3    | Raider Bae             | 42.7             | Ari  | RB, WR   
+4    | Chi ShingT's Team      | 42.26            | Den  | RB, QB   
+5    | Tiz the Law            | 42.1             | GB   | WR, DEF  
+6    | folklore               | 31.5             | Sea  | QB, WR   
+7    | Sacko                  | 31.1             | NO   | QB, WR   
+8    | Zeke and Ye Shall Find | 30.1             | SF   | TE, RB   
+9    | Waddle It Be?          | 27.54            | Dal  | QB, WR   
+10   | Sony Side Up           | 23.0             | Pit  | WR, TE   
+11   | G                      | 19.7             | Min  | WR, RB   
+12   | Pop Drop and Lockett   | 0                |      |          
+

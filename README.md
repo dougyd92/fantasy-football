@@ -18,7 +18,7 @@ Challenges
 | 11 | Shutout | DEF with the least points allowed | Matt |
 | 12 | Vulture Victim | Most points from a single player who had 0 TDs (excludes K and DEF) | Evan |
 | 13 | Gronk's Favorite Number | TE with closest to 69 all-purpose yards | Jiwei |
-| 14 | Dynamic Duo | Most points scored by two players on the same NFL team | |
+| 14 | Dynamic Duo | Most points scored by two players on the same NFL team | Matt |
 | 15 | Are You Smarter Than Yahoo? | Largest (positive) difference between actual and projected points scored | |
 | 16 | Sandbagger | Highest (positive) difference between points scored and regular season average | |
 | 17 | The Long Haul | Most total points from starters owned continuously since draft day | |
@@ -26,9 +26,9 @@ Challenges
 2021 Season Total
 | Manager | Challenge Wins |
 |-|-|
+| Matt | 3.25 |
 | Ryan | 2.25 |
 | Ron | 2.25 |
-| Matt | 2.25 |
 | Evan | 2 |
 | Jake | 2 |
 | Doug | 1 |
