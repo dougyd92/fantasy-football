@@ -13,6 +13,8 @@ module Challenges
     case challenge_name.downcase
     when 'das_boot'
       DasBoot.new
+    when 'dynamic_duo'
+      DynamicDuo.new
     when 'famous_jameis'
       FamousJameis.new
     when 'gronk'
