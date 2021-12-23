@@ -31,6 +31,8 @@ module Challenges
       SleeperHit.new
     when 'smart_start'
       SmartStart.new
+    when 'smarter_than_yahoo'
+      SmarterThanYahoo.new
     when 'stats101'
       Stats101.new
     when 'sticky_hands'
