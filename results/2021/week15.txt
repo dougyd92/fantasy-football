@@ -1,0 +1,80 @@
+Will run Challenges::SmarterThanYahoo for week 15 in league 597209
+Are You Smarter Than Yahoo?: Largest (positive) difference between actual and projected points scored.
+
+Got Taylor Need Swift
+Projected points: 139.22
+Actual points: 113.36
+Difference: -25.86
+
+Tiz the Law
+Projected points: 132.34
+Actual points: 94.0
+Difference: -38.34
+
+Chi ShingT's Team
+Projected points: 112.46
+Actual points: 104.0
+Difference: -8.46
+
+Waddle It Be?
+Projected points: 119.49
+Actual points: 78.48
+Difference: -41.01
+
+folklore
+Projected points: 125.79
+Actual points: 67.78
+Difference: -58.01
+
+Sacko
+Projected points: 105.28
+Actual points: 73.26
+Difference: -32.02
+
+Raider Bae
+Projected points: 131.38
+Actual points: 101.1
+Difference: -30.28
+
+G
+Projected points: 114.44
+Actual points: 135.04
+Difference: 20.6
+
+Zeke and Ye Shall Find
+Projected points: 130.97
+Actual points: 124.14
+Difference: -6.83
+
+Sony Side Up
+Projected points: 128.89
+Actual points: 117.52
+Difference: -11.37
+
+Nags
+Projected points: 142.61
+Actual points: 97.06
+Difference: -45.55
+
+Pop Drop and Lockett
+Projected points: 105.12
+Actual points: 74.38
+Difference: -30.74
+
+
+************** RESULTS **************
+RANK | TEAM_NAME              | CHALLENGE_RATING
+-----|------------------------|-----------------
+1    | G                      | 20.6            
+2    | Zeke and Ye Shall Find | -6.83           
+3    | Chi ShingT's Team      | -8.46           
+4    | Sony Side Up           | -11.37          
+5    | Got Taylor Need Swift  | -25.86          
+6    | Raider Bae             | -30.28          
+7    | Pop Drop and Lockett   | -30.74          
+8    | Sacko                  | -32.02          
+9    | Tiz the Law            | -38.34          
+10   | Waddle It Be?          | -41.01          
+11   | Nags                   | -45.55          
+12   | folklore               | -58.01          
+
