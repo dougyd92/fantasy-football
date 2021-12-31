@@ -23,6 +23,8 @@ module Challenges
       Moneyball2.new
     when 'running_max'
       RunningMaxEfficiency.new
+    when 'sandbagger'
+      Sandbagger.new
     when 'show_me_your_tds'
       ShowMeYourTDs.new
     when 'shutout'
