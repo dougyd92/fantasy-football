@@ -20,7 +20,7 @@ Challenges
 | 13 | Gronk's Favorite Number | TE with closest to 69 all-purpose yards | Jiwei |
 | 14 | Dynamic Duo | Most points scored by two players on the same NFL team | Matt |
 | 15 | Are You Smarter Than Yahoo? | Largest (positive) difference between actual and projected points scored | Jiwei |
-| 16 | Sandbagger | Highest (positive) difference between points scored and regular season average | |
+| 16 | Sandbagger | Highest (positive) difference between points scored and regular season average | Joel |
 | 17 | The Long Haul | Most total points from starters owned continuously since draft day | |
 
 2021 Season Total
@@ -33,8 +33,8 @@ Challenges
 | Jake | 2 |
 | Jiwei | 2 |
 | Doug | 1 |
+| Joel | 1 |
 | Rajiv | 0.25 |
 | Sean | 0 |
 | Chi Shing | 0 |
-| Joel | 0 |
 | Dai | 0 |

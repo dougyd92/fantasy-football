@@ -1,0 +1,152 @@
+Will run Challenges::Sandbagger for week 16 in league 597209
+Sandbagger: Highest (positive) difference between points scored and regular season average.
+
+Got Taylor Need Swift
+
+Regular season: 
+AVG    | MEDIAN | MIN    | MAX    | RANGE | STD_DEV
+-------|--------|--------|--------|-------|--------
+126.91 | 118.92 | 102.42 | 183.42 | 81.0  | 25.21  
+
+This week: 93.28 points
+Difference: -33.63
+
+
+Tiz the Law
+
+Regular season: 
+AVG    | MEDIAN             | MIN   | MAX    | RANGE  | STD_DEV
+-------|--------------------|-------|--------|--------|--------
+113.88 | 110.47999999999999 | 71.56 | 173.62 | 102.06 | 26.28  
+
+This week: 158.86 points
+Difference: 44.98
+
+
+Chi ShingT's Team
+
+Regular season: 
+AVG    | MEDIAN | MIN   | MAX    | RANGE | STD_DEV
+-------|--------|-------|--------|-------|--------
+114.39 | 106.33 | 81.48 | 158.18 | 76.7  | 24.48  
+
+This week: 119.22 points
+Difference: 4.83
+
+
+Waddle It Be?
+
+Regular season: 
+AVG    | MEDIAN | MIN   | MAX    | RANGE | STD_DEV
+-------|--------|-------|--------|-------|--------
+116.44 | 116.08 | 81.38 | 156.14 | 74.76 | 22.03  
+
+This week: 153.4 points
+Difference: 36.96
+
+
+folklore
+
+Regular season: 
+AVG    | MEDIAN | MIN   | MAX    | RANGE | STD_DEV
+-------|--------|-------|--------|-------|--------
+127.84 | 137.88 | 80.44 | 157.18 | 76.74 | 26.1   
+
+This week: 137.2 points
+Difference: 9.36
+
+
+Sacko
+
+Regular season: 
+AVG    | MEDIAN | MIN  | MAX    | RANGE | STD_DEV
+-------|--------|------|--------|-------|--------
+105.79 | 104.66 | 73.8 | 157.88 | 84.08 | 21.81  
+
+This week: 76.6 points
+Difference: -29.19
+
+
+Raider Bae
+
+Regular season: 
+AVG    | MEDIAN | MIN  | MAX    | RANGE | STD_DEV
+-------|--------|------|--------|-------|--------
+122.92 | 122.0  | 93.5 | 163.64 | 70.14 | 20.5   
+
+This week: 96.5 points
+Difference: -26.42
+
+
+G
+
+Regular season: 
+AVG    | MEDIAN | MIN   | MAX   | RANGE | STD_DEV
+-------|--------|-------|-------|-------|--------
+111.93 | 114.05 | 66.02 | 133.3 | 67.28 | 18.23  
+
+This week: 114.66 points
+Difference: 2.73
+
+
+Zeke and Ye Shall Find
+
+Regular season: 
+AVG    | MEDIAN             | MIN   | MAX    | RANGE | STD_DEV
+-------|--------------------|-------|--------|-------|--------
+118.96 | 114.50999999999999 | 95.28 | 166.42 | 71.14 | 18.74  
+
+This week: 103.64 points
+Difference: -15.32
+
+
+Amon The Stars
+
+Regular season: 
+AVG    | MEDIAN | MIN    | MAX   | RANGE | STD_DEV
+-------|--------|--------|-------|-------|--------
+131.91 | 134.41 | 104.84 | 164.2 | 59.36 | 16.35  
+
+This week: 194.18 points
+Difference: 62.27
+
+
+Nags
+
+Regular season: 
+AVG   | MEDIAN | MIN   | MAX    | RANGE | STD_DEV
+------|--------|-------|--------|-------|--------
+126.7 | 125.31 | 73.06 | 164.44 | 91.38 | 26.25  
+
+This week: 100.48 points
+Difference: -26.22
+
+
+Pop Drop and Lockett
+
+Regular season: 
+AVG    | MEDIAN | MIN   | MAX    | RANGE | STD_DEV
+-------|--------|-------|--------|-------|--------
+107.29 | 107.78 | 66.54 | 139.86 | 73.32 | 22.24  
+
+This week: 91.6 points
+Difference: -15.69
+
+
+
+************** RESULTS **************
+RANK | TEAM_NAME              | PTS    | AVG_PTS | CHALLENGE_RATING
+-----|------------------------|--------|---------|-----------------
+1    | Amon The Stars         | 194.18 | 131.91  | 62.27           
+2    | Tiz the Law            | 158.86 | 113.88  | 44.98           
+3    | Waddle It Be?          | 153.4  | 116.44  | 36.96           
+4    | folklore               | 137.2  | 127.84  | 9.36            
+5    | Chi ShingT's Team      | 119.22 | 114.39  | 4.83            
+6    | G                      | 114.66 | 111.93  | 2.73            
+7    | Zeke and Ye Shall Find | 103.64 | 118.96  | -15.32          
+8    | Pop Drop and Lockett   | 91.6   | 107.29  | -15.69          
+9    | Nags                   | 100.48 | 126.7   | -26.22          
+10   | Raider Bae             | 96.5   | 122.92  | -26.42          
+11   | Sacko                  | 76.6   | 105.79  | -29.19          
+12   | Got Taylor Need Swift  | 93.28  | 126.91  | -33.63          
+
