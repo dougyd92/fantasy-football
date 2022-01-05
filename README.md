@@ -21,14 +21,14 @@ Challenges
 | 14 | Dynamic Duo | Most points scored by two players on the same NFL team | Matt |
 | 15 | Are You Smarter Than Yahoo? | Largest (positive) difference between actual and projected points scored | Jiwei |
 | 16 | Sandbagger | Highest (positive) difference between points scored and regular season average | Joel |
-| 17 | The Long Haul | Most total points from starters owned continuously since draft day | |
+| 17 | The Long Haul | Most total points from starters owned continuously since draft day | Ron |
 
 2021 Season Total
 | Manager | Challenge Wins |
 |-|-|
 | Matt | 3.25 |
+| Ron | 3.25 |
 | Ryan | 2.25 |
-| Ron | 2.25 |
 | Evan | 2 |
 | Jake | 2 |
 | Jiwei | 2 |

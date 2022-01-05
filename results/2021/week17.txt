@@ -1,0 +1,153 @@
+Will run Challenges::LongHaul for week 17 in league 597209
+The Long Haul: Most total points from starters owned continuously since draft day.
+
+Got Taylor Need Swift
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Matthew Stafford       | 20.26
+Tyreek Hill            |  7.20
+Odell Beckham Jr.      | 12.40
+Aaron Jones            | 13.10
+Jonathan Taylor        | 17.90
+Total points by starters owned since draft: 70.86
+
+Tiz the Law
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Davante Adams          | 25.10
+DJ Moore               |  4.40
+Najee Harris           | 28.10
+Michael Carter         |  6.80
+Kyle Pitts             |  7.90
+Total points by starters owned since draft: 72.3
+
+Chi ShingT's Team
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Patrick Mahomes        | 24.86
+CeeDee Lamb            |  6.60
+DeVonta Smith          |  6.90
+Joe Mixon              | 12.10
+Tyler Higbee           |  9.90
+Melvin Gordon III      |  8.70
+Total points by starters owned since draft: 69.06
+
+Waddle It Be?
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Dak Prescott           | 29.04
+Jaylen Waddle          |  6.20
+A.J. Brown             |  5.10
+Alvin Kamara           | 18.50
+Javonte Williams       |  3.70
+Mike Williams          | 13.80
+Total points by starters owned since draft: 76.34
+
+folklore
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+DK Metcalf             | 27.90
+Ja'Marr Chase          | 50.10
+Austin Ekeler          | 18.70
+Chase Edmonds          | 10.70
+Dallas Goedert         | 10.10
+Total points by starters owned since draft: 117.5
+
+Sacko
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Terry McLaurin         |  9.60
+Marquise Brown         |  2.30
+Devin Singletary       | 23.00
+Saquon Barkley         | 10.20
+Adam Thielen           |  0.00
+Total points by starters owned since draft: 45.1
+
+Raider Bae
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Cooper Kupp            | 18.50
+Mike Evans             | 12.70
+Josh Jacobs            | 16.00
+Justin Tucker          | 15.00
+Total points by starters owned since draft: 62.2
+
+G
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Jalen Hurts            | 12.96
+Keenan Allen           | 12.40
+Justin Jefferson       |  8.80
+AJ Dillon              | 21.30
+Mark Andrews           | 11.90
+Antonio Brown          |  4.10
+Total points by starters owned since draft: 71.46
+
+Zeke and Ye Shall Find
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Justin Herbert         | 21.68
+Jakobi Meyers          | 17.30
+Ezekiel Elliott        |  3.50
+Total points by starters owned since draft: 42.48
+
+Amon The Stars
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Aaron Rodgers          | 24.32
+Deebo Samuel           | 15.70
+Tee Higgins            |  7.70
+Diontae Johnson        | 13.10
+David Montgomery       | 20.10
+Total points by starters owned since draft: 80.92
+
+Nags
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Tom Brady              | 33.40
+Chase Claypool         |  3.20
+Nick Chubb             |  5.80
+Dalvin Cook            |  2.80
+Rob Gronkowski         | 15.00
+Travis Kelce           | 10.90
+Tampa Bay              |  3.00
+Total points by starters owned since draft: 74.1
+
+Pop Drop and Lockett
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Kyler Murray           | 26.92
+Tyler Lockett          | 10.60
+Darnell Mooney         | 16.40
+Tyler Boyd             | 11.60
+Antonio Gibson         |  0.00
+Damien Harris          | 17.20
+Total points by starters owned since draft: 82.72
+
+************** RESULTS **************
+RANK | TEAM_NAME              | PLAYERS | CHALLENGE_RATING
+-----|------------------------|---------|-----------------
+1    | folklore               | 5       | 117.5           
+2    | Pop Drop and Lockett   | 6       | 82.72           
+3    | Amon The Stars         | 5       | 80.92           
+4    | Waddle It Be?          | 6       | 76.34           
+5    | Nags                   | 7       | 74.1            
+6    | Tiz the Law            | 5       | 72.3            
+7    | G                      | 6       | 71.46           
+8    | Got Taylor Need Swift  | 5       | 70.86           
+9    | Chi ShingT's Team      | 6       | 69.06           
+10   | Raider Bae             | 4       | 62.2            
+11   | Sacko                  | 5       | 45.1            
+12   | Zeke and Ye Shall Find | 3       | 42.48           
