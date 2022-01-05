@@ -55,6 +55,17 @@ module YahooDataFetcher
               raise "Encountered an unexpected transaction type: #{tx}"
             end
           end
+        when 'add'
+          txp = tx['players']['player']
+          @players[txp['player_key']] = {
+            team: txp['transaction_data']['destination_team_key'],
+            salary: tx['faab_bid'].to_i,
+            acquistion: txp['transaction_data']['source_type'],
+            keeper: false
+          }          
+        when 'drop'
+          txp = tx['players']['player']
+          @players.delete(txp['player_key'])        
         when 'trade'
           tx['players']['player'].each do |txp|
             @players[txp['player_key']][:team] = txp['transaction_data']['destination_team_key']
@@ -63,8 +74,8 @@ module YahooDataFetcher
             @players[txp['player_key']][:keeper] = false
           end
         when 'commish'
-          # Not sure what these are, but they all appeared before the draft
-          raise "Commish transaction occured during season: #{tx}" if tx['timestamp'].to_i > 1_630_189_449
+          # Not sure what these are, but they don't seem to involve players
+          nil
         else
           raise "Encountered an unexpected transaction type: #{tx}"
         end
