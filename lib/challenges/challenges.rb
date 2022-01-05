@@ -19,6 +19,8 @@ module Challenges
       FamousJameis.new
     when 'gronk'
       GronksFavoriteNumber.new
+    when 'long_haul'
+      LongHaul.new
     when 'moneyball2'
       Moneyball2.new
     when 'running_max'
