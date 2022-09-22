@@ -43,6 +43,8 @@ module Challenges
       StickyHands.new
     when 'total_yards'
       TotalYards.new
+    when 'vulture_squad'
+      VultureSquad.new      
     when 'vulture_victim'
       VultureVictim.new
     end
