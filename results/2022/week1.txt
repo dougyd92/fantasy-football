@@ -1,0 +1,220 @@
+Will run Challenges::TotalYards for week 1 in league 144117
+Yards and jersey numbers for each player
+
+Diggs Out 4 haRONbe
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH  | REC  
+-----------------------|--------|-------|-------|-------|------
+Dak Prescott           | 4      | 145.0 | 134.0 | 11.0  | 0.0  
+Stefon Diggs           | 14     | 122.0 | 0.0   | 0.0   | 122.0
+Allen Robinson II      | 1      | 12.0  | 0.0   | 0.0   | 12.0 
+Drake London           | 5      | 74.0  | 0.0   | 0.0   | 74.0 
+Aaron Jones            | 33     | 76.0  | 0.0   | 49.0  | 27.0 
+Jonathan Taylor        | 28     | 175.0 | 0.0   | 161.0 | 14.0 
+Darren Waller          | 83     | 79.0  | 0.0   | 0.0   | 79.0 
+Travis Etienne Jr.     | 1      | 65.0  | 0.0   | 47.0  | 18.0 
+Derek Carr             | 4      | 295.0 | 295.0 | 0.0   | 0.0  
+DeAndre Hopkins        | 10     | 0.0   | 0.0   | 0.0   | 0.0  
+Chris Olave            | 12     | 41.0  | 0.0   | 0.0   | 41.0 
+Jameson Williams       | 9      | 0.0   | 0.0   | 0.0   | 0.0  
+Mecole Hardman         | 17     | 16.0  | 0.0   | 0.0   | 16.0 
+Dallas                 |        | 0.0   | 0.0   | 0.0   | 0.0  
+Let’s Ride!
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH  | REC 
+-----------------------|--------|-------|-------|-------|-----
+Russell Wilson         | 3      | 342.0 | 340.0 | 2.0   | 0.0 
+Deebo Samuel           | 19     | 66.0  | 0.0   | 52.0  | 14.0
+Tee Higgins            | 85     | 27.0  | 0.0   | 0.0   | 27.0
+Jaylen Waddle          | 17     | 77.0  | 0.0   | 8.0   | 69.0
+D'Andre Swift          | 32     | 175.0 | 0.0   | 144.0 | 31.0
+Leonard Fournette      | 7      | 137.0 | 0.0   | 127.0 | 10.0
+Pat Freiermuth         | 88     | 75.0  | 0.0   | 0.0   | 75.0
+DeVonta Smith          | 6      | 0.0   | 0.0   | 0.0   | 0.0 
+Brandon Aiyuk          | 11     | 47.0  | 0.0   | 7.0   | 40.0
+Tony Pollard           | 20     | 22.0  | 0.0   | 8.0   | 14.0
+Hunter Renfrow         | 13     | 21.0  | 0.0   | 0.0   | 21.0
+Darrell Henderson Jr.  | 27     | 73.0  | 0.0   | 47.0  | 26.0
+Michael Carter         | 32     | 100.0 | 0.0   | 60.0  | 40.0
+Christian Watson       | 9      | 41.0  | 0.0   | 7.0   | 34.0
+Ceedeez Nutz
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH  | REC  
+-----------------------|--------|-------|-------|-------|------
+Matthew Stafford       | 9      | 242.0 | 240.0 | 2.0   | 0.0  
+CeeDee Lamb            | 88     | 29.0  | 0.0   | 0.0   | 29.0 
+Jerry Jeudy            | 10     | 102.0 | 0.0   | 0.0   | 102.0
+Christian Kirk         | 13     | 117.0 | 0.0   | 0.0   | 117.0
+Joe Mixon              | 28     | 145.0 | 0.0   | 82.0  | 63.0 
+Kareem Hunt            | 27     | 70.0  | 0.0   | 46.0  | 24.0 
+Dawson Knox            | 88     | 5.0   | 0.0   | 0.0   | 5.0  
+Michael Thomas         | 13     | 57.0  | 0.0   | 0.0   | 57.0 
+Adam Thielen           | 19     | 36.0  | 0.0   | 0.0   | 36.0 
+J.K. Dobbins           | 27     | 0.0   | 0.0   | 0.0   | 0.0  
+Julio Jones            | 6      | 86.0  | 0.0   | 17.0  | 69.0 
+Brian Robinson Jr.     | 8      | 0.0   | 0.0   | 0.0   | 0.0  
+Samaje Perine          | 34     | 37.0  | 0.0   | 4.0   | 33.0 
+Jahan Dotson           | 1      | 30.0  | 0.0   | -10.0 | 40.0 
+Philips Rivers
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH  | REC  
+-----------------------|--------|-------|-------|-------|------
+Patrick Mahomes        | 15     | 365.0 | 360.0 | 5.0   | 0.0  
+Ja'Marr Chase          | 1      | 129.0 | 0.0   | 0.0   | 129.0
+Courtland Sutton       | 14     | 72.0  | 0.0   | 0.0   | 72.0 
+Amon-Ra St. Brown      | 14     | 64.0  | 0.0   | 0.0   | 64.0 
+Austin Ekeler          | 30     | 72.0  | 0.0   | 36.0  | 36.0 
+Saquon Barkley         | 26     | 194.0 | 0.0   | 164.0 | 30.0 
+Irv Smith Jr.          | 84     | 0.0   | 0.0   | 0.0   | 0.0  
+Damien Harris          | 37     | 58.0  | 0.0   | 48.0  | 10.0 
+Allen Lazard           | 13     | 0.0   | 0.0   | 0.0   | 0.0  
+Treylon Burks          | 16     | 55.0  | 0.0   | 0.0   | 55.0 
+James Robinson         | 25     | 69.0  | 0.0   | 66.0  | 3.0  
+Rachaad White          | 29     | 21.0  | 0.0   | 14.0  | 7.0  
+Romeo Doubs            | 87     | 48.0  | 0.0   | 11.0  | 37.0 
+Kyle Philips           | 18     | 66.0  | 0.0   | 0.0   | 66.0 
+G
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH | REC  
+-----------------------|--------|-------|-------|------|------
+Lamar Jackson          | 8      | 230.0 | 213.0 | 17.0 | 0.0  
+Justin Jefferson       | 18     | 184.0 | 0.0   | 0.0  | 184.0
+Keenan Allen           | 13     | 66.0  | 0.0   | 0.0  | 66.0 
+Terry McLaurin         | 17     | 58.0  | 0.0   | 0.0  | 58.0 
+AJ Dillon              | 28     | 91.0  | 0.0   | 45.0 | 46.0 
+Melvin Gordon III      | 25     | 72.0  | 0.0   | 58.0 | 14.0 
+Mark Andrews           | 89     | 52.0  | 0.0   | 0.0  | 52.0 
+Russell Gage           | 17     | 13.0  | 0.0   | 0.0  | 13.0 
+Rob Gronkowski         | 87     | 0.0   | 0.0   | 0.0  | 0.0  
+Cole Kmet              | 85     | 0.0   | 0.0   | 0.0  | 0.0  
+Marquez Valdes-Scan... | 11     | 41.0  | 0.0   | -3.0 | 44.0 
+Justin Fields          | 1      | 149.0 | 121.0 | 28.0 | 0.0  
+Nyheim Hines           | 21     | 54.0  | 0.0   | 4.0  | 50.0 
+Los Angeles            |        | 0.0   | 0.0   | 0.0  | 0.0  
+Nags
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH  | REC  
+-----------------------|--------|-------|-------|-------|------
+Aaron Rodgers          | 12     | 194.0 | 195.0 | -1.0  | 0.0  
+Michael Pittman Jr.    | 11     | 121.0 | 0.0   | 0.0   | 121.0
+Brandin Cooks          | 13     | 82.0  | 0.0   | 0.0   | 82.0 
+Kadarius Toney         | 89     | 23.0  | 0.0   | 23.0  | 0.0  
+Nick Chubb             | 24     | 143.0 | 0.0   | 141.0 | 2.0  
+Dalvin Cook            | 4      | 108.0 | 0.0   | 90.0  | 18.0 
+Travis Kelce           | 87     | 121.0 | 0.0   | 0.0   | 121.0
+Rashaad Penny          | 20     | 67.0  | 0.0   | 60.0  | 7.0  
+Alexander Mattison     | 2      | 36.0  | 0.0   | 36.0  | 0.0  
+Devin Duvernay         | 13     | 54.0  | 0.0   | 0.0   | 54.0 
+Alec Pierce            | 14     | 0.0   | 0.0   | 0.0   | 0.0  
+Isaiah Spiller         | 28     | 0.0   | 0.0   | 0.0   | 0.0  
+Zay Jones              | 7      | 65.0  | 0.0   | 0.0   | 65.0 
+Albert Okwuegbunam     | 85     | 33.0  | 0.0   | 0.0   | 33.0 
+Kyler the Deflator
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH  | REC 
+-----------------------|--------|-------|-------|-------|-----
+Kyler Murray           | 1      | 222.0 | 193.0 | 29.0  | 0.0 
+Darnell Mooney         | 11     | 8.0   | 0.0   | 0.0   | 8.0 
+Robert Woods           | 2      | 13.0  | 0.0   | 0.0   | 13.0
+Diontae Johnson        | 18     | 55.0  | 0.0   | 0.0   | 55.0
+Antonio Gibson         | 24     | 130.0 | 0.0   | 58.0  | 72.0
+Devin Singletary       | 26     | 62.0  | 0.0   | 48.0  | 14.0
+Dalton Schultz         | 86     | 62.0  | 0.0   | 0.0   | 62.0
+Chase Edmonds          | 2      | 65.0  | 0.0   | 25.0  | 40.0
+Chris Godwin           | 14     | 35.0  | 0.0   | 0.0   | 35.0
+Cordarrelle Patterson  | 84     | 136.0 | 0.0   | 120.0 | 16.0
+James Cook             | 28     | 2.0   | 0.0   | 2.0   | 0.0 
+Khalil Herbert         | 24     | 43.0  | 0.0   | 45.0  | -2.0
+Hunter Henry           | 85     | 20.0  | 0.0   | 0.0   | 20.0
+Skyy Moore             | 24     | 30.0  | 0.0   | 0.0   | 30.0
+Cooper Troopers
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH | REC  
+-----------------------|--------|-------|-------|------|------
+Tom Brady              | 12     | 211.0 | 212.0 | -1.0 | 0.0  
+Mike Evans             | 13     | 71.0  | 0.0   | 0.0  | 71.0 
+DK Metcalf             | 14     | 36.0  | 0.0   | 0.0  | 36.0 
+Cooper Kupp            | 10     | 128.0 | 0.0   | 0.0  | 128.0
+Elijah Mitchell        | 25     | 41.0  | 0.0   | 41.0 | 0.0  
+James Conner           | 6      | 55.0  | 0.0   | 26.0 | 29.0 
+Zach Ertz              | 86     | 14.0  | 0.0   | 0.0  | 14.0 
+Josh Jacobs            | 28     | 73.0  | 0.0   | 57.0 | 16.0 
+George Kittle          | 85     | 0.0   | 0.0   | 0.0  | 0.0  
+Michael Gallup         | 13     | 0.0   | 0.0   | 0.0  | 0.0  
+Isiah Pacheco          | 10     | 62.0  | 0.0   | 62.0 | 0.0  
+Kirk Cousins           | 8      | 277.0 | 277.0 | 0.0  | 0.0  
+Tyler Boyd             | 83     | 33.0  | 0.0   | 0.0  | 33.0 
+Kenyan Drake           | 17     | 46.0  | 0.0   | 31.0 | 15.0 
+My Moore is No More 😔
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH | REC 
+-----------------------|--------|-------|-------|------|-----
+Joe Burrow             | 9      | 385.0 | 338.0 | 47.0 | 0.0 
+Marquise Brown         | 2      | 43.0  | 0.0   | 0.0  | 43.0
+JuJu Smith-Schuster    | 9      | 79.0  | 0.0   | 0.0  | 79.0
+K.J. Osborn            | 17     | 14.0  | 0.0   | 0.0  | 14.0
+Derrick Henry          | 22     | 82.0  | 0.0   | 82.0 | 0.0 
+Christian McCaffrey    | 22     | 57.0  | 0.0   | 33.0 | 24.0
+David Njoku            | 85     | 7.0   | 0.0   | 0.0  | 7.0 
+Miles Sanders          | 26     | 105.0 | 0.0   | 96.0 | 9.0 
+Jalen Tolbert          | 18     | 0.0   | 0.0   | 0.0  | 0.0 
+Isaiah McKenzie        | 6      | 19.0  | 0.0   | 0.0  | 19.0
+Rondale Moore          | 4      | 0.0   | 0.0   | 0.0  | 0.0 
+Tyler Higbee           | 89     | 39.0  | 0.0   | 0.0  | 39.0
+Jamaal Williams        | 30     | 30.0  | 0.0   | 28.0 | 2.0 
+Trey Lance             | 5      | 218.0 | 164.0 | 54.0 | 0.0 
+Mike Will Get TDs
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH | REC 
+-----------------------|--------|-------|-------|------|-----
+Josh Allen             | 17     | 353.0 | 297.0 | 56.0 | 0.0 
+Rashod Bateman         | 7      | 59.0  | 0.0   | 0.0  | 59.0
+Mike Williams          | 81     | 10.0  | 0.0   | 0.0  | 10.0
+Amari Cooper           | 2      | 17.0  | 0.0   | 0.0  | 17.0
+Ezekiel Elliott        | 21     | 49.0  | 0.0   | 52.0 | -3.0
+David Montgomery       | 32     | 50.0  | 0.0   | 26.0 | 24.0
+Kyle Pitts             | 8      | 19.0  | 0.0   | 0.0  | 19.0
+Clyde Edwards-Helaire  | 25     | 74.0  | 0.0   | 42.0 | 32.0
+Breece Hall            | 20     | 61.0  | 0.0   | 23.0 | 38.0
+Raheem Mostert         | 31     | 32.0  | 0.0   | 16.0 | 16.0
+Kenneth Gainwell       | 14     | 32.0  | 0.0   | 20.0 | 12.0
+George Pickens         | 14     | 3.0   | 0.0   | 0.0  | 3.0 
+DeVante Parker         | 1      | 9.0   | 0.0   | 0.0  | 9.0 
+Garrett Wilson         | 17     | 52.0  | 0.0   | 0.0  | 52.0
+Adams & DJ like my team Moore
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH | REC  
+-----------------------|--------|-------|-------|------|------
+Jalen Hurts            | 1      | 333.0 | 243.0 | 90.0 | 0.0  
+A.J. Brown             | 11     | 155.0 | 0.0   | 0.0  | 155.0
+Davante Adams          | 17     | 141.0 | 0.0   | 0.0  | 141.0
+DJ Moore               | 2      | 50.0  | 0.0   | 7.0  | 43.0 
+Alvin Kamara           | 41     | 46.0  | 0.0   | 39.0 | 7.0  
+Javonte Williams       | 33     | 108.0 | 0.0   | 43.0 | 65.0 
+T.J. Hockenson         | 88     | 38.0  | 0.0   | 0.0  | 38.0 
+Elijah Moore           | 8      | 49.0  | 0.0   | 0.0  | 49.0 
+Dameon Pierce          | 31     | 39.0  | 0.0   | 33.0 | 6.0  
+Kenneth Walker III     | 9      | 0.0   | 0.0   | 0.0  | 0.0  
+Joshua Palmer          | 5      | 9.0   | 0.0   | 4.0  | 5.0  
+Gerald Everett         | 7      | 54.0  | 0.0   | 0.0  | 54.0 
+Eno Benjamin           | 26     | 61.0  | 0.0   | 28.0 | 33.0 
+KJ Hamler              | 1      | 0.0   | 0.0   | 0.0  | 0.0  
+Najeeze，Rick，I don't know...
+Starting players:
+NAME                   | NUMBER | TOTAL | PASS  | RUSH | REC 
+-----------------------|--------|-------|-------|------|-----
+Justin Herbert         | 10     | 280.0 | 279.0 | 1.0  | 0.0 
+Gabe Davis             | 13     | 88.0  | 0.0   | 0.0  | 88.0
+Tyreek Hill            | 10     | 100.0 | 0.0   | 6.0  | 94.0
+Jakobi Meyers          | 16     | 62.0  | 0.0   | 7.0  | 55.0
+Najee Harris           | 22     | 26.0  | 0.0   | 23.0 | 3.0 
+Cam Akers              | 3      | 0.0   | 0.0   | 0.0  | 0.0 
+Dallas Goedert         | 88     | 60.0  | 0.0   | 0.0  | 60.0
+Rhamondre Stevenson    | 38     | 27.0  | 0.0   | 25.0 | 2.0 
+Tyler Lockett          | 16     | 28.0  | 0.0   | 0.0  | 28.0
+Jeff Wilson Jr.        | 22     | 30.0  | 0.0   | 22.0 | 8.0 
+Chase Claypool         | 11     | 54.0  | 0.0   | 36.0 | 18.0
+DJ Chark Jr.           | 4      | 52.0  | 0.0   | 0.0  | 52.0
+Jaylen Warren          | 30     | 7.0   | 0.0   | 7.0  | 0.0 
+Amari Rodgers          | 8      | 0.0   | 0.0   | 0.0  | 0.0 
+
