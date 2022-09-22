@@ -41,6 +41,8 @@ module Challenges
       Stats101.new
     when 'sticky_hands'
       StickyHands.new
+    when 'total_yards'
+      TotalYards.new
     when 'vulture_victim'
       VultureVictim.new
     end
