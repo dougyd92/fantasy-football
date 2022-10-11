@@ -1,0 +1,220 @@
+Will run Challenges::TotalYards for week 5 in league 144117
+Yards and jersey numbers for each player
+
+Live Laugh Russ
+Starting players:
+NAME                   | RUSH
+-----------------------|-----
+Trevor Lawrence        | 29.0
+Stefon Diggs           | 0.0 
+Drake London           | 0.0 
+Chris Olave            | 0.0 
+Aaron Jones            | 63.0
+Travis Etienne Jr.     | 71.0
+George Kittle          | 0.0 
+Marquez Valdes-Scan... | 0.0 
+Allen Robinson II      | 0.0 
+Jonathan Taylor        | 0.0 
+DeAndre Hopkins        | 0.0 
+Jameson Williams       | 0.0 
+Zamir White            | -7.0
+Noah Brown             | 0.0 
+Swift and Furious
+Starting players:
+NAME                   | RUSH
+-----------------------|-----
+Derek Carr             | 3.0 
+Deebo Samuel           | 12.0
+Jaylen Waddle          | 0.0 
+Tee Higgins            | 0.0 
+Leonard Fournette      | 56.0
+Jamaal Williams        | 56.0
+Pat Freiermuth         | 0.0 
+DeVonta Smith          | 0.0 
+Tua Tagovailoa         | 0.0 
+D'Andre Swift          | 0.0 
+Tony Pollard           | 86.0
+Michael Carter         | 21.0
+Brandon Aiyuk          | 0.0 
+Skyy Moore             | 0.0 
+Ceedeez Nutz
+Starting players:
+NAME                   | RUSH
+-----------------------|-----
+Tom Brady              | -3.0
+Christian Kirk         | 0.0 
+CeeDee Lamb            | 0.0 
+Jerry Jeudy            | 0.0 
+Joe Mixon              | 78.0
+J.K. Dobbins           | 44.0
+Will Dissly            | 0.0 
+Kareem Hunt            | 47.0
+Jahan Dotson           | 0.0 
+Michael Thomas         | 0.0 
+Jakobi Meyers          | 0.0 
+Brian Robinson Jr.     | 22.0
+Samaje Perine          | 17.0
+Mike Boone             | 38.0
+Rachaad Power!
+Starting players:
+NAME                   | RUSH 
+-----------------------|------
+Patrick Mahomes        | 28.0 
+Ja'Marr Chase          | 0.0  
+Courtland Sutton       | 0.0  
+Allen Lazard           | 0.0  
+Austin Ekeler          | 173.0
+Saquon Barkley         | 70.0 
+Gerald Everett         | 0.0  
+James Robinson         | 27.0 
+Amon-Ra St. Brown      | 0.0  
+Damien Harris          | 11.0 
+Treylon Burks          | 0.0  
+Rachaad White          | 14.0 
+Isiah Pacheco          | 0.0  
+Darnell Mooney         | 0.0  
+G
+Starting players:
+NAME                   | RUSH
+-----------------------|-----
+Lamar Jackson          | 58.0
+Justin Jefferson       | 0.0 
+Terry McLaurin         | 0.0 
+Adam Thielen           | 0.0 
+Miles Sanders          | 58.0
+Melvin Gordon III      | 54.0
+Mark Andrews           | 0.0 
+AJ Dillon              | 34.0
+Russell Gage           | 0.0 
+Robert Tonyan          | 0.0 
+Caleb Huntley          | 34.0
+Alec Pierce            | 0.0 
+Kenneth Gainwell       | 20.0
+Los Angeles            | 0.0 
+Jai-Wee’s Revenge
+Starting players:
+NAME                   | RUSH 
+-----------------------|------
+Aaron Rodgers          | 0.0  
+Brandin Cooks          | 0.0  
+Michael Pittman Jr.    | 0.0  
+Zay Jones              | 0.0  
+Nick Chubb             | 134.0
+Dalvin Cook            | 94.0 
+Travis Kelce           | 0.0  
+Rashaad Penny          | 54.0 
+Devin Duvernay         | 24.0 
+Alexander Mattison     | 19.0 
+Carson Wentz           | 15.0 
+Kadarius Toney         | 0.0  
+Gus Edwards            | 0.0  
+Odell Beckham Jr.      | 0.0  
+Kyler the Deflator
+Starting players:
+NAME                   | RUSH
+-----------------------|-----
+Kyler Murray           | 42.0
+Curtis Samuel          | 0.0 
+Chris Godwin           | 2.0 
+Diontae Johnson        | 0.0 
+Nyheim Hines           | 3.0 
+Khalil Herbert         | 11.0
+Dalton Schultz         | 0.0 
+Devin Singletary       | 42.0
+Robert Woods           | 0.0 
+Antonio Gibson         | 6.0 
+Cordarrelle Patterson  | 0.0 
+Tyler Conklin          | 0.0 
+Chase Edmonds          | 1.0 
+Tyler Allgeier         | 45.0
+Koo Kupp Clan
+Starting players:
+NAME                   | RUSH 
+-----------------------|------
+Kenny Pickett          | 10.0 
+Cooper Kupp            | 4.0  
+Mike Evans             | 0.0  
+DK Metcalf             | 0.0  
+James Conner           | 55.0 
+Josh Jacobs            | 154.0
+Darren Waller          | 0.0  
+Michael Gallup         | 0.0  
+Zach Ertz              | 0.0  
+Kirk Cousins           | 4.0  
+Tyler Boyd             | 0.0  
+Elijah Mitchell        | 0.0  
+Eno Benjamin           | 25.0 
+Latavius Murray        | 0.0  
+Cloud Njoku
+Starting players:
+NAME                   | RUSH 
+-----------------------|------
+Joe Burrow             | 6.0  
+Marquise Brown         | 0.0  
+Hunter Renfrow         | 0.0  
+Josh Reynolds          | 0.0  
+Derrick Henry          | 102.0
+Christian McCaffrey    | 54.0 
+Tyler Higbee           | 0.0  
+David Njoku            | 0.0  
+JuJu Smith-Schuster    | 0.0  
+Isaiah McKenzie        | 0.0  
+Rondale Moore          | -7.0 
+Keenan Allen           | 0.0  
+J.D. McKissic          | 0.0  
+Chase Claypool         | 0.0  
+Mike Will Get TDs
+Starting players:
+NAME                   | RUSH 
+-----------------------|------
+Josh Allen             | 42.0 
+Mike Williams          | 0.0  
+Romeo Doubs            | 0.0  
+George Pickens         | 0.0  
+Breece Hall            | 97.0 
+Clyde Edwards-Helaire  | 15.0 
+Taysom Hill            | 112.0
+Amari Cooper           | 0.0  
+Kyle Pitts             | 0.0  
+Raheem Mostert         | 113.0
+Ezekiel Elliott        | 78.0 
+Rashod Bateman         | 0.0  
+Garrett Wilson         | 0.0  
+David Montgomery       | 20.0 
+Shakir-a Shakir-a!
+Starting players:
+NAME                   | RUSH 
+-----------------------|------
+Jalen Hurts            | 61.0 
+A.J. Brown             | 0.0  
+DJ Moore               | 8.0  
+Khalil Shakir          | 0.0  
+Alvin Kamara           | 103.0
+Dameon Pierce          | 99.0 
+T.J. Hockenson         | 0.0  
+Davante Adams          | 0.0  
+Elijah Moore           | 0.0  
+Joshua Palmer          | 0.0  
+Javonte Williams       | 0.0  
+Kenneth Walker III     | 88.0 
+Damien Williams        | 0.0  
+Tyquan Thornton        | 0.0  
+Najeeze，Rick，I don't know...
+Starting players:
+NAME                   | RUSH 
+-----------------------|------
+Justin Herbert         | 13.0 
+Tyreek Hill            | 13.0 
+Tyler Lockett          | 0.0  
+Gabe Davis             | 0.0  
+Najee Harris           | 20.0 
+Rhamondre Stevenson    | 161.0
+Dallas Goedert         | 0.0  
+Jeff Wilson Jr.        | 120.0
+Cam Akers              | 33.0 
+Jaylen Warren          | 24.0 
+Darrell Henderson Jr.  | 0.0  
+Corey Davis            | 0.0  
+Kenyan Drake           | 26.0 
+Jerick McKinnon        | 53.0 
+

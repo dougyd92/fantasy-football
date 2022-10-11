@@ -6,9 +6,9 @@ Scripts to score challenges for my fantasy football league.
 |:----:|:-----------:|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|--------|
 |   1  |      2      |          Jersey Swap         | Pick two players. Compare the total yards of player A to the jersey number of player B, and vice versa.                                                                                                                 | Jake   |
 |   2  |      -      |         Vulture Squad        | Team rushing+receiving TDs / team rushing+receiving yards                                                                                                                                                               | Sean   |
-|   3  |      2      |         Fantasy Stack        | player A passing yds + player B Receiving Yards                                                                                                                                                                         |        |
-|   4  |      -      |        Scrooge McDuck        | Team points, divided by dollars spent so far                                                                                                                                                                            |        |
-|   5  |      2      |          Rush Hour 2         | Combined rushing yards of nominated players                                                                                                                                                                             |        |
+|   3  |      2      |         Fantasy Stack        | player A passing yds + player B Receiving Yards                                                                                                                                                                         | Rajiv  |
+|   4  |      -      |        Scrooge McDuck        | Team points, divided by dollars spent so far                                                                                                                                                                            | Jiwei  |
+|   5  |      2      |          Rush Hour 2         | Combined rushing yards of nominated players                                                                                                                                                                             | Doug   |
 |   6  |      -      |          Smart Start         | Least difference between optimal and actual lineup                                                                                                                                                                      |        |
 |   7  |      2      |           Twinning           | Nominate two players who will have the closest yards from each other; each player must have more than 20 yards                                                                                                          |        |
 |   8  |      -      |        Sleeper Keeper        | Most points from starter who costs $0-5, was not kept in prior year, and not kicker or defense.                                                                                                                         |        |
@@ -27,13 +27,13 @@ Scripts to score challenges for my fantasy football league.
 |-|-|
 | Jake | 1 |
 | Sean | 1 |
+| Rajiv | 1 |
+| Jiwei | 1 |
+| Doug | 1 |
+| Chi Shing | 0 |
+| Dai | 0 |
+| Evan | 0 |
+| Joel | 0 |
 | Matt | 0 |
 | Ron | 0 |
 | Ryan | 0 |
-| Evan | 0 |
-| Jiwei | 0 |
-| Doug | 0 |
-| Joel | 0 |
-| Rajiv | 0 |
-| Chi Shing | 0 |
-| Dai | 0 |
