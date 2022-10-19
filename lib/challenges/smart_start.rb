@@ -118,13 +118,22 @@ module Challenges
     end
 
     def ideal_starting_lineup(roster)
+      empty_slot = {
+        'player_points' => {
+          'total' => 0
+        },
+        'name' => {
+          'full' => 'Nobody'
+        }
+      }
+
       player_by_position = {
-        'QB' => [],
-        'WR' => [],
-        'RB' => [],
-        'TE' => [],
-        'K' => [],
-        'DEF' => []
+        'QB' => [empty_slot],
+        'WR' => [empty_slot],
+        'RB' => [empty_slot],
+        'TE' => [empty_slot],
+        'K' => [empty_slot],
+        'DEF' => [empty_slot]
       }
 
       roster.each do |player|
@@ -156,11 +165,3 @@ module Challenges
     end
   end
 end
-
-# my_roster = [
-#   {"eligible_positions" => {"position" => ['QB']}},
-#   {"eligible_positions" => {"position" => ['QB', 'TE']}},
-#   {"eligible_positions" => {"position" => ['WR', 'RB']}},
-#   {"eligible_positions" => {"position" => ['A', 'B', 'C']}},
-#   {"eligible_positions" => {"position" => ['D']}}
-# ]
