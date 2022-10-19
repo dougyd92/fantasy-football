@@ -1,0 +1,100 @@
+Will run Challenges::SmartStart for week 6 in league 144117
+Smart Start: Least difference between optimal and actual lineup.
+
+Let James Cook
+Points scored (actual): 114.3
+Points scored (ideal lineup): 129.1
+Difference: 14.8
+You should have started Allen Robinson II (14.8 pts)
+instead of Joshua Kelley (0.0 pts)
+
+Samwise the Swift
+Points scored (actual): 128.08
+Points scored (ideal lineup): 128.08
+Difference: 0.0
+Perfect lineup!
+
+Ceedeez Nutz
+Points scored (actual): 92.42
+Points scored (ideal lineup): 92.42
+Difference: 0.0
+Perfect lineup!
+
+Rachaad Power!
+Points scored (actual): 139.32
+Points scored (ideal lineup): 142.92
+Difference: 3.6
+You should have started James Robinson (6.0 pts)
+instead of Courtland Sutton (2.4 pts)
+
+G
+Points scored (actual): 102.9
+Points scored (ideal lineup): 130.8
+Difference: 27.9
+You should have started Alec Pierce (12.4 pts), Robert Tonyan (14.0 pts), Los Angeles (11.0 pts)
+instead of Terry McLaurin (6.7 pts), Melvin Gordon III (0.8 pts), San Francisco (2.0 pts)
+
+Jai-Wee’s Revenge
+Points scored (actual): 99.14
+Points scored (ideal lineup): 101.12
+Difference: 1.98
+You should have started Russell Wilson (15.82 pts)
+instead of Aaron Rodgers (13.84 pts)
+
+Kyler the Deflator
+Points scored (actual): 78.18
+Points scored (ideal lineup): 82.68
+Difference: 4.5
+You should have started Khalil Herbert (7.5 pts), Antonio Gibson (6.8 pts)
+instead of Tyler Allgeier (5.1 pts), Phillip Lindsay (4.7 pts)
+
+Koo Kupp Clan
+Points scored (actual): 81.6
+Points scored (ideal lineup): 82.6
+Difference: 1.0
+You should have started Nobody (0.0 pts)
+instead of Jacksonville (-1.0 pts)
+
+Chase Slaypool
+Points scored (actual): 105.9
+Points scored (ideal lineup): 139.0
+Difference: 33.1
+You should have started Chase Claypool (19.9 pts), David Njoku (7.3 pts), Dustin Hopkins (13.0 pts)
+instead of Tyler Higbee (1.2 pts), Isaiah McKenzie (1.9 pts), Greg Joseph (4.0 pts)
+
+Mike Will Get TDs
+Points scored (actual): 96.0
+Points scored (ideal lineup): 117.26
+Difference: 21.26
+You should have started Romeo Doubs (4.1 pts), Ezekiel Elliott (15.1 pts), Kyle Pitts (9.4 pts), David Montgomery (8.5 pts)
+instead of Mike Williams (2.7 pts), Clyde Edwards-Helaire (3.3 pts), Taysom Hill (4.54 pts), Raheem Mostert (5.3 pts)
+
+Lights Kamara Jackson!
+Points scored (actual): 138.7
+Points scored (ideal lineup): 138.7
+Difference: 0.0
+Perfect lineup!
+
+Najeeze，Rick，I don't know...
+Points scored (actual): 90.72
+Points scored (ideal lineup): 115.82
+Difference: 25.1
+You should have started Corey Davis (6.2 pts), Najee Harris (11.9 pts), Greg Dulcich (11.4 pts)
+instead of Tyler Lockett (2.7 pts), Jeff Wilson Jr. (0.5 pts), Kareem Hunt (1.2 pts)
+
+************** RESULTS **************
+RANK | TEAM_NAME                    | CHALLENGE_RATING
+-----|------------------------------|-----------------
+1    | Samwise the Swift            | 0.0             
+2    | Ceedeez Nutz                 | 0.0             
+3    | Lights Kamara Jackson!       | 0.0             
+4    | Koo Kupp Clan                | 1.0             
+5    | Jai-Wee’s Revenge            | 1.98            
+6    | Rachaad Power!               | 3.6             
+7    | Kyler the Deflator           | 4.5             
+8    | Let James Cook               | 14.8            
+9    | Mike Will Get TDs            | 21.26           
+10   | Najeeze，Rick，I don't know... | 25.1            
+11   | G                            | 27.9            
+12   | Chase Slaypool               | 33.1            
+
