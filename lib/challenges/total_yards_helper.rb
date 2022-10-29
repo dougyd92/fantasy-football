@@ -42,8 +42,9 @@ module Challenges
           team_players << player_data
         end
       
+        puts ''
         puts team_name
-        puts 'Starting players:'
+        puts 'Players:'
 
         tp(team_players,
            { name: { fixed_width: 22 } },
