@@ -12,7 +12,7 @@ Scripts to score challenges for my fantasy football league.
 |   6  |      -      |          Smart Start         | Least difference between optimal and actual lineup                                                                                                                                                         |Chi Shing, Joel, Sean|
 |   7  |      2      |           Twinning           | Nominate two players who will have the closest yards from each other; each player must have more than 20 yards                                                                                                          | Evan |
 |   8  |      -      |        Sleeper Keeper        | Most points from starter who costs $0-5, was not kept in prior year, and not kicker or defense.                                                                                                                         | Doug |
-|   9  |      1      |    Gronk's Favorite Number   | Nominated player with the closest to 69 all purpose yards (Kickers: sum of made FGs; DEF: sum of kick returns)                                                                                                          |        |
+|   9  |      1      |    Gronk's Favorite Number   | Nominated player with the closest to 69 all purpose yards (Kickers: sum of made FGs; DEF: sum of kick returns)                                                                                                          | Sean |
 |  10  |      -      |           Civil War          | Highest combined scores from two starters playing against each other.                                                                                                                                                   |        |
 |  11  |      1      | Now That's What I Call Value | Nominate 1 players (can be Def or K) that will have highest Point/Dollar Ratio: (Fantasy Points+1)/(Dollars Spent+1)                                                                                                    |        |
 |  12  |      -      |         Playoff Push         | Total Points by players on teams with records better than .500                                                                                                                                                          |        |
@@ -25,8 +25,8 @@ Scripts to score challenges for my fantasy football league.
 2022 Season Total
 | Manager | Challenge Wins |
 |-|-|
+| Sean | 2.33 |
 | Doug | 2 |
-| Sean | 1.33 |
 | Jake | 1 |
 | Rajiv | 1 |
 | Jiwei | 1 |
