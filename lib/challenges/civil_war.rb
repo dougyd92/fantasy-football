@@ -53,7 +53,7 @@ module Challenges
             team_best_pts = 0.0
             team_best_pair = ''
 
-            nfl_matchups.each do |home, away|
+            nfl_matchups.each do |away, home|
                 home_players = players_by_team[home].sort_by { |player, pts| -pts }
                 away_players = players_by_team[away].sort_by { |player, pts| -pts }
 
