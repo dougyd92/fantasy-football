@@ -59,7 +59,7 @@ module Challenges
 
                 if !home_players.empty? && !away_players.empty?
                     sum = home_players.first[1] + away_players.first[1]
-                    pair = "#{home_players.first[0]} (#{home_players.first[1]}), #{away_players.first[0]} (#{away_players.first[1]})"
+                    pair = "#{away}@#{home}: #{away_players.first[0]} (#{away_players.first[1]}), #{home_players.first[0]} (#{home_players.first[1]})"
                     puts(pair)
                     if sum > team_best_pts
                         team_best_pts = sum.round(2)
@@ -86,7 +86,7 @@ module Challenges
           data
         end
   
-        tp(team_results, :rank, :team_name, :challenge_rating, best_pair: { fixed_width: 45 })
+        tp(team_results, :rank, :team_name, :challenge_rating, best_pair: { fixed_width: 54 })
         puts ''
 
       end

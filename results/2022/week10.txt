@@ -2,69 +2,69 @@ Will run Challenges::CivilWar for week 10 in league 144117
 Civil War: Highest combined scores from two starters playing against each other.
 
 Miami Byes 😅
-Dak Prescott (27.2), Aaron Jones (22.6)
+GB@Dal: Aaron Jones (22.6), Dak Prescott (27.2)
 Civil War rating: 49.8
 
 Geno in a bottle
-Geno Smith (23.2), Leonard Fournette (11.3)
+TB@Sea: Leonard Fournette (11.3), Geno Smith (23.2)
 Civil War rating: 34.5
 
 Ceedeez Nutz
-Justin Herbert (15.04), Robbie Gould (10.0)
+SF@LAC: Robbie Gould (10.0), Justin Herbert (15.04)
 Civil War rating: 25.04
 
 sƃɐN
-Amon-Ra St. Brown (17.1), Darnell Mooney (7.7)
-Evan Engram (2.9), Patrick Mahomes (40.14)
+Chi@Det: Darnell Mooney (7.7), Amon-Ra St. Brown (17.1)
+KC@Jax: Patrick Mahomes (40.14), Evan Engram (2.9)
 Civil War rating: 43.04
 
 G
-Terry McLaurin (16.8), Miles Sanders (5.4)
+Phi@Was: Miles Sanders (5.4), Terry McLaurin (16.8)
 Civil War rating: 22.2
 
 Nags
-Zay Jones (10.8), Travis Kelce (17.1)
+KC@Jax: Travis Kelce (17.1), Zay Jones (10.8)
 Civil War rating: 27.9
 
 Kyler the Deflator
-Russell Wilson (17.24), Tennessee (12.0)
+Ten@Den: Tennessee (12.0), Russell Wilson (17.24)
 Civil War rating: 29.24
 
 Nаgs
-DK Metcalf (10.1), Mike Evans (7.9)
-Kirk Cousins (19.48), Buffalo (8.0)
-James Conner (22.1), Cooper Kupp (1.4)
+TB@Sea: Mike Evans (7.9), DK Metcalf (10.1)
+Buf@Min: Buffalo (8.0), Kirk Cousins (19.48)
+LAR@Ari: Cooper Kupp (1.4), James Conner (22.1)
 Civil War rating: 27.48
 
 Fields of Dreams
 Civil War rating: 0.0
 
 Mike Will Get TDs
-Kyle Pitts (3.8), Terrace Marshall Jr. (4.8)
-Amari Cooper (4.7), Raheem Mostert (16.7)
+Car@Atl: Terrace Marshall Jr. (4.8), Kyle Pitts (3.8)
+Mia@Cle: Raheem Mostert (16.7), Amari Cooper (4.7)
 Civil War rating: 21.4
 
 Watson the Menu? Wins
-T.J. Hockenson (8.0), Tyler Bass (13.0)
+Buf@Min: Tyler Bass (13.0), T.J. Hockenson (8.0)
 Civil War rating: 21.0
 
 Forgot About Dre
-Kareem Hunt (2.4), Tua Tagovailoa (29.4)
+Mia@Cle: Tua Tagovailoa (29.4), Kareem Hunt (2.4)
 Civil War rating: 31.8
 
 ************** RESULTS **************
-RANK | TEAM_NAME             | CHALLENGE_RATING | BEST_PAIR                                    
------|-----------------------|------------------|----------------------------------------------
-1    | Miami Byes 😅          | 49.8             | Dak Prescott (27.2), Aaron Jones (22.6)      
-2    | sƃɐN                  | 43.04            | Evan Engram (2.9), Patrick Mahomes (40.14)   
-3    | Geno in a bottle      | 34.5             | Geno Smith (23.2), Leonard Fournette (11.3)  
-4    | Forgot About Dre      | 31.8             | Kareem Hunt (2.4), Tua Tagovailoa (29.4)     
-5    | Kyler the Deflator    | 29.24            | Russell Wilson (17.24), Tennessee (12.0)     
-6    | Nags                  | 27.9             | Zay Jones (10.8), Travis Kelce (17.1)        
-7    | Nаgs                  | 27.48            | Kirk Cousins (19.48), Buffalo (8.0)          
-8    | Ceedeez Nutz          | 25.04            | Justin Herbert (15.04), Robbie Gould (10.0)  
-9    | G                     | 22.2             | Terry McLaurin (16.8), Miles Sanders (5.4)   
-10   | Mike Will Get TDs     | 21.4             | Amari Cooper (4.7), Raheem Mostert (16.7)    
-11   | Watson the Menu? Wins | 21.0             | T.J. Hockenson (8.0), Tyler Bass (13.0)      
-12   | Fields of Dreams      | 0.0              |                                              
+RANK | TEAM_NAME             | CHALLENGE_RATING | BEST_PAIR                                             
+-----|-----------------------|------------------|-------------------------------------------------------
+1    | Miami Byes 😅          | 49.8             | GB@Dal: Aaron Jones (22.6), Dak Prescott (27.2)       
+2    | sƃɐN                  | 43.04            | KC@Jax: Patrick Mahomes (40.14), Evan Engram (2.9)    
+3    | Geno in a bottle      | 34.5             | TB@Sea: Leonard Fournette (11.3), Geno Smith (23.2)   
+4    | Forgot About Dre      | 31.8             | Mia@Cle: Tua Tagovailoa (29.4), Kareem Hunt (2.4)     
+5    | Kyler the Deflator    | 29.24            | Ten@Den: Tennessee (12.0), Russell Wilson (17.24)     
+6    | Nags                  | 27.9             | KC@Jax: Travis Kelce (17.1), Zay Jones (10.8)         
+7    | Nаgs                  | 27.48            | Buf@Min: Buffalo (8.0), Kirk Cousins (19.48)          
+8    | Ceedeez Nutz          | 25.04            | SF@LAC: Robbie Gould (10.0), Justin Herbert (15.04)   
+9    | G                     | 22.2             | Phi@Was: Miles Sanders (5.4), Terry McLaurin (16.8)   
+10   | Mike Will Get TDs     | 21.4             | Mia@Cle: Raheem Mostert (16.7), Amari Cooper (4.7)    
+11   | Watson the Menu? Wins | 21.0             | Buf@Min: Tyler Bass (13.0), T.J. Hockenson (8.0)      
+12   | Fields of Dreams      | 0.0              |                                                       
 
