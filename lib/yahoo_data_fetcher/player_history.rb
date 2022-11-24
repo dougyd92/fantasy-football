@@ -30,7 +30,7 @@ module YahooDataFetcher
 
     def apply_transactions_through_week(week)
       cutoff_date_string = @client.fetch_weeks.select { |w| w['week'] == week.to_s }.first['end']
-      cutoff_datetime = Time.strptime(cutoff_date_string, '%Y-%m-%d')
+      cutoff_datetime = Time.strptime(cutoff_date_string, '%Y-%m-%d') + 19 * 60 * 60 # go until gametime Monday night
 
       transactions = @client.fetch_transactions
       transactions.sort_by { |tx| tx['timestamp'].to_i }
