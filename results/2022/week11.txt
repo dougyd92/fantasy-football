@@ -1,0 +1,459 @@
+JamoSZN
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Dak Prescott           | QB    | 24.64 | 25.64 | Waivers; free agent 
+DeAndre Hopkins        | WR    | 13.60 |  0.61 | Drafted for $23     
+Chris Olave            | WR    | 18.70 |  1.16 | Drafted for $16     
+Stefon Diggs           | WR    | 12.80 |  0.14 | Drafted for $100    
+Aaron Jones            | RB    | 11.00 |  0.29 | Kept for $40        
+Jonathan Taylor        | RB    | 14.90 |  0.22 | Kept for $71        
+George Kittle          | TE    | 22.40 |  0.50 | Traded; $46 salar...
+Jaylen Warren          | W/R/T |  1.40 |  2.40 | Waivers; free agent 
+Travis Etienne Jr.     | BN    |  0.00 |  0.17 | Kept for $5         
+Trevor Lawrence        | BN    |  0.00 |  1.00 | Waivers; $0 bid     
+Drake London           | BN    |  6.70 |  0.23 | Drafted for $32     
+Jameson Williams       | BN    |  0.00 |  1.00 | Waivers; free agent 
+Melvin Gordon III      | BN    |  9.50 | 10.50 | Waivers; $0 bid     
+Tyquan Thornton        | BN    |  1.00 |  2.00 | Waivers; $0 bid     
+Jake Elliott           | K     |  5.00 |  6.00 | Waivers; free agent 
+Washington             | DEF   | 19.00 | 20.00 | Waivers; $0 bid     
+
+
+Aiyuken
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Aaron Rodgers          | QB    | 23.08 | 12.04 | Waivers; $1 bid     
+Tee Higgins            | WR    | 19.30 |  0.34 | Drafted for $59     
+DeVonta Smith          | WR    | 10.80 |  0.62 | Drafted for $18     
+Deebo Samuel           | WR    | 18.90 |  1.05 | Kept for $18        
+Tony Pollard           | RB    | 33.90 |  1.34 | Drafted for $25     
+Jamaal Williams        | RB    | 24.40 |  2.54 | Traded; $9 salary...
+Pat Freiermuth         | TE    | 11.90 |  2.15 | Drafted for $5      
+Isiah Pacheco          | W/R/T | 10.70 |  5.85 | Waivers; $1 bid     
+Brandon Aiyuk          | BN    | 15.00 |  0.47 | Drafted for $33     
+D'Andre Swift          | BN    | 10.70 |  0.24 | Kept for $48        
+Nico Collins           | BN    |  7.30 |  8.30 | Waivers; $0 bid     
+Leonard Fournette      | BN    |  0.00 |  0.17 | Kept for $5         
+Jaylen Waddle          | BN    |  0.00 |  0.03 | Drafted for $38     
+Michael Carter         | BN    |  2.20 |  0.32 | Drafted for $9      
+Daniel Carlson         | K     | 14.00 |  1.67 | Waivers; $8 bid     
+Los Angeles            | DEF   |  4.00 |  5.00 | Waivers; free agent 
+
+
+Ceedeez Nutz
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Justin Herbert         | QB    | 24.20 |  1.94 | Traded; $12 salar...
+Joshua Palmer          | WR    | 26.60 | 27.60 | Waivers; free agent 
+CeeDee Lamb            | WR    |  7.00 |  0.26 | Kept for $30        
+Mack Hollins           | WR    |  8.20 |  4.60 | Waivers; $1 bid     
+Brian Robinson Jr.     | RB    |  5.70 |  0.37 | Drafted for $17     
+Joe Mixon              | RB    |  7.70 |  0.10 | Kept for $83        
+Greg Dulcich           | TE    |  5.00 |  2.00 | Waivers; $2 bid     
+James Robinson         | W/R/T |  1.00 |  0.07 | Waivers; $29 bid    
+Jahan Dotson           | BN    |  2.10 |  1.03 | Drafted for $2      
+Chuba Hubbard          | BN    |  3.50 |  2.25 | Waivers; $1 bid     
+Christian Kirk         | BN    |  0.00 |  0.07 | Kept for $13        
+Calvin Ridley          | BN    |  0.00 |  0.50 | Waivers; $1 bid     
+Joe Burrow             | BN    | 36.70 |  1.26 | Traded; $29 salar...
+Isaiah McKenzie        | BN    |  0.00 |  1.00 | Traded; $0 salary...
+Robbie Gould           | K     |  8.00 |  9.00 | Waivers; free agent 
+New York               | DEF   | 10.00 | 11.00 | Waivers; free agent 
+
+
+Burks and Caicos
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Patrick Mahomes        | QB    | 33.46 |  0.91 | Drafted for $37     
+Amon-Ra St. Brown      | WR    | 11.50 |  0.26 | Drafted for $48     
+Darnell Mooney         | WR    | 10.90 |  1.19 | Traded; $9 salary...
+Allen Lazard           | WR    |  8.20 |  0.48 | Drafted for $18     
+Austin Ekeler          | RB    | 17.00 |  0.56 | Kept for $31        
+Saquon Barkley         | RB    |  4.50 |  0.05 | Drafted for $105    
+Dawson Knox            | TE    | 10.50 | 11.50 | Waivers; $0 bid     
+Courtland Sutton       | W/R/T | 10.50 |  0.40 | Kept for $28        
+D'Onta Foreman         | BN    |  2.40 |  3.40 | Waivers; free agent 
+Rachaad White          | BN    |  0.00 |  0.08 | Drafted for $11     
+Ja'Marr Chase          | BN    |  0.00 |  0.04 | Kept for $24        
+Treylon Burks          | BN    | 14.60 |  1.20 | Drafted for $12     
+Keenan Allen           | BN    |  9.90 |  1.82 | Waivers; $5 bid     
+Damien Harris          | BN    | 10.30 |  5.65 | Waivers; $1 bid     
+Brett Maher            | K     | 22.00 | 23.00 | Waivers; $0 bid     
+Denver                 | DEF   |  1.00 |  2.00 | Waivers; $0 bid     
+
+
+G
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Lamar Jackson          | QB    | 16.46 |  0.67 | Drafted for $25     
+Terry McLaurin         | WR    |  7.60 |  0.22 | Drafted for $39     
+Justin Jefferson       | WR    |  4.80 |  0.34 | Kept for $16        
+Darius Slayton         | WR    | 11.10 |  1.51 | Waivers; $7 bid     
+Miles Sanders          | RB    |  5.30 |  0.29 | Traded; $21 salar...
+Kenyan Drake           | RB    |  6.30 |  0.56 | Waivers; $12 bid    
+Mark Andrews           | TE    |  9.30 |  0.28 | Kept for $36        
+Adam Thielen           | W/R/T |  3.50 |  0.17 | Waivers; $26 bid    
+AJ Dillon              | BN    |  2.80 |  0.22 | Kept for $16        
+Caleb Huntley          | BN    |  1.10 |  0.52 | Waivers; $3 bid     
+Trestan Ebner          | BN    |  0.80 |  0.45 | Waivers; $3 bid     
+Foster Moreau          | BN    |  3.80 |  1.60 | Waivers; $2 bid     
+Juwan Johnson          | BN    | 12.20 |  4.40 | Waivers; $2 bid     
+Elijah Moore           | BN    |  2.70 |  3.70 | Waivers; free agent 
+Justin Tucker          | K     |  7.00 |  1.14 | Waivers; $6 bid     
+San Francisco          | DEF   | 11.00 |  3.00 | Drafted for $3      
+
+
+Nags
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Jimmy Garoppolo        | QB    | 33.42 | 34.42 | Waivers; $0 bid     
+Michael Pittman Jr.    | WR    | 10.50 |  0.36 | Kept for $31        
+Brandin Cooks          | WR    |  8.50 |  0.22 | Drafted for $43     
+Kadarius Toney         | WR    |  0.00 |  0.08 | Drafted for $11     
+Dalvin Cook            | RB    |  7.20 |  0.07 | Kept for $116       
+Nick Chubb             | RB    |  8.20 |  0.26 | Kept for $35        
+Travis Kelce           | TE    | 32.50 |  0.39 | Drafted for $85     
+Devin Duvernay         | W/R/T |  1.20 |  1.10 | Drafted for $1      
+Gus Edwards            | BN    |  0.00 |  1.00 | Waivers; $0 bid     
+Zay Jones              | BN    |  0.00 |  0.50 | Drafted for $1      
+Alexander Mattison     | BN    |  1.30 |  0.13 | Drafted for $17     
+Deshaun Watson         | BN    |  0.00 |  1.00 | Waivers; free agent 
+Rashod Bateman         | BN    |  0.00 |  1.00 | Waivers; free agent 
+Matt Gay               | K     | 10.00 | 11.00 | Waivers; free agent 
+Baltimore              | DEF   | 17.00 |  9.00 | Drafted for $1      
+Kansas City            | BN    |  9.00 | 10.00 | Waivers; free agent 
+
+
+Matt’s “Bye Week”
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Russell Wilson         | QB    | 10.68 | 11.68 | Waivers; free agent 
+Curtis Samuel          | WR    |  9.30 |  0.54 | Waivers; $18 bid    
+Diontae Johnson        | WR    |  4.20 |  0.13 | Drafted for $40     
+Allen Robinson II      | WR    | 12.70 |  1.71 | Waivers; $7 bid     
+Devin Singletary       | RB    | 16.70 |  0.68 | Drafted for $25     
+Cordarrelle Patterson  | RB    | 10.90 |  0.35 | Drafted for $33     
+Dalton Schultz         | TE    |  3.70 |  0.13 | Drafted for $34     
+Antonio Gibson         | W/R/T | 11.80 |  0.37 | Kept for $34        
+Kyler Murray           | BN    |  0.00 |  0.03 | Kept for $33        
+Khalil Herbert         | BN    |  0.00 |  0.17 | Drafted for $5      
+Chris Godwin           | BN    |  0.00 |  0.04 | Drafted for $25     
+Tyler Allgeier         | BN    |  6.90 |  7.90 | Traded; $0 salary...
+Nyheim Hines           | BN    | -0.80 |  0.05 | Waivers; $3 bid     
+Graham Gano            | K     |  0.00 |  0.50 | Waivers; $1 bid     
+New England            | DEF   | 17.00 |  4.50 | Waivers; $3 bid     
+Tennessee              | BN    |  4.00 |  2.50 | Waivers; $1 bid     
+
+
+Cooper Troopers
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Kirk Cousins           | QB    |  2.20 |  0.29 | Drafted for $10     
+Tyler Boyd             | WR    |  5.20 |  2.07 | Drafted for $2      
+Van Jefferson          | WR    |  5.60 |  6.60 | Waivers; free agent 
+DJ Chark Jr.           | WR    |  0.00 |  1.00 | Waivers; free agent 
+Josh Jacobs            | RB    | 17.50 |  0.64 | Drafted for $28     
+James Conner           | RB    | 12.40 |  0.61 | Kept for $21        
+Tre' McKitty           | TE    |  0.00 |  1.00 | Waivers; free agent 
+Michael Gallup         | W/R/T |  5.60 |  6.60 | Waivers; free agent 
+Elijah Mitchell        | BN    |  5.90 |  0.14 | Drafted for $48     
+Eno Benjamin           | BN    |  0.00 |  0.33 | Waivers; $2 bid     
+DK Metcalf             | BN    |  0.00 |  0.02 | Drafted for $59     
+Cooper Kupp            | BN    |  0.00 |  0.03 | Kept for $37        
+Mike Evans             | BN    |  0.00 |  0.02 | Kept for $53        
+Breece Hall            | BN    |  0.00 |  0.05 | Waivers; $20 bid    
+Younghoe Koo           | K     | 12.00 |  4.33 | Waivers; $2 bid     
+Buffalo                | DEF   |  5.00 |  1.20 | Waivers; $4 bid     
+
+
+Derrick Yeti SZN
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Justin Fields          | QB    | 25.62 |  3.80 | Waivers; $6 bid     
+Rondale Moore          | WR    | -0.60 |  0.06 | Drafted for $6      
+Donovan Peoples-Jones  | WR    | 14.60 | 15.60 | Waivers; free agent 
+Jakobi Meyers          | WR    |  7.20 |  0.68 | Traded; $11 salar...
+Derrick Henry          | RB    | 26.36 |  0.41 | Kept for $65        
+Christian McCaffrey    | RB    | 14.10 |  0.21 | Kept for $70        
+Tyler Higbee           | TE    |  6.50 |  0.94 | Drafted for $7      
+Chase Claypool         | W/R/T |  2.10 |  3.10 | Waivers; free agent 
+Jarvis Landry          | BN    | 10.80 | 11.80 | Waivers; free agent 
+JuJu Smith-Schuster    | BN    |  0.00 |  0.02 | Drafted for $40     
+David Njoku            | BN    |  2.70 |  0.41 | Drafted for $8      
+Marquise Brown         | BN    |  0.00 |  0.12 | Kept for $7         
+Jerry Jeudy            | BN    |  0.00 |  0.02 | Traded; $40 salar...
+Darrell Henderson Jr.  | BN    |  0.90 |  0.12 | Traded; $15 salar...
+Evan McPherson         | K     | 17.00 |  4.50 | Waivers; $3 bid     
+Cincinnati             | DEF   |  1.00 |  0.29 | Waivers; $6 bid     
+
+
+Mangina’s Revenge
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Josh Allen             | QB    | 14.58 |  0.50 | Kept for $30        
+Amari Cooper           | WR    | 27.30 |  1.09 | Drafted for $25     
+George Pickens         | WR    | 16.30 |  1.33 | Drafted for $12     
+Garrett Wilson         | WR    |  2.20 |  1.60 | Drafted for $1      
+David Montgomery       | RB    | 19.60 |  0.42 | Drafted for $48     
+Ezekiel Elliott        | RB    | 17.20 |  0.36 | Drafted for $49     
+Kyle Pitts             | TE    |  5.80 |  0.15 | Kept for $45        
+Mike Williams          | W/R/T |  2.00 |  0.06 | Drafted for $48     
+Raheem Mostert         | BN    |  0.00 |  0.14 | Drafted for $6      
+Darren Waller          | BN    |  0.00 |  0.17 | Waivers; $5 bid     
+Keaontay Ingram        | BN    |  1.90 |  2.90 | Waivers; free agent 
+James Cook             | BN    |  8.60 |  9.60 | Waivers; free agent 
+Samaje Perine          | BN    | 28.20 | 29.20 | Waivers; free agent 
+Mike Gesicki           | BN    |  0.00 |  1.00 | Waivers; free agent 
+Joey Slye              | K     | 12.00 | 13.00 | Waivers; $0 bid     
+Dallas                 | DEF   | 16.00 | 17.00 | Waivers; $0 bid     
+
+
+Pop Hock & Drop It
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Jalen Hurts            | QB    | 26.20 |  0.76 | Drafted for $35     
+A.J. Brown             | WR    |  6.50 |  0.27 | Kept for $27        
+Christian Watson       | WR    | 19.10 | 20.10 | Waivers; free agent 
+DJ Moore               | WR    |  3.90 |  0.08 | Drafted for $58     
+Alvin Kamara           | RB    | 10.90 |  0.24 | Kept for $49        
+Dameon Pierce          | RB    |  2.70 |  0.09 | Drafted for $42     
+T.J. Hockenson         | TE    |  5.90 |  0.38 | Drafted for $17     
+Davante Adams          | W/R/T | 29.60 |  0.38 | Drafted for $80     
+Kenneth Walker III     | BN    |  0.00 |  0.05 | Drafted for $20     
+Javonte Williams       | BN    |  0.00 |  0.03 | Kept for $30        
+Odell Beckham Jr.      | BN    |  0.00 |  1.00 | Waivers; free agent 
+Trey McBride           | BN    |  3.40 |  4.40 | Waivers; free agent 
+Julio Jones            | BN    |  0.00 |  1.00 | Waivers; free agent 
+Tyler Bass             | K     | 23.00 | 24.00 | Waivers; free agent 
+New Orleans            | DEF   |  5.00 |  6.00 | Waivers; free agent 
+Minnesota              | BN    | -4.00 | -3.00 | Waivers; free agent 
+
+
+Forgot About Dre
+Roster:
+NAME                   | POS   | PTS   | RATIO | ACQUISITION         
+-----------------------|-------|-------|-------|---------------------
+Daniel Jones           | QB    | 28.64 | 29.64 | Waivers; free agent 
+Gabe Davis             | WR    |  9.30 |  1.72 | Kept for $5         
+Parris Campbell        | WR    |  9.20 |  2.04 | Waivers; $4 bid     
+Marquez Valdes-Scan... | WR    |  2.30 |  3.30 | Waivers; free agent 
+Kareem Hunt            | RB    |  6.40 |  0.49 | Traded; $14 salar...
+Rhamondre Stevenson    | RB    | 11.20 |  2.03 | Kept for $5         
+Cole Kmet              | TE    |  5.00 |  1.00 | Traded; $5 salary...
+Najee Harris           | W/R/T | 25.60 |  0.25 | Drafted for $104    
+Dallas Goedert         | BN    |  0.00 |  0.04 | Drafted for $25     
+Jeff Wilson Jr.        | BN    |  0.00 |  0.25 | Drafted for $3      
+Tyler Lockett          | BN    |  0.00 |  0.08 | Drafted for $11     
+Tyreek Hill            | BN    |  0.00 |  0.01 | Drafted for $77     
+Tua Tagovailoa         | BN    |  0.00 |  1.00 | Waivers; $0 bid     
+J.K. Dobbins           | BN    |  0.00 |  0.14 | Waivers; $6 bid     
+Nick Folk              | K     |  4.00 |  1.67 | Waivers; $2 bid     
+Philadelphia           | DEF   |  7.00 |  8.00 | Waivers; $0 bid     
+
+
+************** All players **************
+RANK | NAME                   | POS   | PTS   | COST | RATIO | ACQUISITION          | TEAM                            
+-----|------------------------|-------|-------|------|-------|----------------------|---------------------------------
+1    | Jimmy Garoppolo        | QB    | 33.42 | 0    | 34.42 | Waivers; $0 bid      | Nags                            
+2    | Daniel Jones           | QB    | 28.64 | 0    | 29.64 | Waivers; free agent  | Forgot About Dre                
+3    | Samaje Perine          | BN    | 28.20 | 0    | 29.20 | Waivers; free agent  | Mangina’s Revenge               
+4    | Joshua Palmer          | WR    | 26.60 | 0    | 27.60 | Waivers; free agent  | Ceedeez Nutz                    
+5    | Dak Prescott           | QB    | 24.64 | 0    | 25.64 | Waivers; free agent  | JamoSZN                         
+6    | Tyler Bass             | K     | 23.00 | 0    | 24.00 | Waivers; free agent  | Pop Hock & Drop It              
+7    | Brett Maher            | K     | 22.00 | 0    | 23.00 | Waivers; $0 bid      | Burks and Caicos                
+8    | Christian Watson       | WR    | 19.10 | 0    | 20.10 | Waivers; free agent  | Pop Hock & Drop It              
+9    | Washington             | DEF   | 19.00 | 0    | 20.00 | Waivers; $0 bid      | JamoSZN                         
+10   | Dallas                 | DEF   | 16.00 | 0    | 17.00 | Waivers; $0 bid      | Mangina’s Revenge               
+11   | Donovan Peoples-Jones  | WR    | 14.60 | 0    | 15.60 | Waivers; free agent  | Derrick Yeti SZN                
+12   | Joey Slye              | K     | 12.00 | 0    | 13.00 | Waivers; $0 bid      | Mangina’s Revenge               
+13   | Aaron Rodgers          | QB    | 23.08 | 1    | 12.04 | Waivers; $1 bid      | Aiyuken                         
+14   | Jarvis Landry          | BN    | 10.80 | 0    | 11.80 | Waivers; free agent  | Derrick Yeti SZN                
+15   | Russell Wilson         | QB    | 10.68 | 0    | 11.68 | Waivers; free agent  | Matt’s “Bye Week”               
+16   | Dawson Knox            | TE    | 10.50 | 0    | 11.50 | Waivers; $0 bid      | Burks and Caicos                
+17   | Matt Gay               | K     | 10.00 | 0    | 11.00 | Waivers; free agent  | Nags                            
+18   | New York               | DEF   | 10.00 | 0    | 11.00 | Waivers; free agent  | Ceedeez Nutz                    
+19   | Melvin Gordon III      | BN    |  9.50 | 0    | 10.50 | Waivers; $0 bid      | JamoSZN                         
+20   | Kansas City            | BN    |  9.00 | 0    | 10.00 | Waivers; free agent  | Nags                            
+21   | James Cook             | BN    |  8.60 | 0    |  9.60 | Waivers; free agent  | Mangina’s Revenge               
+22   | Robbie Gould           | K     |  8.00 | 0    |  9.00 | Waivers; free agent  | Ceedeez Nutz                    
+23   | Baltimore              | DEF   | 17.00 | 1    |  9.00 | Drafted for $1       | Nags                            
+24   | Nico Collins           | BN    |  7.30 | 0    |  8.30 | Waivers; $0 bid      | Aiyuken                         
+25   | Philadelphia           | DEF   |  7.00 | 0    |  8.00 | Waivers; $0 bid      | Forgot About Dre                
+26   | Tyler Allgeier         | BN    |  6.90 | 0    |  7.90 | Traded; $0 salary... | Matt’s “Bye Week”               
+27   | Michael Gallup         | W/R/T |  5.60 | 0    |  6.60 | Waivers; free agent  | Cooper Troopers                 
+28   | Van Jefferson          | WR    |  5.60 | 0    |  6.60 | Waivers; free agent  | Cooper Troopers                 
+29   | Jake Elliott           | K     |  5.00 | 0    |  6.00 | Waivers; free agent  | JamoSZN                         
+30   | New Orleans            | DEF   |  5.00 | 0    |  6.00 | Waivers; free agent  | Pop Hock & Drop It              
+31   | Isiah Pacheco          | W/R/T | 10.70 | 1    |  5.85 | Waivers; $1 bid      | Aiyuken                         
+32   | Damien Harris          | BN    | 10.30 | 1    |  5.65 | Waivers; $1 bid      | Burks and Caicos                
+33   | Los Angeles            | DEF   |  4.00 | 0    |  5.00 | Waivers; free agent  | Aiyuken                         
+34   | Mack Hollins           | WR    |  8.20 | 1    |  4.60 | Waivers; $1 bid      | Ceedeez Nutz                    
+35   | New England            | DEF   | 17.00 | 3    |  4.50 | Waivers; $3 bid      | Matt’s “Bye Week”               
+36   | Evan McPherson         | K     | 17.00 | 3    |  4.50 | Waivers; $3 bid      | Derrick Yeti SZN                
+37   | Trey McBride           | BN    |  3.40 | 0    |  4.40 | Waivers; free agent  | Pop Hock & Drop It              
+38   | Juwan Johnson          | BN    | 12.20 | 2    |  4.40 | Waivers; $2 bid      | G                               
+39   | Younghoe Koo           | K     | 12.00 | 2    |  4.33 | Waivers; $2 bid      | Cooper Troopers                 
+40   | Justin Fields          | QB    | 25.62 | 6    |  3.80 | Waivers; $6 bid      | Derrick Yeti SZN                
+41   | Elijah Moore           | BN    |  2.70 | 0    |  3.70 | Waivers; free agent  | G                               
+42   | D'Onta Foreman         | BN    |  2.40 | 0    |  3.40 | Waivers; free agent  | Burks and Caicos                
+43   | Marquez Valdes-Scan... | WR    |  2.30 | 0    |  3.30 | Waivers; free agent  | Forgot About Dre                
+44   | Chase Claypool         | W/R/T |  2.10 | 0    |  3.10 | Waivers; free agent  | Derrick Yeti SZN                
+45   | San Francisco          | DEF   | 11.00 | 3    |  3.00 | Drafted for $3       | G                               
+46   | Keaontay Ingram        | BN    |  1.90 | 0    |  2.90 | Waivers; free agent  | Mangina’s Revenge               
+47   | Jamaal Williams        | RB    | 24.40 | 9    |  2.54 | Traded; $9 salary... | Aiyuken                         
+48   | Tennessee              | BN    |  4.00 | 1    |  2.50 | Waivers; $1 bid      | Matt’s “Bye Week”               
+49   | Jaylen Warren          | W/R/T |  1.40 | 0    |  2.40 | Waivers; free agent  | JamoSZN                         
+50   | Chuba Hubbard          | BN    |  3.50 | 1    |  2.25 | Waivers; $1 bid      | Ceedeez Nutz                    
+51   | Pat Freiermuth         | TE    | 11.90 | 5    |  2.15 | Drafted for $5       | Aiyuken                         
+52   | Tyler Boyd             | WR    |  5.20 | 2    |  2.07 | Drafted for $2       | Cooper Troopers                 
+53   | Parris Campbell        | WR    |  9.20 | 4    |  2.04 | Waivers; $4 bid      | Forgot About Dre                
+54   | Rhamondre Stevenson    | RB    | 11.20 | 5    |  2.03 | Kept for $5          | Forgot About Dre                
+55   | Tyquan Thornton        | BN    |  1.00 | 0    |  2.00 | Waivers; $0 bid      | JamoSZN                         
+56   | Greg Dulcich           | TE    |  5.00 | 2    |  2.00 | Waivers; $2 bid      | Ceedeez Nutz                    
+57   | Denver                 | DEF   |  1.00 | 0    |  2.00 | Waivers; $0 bid      | Burks and Caicos                
+58   | Justin Herbert         | QB    | 24.20 | 12   |  1.94 | Traded; $12 salar... | Ceedeez Nutz                    
+59   | Keenan Allen           | BN    |  9.90 | 5    |  1.82 | Waivers; $5 bid      | Burks and Caicos                
+60   | Gabe Davis             | WR    |  9.30 | 5    |  1.72 | Kept for $5          | Forgot About Dre                
+61   | Allen Robinson II      | WR    | 12.70 | 7    |  1.71 | Waivers; $7 bid      | Matt’s “Bye Week”               
+62   | Nick Folk              | K     |  4.00 | 2    |  1.67 | Waivers; $2 bid      | Forgot About Dre                
+63   | Daniel Carlson         | K     | 14.00 | 8    |  1.67 | Waivers; $8 bid      | Aiyuken                         
+64   | Garrett Wilson         | WR    |  2.20 | 1    |  1.60 | Drafted for $1       | Mangina’s Revenge               
+65   | Foster Moreau          | BN    |  3.80 | 2    |  1.60 | Waivers; $2 bid      | G                               
+66   | Darius Slayton         | WR    | 11.10 | 7    |  1.51 | Waivers; $7 bid      | G                               
+67   | Tony Pollard           | RB    | 33.90 | 25   |  1.34 | Drafted for $25      | Aiyuken                         
+68   | George Pickens         | WR    | 16.30 | 12   |  1.33 | Drafted for $12      | Mangina’s Revenge               
+69   | Joe Burrow             | BN    | 36.70 | 29   |  1.26 | Traded; $29 salar... | Ceedeez Nutz                    
+70   | Buffalo                | DEF   |  5.00 | 4    |  1.20 | Waivers; $4 bid      | Cooper Troopers                 
+71   | Treylon Burks          | BN    | 14.60 | 12   |  1.20 | Drafted for $12      | Burks and Caicos                
+72   | Darnell Mooney         | WR    | 10.90 | 9    |  1.19 | Traded; $9 salary... | Burks and Caicos                
+73   | Chris Olave            | WR    | 18.70 | 16   |  1.16 | Drafted for $16      | JamoSZN                         
+74   | Justin Tucker          | K     |  7.00 | 6    |  1.14 | Waivers; $6 bid      | G                               
+75   | Devin Duvernay         | W/R/T |  1.20 | 1    |  1.10 | Drafted for $1       | Nags                            
+76   | Amari Cooper           | WR    | 27.30 | 25   |  1.09 | Drafted for $25      | Mangina’s Revenge               
+77   | Deebo Samuel           | WR    | 18.90 | 18   |  1.05 | Kept for $18         | Aiyuken                         
+78   | Jahan Dotson           | BN    |  2.10 | 2    |  1.03 | Drafted for $2       | Ceedeez Nutz                    
+79   | Julio Jones            | BN    |  0.00 | 0    |  1.00 | Waivers; free agent  | Pop Hock & Drop It              
+80   | Mike Gesicki           | BN    |  0.00 | 0    |  1.00 | Waivers; free agent  | Mangina’s Revenge               
+81   | Tre' McKitty           | TE    |  0.00 | 0    |  1.00 | Waivers; free agent  | Cooper Troopers                 
+82   | DJ Chark Jr.           | WR    |  0.00 | 0    |  1.00 | Waivers; free agent  | Cooper Troopers                 
+83   | Tua Tagovailoa         | BN    |  0.00 | 0    |  1.00 | Waivers; $0 bid      | Forgot About Dre                
+84   | Cole Kmet              | TE    |  5.00 | 5    |  1.00 | Traded; $5 salary... | Forgot About Dre                
+85   | Trevor Lawrence        | BN    |  0.00 | 0    |  1.00 | Waivers; $0 bid      | JamoSZN                         
+86   | Isaiah McKenzie        | BN    |  0.00 | 0    |  1.00 | Traded; $0 salary... | Ceedeez Nutz                    
+87   | Jameson Williams       | BN    |  0.00 | 0    |  1.00 | Waivers; free agent  | JamoSZN                         
+88   | Gus Edwards            | BN    |  0.00 | 0    |  1.00 | Waivers; $0 bid      | Nags                            
+89   | Deshaun Watson         | BN    |  0.00 | 0    |  1.00 | Waivers; free agent  | Nags                            
+90   | Rashod Bateman         | BN    |  0.00 | 0    |  1.00 | Waivers; free agent  | Nags                            
+91   | Odell Beckham Jr.      | BN    |  0.00 | 0    |  1.00 | Waivers; free agent  | Pop Hock & Drop It              
+92   | Tyler Higbee           | TE    |  6.50 | 7    |  0.94 | Drafted for $7       | Derrick Yeti SZN                
+93   | Patrick Mahomes        | QB    | 33.46 | 37   |  0.91 | Drafted for $37      | Burks and Caicos                
+94   | Jalen Hurts            | QB    | 26.20 | 35   |  0.76 | Drafted for $35      | Pop Hock & Drop It              
+95   | Jakobi Meyers          | WR    |  7.20 | 11   |  0.68 | Traded; $11 salar... | Derrick Yeti SZN                
+96   | Devin Singletary       | RB    | 16.70 | 25   |  0.68 | Drafted for $25      | Matt’s “Bye Week”               
+97   | Lamar Jackson          | QB    | 16.46 | 25   |  0.67 | Drafted for $25      | G                               
+98   | Josh Jacobs            | RB    | 17.50 | 28   |  0.64 | Drafted for $28      | Cooper Troopers                 
+99   | DeVonta Smith          | WR    | 10.80 | 18   |  0.62 | Drafted for $18      | Aiyuken                         
+100  | James Conner           | RB    | 12.40 | 21   |  0.61 | Kept for $21         | Cooper Troopers                 
+101  | DeAndre Hopkins        | WR    | 13.60 | 23   |  0.61 | Drafted for $23      | JamoSZN                         
+102  | Austin Ekeler          | RB    | 17.00 | 31   |  0.56 | Kept for $31         | Burks and Caicos                
+103  | Kenyan Drake           | RB    |  6.30 | 12   |  0.56 | Waivers; $12 bid     | G                               
+104  | Curtis Samuel          | WR    |  9.30 | 18   |  0.54 | Waivers; $18 bid     | Matt’s “Bye Week”               
+105  | Caleb Huntley          | BN    |  1.10 | 3    |  0.52 | Waivers; $3 bid      | G                               
+106  | Josh Allen             | QB    | 14.58 | 30   |  0.50 | Kept for $30         | Mangina’s Revenge               
+107  | Calvin Ridley          | BN    |  0.00 | 1    |  0.50 | Waivers; $1 bid      | Ceedeez Nutz                    
+108  | Graham Gano            | K     |  0.00 | 1    |  0.50 | Waivers; $1 bid      | Matt’s “Bye Week”               
+109  | Zay Jones              | BN    |  0.00 | 1    |  0.50 | Drafted for $1       | Nags                            
+110  | George Kittle          | TE    | 22.40 | 46   |  0.50 | Traded; $46 salar... | JamoSZN                         
+111  | Kareem Hunt            | RB    |  6.40 | 14   |  0.49 | Traded; $14 salar... | Forgot About Dre                
+112  | Allen Lazard           | WR    |  8.20 | 18   |  0.48 | Drafted for $18      | Burks and Caicos                
+113  | Brandon Aiyuk          | BN    | 15.00 | 33   |  0.47 | Drafted for $33      | Aiyuken                         
+114  | Trestan Ebner          | BN    |  0.80 | 3    |  0.45 | Waivers; $3 bid      | G                               
+115  | David Montgomery       | RB    | 19.60 | 48   |  0.42 | Drafted for $48      | Mangina’s Revenge               
+116  | Derrick Henry          | RB    | 26.36 | 65   |  0.41 | Kept for $65         | Derrick Yeti SZN                
+117  | David Njoku            | BN    |  2.70 | 8    |  0.41 | Drafted for $8       | Derrick Yeti SZN                
+118  | Courtland Sutton       | W/R/T | 10.50 | 28   |  0.40 | Kept for $28         | Burks and Caicos                
+119  | Travis Kelce           | TE    | 32.50 | 85   |  0.39 | Drafted for $85      | Nags                            
+120  | T.J. Hockenson         | TE    |  5.90 | 17   |  0.38 | Drafted for $17      | Pop Hock & Drop It              
+121  | Davante Adams          | W/R/T | 29.60 | 80   |  0.38 | Drafted for $80      | Pop Hock & Drop It              
+122  | Brian Robinson Jr.     | RB    |  5.70 | 17   |  0.37 | Drafted for $17      | Ceedeez Nutz                    
+123  | Antonio Gibson         | W/R/T | 11.80 | 34   |  0.37 | Kept for $34         | Matt’s “Bye Week”               
+124  | Ezekiel Elliott        | RB    | 17.20 | 49   |  0.36 | Drafted for $49      | Mangina’s Revenge               
+125  | Michael Pittman Jr.    | WR    | 10.50 | 31   |  0.36 | Kept for $31         | Nags                            
+126  | Cordarrelle Patterson  | RB    | 10.90 | 33   |  0.35 | Drafted for $33      | Matt’s “Bye Week”               
+127  | Justin Jefferson       | WR    |  4.80 | 16   |  0.34 | Kept for $16         | G                               
+128  | Tee Higgins            | WR    | 19.30 | 59   |  0.34 | Drafted for $59      | Aiyuken                         
+129  | Eno Benjamin           | BN    |  0.00 | 2    |  0.33 | Waivers; $2 bid      | Cooper Troopers                 
+130  | Michael Carter         | BN    |  2.20 | 9    |  0.32 | Drafted for $9       | Aiyuken                         
+131  | Aaron Jones            | RB    | 11.00 | 40   |  0.29 | Kept for $40         | JamoSZN                         
+132  | Kirk Cousins           | QB    |  2.20 | 10   |  0.29 | Drafted for $10      | Cooper Troopers                 
+133  | Miles Sanders          | RB    |  5.30 | 21   |  0.29 | Traded; $21 salar... | G                               
+134  | Cincinnati             | DEF   |  1.00 | 6    |  0.29 | Waivers; $6 bid      | Derrick Yeti SZN                
+135  | Mark Andrews           | TE    |  9.30 | 36   |  0.28 | Kept for $36         | G                               
+136  | A.J. Brown             | WR    |  6.50 | 27   |  0.27 | Kept for $27         | Pop Hock & Drop It              
+137  | CeeDee Lamb            | WR    |  7.00 | 30   |  0.26 | Kept for $30         | Ceedeez Nutz                    
+138  | Nick Chubb             | RB    |  8.20 | 35   |  0.26 | Kept for $35         | Nags                            
+139  | Amon-Ra St. Brown      | WR    | 11.50 | 48   |  0.26 | Drafted for $48      | Burks and Caicos                
+140  | Najee Harris           | W/R/T | 25.60 | 104  |  0.25 | Drafted for $104     | Forgot About Dre                
+141  | Jeff Wilson Jr.        | BN    |  0.00 | 3    |  0.25 | Drafted for $3       | Forgot About Dre                
+142  | D'Andre Swift          | BN    | 10.70 | 48   |  0.24 | Kept for $48         | Aiyuken                         
+143  | Alvin Kamara           | RB    | 10.90 | 49   |  0.24 | Kept for $49         | Pop Hock & Drop It              
+144  | Drake London           | BN    |  6.70 | 32   |  0.23 | Drafted for $32      | JamoSZN                         
+145  | AJ Dillon              | BN    |  2.80 | 16   |  0.22 | Kept for $16         | G                               
+146  | Jonathan Taylor        | RB    | 14.90 | 71   |  0.22 | Kept for $71         | JamoSZN                         
+147  | Brandin Cooks          | WR    |  8.50 | 43   |  0.22 | Drafted for $43      | Nags                            
+148  | Terry McLaurin         | WR    |  7.60 | 39   |  0.22 | Drafted for $39      | G                               
+149  | Christian McCaffrey    | RB    | 14.10 | 70   |  0.21 | Kept for $70         | Derrick Yeti SZN                
+150  | Leonard Fournette      | BN    |  0.00 | 5    |  0.17 | Kept for $5          | Aiyuken                         
+151  | Travis Etienne Jr.     | BN    |  0.00 | 5    |  0.17 | Kept for $5          | JamoSZN                         
+152  | Darren Waller          | BN    |  0.00 | 5    |  0.17 | Waivers; $5 bid      | Mangina’s Revenge               
+153  | Adam Thielen           | W/R/T |  3.50 | 26   |  0.17 | Waivers; $26 bid     | G                               
+154  | Khalil Herbert         | BN    |  0.00 | 5    |  0.17 | Drafted for $5       | Matt’s “Bye Week”               
+155  | Kyle Pitts             | TE    |  5.80 | 45   |  0.15 | Kept for $45         | Mangina’s Revenge               
+156  | J.K. Dobbins           | BN    |  0.00 | 6    |  0.14 | Waivers; $6 bid      | Forgot About Dre                
+157  | Raheem Mostert         | BN    |  0.00 | 6    |  0.14 | Drafted for $6       | Mangina’s Revenge               
+158  | Elijah Mitchell        | BN    |  5.90 | 48   |  0.14 | Drafted for $48      | Cooper Troopers                 
+159  | Stefon Diggs           | WR    | 12.80 | 100  |  0.14 | Drafted for $100     | JamoSZN                         
+160  | Dalton Schultz         | TE    |  3.70 | 34   |  0.13 | Drafted for $34      | Matt’s “Bye Week”               
+161  | Alexander Mattison     | BN    |  1.30 | 17   |  0.13 | Drafted for $17      | Nags                            
+162  | Diontae Johnson        | WR    |  4.20 | 40   |  0.13 | Drafted for $40      | Matt’s “Bye Week”               
+163  | Marquise Brown         | BN    |  0.00 | 7    |  0.12 | Kept for $7          | Derrick Yeti SZN                
+164  | Darrell Henderson Jr.  | BN    |  0.90 | 15   |  0.12 | Traded; $15 salar... | Derrick Yeti SZN                
+165  | Joe Mixon              | RB    |  7.70 | 83   |  0.10 | Kept for $83         | Ceedeez Nutz                    
+166  | Dameon Pierce          | RB    |  2.70 | 42   |  0.09 | Drafted for $42      | Pop Hock & Drop It              
+167  | Tyler Lockett          | BN    |  0.00 | 11   |  0.08 | Drafted for $11      | Forgot About Dre                
+168  | Kadarius Toney         | WR    |  0.00 | 11   |  0.08 | Drafted for $11      | Nags                            
+169  | Rachaad White          | BN    |  0.00 | 11   |  0.08 | Drafted for $11      | Burks and Caicos                
+170  | DJ Moore               | WR    |  3.90 | 58   |  0.08 | Drafted for $58      | Pop Hock & Drop It              
+171  | Christian Kirk         | BN    |  0.00 | 13   |  0.07 | Kept for $13         | Ceedeez Nutz                    
+172  | Dalvin Cook            | RB    |  7.20 | 116  |  0.07 | Kept for $116        | Nags                            
+173  | James Robinson         | W/R/T |  1.00 | 29   |  0.07 | Waivers; $29 bid     | Ceedeez Nutz                    
+174  | Mike Williams          | W/R/T |  2.00 | 48   |  0.06 | Drafted for $48      | Mangina’s Revenge               
+175  | Rondale Moore          | WR    | -0.60 | 6    |  0.06 | Drafted for $6       | Derrick Yeti SZN                
+176  | Saquon Barkley         | RB    |  4.50 | 105  |  0.05 | Drafted for $105     | Burks and Caicos                
+177  | Nyheim Hines           | BN    | -0.80 | 3    |  0.05 | Waivers; $3 bid      | Matt’s “Bye Week”               
+178  | Breece Hall            | BN    |  0.00 | 20   |  0.05 | Waivers; $20 bid     | Cooper Troopers                 
+179  | Kenneth Walker III     | BN    |  0.00 | 20   |  0.05 | Drafted for $20      | Pop Hock & Drop It              
+180  | Ja'Marr Chase          | BN    |  0.00 | 24   |  0.04 | Kept for $24         | Burks and Caicos                
+181  | Dallas Goedert         | BN    |  0.00 | 25   |  0.04 | Drafted for $25      | Forgot About Dre                
+182  | Chris Godwin           | BN    |  0.00 | 25   |  0.04 | Drafted for $25      | Matt’s “Bye Week”               
+183  | Javonte Williams       | BN    |  0.00 | 30   |  0.03 | Kept for $30         | Pop Hock & Drop It              
+184  | Kyler Murray           | BN    |  0.00 | 33   |  0.03 | Kept for $33         | Matt’s “Bye Week”               
+185  | Cooper Kupp            | BN    |  0.00 | 37   |  0.03 | Kept for $37         | Cooper Troopers                 
+186  | Jaylen Waddle          | BN    |  0.00 | 38   |  0.03 | Drafted for $38      | Aiyuken                         
+187  | Jerry Jeudy            | BN    |  0.00 | 40   |  0.02 | Traded; $40 salar... | Derrick Yeti SZN                
+188  | JuJu Smith-Schuster    | BN    |  0.00 | 40   |  0.02 | Drafted for $40      | Derrick Yeti SZN                
+189  | Mike Evans             | BN    |  0.00 | 53   |  0.02 | Kept for $53         | Cooper Troopers                 
+190  | DK Metcalf             | BN    |  0.00 | 59   |  0.02 | Drafted for $59      | Cooper Troopers                 
+191  | Tyreek Hill            | BN    |  0.00 | 77   |  0.01 | Drafted for $77      | Forgot About Dre                
+192  | Minnesota              | BN    | -4.00 | 0    | -3.00 | Waivers; free agent  | Pop Hock & Drop It              
