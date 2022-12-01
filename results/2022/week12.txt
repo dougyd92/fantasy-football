@@ -1,0 +1,211 @@
+Will run Challenges::PlayoffPush for week 12 in league 144117
+Playoff Push: Total points by starters on NFL teams that are in a playoff spot.
+
+Steroid Bye
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Dak Prescott           | QB    | 20.84 | Dal  | true         
+DeAndre Hopkins        | WR    | 16.70 | Ari  | false        
+Chris Olave            | WR    |  8.70 | NO   | false        
+Stefon Diggs           | WR    | 17.70 | Buf  | true         
+Aaron Jones            | RB    | 17.40 | GB   | false        
+Jonathan Taylor        | RB    | 17.30 | Ind  | false        
+George Kittle          | TE    |  4.10 | SF   | true         
+Travis Etienne Jr.     | W/R/T |  0.30 | Jax  | false        
+Evan McPherson         | K     |  9.00 | Cin  | true         
+Washington             | DEF   |  7.00 | Was  | true         
+Total points by playoff-bound players: 58.64
+
+Aiyuken
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Geno Smith             | QB    | 24.32 | Sea  | false        
+Tee Higgins            | WR    | 20.90 | Cin  | true         
+DeVonta Smith          | WR    |  7.00 | Phi  | true         
+Jaylen Waddle          | WR    | 11.00 | Mia  | true         
+Tony Pollard           | RB    |  7.10 | Dal  | true         
+Dalvin Cook            | RB    |  7.60 | Min  | true         
+Pat Freiermuth         | TE    |  5.40 | Pit  | false        
+Brandon Aiyuk          | W/R/T |  9.00 | SF   | true         
+Daniel Carlson         | K     | 10.00 | LV   | false        
+Tampa Bay              | DEF   |  6.00 | TB   | true         
+Total points by playoff-bound players: 68.6
+
+Ceedeez Nutz
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Joe Burrow             | QB    | 20.00 | Cin  | true         
+Joshua Palmer          | WR    |  8.10 | LAC  | false        
+CeeDee Lamb            | WR    | 14.70 | Dal  | true         
+Christian Kirk         | WR    |  6.10 | Jax  | false        
+Brian Robinson         | RB    | 19.50 | Was  | true         
+James Robinson         | RB    |  0.00 | NYJ  | true         
+Greg Dulcich           | TE    |  2.10 | Den  | false        
+Mack Hollins           | W/R/T | 14.30 | LV   | false        
+Robbie Gould           | K     |  8.00 | SF   | true         
+New York               | DEF   |  8.00 | NYJ  | true         
+Total points by playoff-bound players: 70.2
+
+Burks and Caicos
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Patrick Mahomes        | QB    | 21.40 | KC   | true         
+Amon-Ra St. Brown      | WR    | 23.40 | Det  | false        
+Keenan Allen           | WR    | 13.40 | LAC  | false        
+Treylon Burks          | WR    | 15.00 | Ten  | true         
+Austin Ekeler          | RB    | 19.50 | LAC  | false        
+Saquon Barkley         | RB    | 13.20 | NYG  | true         
+Dawson Knox            | TE    |  2.70 | Buf  | true         
+Rachaad White          | W/R/T | 15.40 | TB   | true         
+Brett Maher            | K     |  4.00 | Dal  | true         
+Denver                 | DEF   |  2.00 | Den  | false        
+Total points by playoff-bound players: 71.7
+
+G
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Lamar Jackson          | QB    | 25.06 | Bal  | true         
+Terry McLaurin         | WR    |  7.30 | Was  | true         
+Justin Jefferson       | WR    | 24.84 | Min  | true         
+Darius Slayton         | WR    |  7.80 | NYG  | true         
+Miles Sanders          | RB    | 29.50 | Phi  | true         
+Latavius Murray        | RB    | 10.30 | Den  | false        
+Mark Andrews           | TE    |  9.00 | Bal  | true         
+Juwan Johnson          | W/R/T |  0.00 | NO   | false        
+Justin Tucker          | K     | 15.00 | Bal  | true         
+San Francisco          | DEF   | 15.00 | SF   | true         
+Total points by playoff-bound players: 133.5
+
+Nags
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Jimmy Garoppolo        | QB    | 15.28 | SF   | true         
+Deebo Samuel           | WR    |  5.80 | SF   | true         
+Michael Pittman Jr.    | WR    | 15.60 | Ind  | false        
+Brandin Cooks          | WR    |  8.60 | Hou  | false        
+Nick Chubb             | RB    | 19.70 | Cle  | false        
+D'Andre Swift          | RB    |  8.30 | Det  | false        
+Travis Kelce           | TE    | 13.70 | KC   | true         
+Gus Edwards            | W/R/T |  9.20 | Bal  | true         
+Matt Gay               | K     |  5.00 | LAR  | false        
+Baltimore              | DEF   |  5.00 | Bal  | true         
+Total points by playoff-bound players: 48.98
+
+Matt’s “Bye Week”
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Kyler Murray           | QB    | 30.24 | Ari  | false        
+Curtis Samuel          | WR    |  1.30 | Was  | true         
+Chris Godwin           | WR    | 23.00 | TB   | true         
+Diontae Johnson        | WR    |  7.40 | Pit  | false        
+Devin Singletary       | RB    |  8.50 | Buf  | true         
+Cordarrelle Patterson  | RB    |  8.60 | Atl  | false        
+Dalton Schultz         | TE    | 17.10 | Dal  | true         
+Antonio Gibson         | W/R/T |  6.90 | Was  | true         
+Jason Myers            | K     | 10.00 | Sea  | false        
+New England            | DEF   |  2.00 | NE   | false        
+Total points by playoff-bound players: 56.8
+
+Viva Josh Vegas
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Derek Carr             | QB    | 28.80 | LV   | false        
+DK Metcalf             | WR    | 14.50 | Sea  | false        
+Mike Evans             | WR    |  4.10 | TB   | true         
+Tyler Boyd             | WR    |  2.60 | Cin  | true         
+Josh Jacobs            | RB    | 45.30 | LV   | false        
+James Conner           | RB    | 19.50 | Ari  | false        
+Hayden Hurst           | TE    |  8.70 | Cin  | true         
+Michael Gallup         | W/R/T |  8.80 | Dal  | true         
+Younghoe Koo           | K     |  9.00 | Atl  | false        
+Buffalo                | DEF   |  8.00 | Buf  | true         
+Total points by playoff-bound players: 32.2
+
+I Am The Law
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Trevor Lawrence        | QB    | 30.94 | Jax  | false        
+Donovan Peoples-Jones  | WR    |  2.60 | Cle  | false        
+JuJu Smith-Schuster    | WR    |  5.30 | KC   | true         
+Jakobi Meyers          | WR    |  7.70 | NE   | false        
+Derrick Henry          | RB    | 13.20 | Ten  | true         
+Christian McCaffrey    | RB    |  6.90 | SF   | true         
+Tyler Higbee           | TE    |  0.00 | LAR  | false        
+Marquise Brown         | W/R/T |  7.60 | Ari  | false        
+Harrison Butker        | K     | 14.00 | KC   | true         
+Kansas City            | DEF   | 11.00 | KC   | true         
+Total points by playoff-bound players: 50.4
+
+Mangina’s Revenge
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Josh Allen             | QB    | 34.92 | Buf  | true         
+Amari Cooper           | WR    | 12.90 | Cle  | false        
+George Pickens         | WR    |  9.20 | Pit  | false        
+Garrett Wilson         | WR    | 23.90 | NYJ  | true         
+David Montgomery       | RB    | 12.80 | Chi  | false        
+Ezekiel Elliott        | RB    | 16.00 | Dal  | true         
+Gerald Everett         | TE    |  5.80 | LAC  | false        
+Samaje Perine          | W/R/T | 17.30 | Cin  | true         
+Cameron Dicker         | K     |  5.00 | LAC  | false        
+Dallas                 | DEF   |  4.00 | Dal  | true         
+Total points by playoff-bound players: 96.12
+
+Davante’s Inferno
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Jalen Hurts            | QB    | 33.82 | Phi  | true         
+A.J. Brown             | WR    | 10.60 | Phi  | true         
+Christian Watson       | WR    | 19.00 | GB   | false        
+Davante Adams          | WR    | 10.90 | LV   | false        
+Dameon Pierce          | RB    |  3.10 | Hou  | false        
+Kenneth Walker III     | RB    | 16.40 | Sea  | false        
+T.J. Hockenson         | TE    | 12.80 | Min  | true         
+Alvin Kamara           | W/R/T |  4.00 | NO   | false        
+Tyler Bass             | K     | 10.00 | Buf  | true         
+Miami                  | DEF   | 18.00 | Mia  | true         
+Total points by playoff-bound players: 85.22
+
+Forgot About Dre
+Starting players:
+NAME                   | POS   | PTS   | TEAM | PLAYOFF_BOUND
+-----------------------|-------|-------|------|--------------
+Tua Tagovailoa         | QB    | 17.96 | Mia  | true         
+Gabe Davis             | WR    |  5.80 | Buf  | true         
+Tyreek Hill            | WR    | 12.00 | Mia  | true         
+Tyler Lockett          | WR    | 14.30 | Sea  | false        
+Rhamondre Stevenson    | RB    | 15.70 | NE   | false        
+Jeff Wilson Jr.        | RB    | 11.70 | Mia  | true         
+Taysom Hill            | TE    |  2.50 | NO   | false        
+Najee Harris           | W/R/T | 10.40 | Pit  | false        
+Jason Sanders          | K     | 13.00 | Mia  | true         
+Philadelphia           | DEF   |  6.00 | Phi  | true         
+Total points by playoff-bound players: 66.46
+
+************** RESULTS **************
+RANK | TEAM_NAME         | CHALLENGE_RATING | PLAYOFF_PLAYERS
+-----|-------------------|------------------|----------------
+1    | G                 | 133.50           | 8              
+2    | Mangina’s Revenge | 96.12            | 5              
+3    | Davante’s Inferno | 85.22            | 5              
+4    | Burks and Caicos  | 71.70            | 6              
+5    | Ceedeez Nutz      | 70.20            | 6              
+6    | Aiyuken           | 68.60            | 7              
+7    | Forgot About Dre  | 66.46            | 6              
+8    | Steroid Bye       | 58.64            | 5              
+9    | Matt’s “Bye Week” | 56.80            | 5              
+10   | I Am The Law      | 50.40            | 5              
+11   | Nags              | 48.98            | 5              
+12   | Viva Josh Vegas   | 32.20            | 5              
+
