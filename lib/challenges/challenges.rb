@@ -25,6 +25,8 @@ module Challenges
       LongHaul.new
     when 'moneyball2'
       Moneyball2.new
+    when 'playoff_push'
+      PlayoffPush.new
     when 'running_max'
       RunningMaxEfficiency.new
     when 'sandbagger'
