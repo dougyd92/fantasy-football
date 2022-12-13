@@ -13,6 +13,8 @@ module Challenges
     case challenge_name.downcase
     when 'civil_war'
       CivilWar.new
+    when 'consistent'
+      ConsistentlyConsistent.new
     when 'das_boot'
       DasBoot.new
     when 'dynamic_duo'
