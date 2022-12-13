@@ -1,0 +1,120 @@
+Will run Challenges::ConsistentlyConsistent for week 14 in league 144117
+Consistently Consistent: Closest to season average points per game.
+
+Steroid Bye
+
+Weeks 1 to 13: 118.8 points
+This week: 73.36 points
+Difference: -45.44
+
+
+Big Peno Geno
+
+Weeks 1 to 13: 120.24 points
+This week: 112.46 points
+Difference: -7.78
+
+
+Ceedeez Nutz
+
+Weeks 1 to 13: 108.46 points
+This week: 69.58 points
+Difference: -38.88
+
+
+Burks and Caicos
+
+Weeks 1 to 13: 133.97 points
+This week: 146.58 points
+Difference: 12.61
+
+
+G
+
+Weeks 1 to 13: 113.8 points
+This week: 126.62 points
+Difference: 12.82
+
+
+Nags
+
+Weeks 1 to 13: 108.09 points
+This week: 78.94 points
+Difference: -29.15
+
+
+Hari-Murray
+
+Weeks 1 to 13: 103.92 points
+This week: 70.76 points
+Difference: -33.16
+
+
+Viva Josh Vegas
+
+Weeks 1 to 13: 110.34 points
+This week: 119.3 points
+Difference: 8.96
+
+
+Goff of War
+
+Weeks 1 to 13: 119.14 points
+This week: 181.0 points
+Difference: 61.86
+
+
+Mangina’s Revenge
+
+Weeks 1 to 13: 119.79 points
+This week: 103.58 points
+Difference: -16.21
+
+
+Phi Bye Bye
+
+Weeks 1 to 13: 135.97 points
+This week: 122.28 points
+Difference: -13.69
+
+
+Happy B-Dai
+
+Weeks 1 to 13: 117.51 points
+This week: 93.4 points
+Difference: -24.11
+
+
+
+************** CHALLENGE RESULTS **************
+RANK | TEAM_NAME         | PTS    | AVG_PTS | DIFFERENCE
+-----|-------------------|--------|---------|-----------
+1    | Big Peno Geno     | 112.46 | 120.24  | -7.78     
+2    | Viva Josh Vegas   | 119.3  | 110.34  | 8.96      
+3    | Burks and Caicos  | 146.58 | 133.97  | 12.61     
+4    | G                 | 126.62 | 113.8   | 12.82     
+5    | Phi Bye Bye       | 122.28 | 135.97  | -13.69    
+6    | Mangina’s Revenge | 103.58 | 119.79  | -16.21    
+7    | Happy B-Dai       | 93.4   | 117.51  | -24.11    
+8    | Nags              | 78.94  | 108.09  | -29.15    
+9    | Hari-Murray       | 70.76  | 103.92  | -33.16    
+10   | Ceedeez Nutz      | 69.58  | 108.46  | -38.88    
+11   | Steroid Bye       | 73.36  | 118.8   | -45.44    
+12   | Goff of War       | 181.0  | 119.14  | 61.86     
+
+
+********** Season Long stats (inc. week 14) **********
+RANK | TEAM_NAME         | TOTAL   | AVG    | MEDIAN | MAX    | MIN    | RANGE | STD_DEV
+-----|-------------------|---------|--------|--------|--------|--------|-------|--------
+1    | Phi Bye Bye       | 1889.86 | 134.99 | 134.02 | 185.3  | 103.62 | 81.68 | 20.68  
+2    | Burks and Caicos  | 1888.14 | 134.87 | 134.1  | 160.8  | 113.54 | 47.26 | 12.1   
+3    | Goff of War       | 1729.76 | 123.55 | 118.02 | 181.0  | 91.36  | 89.64 | 24.99  
+4    | Big Peno Geno     | 1675.56 | 119.68 | 113.48 | 170.98 | 84.76  | 86.22 | 22.94  
+5    | Mangina’s Revenge | 1660.86 | 118.63 | 113.24 | 183.14 | 86.3   | 96.84 | 28.8   
+6    | Happy B-Dai       | 1620.98 | 115.78 | 112.01 | 146.44 | 90.22  | 56.22 | 19.48  
+7    | Steroid Bye       | 1617.7  | 115.55 | 113.78 | 162.78 | 73.36  | 89.42 | 26.53  
+8    | G                 | 1606.0  | 114.71 | 119.95 | 143.8  | 62.1   | 81.7  | 24.04  
+9    | Viva Josh Vegas   | 1553.78 | 110.98 | 112.25 | 152.54 | 65.5   | 87.04 | 23.59  
+10   | Nags              | 1484.16 | 106.01 | 106.72 | 138.88 | 64.34  | 74.54 | 22.65  
+11   | Ceedeez Nutz      | 1479.56 | 105.68 | 103.55 | 142.4  | 69.58  | 72.82 | 21.37  
+12   | Hari-Murray       | 1421.74 | 101.55 | 102.53 | 128.94 | 70.76  | 58.18 | 16.74  

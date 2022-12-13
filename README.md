@@ -17,7 +17,7 @@ Scripts to score challenges for my fantasy football league.
 |  11  |      1      | Now That's What I Call Value | Nominate 1 players (can be Def or K) that will have highest Point/Dollar Ratio: (Fantasy Points+1)/(Dollars Spent+1)                                                                                                    | Doug |
 |  12  |      -      |         Playoff Push         | Total points by starters on NFL teams that are in a playoff spot.  | Jiwei|
 |  13  |      2      |            Go Long           | Sum of longest plays by nominated players (made FGs for Kickers; kick returns for DEF)                                                                                                                                  |Chi Shing|
-|  14  |      -      |    Consistently Consistent   | Team closest to annual average points per game                                                                                                                                                                          |        |
+|  14  |      -      |    Consistently Consistent   | Team closest to annual average points per game                                                                                                                                                                          | Joel |
 |  15  |      3      |     Real Football Scoring    | Sum of actual points scored by nominated players (TD Rush or TD Rec = 6, 2 PT = 2, FG = 3, XP = 1)                                                                                                                      |        |
 |  16  |      -      |          Ride or Die         | Most total points from starters owned continuously since draft day                                                                                                                                                      |        |
 |  17  |      1*     |              MVP             | Nominate one player from team (including previously nominated players). To qualify, the player must score the most points on your team in W17. If that occurs, compare the highest points scored across all qualifiers. |        |
@@ -29,11 +29,11 @@ Scripts to score challenges for my fantasy football league.
 | Sean | 2.33 |
 | Jiwei | 2 |
 | Chi Shing | 1.33 |
+| Joel | 1.33 |
 | Jake | 1 |
 | Rajiv | 1 |
 | Evan | 1 |
 | Matt | 1 |
-| Joel | 0.33 |
 | Dai | 0 |
 | Ron | 0 |
 | Ryan | 0 |
