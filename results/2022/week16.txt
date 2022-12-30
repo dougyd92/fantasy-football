@@ -1,0 +1,153 @@
+Will run Challenges::LongHaul for week 16 in league 144117
+The Long Haul: Most total points from starters owned continuously since draft day.
+
+sKittles Taste the 🌈
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Stefon Diggs           |  3.60
+DeAndre Hopkins        |  0.90
+Travis Etienne Jr.     | 12.70
+Aaron Jones            |  4.40
+Total points by starters owned since draft: 21.6
+
+Collinoscopy
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+DeVonta Smith          | 27.30
+Jaylen Waddle          | 22.80
+Tee Higgins            | 22.80
+Tony Pollard           | 11.00
+Pat Freiermuth         | 10.10
+Total points by starters owned since draft: 94.0
+
+Ceedeez Nutz
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+CeeDee Lamb            | 29.00
+Christian Kirk         |  4.10
+Jahan Dotson           | 16.60
+Joe Mixon              | 14.30
+Brian Robinson         |  5.80
+Total points by starters owned since draft: 69.8
+
+deSean Watson
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Patrick Mahomes        | 27.76
+Amon-Ra St. Brown      | 11.10
+Ja'Marr Chase          |  9.90
+Treylon Burks          |  1.50
+Austin Ekeler          | 21.90
+Saquon Barkley         | 23.30
+Rachaad White          | 13.30
+Total points by starters owned since draft: 108.76
+
+G
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Justin Jefferson       | 25.30
+Terry McLaurin         | 15.70
+AJ Dillon              | 11.80
+Mark Andrews           |  6.00
+San Francisco          |  7.00
+Total points by starters owned since draft: 65.8
+
+Nags
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Michael Pittman Jr.    |  5.90
+Brandin Cooks          | 11.40
+Nick Chubb             | 10.70
+Travis Kelce           | 14.30
+Baltimore              |  8.00
+Total points by starters owned since draft: 50.3
+
+God of Win
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Chris Godwin           | 10.30
+Diontae Johnson        |  8.90
+Devin Singletary       | 19.50
+Dalton Schultz         |  5.80
+Cordarrelle Patterson  |  3.60
+Total points by starters owned since draft: 48.1
+
+Jake Les's Team
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Kirk Cousins           | 30.16
+DK Metcalf             | 11.60
+Mike Evans             |  4.40
+Josh Jacobs            |  5.50
+James Conner           | 21.50
+Tyler Boyd             |  3.60
+Total points by starters owned since draft: 76.76
+
+Field of Broken Dreams
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+JuJu Smith-Schuster    |  4.20
+Derrick Henry          | 17.60
+Christian McCaffrey    | 12.80
+David Njoku            |  2.40
+Total points by starters owned since draft: 37.0
+
+Mangina’s Revenge
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Josh Allen             | 28.98
+Garrett Wilson         |  3.00
+Mike Williams          |  9.60
+George Pickens         | 14.20
+Ezekiel Elliott        | 12.60
+David Montgomery       |  8.40
+Raheem Mostert         |  3.90
+Total points by starters owned since draft: 80.68
+
+Kamara Sutra
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+A.J. Brown             | 13.30
+Davante Adams          |  2.50
+Alvin Kamara           | 18.00
+T.J. Hockenson         | 29.40
+Kenneth Walker III     | 11.50
+Total points by starters owned since draft: 74.7
+
+Merry Dickmas
+Starting players:
+NAME                   | PTS  
+-----------------------|------
+Tyreek Hill            | 12.30
+Gabe Davis             | 10.00
+Rhamondre Stevenson    |  2.30
+Dallas Goedert         |  8.20
+Najee Harris           | 12.50
+Total points by starters owned since draft: 45.3
+
+************** RESULTS **************
+RANK | TEAM_NAME              | PLAYERS | CHALLENGE_RATING
+-----|------------------------|---------|-----------------
+1    | deSean Watson          | 7       | 108.76          
+2    | Collinoscopy           | 5       | 94.0            
+3    | Mangina’s Revenge      | 7       | 80.68           
+4    | Jake Les's Team        | 6       | 76.76           
+5    | Kamara Sutra           | 5       | 74.7            
+6    | Ceedeez Nutz           | 5       | 69.8            
+7    | G                      | 5       | 65.8            
+8    | Nags                   | 5       | 50.3            
+9    | God of Win             | 5       | 48.1            
+10   | Merry Dickmas          | 5       | 45.3            
+11   | Field of Broken Dreams | 4       | 37.0            
+12   | sKittles Taste the 🌈   | 4       | 21.6            

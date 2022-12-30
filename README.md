@@ -18,15 +18,15 @@ Scripts to score challenges for my fantasy football league.
 |  12  |      -      |         Playoff Push         | Total points by starters on NFL teams that are in a playoff spot.  | Jiwei|
 |  13  |      2      |            Go Long           | Sum of longest plays by nominated players (made FGs for Kickers; kick returns for DEF)                                                                                                                                  |Chi Shing|
 |  14  |      -      |    Consistently Consistent   | Team closest to annual average points per game                                                                                                                                                                          | Joel |
-|  15  |      3      |     Real Football Scoring    | Sum of actual points scored by nominated players (TD Rush or TD Rec = 6, 2 PT = 2, FG = 3, XP = 1)                                                                                                                      |        |
-|  16  |      -      |          Ride or Die         | Most total points from starters owned continuously since draft day                                                                                                                                                      |        |
+|  15  |      3      |     Real Football Scoring    | Sum of actual points scored by nominated players (TD Rush or TD Rec = 6, 2 PT = 2, FG = 3, XP = 1)                                                                                                                      | Sean |
+|  16  |      -      |          Ride or Die         | Most total points from starters owned continuously since draft day                                                                                                                                                      | Ron |
 |  17  |      1*     |              MVP             | Nominate one player from team (including previously nominated players). To qualify, the player must score the most points on your team in W17. If that occurs, compare the highest points scored across all qualifiers. |        |
 
 2022 Season Total
 | Manager | Challenge Wins |
 |-|-|
+| Sean | 3.33 |
 | Doug | 3 |
-| Sean | 2.33 |
 | Jiwei | 2 |
 | Chi Shing | 1.33 |
 | Joel | 1.33 |
@@ -34,6 +34,6 @@ Scripts to score challenges for my fantasy football league.
 | Rajiv | 1 |
 | Evan | 1 |
 | Matt | 1 |
+| Ron | 1 |
 | Dai | 0 |
-| Ron | 0 |
 | Ryan | 0 |
