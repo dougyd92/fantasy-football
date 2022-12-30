@@ -29,6 +29,8 @@ module Challenges
       Moneyball2.new
     when 'playoff_push'
       PlayoffPush.new
+    when 'roster'
+      RosterHelper.new
     when 'running_max'
       RunningMaxEfficiency.new
     when 'sandbagger'

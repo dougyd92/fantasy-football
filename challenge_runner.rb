@@ -33,5 +33,4 @@ if options[:league_id].nil?
   options[:league_id] = gets.chomp.to_i
 end
 
-puts "Will run #{challenge.class} for week #{options[:week]} in league #{options[:league_id]}"
 challenge.run(options[:week], options[:league_id])
