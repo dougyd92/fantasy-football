@@ -1,20 +1,20 @@
 team_name,player_name,salary,acquisition_type,acquisition_deatils
-sKittles Taste the 🌈,Dak Prescott,0,freeagents,Waivers; free agent
-sKittles Taste the 🌈,Stefon Diggs,100,drafted,Drafted for $100
-sKittles Taste the 🌈,Drake London,32,drafted,Drafted for $32
-sKittles Taste the 🌈,DeAndre Hopkins,23,drafted,Drafted for $23
-sKittles Taste the 🌈,Travis Etienne Jr.,5,drafted,Kept for $5
-sKittles Taste the 🌈,Aaron Jones,40,drafted,Kept for $40
-sKittles Taste the 🌈,George Kittle,46,trade,Traded; $46 salary carries over
-sKittles Taste the 🌈,Cam Akers,0,waivers,Waivers; $0 bid
-sKittles Taste the 🌈,Richie James,0,freeagents,Waivers; free agent
-sKittles Taste the 🌈,Chris Olave,16,drafted,Drafted for $16
-sKittles Taste the 🌈,Jonathan Taylor,71,drafted,Kept for $71
-sKittles Taste the 🌈,Jameson Williams,0,freeagents,Waivers; free agent
-sKittles Taste the 🌈,Zamir White,0,waivers,Waivers; $0 bid
-sKittles Taste the 🌈,Gardner Minshew,0,waivers,Waivers; $0 bid
-sKittles Taste the 🌈,Isaiah McKenzie,0,freeagents,Waivers; free agent
-sKittles Taste the 🌈,Evan McPherson,0,waivers,Waivers; $0 bid
+Big Diggs Energy,Dak Prescott,0,freeagents,Waivers; free agent
+Big Diggs Energy,Stefon Diggs,100,drafted,Drafted for $100
+Big Diggs Energy,Drake London,32,drafted,Drafted for $32
+Big Diggs Energy,Richie James,0,freeagents,Waivers; free agent
+Big Diggs Energy,Travis Etienne Jr.,5,drafted,Kept for $5
+Big Diggs Energy,Aaron Jones,40,drafted,Kept for $40
+Big Diggs Energy,George Kittle,46,trade,Traded; $46 salary carries over
+Big Diggs Energy,Cam Akers,0,waivers,Waivers; $0 bid
+Big Diggs Energy,DeAndre Hopkins,23,drafted,Drafted for $23
+Big Diggs Energy,Chris Olave,16,drafted,Drafted for $16
+Big Diggs Energy,Jonathan Taylor,71,drafted,Kept for $71
+Big Diggs Energy,Jameson Williams,0,freeagents,Waivers; free agent
+Big Diggs Energy,Zamir White,0,waivers,Waivers; $0 bid
+Big Diggs Energy,Trenton Irwin,0,freeagents,Waivers; free agent
+Big Diggs Energy,Evan McPherson,0,waivers,Waivers; $0 bid
+Big Diggs Energy,New England,0,freeagents,Waivers; free agent
 Collinoscopy,Geno Smith,15,waivers,Waivers; $15 bid
 Collinoscopy,DeVonta Smith,18,drafted,Drafted for $18
 Collinoscopy,Jaylen Waddle,38,drafted,Drafted for $38
@@ -37,7 +37,7 @@ Ceedeez Nutz,Christian Kirk,13,drafted,Kept for $13
 Ceedeez Nutz,Jahan Dotson,2,drafted,Drafted for $2
 Ceedeez Nutz,Joe Mixon,83,drafted,Kept for $83
 Ceedeez Nutz,Brian Robinson,17,drafted,Drafted for $17
-Ceedeez Nutz,Greg Dulcich,2,waivers,Waivers; $2 bid
+Ceedeez Nutz,Tyler Higbee,0,freeagents,Waivers; free agent
 Ceedeez Nutz,Joshua Palmer,0,freeagents,Waivers; free agent
 Ceedeez Nutz,Justin Herbert,12,trade,Traded; $12 salary carries over
 Ceedeez Nutz,Elijah Moore,0,waivers,Waivers; $0 bid
@@ -54,9 +54,9 @@ deSean Watson,Treylon Burks,12,drafted,Drafted for $12
 deSean Watson,Austin Ekeler,31,drafted,Kept for $31
 deSean Watson,Saquon Barkley,105,drafted,Drafted for $105
 deSean Watson,Taysom Hill,0,waivers,Waivers; $0 bid
+deSean Watson,Keenan Allen,5,waivers,Waivers; $5 bid
 deSean Watson,Rachaad White,11,drafted,Drafted for $11
 deSean Watson,Chigoziem Okonkwo,0,freeagents,Waivers; free agent
-deSean Watson,Keenan Allen,5,waivers,Waivers; $5 bid
 deSean Watson,D'Onta Foreman,0,freeagents,Waivers; free agent
 deSean Watson,Allen Lazard,18,drafted,Drafted for $18
 deSean Watson,Courtland Sutton,28,drafted,Kept for $28
@@ -81,19 +81,19 @@ G,Justin Tucker,6,waivers,Waivers; $6 bid
 G,San Francisco,3,drafted,Drafted for $3
 Nags,Trevor Lawrence,0,waivers,Waivers; $0 bid
 Nags,Michael Pittman Jr.,31,drafted,Kept for $31
-Nags,Marquise Goodwin,0,waivers,Waivers; $0 bid
 Nags,Brandin Cooks,43,drafted,Drafted for $43
+Nags,Kadarius Toney,11,drafted,Drafted for $11
 Nags,Nick Chubb,35,drafted,Kept for $35
 Nags,D'Andre Swift,48,trade,Traded; $48 salary carries over
 Nags,Travis Kelce,85,drafted,Drafted for $85
 Nags,Zack Moss,0,waivers,Waivers; $0 bid
-Nags,Demarcus Robinson,0,waivers,Waivers; $0 bid
-Nags,Kadarius Toney,11,drafted,Drafted for $11
 Nags,Deebo Samuel,18,trade,Traded; $18 salary carries over
+Nags,Marquise Goodwin,0,waivers,Waivers; $0 bid
+Nags,Demarcus Robinson,0,waivers,Waivers; $0 bid
 Nags,Rashod Bateman,0,freeagents,Waivers; free agent
 Nags,Alexander Mattison,17,drafted,Drafted for $17
 Nags,Michael Thomas,0,freeagents,Waivers; free agent
-Nags,Jason Sanders,0,waivers,Waivers; $0 bid
+Nags,Tyler Bass,0,freeagents,Waivers; free agent
 Nags,Baltimore,1,drafted,Drafted for $1
 God of Win,Tom Brady,1,waivers,Waivers; $1 bid
 God of Win,Chris Godwin,25,drafted,Drafted for $25
@@ -127,22 +127,22 @@ Jake Les's Team,Elijah Mitchell,0,freeagents,Waivers; free agent
 Jake Les's Team,Clyde Edwards-Helaire,0,waivers,Waivers; $0 bid
 Jake Les's Team,Graham Gano,0,freeagents,Waivers; free agent
 Jake Les's Team,Buffalo,4,waivers,Waivers; $4 bid
-Field of Broken Dreams,Justin Fields,6,waivers,Waivers; $6 bid
-Field of Broken Dreams,JuJu Smith-Schuster,40,drafted,Drafted for $40
-Field of Broken Dreams,Jerry Jeudy,40,trade,Traded; $40 salary carries over
-Field of Broken Dreams,Zay Jones,13,waivers,Waivers; $13 bid
-Field of Broken Dreams,Christian McCaffrey,70,drafted,Kept for $70
-Field of Broken Dreams,Gus Edwards,0,freeagents,Waivers; free agent
-Field of Broken Dreams,David Njoku,8,drafted,Drafted for $8
-Field of Broken Dreams,Marquise Brown,7,drafted,Kept for $7
-Field of Broken Dreams,Donovan Peoples-Jones,0,freeagents,Waivers; free agent
-Field of Broken Dreams,Derrick Henry,65,drafted,Kept for $65
-Field of Broken Dreams,Terrace Marshall Jr.,0,freeagents,Waivers; free agent
-Field of Broken Dreams,Brock Purdy,1,waivers,Waivers; $1 bid
-Field of Broken Dreams,Daniel Jones,0,freeagents,Waivers; free agent
-Field of Broken Dreams,Harrison Butker,0,freeagents,Waivers; free agent
-Field of Broken Dreams,Kansas City,1,waivers,Waivers; $1 bid
-Field of Broken Dreams,Los Angeles,0,freeagents,Waivers; free agent
+Just-run-it-in Fields,Justin Fields,6,waivers,Waivers; $6 bid
+Just-run-it-in Fields,JuJu Smith-Schuster,40,drafted,Drafted for $40
+Just-run-it-in Fields,Jerry Jeudy,40,trade,Traded; $40 salary carries over
+Just-run-it-in Fields,Zay Jones,13,waivers,Waivers; $13 bid
+Just-run-it-in Fields,Christian McCaffrey,70,drafted,Kept for $70
+Just-run-it-in Fields,Gus Edwards,0,freeagents,Waivers; free agent
+Just-run-it-in Fields,David Njoku,8,drafted,Drafted for $8
+Just-run-it-in Fields,Greg Dortch,0,freeagents,Waivers; free agent
+Just-run-it-in Fields,Marquise Brown,7,drafted,Kept for $7
+Just-run-it-in Fields,Donovan Peoples-Jones,0,freeagents,Waivers; free agent
+Just-run-it-in Fields,Derrick Henry,65,drafted,Kept for $65
+Just-run-it-in Fields,Wan'Dale Robinson,0,freeagents,Waivers; free agent
+Just-run-it-in Fields,Joshua Kelley,0,waivers,Waivers; $0 bid
+Just-run-it-in Fields,Harrison Butker,0,freeagents,Waivers; free agent
+Just-run-it-in Fields,Kansas City,1,waivers,Waivers; $1 bid
+Just-run-it-in Fields,Los Angeles,0,freeagents,Waivers; free agent
 Mangina’s Revenge,Josh Allen,30,drafted,Kept for $30
 Mangina’s Revenge,Garrett Wilson,1,drafted,Drafted for $1
 Mangina’s Revenge,Mike Williams,48,drafted,Drafted for $48
@@ -159,22 +159,22 @@ Mangina’s Revenge,Chuba Hubbard,0,freeagents,Waivers; free agent
 Mangina’s Revenge,Tyquan Thornton,0,freeagents,Waivers; free agent
 Mangina’s Revenge,Kenneth Gainwell,0,waivers,Waivers; $0 bid
 Mangina’s Revenge,Rashaad Penny,0,waivers,Waivers; $0 bid
-Kamara Sutra,Jalen Hurts,35,drafted,Drafted for $35
+Kamara Sutra,Aaron Rodgers,0,waivers,Waivers; $0 bid
 Kamara Sutra,A.J. Brown,27,drafted,Kept for $27
 Kamara Sutra,Davante Adams,80,drafted,Drafted for $80
 Kamara Sutra,DJ Moore,58,drafted,Drafted for $58
 Kamara Sutra,Jerick McKinnon,0,freeagents,Waivers; free agent
 Kamara Sutra,Alvin Kamara,49,drafted,Kept for $49
 Kamara Sutra,T.J. Hockenson,17,drafted,Drafted for $17
-Kamara Sutra,Kenneth Walker III,20,drafted,Drafted for $20
 Kamara Sutra,Christian Watson,0,freeagents,Waivers; free agent
+Kamara Sutra,Kenneth Walker III,20,drafted,Drafted for $20
+Kamara Sutra,Jalen Hurts,35,drafted,Drafted for $35
 Kamara Sutra,Dameon Pierce,42,drafted,Drafted for $42
 Kamara Sutra,Javonte Williams,30,drafted,Kept for $30
 Kamara Sutra,Damien Harris,0,waivers,Waivers; $0 bid
-Kamara Sutra,Aaron Rodgers,0,waivers,Waivers; $0 bid
-Kamara Sutra,Joshua Kelley,0,freeagents,Waivers; free agent
+Kamara Sutra,Chase Claypool,0,freeagents,Waivers; free agent
 Kamara Sutra,Cameron Dicker,0,freeagents,Waivers; free agent
-Kamara Sutra,Jacksonville,0,waivers,Waivers; $0 bid
+Kamara Sutra,New York,0,waivers,Waivers; $0 bid
 Merry Dickmas,Jared Goff,0,freeagents,Waivers; free agent
 Merry Dickmas,Tyreek Hill,77,drafted,Drafted for $77
 Merry Dickmas,Gabe Davis,5,drafted,Kept for $5
