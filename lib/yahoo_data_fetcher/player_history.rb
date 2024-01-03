@@ -30,13 +30,14 @@ module YahooDataFetcher
 
     def apply_transactions_through_week(week)
       cutoff_date_string = @client.fetch_weeks.select { |w| w['week'] == week.to_s }.first['end']
-      cutoff_datetime = Time.strptime(cutoff_date_string, '%Y-%m-%d') + 19 * 60 * 60 # go until gametime Monday night
+      cutoff_datetime = Time.strptime(cutoff_date_string, '%Y-%m-%d') + 24 * 60 * 60 # go until midnight Monday night
 
       transactions = @client.fetch_transactions
       transactions.sort_by { |tx| tx['timestamp'].to_i }
                   .select { |tx| Time.at(tx['timestamp'].to_i) < cutoff_datetime }
                   .each do |tx|
-        raise "Encountered an unsuccessful transaction: #{tx}" if tx['status'] != 'successful'
+
+        next if tx['status'] != 'successful' # Vetoed trades
 
         case tx['type']
         when 'add/drop'
